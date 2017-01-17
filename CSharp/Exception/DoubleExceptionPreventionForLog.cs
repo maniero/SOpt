@@ -1,10 +1,10 @@
-catch (Exception ex) when (!(ex is SQLException) && !(ex is EntityException)) {
+catch (Exception ex) when (!(ex is DbException) && !(ex is EntityException)) {
     //faz o que deseja aqui
 }
 
 //melhor
 
-catch (ex is SQLException)) {
+catch (ex is DbException)) {
     //faz o que deseja aqui
 } catch (ex is EntityException) {
     //faz o que deseja aqui
