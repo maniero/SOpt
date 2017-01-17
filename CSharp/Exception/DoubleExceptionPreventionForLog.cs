@@ -2,7 +2,7 @@ catch (Exception ex) when (!(ex is DbException) && !(ex is EntityException)) {
     //faz o que deseja aqui
 }
 
-//melhor
+//melhor capturar as específicas antes
 
 catch (ex is DbException)) {
     //faz o que deseja aqui
