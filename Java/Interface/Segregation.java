@@ -3,14 +3,14 @@ interface Something {
 }
 
 interface Otherthing {
-    void doOtherSomething();
+    void doOtherthing();
 }
 
 class Whatever implements Something, Otherthing {
     public void doSomething() {
        System.out.println("Do something !");
     }     
-    public void doOtherSomething() {
+    public void doOtherthing() {
        System.out.println("Do otherthing !");
     }
 }
@@ -20,7 +20,7 @@ class Test {
         Something s = new Whatever();
         s.doSomething();
         Otherthing w = new Whatever(); 
-        w.doOtherSomething();
+        w.doOtherthing();
     }
 }
 
