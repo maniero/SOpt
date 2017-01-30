@@ -7,10 +7,19 @@
 #Coding Style
 
 - [Por que devo usar apenas um “return” em cada função?](http://pt.stackoverflow.com/q/2477/101)
+- [Como escrever um código legível e de fácil manutenção?](http://pt.stackoverflow.com/q/13890/101)
 
 #Paradigmas
 
 - [Programação Funcional e Programação Orientada a Objetos. O que são e quais suas principais diferenças?](http://pt.stackoverflow.com/a/13388/101)
+
+#Modelagem
+
+- [O que fazer se cliente pode ser tanto PF quanto PJ?](http://pt.stackoverflow.com/q/14839/101)
+
+#Banco de dados
+
+- [NoSQL é tão problemático quanto parece?](http://pt.stackoverflow.com/q/14533/101)
 
 #Threading
 
@@ -23,3 +32,20 @@
 ##Exceções
 
 - [Melhor maneira de lidar com Exceptions](http://pt.stackoverflow.com/a/13611/101)
+
+##Gerenciamento de memória
+
+- [Alocação de memória em C# - Tipos valor e tipos referência](http://pt.stackoverflow.com/q/14490/101)
+- [Como funciona o gerenciamento de métodos na memória em C#?](http://pt.stackoverflow.com/q/14334/101)
+
+##Tipagem
+
+- [Por que usar short?](http://pt.stackoverflow.com/q/13930/101)
+
+##Bibliotecas
+
+- [C# tem suporte à GPS?](http://pt.stackoverflow.com/q/14856/101)
+
+#Visual Studio
+
+- [Defasagem do Visual Studio 2010](http://pt.stackoverflow.com/q/14704/101)
