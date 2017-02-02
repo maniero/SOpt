@@ -32,6 +32,11 @@
 ##Exceções
 
 - [Melhor maneira de lidar com Exceptions](http://pt.stackoverflow.com/a/13611/101)
+- [É uma boa prática lançar exceção nesses casos?](http://pt.stackoverflow.com/q/15261/101)
+
+##Métodos
+
+- [Receber quantidade indefinida de parâmetros em C#](http://pt.stackoverflow.com/q/14532/101)
 
 ##Gerenciamento de memória
 
