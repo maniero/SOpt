@@ -20,6 +20,7 @@
 #Banco de dados
 
 - [NoSQL é tão problemático quanto parece?](http://pt.stackoverflow.com/q/14533/101)
+- [Regras de Negócio no Banco de Dados - quais as vantagens e desvantagens?](http://pt.stackoverflow.com/q/15739/101)
 
 #Threading
 
@@ -54,3 +55,7 @@
 #Visual Studio
 
 - [Defasagem do Visual Studio 2010](http://pt.stackoverflow.com/q/14704/101)
+
+#IDE
+
+- [Programar C em Linux - IDE vs. editor + linha de comando](http://pt.stackoverflow.com/q/15794/101)
