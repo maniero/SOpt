@@ -12,6 +12,7 @@
 #Paradigmas
 
 - [Programação Funcional e Programação Orientada a Objetos. O que são e quais suas principais diferenças?](http://pt.stackoverflow.com/a/13388/101)
+- [Qual o papel dos padrões de arquitetura em orientação a objeto?](http://pt.stackoverflow.com/q/15916/101)
 
 #Modelagem
 
@@ -59,3 +60,7 @@
 #IDE
 
 - [Programar C em Linux - IDE vs. editor + linha de comando](http://pt.stackoverflow.com/q/15794/101)
+
+#Java
+
+- [String e sua eficiência](http://pt.stackoverflow.com/q/16050/101)
