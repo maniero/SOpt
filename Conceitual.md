@@ -64,3 +64,7 @@
 #Java
 
 - [String e sua eficiência](http://pt.stackoverflow.com/q/16050/101)
+
+#PHP
+
+- [O que usar require/include/require_once/include_once?](http://pt.stackoverflow.com/q/15286/101)
