@@ -8,6 +8,7 @@
 
 - [Por que devo usar apenas um “return” em cada função?](http://pt.stackoverflow.com/q/2477/101)
 - [Como escrever um código legível e de fácil manutenção?](http://pt.stackoverflow.com/q/13890/101)
+- [Como saber a medida certa de comentários?](http://pt.stackoverflow.com/q/15488/101)
 
 #Paradigmas
 
@@ -26,6 +27,10 @@
 #Threading
 
 - [É sempre garantido que uma aplicação com múltiplas threads rode mais rápido que usando uma única thread?](http://pt.stackoverflow.com/q/1946/101)
+
+#Memória
+
+- [O que são e onde estão o “stack” e “heap”?](http://pt.stackoverflow.com/q/3797/101)
 
 #C# #
 
@@ -52,6 +57,11 @@
 ##Bibliotecas
 
 - [C# tem suporte à GPS?](http://pt.stackoverflow.com/q/14856/101)
+- [Qual a melhor forma de fazer a leitura de um arquivo XLS?](http://pt.stackoverflow.com/a/15605/101)
+
+#ASP.NET
+
+- [Como funciona o “namespace” no ASP.Net](http://pt.stackoverflow.com/q/15666/101)
 
 #Visual Studio
 
