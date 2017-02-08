@@ -1,7 +1,7 @@
 export class Utils {
     constructor(public toastCtrl: ToastController) {}  
 
-    static showToast(obejct, message, pos) {
+    static showToast(object, message, pos) {
         let toast = object.toastCtrl.create({
             message: message,
             duration: 3000,
