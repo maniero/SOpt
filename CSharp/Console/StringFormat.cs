@@ -12,7 +12,7 @@ public class Program {
         var A8 = ReadLine();
         Write($"Segunda: {A1}, {A2}, {A3}, {A4}");
         ReadLine();
-        Write("Terça: {A5}, {A8}, {A6}, {A2}, {A7}");
+        Write($"Terça: {A5}, {A8}, {A6}, {A2}, {A7}");
 	}
 }
 
