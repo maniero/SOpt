@@ -12,15 +12,22 @@ public class Program {
         var A8 = ReadLine();
         WriteLine($"Segunda: {A1}, {A8}, {A4}, {3},");
         WriteLine($"Terça: {A2}, {A7}, {A3}, {A6},");
+        
+        WriteLine();
 
         Write($"Segunda: {A1}, {A8}, {A4}, {3},");
         WriteLine();
         Write($"Terça: {A2}, {A7}, {A3}, {A6},");
+		WriteLine();
+
+        WriteLine();
 
         Write($"Segunda: {A1}, {A8}, {A4}, {3},\nTerça: {A2}, {A7}, {A3}, {A6}\n");
 
+        WriteLine();
+
         Write($@"Segunda: {A1}, {A8}, {A4}, {3},
-    Terça: {A2}, {A7}, {A3}, {A6}\n");
+Terça: {A2}, {A7}, {A3}, {A6}\n");
 
     }
 }
