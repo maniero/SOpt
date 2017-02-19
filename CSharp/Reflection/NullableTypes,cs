@@ -1,0 +1,32 @@
+using static System.Console;
+using System.Collections.Generic;
+using System;
+
+public class Program {
+	public static void Main() {
+		WriteLine(typeof(Nullable).Name);
+		WriteLine(typeof(Nullable<>).Name);
+		int? nInt = 0;
+		decimal? nDecimal = 0M;
+		List<int> lInt = new List<int>();
+		int xInt = 1;
+		string xString = "";
+		decimal xDecimal = 2M;
+		Dictionary<string, int> dStingInt = new Dictionary<string, int>();
+		PrintObject<int?>(nInt);
+		PrintObject<decimal?>(nDecimal);
+		PrintObject<List<int>>(lInt);
+		PrintObject<int>(xInt);
+		PrintObject<string>(xString);
+		PrintObject<decimal>(xDecimal);
+		PrintObject<Dictionary<string, int>>(dStingInt);
+	}
+	private static void PrintObject<T>(T obj) {
+		var type = typeof(T); 
+		var generic = type.IsGenericType;
+		var nullable = generic && type.GetGenericTypeDefinition() == typeof(Nullable<>);
+		WriteLine($"{type.Name} - {type.IsGenericType} - {(generic ? type.GetGenericTypeDefinition().Name : (""))} - {(nullable ? Nullable.GetUnderlyingType(type).Name : (""))} - {type.Name}\n");
+	}
+}
+
+//http://pt.stackoverflow.com/q/185142/101
