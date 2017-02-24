@@ -13,7 +13,12 @@ int main () {
 		scanf("%d", &assentos[contadorAssentos]);
 		printf("\nNome do passageiro: %s", nomes[contadorAssentos]);
 		printf("\nAssento escolhido: %d", assentos[contadorAssentos]);
-		ocupados[(assentos[contadorAssentos] - 1) / 6][assentos[contadorAssentos] - 1 - ((assentos[contadorAssentos] - 1) / 6) * 6] = 1;
+		int fileira = (assentos[contadorAssentos] - 1) / 6;
+		int assento = assentos[contadorAssentos] - 1 - fileira * 6;
+		if (ocupados[fileira][assento]) {
+			printf("\nO assento já está ocupado, escolha outro!");
+		}
+		ocupados[fileira][assento] = 1;
 		if (contadorAssentos++ == 300) {
 			break;
 		}
