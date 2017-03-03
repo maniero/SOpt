@@ -20,7 +20,7 @@ public class Pessoa {
 }
 
 public class Fisica : Pessoa {	
-	public string NmmCPF { get; set; }
+	public string NmmCPF { get; private set; }
 	public Fisica(string nome, string endereço, int ano_nascimento, string telefone, string nCPF)
 		: base(nome, endereço, ano_nascimento, telefone) {
 			this.NmmCPF = nCPF;
@@ -28,7 +28,7 @@ public class Fisica : Pessoa {
 }
 
 public class Juridica : Pessoa {
-	public string NumCnpj { get; set; }
+	public string NumCnpj { get; private set; }
 	public Juridica(string nome, string endereço, int ano_nascimento, string telefone, string nCNPJ)
 		: base(nome, endereço, ano_nascimento, telefone) {
 			NumCnpj = nCNPJ;
