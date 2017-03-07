@@ -10,6 +10,10 @@ public class C {
         foreach (int item in lista) {
             WriteLine(item);
         }
+        var texto = "123456";
+        foreach (char item in texto) {
+            WriteLine(item);
+        }
     }
 }
 
