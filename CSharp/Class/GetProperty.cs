@@ -1,6 +1,6 @@
 using static System.Console;
-using System.Linq
-	;
+using System.Linq;
+
 public class C {
     public static void Main() {
 		var vec1 = new Paragem[3] {
