@@ -8,12 +8,12 @@ int main(void) {
         exit(EXIT_FAILURE);
     }
     int x;
-    if (scanf("%d", x) != 1) {
+    if (scanf("%d", &x) != 1) {
         printf("Houve um erro de leitura do dado");
         free(texto);
         exit(EXIT_FAILURE);
     }
-    printf("%d", texto);
+    printf("%d", x);
     free(texto);
     return EXIT_SUCCESS;
 }
