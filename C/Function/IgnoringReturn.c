@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main(void) {
-    char *texto = malloc(10UL);
+    char *texto = malloc(10);
     if (texto == NULL) {
         printf("Houve um erro de alocação de memória");
         exit(EXIT_FAILURE);
