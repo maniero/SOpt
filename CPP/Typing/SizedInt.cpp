@@ -6,7 +6,7 @@ int getBit8(int *pInt32, int index) {
 }
 
 int getBit8x(int32_t *pInt32, int index) {
-    return (*pInt32 >> (index * 8)) & (0xff >> sizeof(int));
+    return (*pInt32 >> (index * 8)) & (0xff >> 32);
 }
 
 int main() {
