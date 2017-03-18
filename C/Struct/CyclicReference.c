@@ -1,16 +1,16 @@
 #include <stdio.h>
 
-struct animal;
+typedef struct animal TAnimal;
 
  typedef struct jogador {
     char nome[50];
-    struct animal* animal;
+    TAnimal* animal;
  } TJogador;
 
-typedef struct animal {
+struct animal {
     char nome[50];  
     TJogador* jogador;
-} TAnimal;
+};
 
 int main(void) {
 	TJogador jogador = { .nome = "abc" };
