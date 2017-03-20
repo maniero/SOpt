@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Text;
 
 public class Program {
-    const int Limit = 100_000;
+    const int Limit = 100000;
 	static int[] dataInt = new int[Limit];
 	static string[] dataString = new string[Limit];
 
@@ -45,24 +45,16 @@ public class Program {
 		for (int i = 0; i < Limit; i++) {
 			tmp += dataString[i];
 		}
-		return tmp.Length;            
+		return tmp.Length;
     }
 
-    static int ConcatenationInt() {
-		return string.Concat(dataInt).Length;            
-    }
+    static int ConcatenationInt() => string.Concat(dataInt).Length;
 
-    static int ConcatenationString() {
-		return string.Concat(dataString).Length;            
-    }
+    static int ConcatenationString() => string.Concat(dataString).Length;
 
-    static int JunctionInt() {
-		return string.Join("", dataInt).Length;            
-    }
+    static int JunctionInt() => string.Join("", dataInt).Length;
 
-    static int JunctionString() {
-		return string.Join("", dataString).Length;            
-    }
+    static int JunctionString() => string.Join("", dataString).Length;
 
     static int BuilderInt() {
 		var tmp = new StringBuilder();
