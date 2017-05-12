@@ -16,9 +16,7 @@ public class Pessoa {
 
 public static class Entities<TEntidade> where TEntidade : class {
     public static PropertyInfo[] GetPropertiesComoEUQuero() {         
-        var entity = Activator.CreateInstance(typeof(TEntidade)) as TEntidade;
-        PropertyInfo[] properties = entity.GetType().GetProperties();
-        return properties;
+        return typeof(TEntidade).GetProperties();
     }
 }
 
