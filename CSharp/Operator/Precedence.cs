@@ -5,6 +5,7 @@ public class C {
         var txtValor = new Form();
         bool retorno;
  		if ((retorno = conta.Saca(Convert.ToDouble(txtValor.Text)))) {
+            Console.WriteLine(retorno);
             return 1;
         }
         return 0;
