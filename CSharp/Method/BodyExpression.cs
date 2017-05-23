@@ -1,17 +1,28 @@
 using static System.Console;
+using System;
 
 public class Program {
 	public static void Main() {
-		Imprime();
-		WriteLine(Executa());
-		WriteLine(Executa2());
+		var objeto = new Exemplo(42);
+		objeto.Imprime();
+		WriteLine(objeto. Executa());
+		WriteLine(objeto.Executa2());
+		objeto.Prop = 42;
+		WriteLine(objeto.Prop);
+		objeto.Prop = 12;
 	}
+}
+
+public class Exemplo {
+	private int prop;
+	public int Prop { get => prop; set => prop = value == 42 ? value : throw new ArgumentException("Tem que ser 42 ", nameof(Prop)); }
 	
-	public static void Imprime() => WriteLine("ok");
-	public static string Executa() => "texto";
-	//public static bool Teste2() => WriteLine("ok2"); return true; //daria erro
+	public Exemplo(int x) => prop = x;
 	
-	public static string Executa2() { //é a mesma coisa
+	public void Imprime() => WriteLine("ok");
+	public string Executa() => "texto";
+	//public bool Teste2() => WriteLine("ok2"); return true; //daria erro
+	public string Executa2() { //é a mesma coisa
 		return "texto";
 	}
 }
