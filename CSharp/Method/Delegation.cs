@@ -1,4 +1,5 @@
 using static System.Console;
+using System;
 
 public class Program {
 	public static void Main() {
@@ -10,7 +11,7 @@ public class Program {
 }
 
 public class Conta {
-	public virtual void CalculaInvestimento() {}
+	public virtual void CalculaInvestimento() { throw new NotImplementedException(); }
 }
 public class ContaPoupanca : Conta {
 	public override void CalculaInvestimento() { WriteLine("ok"); }
