@@ -1,10 +1,8 @@
 for (int i = 0; i < numberOfProcessAvailable; i++) {
     var EXIFDirectory = directories.OfType<ExifDirectoryBase>().FirstOrDefault();
-    if (EXIFDirectory != null && ExifIfd0Directory != null) {
-        imageFileInfo.LensModel = EXIFDirectory.GetDescription(ExifIfd0Directory.TagLensModel).ToString();
-        imageFileInfo.Make = EXIFDirectory.GetDescription(ExifIfd0Directory.TagMake).ToString();
-        imageFileInfo.Model = EXIFDirectory.GetDescription(ExifIfd0Directory.TagModel).ToString();
-    }
+    imageFileInfo.LensModel = IptcDirectory.TagKeywords == null ? "valor padrao" : EXIFDirectory.GetDescription(IptcDirectory.TagKeywords).ToString();
+    imageFileInfo.LensModel = IptcDirectory.TagLensModel == null ? "valor padrao" : EXIFDirectory.GetDescription(IptcDirectory.TagLensModel).ToString();
+    imageFileInfo.LensModel = IptcDirectory.TagMake== null ? "valor padrao" : EXIFDirectory.GetDescription(IptcDirectory.TagMake).ToString();
 }
 
 //https://pt.stackoverflow.com/q/221957/101
