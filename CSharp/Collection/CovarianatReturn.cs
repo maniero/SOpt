@@ -9,7 +9,7 @@ public class ObjetosBase : IObjetosBase {
 }
 
 public class Aluno : ObjetosBase {
-	public override IList<IObjetosBase> Get() { return new List<IObjetosBase>() { new ObjetosBase() }; }
+	public override IList<IObjetosBase> Get() { return new List<IObjetosBase>() { new Aluno() }; }
 }
 
 //https://pt.stackoverflow.com/q/223364/101
