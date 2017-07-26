@@ -27,4 +27,4 @@ public struct ShortYear {
 	public override String ToString() => (Year + Century).ToString();
 }
 
-//https://pt.stackoverflow.com/q/221079/101 
+//https://pt.stackoverflow.com/q/221079/101
