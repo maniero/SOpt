@@ -1,7 +1,7 @@
 using System;
 using System.Diagnostics.Contracts;
 
-public struct Program {
+public class Program {
 	public static void Main() {
 		short numero = 2017;
 		var m = new ShortYear(numero);
@@ -10,7 +10,7 @@ public struct Program {
 }
 //provavelmente teria implemnetações de operadores, outros métodos e das interfaces
 //IFormattable, IConvertible, IComparable<ShortYear>, IEquatable<ShortYear> e outras
-public class ShortYear {
+public struct ShortYear {
 	public byte Year;
 	public const short Century = 1900;
 	public ShortYear(short value) {
