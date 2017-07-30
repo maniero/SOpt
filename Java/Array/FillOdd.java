@@ -1,15 +1,14 @@
-/* package whatever; // don't place package name! */
-
-class Ideone {
+class HelloWord {
 	public static void main (String[] args)	{
-		for (int i : oddNumbers(2, 6)) {
+		for (int i : oddNumbers(2, 5)) {
 			System.out.println(i);
 		}
 	}
 	
 	public static int[] oddNumbers(int l, int r) {
-	    int odd[] = new int[(r - l) / 2 + (l % 2)];
-	    l += l % 2 == 0 ? 1 : 0;
+		l += 1 - l % 2;
+		r -= 1 - r % 2;
+	    int odd[] = new int[(r - l) / 2 + 1];
 	    for (int i = 0; i < odd.length; i++) {
 	        odd[i] = l + (i * 2);
 	    }
