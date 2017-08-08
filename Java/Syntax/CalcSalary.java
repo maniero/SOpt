@@ -6,7 +6,7 @@ class Funcionario {
         salario += salario / 100 * percentual;
     }
     public double calculaGanhoAnual() {
-         return salario * 12;
+         return salario * 13 + salario / 3;
     }
     public static void main(String[] args) {
         Funcionario f1 = new Funcionario();
