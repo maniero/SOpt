@@ -6,8 +6,10 @@ public class Program {
 		var array = new ArrayList() { 1, "texto" };
 		var total = 0;
 		foreach (var item in array) {
-		    //total += item; //se tirar o comentário dá erro quando tenbtar somar a string
+		    //total += item; //se tirar o comentário dá erro quando tentar somar a string
 		}
+		//array[1].Contains("t"); //mesmo sendo string não pode acessar Contains() porque o tipo é object
+		((string)array[1]).Contains("t");
 		var list = new List<int>() { 1, /*"texto"); //<-- Error at compile process //ddaria erro aqui*/ };
 		total = 0;
 		foreach (var item in list) {
