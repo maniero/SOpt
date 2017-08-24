@@ -11,8 +11,13 @@ public class Program {
 		foreach (var item in lists) {
 			item[0] = 9;
 		}
-		foreach (var item in ints) {
-			WriteLine(item);
+		foreach (var item in lists) {
+//			item = new List<int> { 7, 8, 9 };
+		}
+		foreach (var lista in lists) {
+			foreach (var item in lista) {
+				WriteLine(item);
+			}
 		}
 	}
 }
