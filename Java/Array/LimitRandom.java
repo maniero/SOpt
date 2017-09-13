@@ -12,7 +12,7 @@ public class Sorteio {
             pessoa[i] = sc.nextLine();
             if (i == 0) sc.nextLine();
         }
-        Random rd = new Random(3);
+        Random rd = new Random(n);
         System.out.println("O vencedor do sorteio e: " + pessoa[rd.nextInt(n)]);
     }
 }
