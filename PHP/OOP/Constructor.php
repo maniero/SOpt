@@ -1,8 +1,8 @@
 <?php
 class Produto {
-    var $cpu;
-    var $mb;
-    var $psu;
+    private $cpu;
+    private $mb;
+    private $psu;
     public function __construct($cpu, $mb) {
         $this->cpu = $cpu;
         $this->mb = $mb;
