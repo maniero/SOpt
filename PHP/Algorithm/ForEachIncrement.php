@@ -7,8 +7,8 @@ foreach ($adultos as $adulto):
 endforeach;
 
 for ($i = 0; $i < count($adultos); $i++) {
-    echo "<strong>Quarto ". $i ."</strong><br>";
-    echo "Adultos: " . $adultos[$i++] . "<br>";
+    echo "<strong>Quarto ". ($i + 1) ."</strong><br>";
+    echo "Adultos: " . $adultos[$i] . "<br>";
 }
 
 //https://pt.stackoverflow.com/q/238483/101
