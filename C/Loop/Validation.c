@@ -15,7 +15,6 @@ int main(void) {
 		    scanf("%f", &aluno[contador].notaMath);
 		    if (aluno[contador].notaMath > 10.0) {
 		        printf("Apenas notas até 10.\n");
-		        contador--;
 		    } else {
 		        break;
 		    }
@@ -25,7 +24,6 @@ int main(void) {
 		    scanf("%f", &aluno[contador].notaPhysics);
 		    if (aluno[contador].notaPhysics > 10.0) {
 		        printf("Apenas notas até 10.\n");
-		        contador--;
 		    } else {
 		        break;
 		    }
