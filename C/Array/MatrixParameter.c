@@ -1,11 +1,10 @@
 #include <stdio.h>
-#include <stdlib.h>
 
-void mTransposta(int linhas, int colunas, int matriz[][colunas]) {
-	int matrizTransposta[linhas][colunas];
-     for (int i = 0; i < linhas; i++) {
-        for (int j = 0; j < colunas; j++) {
-            matrizTransposta[i][j] = matriz[i][j];
+void Transposta(int linhas, int colunas, int matriz[][colunas]) {
+	int matrizTransposta[colunas][colunas];
+     for (int i = 0; i < colunas; i++) {
+        for (int j = 0; j < linhas; j++) {
+            matrizTransposta[i][j] = matriz[j][i];
         }
         printf("\n");
     }
@@ -17,7 +16,7 @@ void mTransposta(int linhas, int colunas, int matriz[][colunas]) {
     }
 }
 
-void mValores() {
+void Valores() {
     int linhas, colunas;
     printf("\nDigite a quantidade de linhas: \n");
     scanf("%d", &linhas);
@@ -54,7 +53,7 @@ void mValores() {
         printf("\n");
     }
     printf("\n");
-    mTransposta(linhas, colunas, matriz);
+    Transposta(linhas, colunas, matriz);
 }
 
 int main() {
@@ -62,7 +61,7 @@ int main() {
     printf("\n***CALCULOS DE MATRIZES*** \n");
     do {
         printf("\nMatriz Transposta\n");
-        mValores();
+        Valores();
         printf("\nDigite 1 para sair ou digite qualquer outro numero para Continuar:\n");
         scanf("%d", &end);
     } while (end != 1);
