@@ -1,0 +1,19 @@
+public class Exemplo {
+    public static void Main(string[] args) {
+        var x = 0;
+        if (x == 1) {
+            x = 1;
+        } else {
+            x = 2;
+        }
+    }
+}
+
+public class Exemplo {
+    public static void Main(string[] args) {
+        var x = 0;
+        x = (x == 1 ? 1 : 2);
+    }
+}
+
+//https://pt.stackoverflow.com/q/17398/101
