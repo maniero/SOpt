@@ -14,7 +14,7 @@ class Funcionario extends Pessoa {
 	private $empresa;
 	private $salario;
 	public function __construct($stringNome, $stringIdade, $stringSexo, $stringEmpresa, $stringSalario) {
-		parent::__construct($this->nome,$this->idade,$this->sexo); // CHAMAR METODO DAS CLASSE PAI 
+		parent::__construct($stringNome, $stringIdade, $stringSexo);
 		$this->empresa = $stringEmpresa;
 		$this->salario = $stringSalario;     
 	}
