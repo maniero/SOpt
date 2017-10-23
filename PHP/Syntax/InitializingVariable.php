@@ -1,10 +1,10 @@
 <?php
-echo gettype($var) . ' - ';
+echo gettype($var) . ' - |' . $var . '| - ';
 $var;
-echo gettype($var) . ' - ';
+echo gettype($var) . ' - |' . $var . '| - ';
 $var = '';
-echo gettype($var) . ' - ';
+echo gettype($var) . ' - |' . $var . '| - ';
 $var = 'teste';
-echo gettype($var);
+echo gettype($var) . ' - |' . $var . '| - ';
 
 //https://pt.stackoverflow.com/q/247899/101
