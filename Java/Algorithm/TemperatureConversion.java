@@ -1,5 +1,5 @@
 import java.util.*;
-import java.lang.*;
+
 class Ideone {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in); 
