@@ -9,7 +9,7 @@ int main() {
     for (int caractere = 0, coluna = 0; str[caractere] != '\0'; caractere++, coluna++) {
         if (str[caractere] == '\n' || str[caractere] == '\0') {
             matriz[linha][coluna] = '\0';
-            matriz[linha] = realloc(matriz[linha], coluna);
+            matriz[linha] = realloc(matriz[linha], coluna + 1);
             matriz[++linha] = malloc(255);
             coluna = -1;
         } else {
