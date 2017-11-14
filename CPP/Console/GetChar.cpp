@@ -1,17 +1,16 @@
 #include <iostream>
-#include <cstdio>
 #include <string>
 using namespace std;
 
-typedef struct {
+struct Pessoa {
     int ID;
     string nome;
     string tel;
-} Pessoa;
+}; //isto provavelmente deveria ser uma classe
 
 int main() {
-    int vet[10] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
-    char opc = 'z';    
+    Pessoa pessoa; //provavelmente deveria ser inicializado por referência e alocado dinamicamente
+    char opc = 'z';
     do {
 	    cout << "[1] incluir pessoa" << endl;
 	    cout << "[2] Alterar pessoa" << endl;
