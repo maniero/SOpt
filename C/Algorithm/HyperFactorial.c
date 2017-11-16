@@ -3,7 +3,7 @@
 
 int hiperfatorial(int n) {
     double ret = 1.0;
-    do ret *= pow(n, 2); while (n-- > 1);
+    do ret *= pow(n, n); while (n-- > 1);
     return (int)ret;
 }
 
