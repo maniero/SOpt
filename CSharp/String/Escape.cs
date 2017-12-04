@@ -1,8 +1,7 @@
 using static System.Console;
 
 public class Program {
-	public static void Main()
-	{
+	public static void Main() {
 		var texto = @"É necessário Cadastrar o(s) seguinte(s) Parâmetro(s):SENHA_FTP\r\n";
 		WriteLine(texto.Replace(@"\", @"\\"));
 	}
