@@ -1,0 +1,6 @@
+public void Update(readonly int index = 0) // Default values are ok though not required
+{
+    …
+    index = 0; // Error: can’t assign to readonly parameters
+    …    
+}
