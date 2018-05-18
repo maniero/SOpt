@@ -9,7 +9,7 @@ Entenda que muito código aqui está dentro de um contexto. Não é intenção s
 <a href="https://www.linkedin.com/in/maniero/"><img src="https://i.stack.imgur.com/xuK85.png" alt="Linkedin"></a>
 <a href="https://www.quora.com/profile/Antonio-Maniero"><img src="https://i.stack.imgur.com/yTbv3.png" alt="Quora"></a>
 <a href="https://medium.com/@bigown"><img src="https://i.stack.imgur.com/XEJUq.png" alt="Medium"></a>
-<a href="https://github.com/maniero"><img src="https://i.stack.imgur.com/a2v1f.png" alt="GitHub"></a>
+<a href="https://pt.stackoverflow.com/users/101/maniero?tab=profile"><img src="https://i.stack.imgur.com/26l2Y.png" alt="GitHub"></a>
 <a href="https://www.reddit.com/user/bigown_/"><img src="https://i.stack.imgur.com/OJNTc.png" alt="Reddit"></a>
 <a href="https://twitter.com/manieromvp"><img src="https://i.stack.imgur.com/eAnZ3.png" alt="Twitter"></a>
 <a href="https://www.youtube.com/channel/UC5YAwQ1c11r_XPEnPw5B1dg"><img src="https://i.stack.imgur.com/LSc5f.png" alt="YouTube"></a>
