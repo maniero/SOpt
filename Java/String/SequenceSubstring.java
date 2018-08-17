@@ -3,7 +3,7 @@ class Substring {
         for (int j = str.length(); j >= 0; j--) for (int i = 0; i < j; i++) System.out.println(str.substring(i, j));
     }
     public static void main(String[] args) {
-        sb.todasSubstrings("UTFPR");
+        todasSubstrings("UTFPR");
     }
 }
 
