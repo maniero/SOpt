@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void validar(float *var){
+void validar(float *var) {
     while (1) {
         scanf("%f", var);
         if (*var >= 0 && *var <= 10) return;
