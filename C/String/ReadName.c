@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 #include <locale.h>
 
 int main() {
@@ -6,7 +7,8 @@ int main() {
     char nome[31];
     char sexo;
     printf("Digite o seu nome: ");
-    scanf("%30s", nome);
+    fgets(nome, 30, stdin);
+    nome[strcspn(nome, "\n")] = '\0';
     printf("Digite o seu sexo M (Masculino) ou F (Feminino): ");
     scanf("%c", &sexo);
     if (sexo == 'f' ||  sexo == 'F') printf("\nOlá %s o seu sexo é feminino.", nome);
