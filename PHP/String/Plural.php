@@ -1,12 +1,8 @@
 <?php
-
-function pluralization( $numItems = 0, $texts) {
-	if ($texts == NULL) {
-        $texts = array("(nenhum)", "(1 item)", "($numItems itens)");
-	}
+function pluralization($numItems = 0, $texts = NULL) {
+	if ($texts == NULL) $texts = array("(nenhum)", "(1 item)", "($numItems itens)");
     return $texts[min($numItems, 2)];
 }
-
 echo pluralization(0);
 echo pluralization(0);
 echo pluralization(1);
