@@ -1,0 +1,31 @@
+User Function updEnvio(cTabela, aRecnos)
+    Local cSQL := ""
+    Local cCampo := IIF(SUBS(cTabela,1,1)=='S', SUBS(cTabela,2,2), cTabela)
+    Local nStatus := 0
+    Local i
+    Default aRecnos := {}
+
+    cSQL := ""
+    cSQL += " UPDATE " + RetSqlName(cTabela)
+    cSQL += " SET " + cCampo + "_YGSENV = 'S' "
+    cSQL += " WHERE 1=1 "
+    cSQL += " AND " + cCampo + "_FILIAL = '" + xFilial(cTabela) + "' "
+    cSQL += " AND " + cCampo + "_YGSENV <> 'S' "
+
+    If LEN(aRecnos) > 0
+      cSql += " AND R_E_C_N_O_ IN ("
+      cSql += STR(aRecnos[1])
+      For i := 2 to len(aRecnos)
+        cSql += "," + STR(aRecnos[i])
+      Next i
+      cSql += ")"
+    Endif
+
+    nStatus := TcSqlExec(cSQL)
+
+    If (nStatus < 0)
+        conout("Oops, TCSQLError: " + TCSQLError())
+    Endif
+Return
+
+//https://pt.stackoverflow.com/q/343404/101
