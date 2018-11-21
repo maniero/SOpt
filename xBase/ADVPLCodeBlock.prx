@@ -1,0 +1,11 @@
+aArray := { 0, 1, 2, 3 }
+nValor := 5
+Scan(aArray, {|i| conout(i + nValor) })
+
+user function Scan(aArray, bAction) {
+    for i := 0 to len(aArray)
+        eval(bAction)
+    next
+return nil
+
+//https://pt.stackoverflow.com/q/343820/101
