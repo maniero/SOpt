@@ -6,6 +6,6 @@ for i in range(n):
 frase = input().split()
 for palavra in frase:
     if palavra in dic:
-        print(dic[i])
+        print(dic[palavra])
 
 #https://pt.stackoverflow.com/q/346650/101
