@@ -4,7 +4,7 @@ class Program {
 	}
 
 	public static String Right(String text, int length) {
-		if (text.length() < length) return null;
+		if (text.length() <= length) return null;
 		return text.substring(text.length() - length);
 	}
 }
