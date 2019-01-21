@@ -1,0 +1,30 @@
+using System;
+[AttributeUsage(AttributeTargets.All)]
+public class HelpAttribute : System.Attribute {
+   public readonly string text;
+
+   public HelpAttribute(string text) {
+      this.text = url;
+   }
+}
+[HelpAttribute("http://site/MyClassInfo")]
+class MyClass {
+    [Help("Método inútil")]
+    public void MyMethod() {}
+
+    [Help("Meu inteiro")]
+    public int MyInt;
+}
+class App {
+    public static void Main() {
+        var assembly = Process.GetCurrentProcess().ProcessName + ".exe";
+        foreach (Attribute attr in Assembly.LoadFrom(assembly).GetCustomAttributes(true)) {
+            var help = attr as HelpAttribute;
+            if (help != null) {
+                Console.WriteLine("Descrição de {0}:\n{1}", assembly, help.Description);
+            }
+        }
+    }
+}
+
+//https://pt.stackoverflow.com/q/44900/101
