@@ -1,4 +1,4 @@
-class HelloWorld {
+public class Program {
 	public static void main (String[] args)	{
         int vet[] = new int[50];
         for (int i = 0; i < vet.length; i++) {
@@ -14,4 +14,4 @@ class HelloWorld {
 	}
 }
 
-//http://pt.stackoverflow.com/q/188867/101
+//https://pt.stackoverflow.com/q/188867/101
