@@ -7,7 +7,7 @@ public class Program {
 			posicao = texto.IndexOf(">", posicao + 1);
 			if (posicao == -1) break;
 		}
-        if (posicao > -1) texto = texto.Substring(posicao + 1);
+        if (posicao > -1) texto = texto.Substring(0, posicao + 1);
         WriteLine(texto);
         texto = "0001>0002";
 		posicao = -1;
@@ -15,7 +15,7 @@ public class Program {
 			posicao = texto.IndexOf(">", posicao + 1);
 			if (posicao == -1) break;
 		}
-        if (posicao > -1) texto = texto.Substring(posicao + 1);
+        if (posicao > -1) texto = texto.Substring(0, posicao + 1);
         WriteLine(texto);
     }
 }
