@@ -19,9 +19,13 @@ public class Nota {
 	public double Prova1 { get; set; }
 	public double Prova2 { get; set; }
 	public double Trabalho { get; set; }
+	public double Media { get => (Prova1 * 2.5 + Prova2 * 2.5 + Trabalho * 1.5) / 6.5; }
 
-	public void MostrarMedia() => WriteLine($"Sua media foi igual a: {((Prova1 * 2.5 + Prova2 * 2.5 + Trabalho * 1.5) / 6.5):0.00}");
-	public void MostrarNotaFaltante(double final) => WriteLine($"Nota para passar: {(final >= 6.0 ? 0.0 : 6.0 - final):0.00} pontos");
+	public void MostrarMedia() => WriteLine($"Sua media foi igual a: {Media:0.00}");
+	public void MostrarNotaFaltante() {
+		if (Media >= 6.0) WriteLine("Passou");
+		else  WriteLine($"Faltou {6.0 - Media:0.00} pontos para passar");
+	}
 	public void MostrarMelhorNota() {
 		double nota = Prova1;
 		if (Prova2 > nota) nota = Prova2;
@@ -30,7 +34,7 @@ public class Nota {
 	}
 	public void MostraDadosDeNota() {
 		MostrarMedia();
-		MostrarNotaFaltante((Prova1 * 2.5 + Prova2 * 2.5) / 5.0);
+		MostrarNotaFaltante();
 		MostrarMelhorNota();
 	}
 }
