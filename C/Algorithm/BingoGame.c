@@ -27,6 +27,7 @@ int main() {
          printf("\n");
     }
     printf("\n");
+    shuffle(numbers, 50);
     for (int i = 0; i < 4; i++) {
          for (int j = 0; j < 4; j++) {
              c2[i][j] = numbers[i * 4 + j];
