@@ -12,11 +12,7 @@ int main (void) {
         printf("\n");
         for (int j = 0; j < 3; j++) printf(" %d ", matriz[i][j]);
     }
-    for (int i = 0; i < 3; i++) {
-    	for (int j = 2; j >= 0; j--) {
-    		rot[i][j] = matriz[j][2 - i];
-    	}
-    }
+    for (int i = 0; i < 3; i++) for (int j = 2; j >= 0; j--) rot[i][j] = matriz[j][2 - i];
     printf("\nMATRIZ 90º");
     for (int i = 0; i < 3; i++) {
         printf("\n");
