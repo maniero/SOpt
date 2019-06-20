@@ -1,10 +1,9 @@
-using static System.Console;
 using System.IO;
 using System.Drawing;
 
 public class Program {
 	public static void Main() {
-        WriteLine(Image.FromStream(new MemoryStream(new byte[1024])));
+        Image.FromStream(new MemoryStream(new byte[1024]));
 	}
 }
 
