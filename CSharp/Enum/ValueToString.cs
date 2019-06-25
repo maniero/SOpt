@@ -2,7 +2,7 @@ using static System.Console;
 
 public class Program {
 	public static void Main() {
-		WriteLine(((int)SourceSystem.Mirror));
+		WriteLine(((int)SourceSystem.Mirror).ToString("D2"));
 	}
 }
 
