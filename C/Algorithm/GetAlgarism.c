@@ -6,7 +6,7 @@ int main() {
     int tamanho = strlen(RA);    
     int vetor[tamanho];
     for (int i = 0; i < tamanho; i++) vetor[i] = RA[i];
-    for (int i = 0; i < strlen(RA); i++) printf ("%c\n", vetor[i]);
+    for (int i = 0; i < tamanho; i++) printf ("%c\n", vetor[i]);
 }
 
 //https://pt.stackoverflow.com/q/395616/101
