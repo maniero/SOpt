@@ -8,7 +8,7 @@ public class Program {
 		   { "MULTIPLICAÇÃO", "x", "" },
 		   { "DIVISÃO", "x", "" }
 		};
-		for (var i = 0; i <= operacoes.GetLength(1); i++) WriteLine(operacoes[i, 0]);
+		for (var i = 0; i < operacoes.GetLength(0); i++) WriteLine(operacoes[i, 0]);
 	}
 }
 
