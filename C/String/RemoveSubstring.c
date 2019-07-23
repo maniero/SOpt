@@ -6,7 +6,6 @@ void StrlDel(char *s1, char *s2) {
     while (s1[i]) {
     	int j;
         for (j = 0; s2[j] && s2[j] == s1[i + j]; j++);
-       	printf("%c", s1[i]);
         if (!s2[j] && notFound) {
         	int k;
             for (k = i; s1[k + j]; k++) s1[k] = s1[k + j];
