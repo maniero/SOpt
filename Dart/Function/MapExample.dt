@@ -1,0 +1,27 @@
+import 'dart:io';
+ 
+class Produto {
+    String nome;
+    double quantidade;
+    double valor;
+}
+
+main() {
+    var produtos = List<Produto>();
+    var p = Produto();
+    p.nome = 'Frango';
+    p.quantidade = 2.5;
+    p.valor = 10.0;
+    produtos.add(p);
+    p = Produto();
+    p.nome = 'Telha';
+    p.quantidade = 1.5;
+    p.valor = 20.0;
+    produtos.add(p);
+    var totais = produtos.map((Produto p) => p.valor * p.quantidade);  
+    totais.forEach((p) => print(p));
+    print("");
+    for (var i = 0; i < produtos.length; i++) print(produtos[i].valor * produtos[i].quantidade);
+}
+
+//https://pt.stackoverflow.com/q/403324/101
