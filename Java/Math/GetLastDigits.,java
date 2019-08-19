@@ -1,0 +1,13 @@
+import java.util.Calendar;
+
+class Program {
+    public static void main(String[] args) {
+    	System.out.println(aleatoriar());
+    }
+	public static int aleatoriar() {       
+	    Calendar lCDateTime = Calendar.getInstance();
+	    return (int)(lCDateTime.getTimeInMillis() % 10000);
+	}
+}
+
+//https://pt.stackoverflow.com/q/54349/101
