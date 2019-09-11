@@ -14,7 +14,8 @@ void aleatorio(int niv) {
 
 int main() {
     srand((unsigned)time(NULL));
-    printf("Digite o numero limite");
+	int niv, res = -1;
+    printf("Digite o numero limite: ");
     scanf("%d", &niv);
     while (res != 0) {
 	    aleatorio(niv);
