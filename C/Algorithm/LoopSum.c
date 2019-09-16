@@ -2,7 +2,7 @@
 
 int main(void) {
 	int contador = 0, soma = 0;
-    while (calculo < 4) {
+    while (contador < 4) {
     	int numero;
         printf("Digite o número: ");
         scanf("%d", &numero);
