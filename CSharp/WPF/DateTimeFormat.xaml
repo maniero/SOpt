@@ -1,0 +1,3 @@
+<DataGridTextColumn Binding="{Binding DataInicio, StringFormat=\{0:dd.MM.yy HH:mm\}}" />
+
+//https://pt.stackoverflow.com/q/86031/101
