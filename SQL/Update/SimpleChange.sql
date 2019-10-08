@@ -1,3 +1,3 @@
-Veja funcionando no **ideone**. E no **repl.it**. Também coloquei no **GitHub** para referência futura.
+UPDATE produtos SET cod_produto = "000002" WHERE cod_produto = "000001"
 
 --https://pt.stackoverflow.com/q/87873/101
