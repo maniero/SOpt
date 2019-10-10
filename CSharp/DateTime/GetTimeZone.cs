@@ -11,3 +11,5 @@ public class Program {
 		WriteLine($"Diferença {fuso.GetUtcOffset(diferenca)}");
 	}
 }
+
+//https://pt.stackoverflow.com/q/88366/101
