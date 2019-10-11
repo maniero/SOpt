@@ -1,0 +1,24 @@
+var
+nome, sexo: caractere
+i, m, f : inteiro
+inicio
+m <- 0
+f <- 0
+para i <- 1 ate 56 faca
+  escreva("Digite seu nome: ")
+  leia(nome)
+  escreva("Digite seu sexo (m/f): ")
+  leia(sexo)
+  se (sexo = "f") entao
+    escreval("Seu nome é: ", nome, " e seu sexo é: feminino")
+    f <- f + 1
+  senao
+    escreval("Seu nome é: ", nome, " e seu sexo é: masculino")
+    m <- m + 1
+  fimse
+fimpara
+escreval("Total de mulheres: ", f)
+escreval("Total de mulheres: ", m)
+fimalgoritmo
+
+//https://pt.stackoverflow.com/q/89757/101
