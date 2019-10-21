@@ -1,0 +1,10 @@
+span.stretch {
+    display:inline-block;
+    transform:scale(2,1); /* W3C */
+    -webkit-transform:scale(2,1); /* Safari and Chrome */
+    -moz-transform:scale(2,1); /* Firefox */
+    -ms-transform:scale(2,1); /* IE 9 */
+    -o-transform:scale(2,1); /* Opera */
+}
+
+//https://pt.stackoverflow.com/q/91826/101
