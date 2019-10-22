@@ -1,0 +1,15 @@
+<Button>
+    <StackPanel>
+        <TextBlock>Texto se achar que deve ter algum</TextBlock>
+        <Image Source="submarino.png" />
+    </StackPanel>
+</Button>
+
+<Button>
+   <StackPanel Orientation="Horizontal">
+       <Image Source="destroierParte1.png" />
+       <Label>Texto aqui</Label>
+   </StackPanel>
+</Button>
+
+//https://pt.stackoverflow.com/q/92324/101
