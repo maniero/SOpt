@@ -13,9 +13,7 @@ int main() {
     do {
         cout << "digite um valor: ";
         cin >> cont;
-
-      cot = getnegativo(cont, cot);
-
+        cot = getnegativo(cont, cot);
     } while (cont != -1);
     cout << "número de valores negativos digitados: " << cot;
     cout << endl << endl;
