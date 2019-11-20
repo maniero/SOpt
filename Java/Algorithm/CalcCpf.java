@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.text.*;
 
 import javax.swing.text.MaskFormatter;
 
@@ -6,7 +7,7 @@ class GeraCPF {
     private ArrayList<Integer> listaAleatoria = new ArrayList<Integer>();
     private ArrayList<Integer> listaNumMultiplicados = null;
     public int geraNumAleatorio() {
-        return (int)(Math.random() * 10);;
+        return (int)(Math.random() * 10);
     }   
     public ArrayList<Integer> geraCPFParcial() {
         for (int i = 0; i < 9; i++) listaAleatoria.add(geraNumAleatorio());
@@ -25,7 +26,7 @@ class GeraCPF {
         listaAleatoria.add(primeiroDigito);
         return listaAleatoria;
     }
-    public String geraCPFFinal() {
+    public String geraCPFFinal() throws ParseException {
         //Primeiro executamos os metodos de geracao
         geraCPFParcial();
         geraDigito();
@@ -38,7 +39,7 @@ class GeraCPF {
         cpf = mf.valueToString(texto);
         return cpf; 
     }
-	public static void main(String[] args) {
+	public static void main(String[] args) throws ParseException {
 		System.out.println(new GeraCPF().geraCPFFinal());
 	}
 }
