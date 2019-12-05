@@ -1,0 +1,16 @@
+<configuration>
+    <system.web>
+        <httpRuntime maxRequestLength="10000" />
+    </system.web>
+</configuration>
+//IIS:
+
+<system.webServer>
+    <security>
+        <requestFiltering>
+            <requestLimits maxAllowedContentLength="10000" />
+        </requestFiltering>
+    </security>
+</system.webServer>
+
+//https://pt.stackoverflow.com/q/114089/101
