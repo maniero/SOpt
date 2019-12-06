@@ -10,7 +10,7 @@ int main() {
     matriz[1][2] = 6;
     matriz[2][0] = 7;
     matriz[2][1] = 8;
-    matriz[3][2] = 9;
+    matriz[2][2] = 9;
     int coluna, linha, numero;
     printf("Digite um numero: ");
     scanf("%d", &numero);
