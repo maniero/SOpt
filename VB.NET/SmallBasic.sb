@@ -1,0 +1,18 @@
+continua = 1
+While continua = 1
+    TextWindow.WriteLine("Programa para fechar e recomeçar")
+    TextWindow.WriteLine("")
+    TextWindow.WriteLine("Escreva 'fechar' para sair.")
+    TextWindow.WriteLine("Escreva 'reiniciar' para recomeçar o programa.")
+    TextWindow.WriteLine("")
+    TextWindow.WriteLine("Você quer fechar/reiniciar?")
+    TextWindow.WriteLine("")
+    resposta = TextWindow.Read()
+    If resposta = "fechar" Then
+        Program.End()
+    ElseIf resposta <> "reiniciar" Then
+        continua = 0
+    EndIf
+EndWhile
+
+'https://pt.stackoverflow.com/q/123253/101
