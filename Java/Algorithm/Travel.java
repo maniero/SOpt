@@ -5,10 +5,9 @@ public class Viagem {
     private int codViagem;
     int indiceGeral=0;
     private Manutencao revisao;
-    private Caminhao []veiculo = new Caminhao[20];
-    private Motorista[]piloto = new Motorista[15];
-    public Viagem(String horaSaida, String horaChegada, String dataChegada, String dataSaida, String destino, String origem, int codViagem) {
-        super();
+    private Caminhao veiculo;
+    private Motorista piloto;
+    public Viagem(String horaSaida, String horaChegada, String dataChegada, String dataSaida, String destino, String origem, int codViagem, Caminhao, caminhao, Motorista, motorista) {
         this.horaSaida = horaSaida;
         this.horaChegada = horaChegada;
         this.dataChegada = dataChegada;
@@ -16,6 +15,8 @@ public class Viagem {
         this.destino = destino;
         this.origem = origem;
         this.codViagem = codViagem;
+        this.caminhao = caminhao;
+        this.piloto = motorista;
     }
     public String getHoraSaida() {
         return horaSaida;
@@ -38,10 +39,8 @@ public class Viagem {
     public int getCodViagem() {
         return codViagem;
     }
-    public boolean verificaStatus(Caminhao veiculo, Motorista piloto){
-        Caminhao auxC = (Caminhao) veiculo;
-        Motorista aux = (Motorista) piloto;
-        return !auxC.getStatus() && !aux.getStatus();
+    public boolean verificaStatus(Caminhao veiculo, Motorista piloto) {
+        return !veiculo.getStatus() && !piloto.getStatus();
     }
     public Viagem planejarViagem(Viagem []viagem, Caminhao []veiculo, Motorista []piloto) {
         if (viagem[indiceGeral].verificaStatus(veiculo[indiceGeral], piloto[indiceGeral])) {
