@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
  
-class Ideone {
+class Main {
 	public static void main (String[] args) {
 		char mat[][] = new char[5][5];
 		List<Integer> random = randomNumbers(65, 90, 25);
@@ -17,7 +17,6 @@ class Ideone {
     public static List<Integer> randomNumbers(int start, int end, int count) {
 		List<Integer> lista = new ArrayList<>(end - start + 1);
 		for (int i = start; i <= end; i++) lista.add(i);
-		}
 		Collections.shuffle(lista);
 		lista = lista.subList(0, count);
 		return lista;
