@@ -1,0 +1,24 @@
+class MinhaClasse<T: Widget> {
+    private T widget;
+    set(T w) { widget = w; }
+    T get() { return widget; }
+}
+var x = new MinhaClasse<Button>(); //Button é um Widget
+x.set(new Button());
+x.set(new TextEdit());  //TextEdit é um Widget
+print(x.get()); //imprime algo do TextEdit
+var y = new MinhaClasse<Stream>(); //não funciona porque não é um Widget
+Isso evita ter que escrever (o que é exatamente o que o compilador fará por você):
+
+class MinhaClasse {
+    private Button widget;
+    set(Button w) { widget = w; }
+    Button get() { return widget; }
+}
+class MinhaClasse {
+    private TextEdit widget;
+    set(TextEdit w) { widget = w; }
+    TextEdit get() { return widget; }
+}
+
+//https://pt.stackoverflow.com/q/131890/101
