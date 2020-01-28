@@ -9,7 +9,7 @@ public class Program {
 		}
 		while (true) {
 			WriteLine("Em que mês você nasceu?");
-			if (int.TryParse(ReadLine(), out var dia) && dia < 32) break;
+			if (int.TryParse(ReadLine(), out var dia) && dia < 13) break;
 			WriteLine("Digite mês válido");
 		}
 	}
