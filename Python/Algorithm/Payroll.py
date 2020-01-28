@@ -5,4 +5,4 @@ while ano <= 2020:
     ano += 1
 print("{0:.2f}".format(salario, 2))
 
-https://pt.stackoverflow.com/q/432854/101
+#https://pt.stackoverflow.com/q/432854/101
