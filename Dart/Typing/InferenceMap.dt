@@ -1,0 +1,15 @@
+import 'dart:io';
+import 'dart:mirrors'; 
+ 
+void main() {
+    Map a = {
+        '6' : 6,
+    };
+    var b = {
+        '6' : 6,
+    };
+	print(reflect(a).type.reflectedType.toString());
+	print(reflect(b).type.reflectedType.toString());
+}
+
+//https://pt.stackoverflow.com/q/433813/101
