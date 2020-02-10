@@ -1,4 +1,3 @@
-i = 1
 lista = []
 while True:
     i = int(input('Digite um número: '))
