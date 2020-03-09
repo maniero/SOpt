@@ -26,7 +26,7 @@ public class Vendedor : Pessoa {
 }
 
 public class Sistema {
-	public void Main() {
+	public static void Main() {
 		var pessoaComprador = new Comprador();
 		pessoaComprador.Nome = "João";
 		pessoaComprador.Comprar();
@@ -37,7 +37,7 @@ public class Sistema {
 		UmOutroMetodo(pessoaVendedor);
 	}
 	//note que se passar um objeto do tipo Pessoa nem funcionaria de fato, deve ser conreto
-	public void UmOutroMetodo(Pessoa pessoa) {
+	public static void UmOutroMetodo(Pessoa pessoa) {
 		WriteLine(pessoa.Nome); //vai pegar o que foi usado na classe concreta
 		pessoa.Andar(); //vai lançar a exceção
 	}
