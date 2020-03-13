@@ -9,34 +9,26 @@ public class PizzaFactory {
     ...
 }
 
+PizzaFactory fabricaDePizza = new PizzaFactory()
+Pizza pizza = fabricaDePizza.createPizza(textBoxPizza);
 
 class static PizzaFactory {
     private Dictionary<string, Pizza> pizzas = new Dictionary<string, Pizza>();
-    public static void registerPizza(String nome, Pizza pizza)    {
-        pizzas[nome] = pizza;
-    }
-    public static Pizza createPizza(String nome){
-        return pizzas[nome].createPizza();
-    }
+    public static void registerPizza(String nome, Pizza pizza) => pizzas[nome] = pizza;
+    public static Pizza createPizza(String nome) => pizzas[nome].createPizza();
 }
 
 class Portuguesa : Pizza {
     ...
-    static Pizza() {
-        PizzaFactory.registerPizza("Portuguesa", new Portuguesa());
-    }
-    public override Pizza createPizza() {
-        return new Portuguesa();
-    }
+    static Pizza() => PizzaFactory.registerPizza("Portuguesa", new Portuguesa());
+    public override Pizza createPizza() => new Portuguesa();
     ...
 }
 
 
 public abstract class PizzaFactory {
     protected abstract Pizza Make();
-    public Pizza GetPizza() { //este é o método de fábrica
-        return this.Make();
-    }
+    public Pizza GetPizza() => this.Make(); //este é o método de fábrica
 }
 
 public class PortuguesaFactory : PizzaFactory {
@@ -60,22 +52,12 @@ public interface IPizzaIngredientFactory {
 }
 
 public class PremiumPizzaIngredientFactory : IPizzaIngredientFactory {
-    public Massa createMassa() {
-        return new MassaFinaCrocante();
-    }
-    public Molho createMolho() {
-        return new MolhoTomateEspecial();
-    }
-    public Queijo createQueijo() {
-        return new QueijoMussarela();
-    }
+    public Massa createMassa() => new MassaFinaCrocante();
+    public Molho createMolho() => new MolhoTomateEspecial();
+    public Queijo createQueijo() => new QueijoMussarela();
 
-    public Acessorios[] createAcessorios() {
-        return new Acessorios { new MiniAzeitona(), new CebolaRoxa() };
-    }
-    public Carne createCarne() {
-        return new CarneRalada();
-    }
+    public Acessorios[] createAcessorios() => new Acessorios { new MiniAzeitona(), new CebolaRoxa() };
+    public Carne createCarne() => new CarneRalada();
 }
 
 public abstract class Pizza {
@@ -90,9 +72,7 @@ public abstract class Pizza {
 
 public class Calabreza : Pizza {
     IPizzaIngredientFactory ingredientFactory;
-    public CheesePizza(IPizzaIngredientFactory ingredientFactory) {
-        ingredientFactory = ingredientFactory;
-    }
+    public CheesePizza(IPizzaIngredientFactory ingredientFactory) ingredientFactory = ingredientFactory;
     public override void Prepare() {
         Massa = ingredientFactory.CreateMassa();
         Molho = ingredientFactory.CreateMolho();
@@ -106,15 +86,15 @@ public class PremiumPizza {
         Pizza pizza;
         IPizzaIngredientFactory ingredientFactory = new PremiumPizzaIngredientFactory();
         switch (sabor) {
-            case "Portuguesa":
-                pizza = new Portuguesa(ingredientFactory);
-                pizza.Nome = "Pizza Premium Portuguesa";
-                break;
-            case "Calabreza":
-                pizza = new Calabreza(ingredientFactory);
-                pizza.Nome = "Pizza Premium Calabreza";
-                break;
-            }
+        case "Portuguesa":
+            pizza = new Portuguesa(ingredientFactory);
+            pizza.Nome = "Pizza Premium Portuguesa";
+            break;
+        case "Calabreza":
+            pizza = new Calabreza(ingredientFactory);
+            pizza.Nome = "Pizza Premium Calabreza";
+            break;
+        }
         return pizza;
     }
 }
