@@ -7,7 +7,7 @@ public class Program {
 		var arredondado = Round(media, 2);
 		var texto = $"{media:0.##}";
 		WriteLine(arredondado);
-		WriteLine(media);
+		WriteLine(texto);
 	}
 }
 
