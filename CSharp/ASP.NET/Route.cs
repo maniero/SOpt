@@ -4,15 +4,11 @@ routes.MapRoute("Default", //nome da rota
 
 
 public class HomeController : Controller {
-    public ActionResult Index(string id) {
-        return View();
-    }
+    public ActionResult Index(string id) => View();
 }
 
 
 [Route(“{produtoId:int}”)]
-public ActionResult Edita(int produtoId) {
-    return View();
-}
+public ActionResult Edita(int produtoId) => View();
 
 //https://pt.stackoverflow.com/q/162142/101
