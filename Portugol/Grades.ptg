@@ -1,0 +1,29 @@
+algoritmo "melhor aluno"
+var
+Quantidade,cont,nota,maior : real
+nome,melhor_aluno : caractere
+inicio
+   Escreval ("==============================")
+   Escreval ("    Escola Santa Paciencia    ")
+   Escreval ("==============================")
+   Escreval ("Quantos alunos a turma tem?")
+   Leia (quantidade)
+   cont <- 1
+   Escreval ("==============================")
+   Enquanto (Cont < quantidade) faca
+      Escreval ("Aluno ",cont)
+      Escreval ("Nome do aluno: ")
+      Leia (nome)
+      Escreval ("Nota de ",nome)
+      Leia (nota)
+      Escreval ("==============================")
+      Cont <- cont + 1
+      Se (nota > maior) entao
+         maior <- nota
+         melhor_aluno <- nome // <================ erro aqui
+      FimSe
+   FimEnquanto
+   Escreval ("O melhor aluno da sala foi ",Melhor_aluno," com a nota de ",maior," pontos")
+fimalgoritmo
+
+//https://pt.stackoverflow.com/q/166660/101
