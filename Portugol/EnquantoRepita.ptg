@@ -1,0 +1,17 @@
+var i: inteiro
+inicio
+i <- 0
+enquanto i < 10 faca
+   escreva(i)
+   i <- i + 1
+fimenquanto
+
+var i: inteiro
+inicio
+i <- 0
+repita
+   escreva(i)
+   i <- i + 1
+ate i >= 10
+
+//https://pt.stackoverflow.com/q/166645/101
