@@ -7,18 +7,11 @@ size_t strlen (char *str) {
     return len;
 }
 
-for (int i = 0; i < strlen(string); i++) {
-    if (string[i] == ' ') count++;
-}
+for (int i = 0; i < strlen(string); i++) if (string[i] == ' ') count++;
 
 size_t size = strlen(string);
-for (int i = 0; i < size; i++) {
-    if (string[i] == ' ') count++;
-}
+for (int i = 0; i < size; i++) if (string[i] == ' ') count++;
 
-while (*string != '\0')
-    if (*string == ' ') count++;
-    string++;
-}
+while (*string != '\0') if (*string++ == ' ') count++;
 
 //https://pt.stackoverflow.com/q/167528/101
