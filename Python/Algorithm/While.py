@@ -1,7 +1,7 @@
 text = 'abcdefghij'
-t = 9
+t = 10
 while t > 5:
-    print(text[t])
+    print(text[10 - t])
     t -= 1
     print(t)
     
