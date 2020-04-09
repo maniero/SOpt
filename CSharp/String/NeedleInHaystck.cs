@@ -10,7 +10,7 @@ public class Program {
 			"END OF FILE",
 			};
 		var status = " 18:46:24:97    INQUIRY REQUEST                                                 ";
-		if (warnings.Any(warning => (status.Trim()).Contains(warning))) WriteLine("achou");
+		if (warnings.Any(warning => status.Contains(warning))) WriteLine("achou");
 		else WriteLine("não achou");
 	}
 }
