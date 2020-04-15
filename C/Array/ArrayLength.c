@@ -2,7 +2,7 @@
 int main() {
     char *palavra[] = {"casa", "carro"};
     for(int i = 0; i < sizeof(palavra) / sizeof(palavra[0]); i++) {
-        printf(palavra[i]);
+        printf("%s", palavra[i]);
     }
 }
 
