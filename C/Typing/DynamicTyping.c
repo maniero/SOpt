@@ -24,9 +24,9 @@ int main(void) {
 	printf("%c\n", var3.value.c);
 	printf("%s\n", (char *)var4.value.p);
 	printf("%d\n", var2.type);
-	printf("%d\n", sizeof(var2));
+	printf("%zd\n", sizeof(var2));
 	printf("%d\n", var3.type);
-	printf("%d\n", sizeof(var3));
+	printf("%zd\n", sizeof(var3));
 }
 
 //http://pt.stackoverflow.com/q/180783/101
