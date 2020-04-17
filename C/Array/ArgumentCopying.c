@@ -5,7 +5,7 @@ typedef struct {
 } Tipo;
 
 void funcao(Tipo p) {
-	printf("%d\n", sizeof(p));
+	printf("%zd\n", sizeof(p));
 	printf("%s", p.array);
 }
 
