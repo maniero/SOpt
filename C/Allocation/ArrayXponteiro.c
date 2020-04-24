@@ -13,8 +13,8 @@ typedef struct {
 int main(void) {
     Tipo1 x;
     Tipo2 y;
-    printf("%d\n", sizeof(x));
-    printf("%d\n", sizeof(y));
+    printf("%zd\n", sizeof(x));
+    printf("%zd\n", sizeof(y));
 }
 
 //http://pt.stackoverflow.com/q/181609/101
