@@ -12,4 +12,4 @@ class A {
     }
 }
 
-/http://pt.stackoverflow.com/q/185542/101
+//http://pt.stackoverflow.com/q/185542/101
