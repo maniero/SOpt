@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    for (int i = 1; i < 1000; i++) {
+    for (int i = 0; i < 1000; i++) {
         int FirstLastNumber;
         if (i < 100) FirstLastNumber = i % 10;
         else FirstLastNumber = ((i / 100) * 10) + i % 10;
