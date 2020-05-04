@@ -6,7 +6,6 @@ def pedeChute():
                 return
         except:
        	    pass
-       	
 
 def jogo():
     while True:
