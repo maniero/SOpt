@@ -2,6 +2,7 @@ def pedeChute():
     while True:
         try:
             chute = int(input("chute: "))
+            return chute
         except:
        	    pass
 
