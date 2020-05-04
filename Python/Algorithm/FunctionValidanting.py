@@ -3,7 +3,7 @@ def pedeChute():
         try:
             chute = int(input("chute: "))
             if chute == 0:
-                return
+                return chute
         except:
        	    pass
 
