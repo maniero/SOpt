@@ -1,5 +1,5 @@
-#include <iostream>
-using namespace std;
+#include <stdio.h>
+#include <stdint.h>
 
 int getBit8(int *pInt32, int index) {
     return (*pInt32 >> (index * 8)) & (0xff >> sizeof(int));
