@@ -34,17 +34,13 @@ public class Program {
 
     static int AdditionInt() {
 		var tmp = "";
-		for (int i = 0; i < Limit; i++) {
-			tmp += dataInt[i];
-		}
+		for (int i = 0; i < Limit; i++) tmp += dataInt[i];
 		return tmp.Length;            
     }
 
     static int AdditionString() {
 		var tmp = "";
-		for (int i = 0; i < Limit; i++) {
-			tmp += dataString[i];
-		}
+		for (int i = 0; i < Limit; i++) tmp += dataString[i];
 		return tmp.Length;
     }
 
@@ -58,17 +54,13 @@ public class Program {
 
     static int BuilderInt() {
 		var tmp = new StringBuilder();
-		for (int i = 0; i < Limit; i++) {
-			tmp.Append(dataInt[i]);
-		}
+		for (int i = 0; i < Limit; i++) tmp.Append(dataInt[i]);
 		return tmp.Length;            
     }
 
     static int BuilderString() {
 		var tmp = new StringBuilder();
-		for (int i = 0; i < Limit; i++) {
-			tmp.Append(dataString[i]);
-		}
+		for (int i = 0; i < Limit; i++) tmp.Append(dataString[i]);
 		return tmp.Length;            
     }
 }
