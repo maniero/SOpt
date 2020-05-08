@@ -5,9 +5,7 @@ using static System.Console;
 public class Program {
 	public static Random Rand = new Random(DateTime.Now.Millisecond);
 	public static string Text = "10";
-	public static void Main() {
-		Rodar();
-	}
+	public static void Main() => Rodar();
     public static void Rodar() {
         if (!int.TryParse(Text, out var num)) return;
         var resultado = new StringBuilder(11);
