@@ -1,4 +1,4 @@
-class HelloWorld {
+class Main {
     public static void main(String[] args) {
         int termo1 = 1;
         int termo2 = 2;
