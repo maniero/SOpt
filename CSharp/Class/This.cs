@@ -4,4 +4,4 @@ public HelpController() => this.HelpController(GlobalConfiguration.Configuration
 
 public HelpController(HttpConfiguration config = GlobalConfiguration.Configuration);
 
-//https://pt.stackoverflow.com/q/206287/101
+//https://pt.stackoverflow.com/q/206302/101
