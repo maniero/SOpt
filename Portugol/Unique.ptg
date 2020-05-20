@@ -1,0 +1,22 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 30/05/2017
+// Seção de Declarações 
+var
+vet:vetor[1..100] de inteiro
+i, igual : INTEIRO
+inicio
+Para i <- 1 ate 100 faca
+   Escreva("Digite um numero: ")
+   Leia(vet[i])
+fimpara
+para i <- 1 ate 99 faca
+   se (vet[i] = vet[100]) entao
+       igual <- igual + 1
+   fimse
+fimpara
+Escreva(igual)
+fimalgoritmo
+
+//https://pt.stackoverflow.com/q/208891/101
