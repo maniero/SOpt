@@ -41,7 +41,7 @@ int main() {
                 sair = 1;
                 break;
         } 
-   }
+    }
 }
 
 //https://pt.stackoverflow.com/q/209878/101
