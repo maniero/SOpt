@@ -21,9 +21,7 @@ char *nome(char text[]) {
 int main(void) {  
     char *name = nome("Nome:");
     char *iterador = name;
-    while(*iterador != '\0') {
-        printf("%c", *iterador++);
-    }
+    while(*iterador != '\0') printf("%c", *iterador++);
     free(name);
 }
 
