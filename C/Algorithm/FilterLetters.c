@@ -11,6 +11,7 @@ int main() {
         while ((c = getchar()) != '\n' && c != EOF) { }
         if (letra != 'a' && letra != 'e' && letra != 'i' && letra != 'o' && letra != 'u') consoante[total++] = letra;
     }
+    printf("\n%d", total);
     for (int i = 0; i < total; i++) printf("\nA consoante foi: %c", consoante[i]);
 }
 
