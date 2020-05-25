@@ -5,9 +5,7 @@ public abstract class Conta {
     private BigDecimal limite;
     private Date ultimaTroca;
     public Conta(string documento, string nome, BigDecimal saldo, BigDecimal limite) {
-        if (!validaDocumento(documento)) {
-            throw DocumentoInvalaidoException();
-        }
+        if (!validaDocumento(documento)) throw DocumentoInvalaidoException();
         this.documento = documento
         this.nome = nome;
         this.saldo = saldo;
