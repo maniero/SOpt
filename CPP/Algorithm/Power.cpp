@@ -12,9 +12,7 @@ int main() {
         vet[x] = x;
         cout << endl << "Posição " << x + 1 << " : " << vet[x];
     }
-    for (int x = 0; x < 200; x++) {
-        cout << endl << vet[x] << "² =  " << calc(vet[x]);
-    }
+    for (int x = 0; x < 200; x++) cout << endl << vet[x] << "² =  " << calc(vet[x]);
 }
 
 //https://pt.stackoverflow.com/q/215776/101
