@@ -1,6 +1,7 @@
 using System;
+
 public class C {
-    public int Main() {
+    public static int Main() {
         var conta = new Conta();
         var txtValor = new Form();
         bool retorno;
