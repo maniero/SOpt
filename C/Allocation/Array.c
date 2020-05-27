@@ -15,7 +15,7 @@ int main() {
 	int qtd;
 	scanf("%d", &qtd);
 	struct CARRO *carros = malloc(qtd * sizeof(struct CARRO));
-	free(carros); //só para usar a variável, neste caso não precisaa
+	free(carros); //só para usar a variável, neste caso não precisa
 }
 
 //https://pt.stackoverflow.com/q/215819/101
