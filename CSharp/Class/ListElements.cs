@@ -1,8 +1,8 @@
 using static System.Console;
 using System.Collections.Generic;
 
-namespace arrayteste {
-    public class Cidade{
+namespace ListTeste {
+    public class Cidade {
         public string Nome { get; set; }
         public List<Casa> Casas { get; set; } = new List<Casa>();
         public Cidade(string nome, Casa casa) {
