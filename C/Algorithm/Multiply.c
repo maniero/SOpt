@@ -11,11 +11,8 @@ int main() {
         return 0;
     }
     for (int cont = X; cont <= Y; cont++) {
-        if (cont % 2 == 0) {
-            par += cont;
-        } else { 
-            impar *= cont;
-        }
+        if (cont % 2 == 0) par += cont;
+        else impar *= cont;
     }
     printf("A soma dos números pares nesse intervalo é %d\n", par);
     printf("A multiplicação dos números impares nesse intervalo é %d\n", impar);
