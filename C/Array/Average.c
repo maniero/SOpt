@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int main(void) {
     int matriz [3][3] = {{0}};
