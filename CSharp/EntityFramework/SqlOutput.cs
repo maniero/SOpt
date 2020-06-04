@@ -11,7 +11,7 @@ public static string ToSql<TEntity>(this IQueryable<TEntity> query) where TEntit
     var factory = relationalCommandCache.Private<IQuerySqlGeneratorFactory>("_querySqlGeneratorFactory");
     var sqlGenerator = factory.Create();
     var command = sqlGenerator.GetCommand(selectExpression);
-    return command.CommandText;;
+    return command.CommandText;
 }
 
 private static object Private(this object obj, string privateField) => obj?.GetType().GetField(privateField, BindingFlags.Instance | BindingFlags.NonPublic)?.GetValue(obj);
