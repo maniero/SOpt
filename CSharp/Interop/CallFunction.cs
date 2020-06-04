@@ -4,9 +4,7 @@ public class Program {
     [DllImport("teste.DLL", EntryPoint="print")]
     static extern void print(string message);
 
-    public static void Main(string[] args) {
-        print("Chamando C");
-    }
+    public static void Main(string[] args) =>print("Chamando C");
 }
 
 //Em C:
