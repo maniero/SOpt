@@ -10,12 +10,8 @@ class Ideone {
 		    System.out.println(BuscaString(posicoes, "123456789123"));
 	}
 	public static int BuscaString(ArrayList<String> lista, String busca) {
-	    for (int i = 0; i < lista.size(); i++) {
-	    	if (lista.get(i).contains(busca)) {
-	    		return i;
-	    	}
-	    }
-		return -1;
+	    for (int i = 0; i < lista.size(); i++) if (lista.get(i).contains(busca)) return i;
+        return -1;
 	}
 }
 
