@@ -1,5 +1,5 @@
-class Ideone {
-    public static void main (String[] args) {
+class Main {
+    public static void main(String[] args) {
         Pessoa pessoa = new Pessoa(10);
         pessoa.souVelho();
         Pessoa pessoa2 = new Pessoa(15);
@@ -12,7 +12,7 @@ class Ideone {
 }
 
 class Pessoa {
-    private int idade;	
+    private int idade;  
     public Pessoa(int idadeInicial) {
         if (idadeInicial < 0) {
             idade = 0;
@@ -22,14 +22,10 @@ class Pessoa {
         }
     }
     public void souVelho() {
-    	System.out.println(idade);
-        if (idade >= 0 && idade <= 12) {
-            System.out.println("Você é novo.");
-        } else if (idade >= 13 && idade <= 17) {
-            System.out.println("Você é adolescente.");
-        } else if (idade >= 18) {
-            System.out.println("Você é velho.");
-        }
+        System.out.println(idade);
+        if (idade >= 0 && idade <= 12) System.out.println("Você é novo.");
+        else if (idade >= 13 && idade <= 17) System.out.println("Você é adolescente.");
+        else if (idade >= 18) System.out.println("Você é velho.");
     }
     public void fazAniversario() {
         idade++;
