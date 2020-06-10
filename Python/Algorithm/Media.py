@@ -17,6 +17,6 @@ while qnt <= qntd_alunos-1:
 
     else:
         print(qnt, "alunos já receberam suas médias, faltam", qntd_alunos - qnt)
-print("Média geral ", media_geral / qtd_alunos)
+print("Média geral ", media_geral / qntd_alunos)
 
 #https://pt.stackoverflow.com/q/233809/101
