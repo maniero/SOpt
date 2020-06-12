@@ -3,18 +3,12 @@
  
 void alocaMatriz(int **matriz, int lin, int col){
     matriz = (int **)malloc(lin * sizeof(int **));
-    for (int i = 0; i < col; i++) {
-        matriz[i] = (int *)malloc(col * sizeof(int));
-    }
+    for (int i = 0; i < col; i++) matriz[i] = (int *)malloc(col * sizeof(int));
 }
  
 void leMatriz(int **matriz, int lin, int col){
     printf("\nDigite os valores: ");
-    for (int i = 0; i < lin; i++) {
-        for (int j = 0; j < col; j++) {
-            scanf("%d", &matriz[i][j]);
-        } 
-    }
+    for (int i = 0; i < lin; i++) for (int j = 0; j < col; j++) scanf("%d", &matriz[i][j]);
 }
  
 int main(int argc, char** argv) {
