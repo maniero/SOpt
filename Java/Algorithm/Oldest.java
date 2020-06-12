@@ -5,7 +5,7 @@ class Pessoa {
     public int idade;
 }
 class Programa {
-    public static String comparaIdade(Pessoa[] pessoa){
+    public static String comparaIdade(Pessoa[] pessoa) {
         int maior = pessoa[0].idade;
         int indice = 0;
         for (int i = 1; i < 3; i++) {
