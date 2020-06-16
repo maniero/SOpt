@@ -4,6 +4,7 @@ public class Program {
 	public static void Main() {
 		WriteLine(PayCode.NotPaid.GetTypeCode());
 		WriteLine((int)(PayCode.NotPaid));
+		WriteLine((char)(PayCode.NotPaid));
 		Teste('A');
 		int x = 'B';
 	}
