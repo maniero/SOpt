@@ -4,7 +4,10 @@ public class Program {
 	public static void Main() {
 		WriteLine(PayCode.NotPaid.GetTypeCode());
 		WriteLine((int)(PayCode.NotPaid));
+		Teste('A');
+		int x = 'B';
 	}
+	public static void Teste(int x) {}
 }
 
 public enum PayCode {
