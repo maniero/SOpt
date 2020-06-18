@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Ideone {
+class Main {
 	public static void main (String[] args)	{
 		ArrayList<Candidato> Candidatos = new ArrayList<Candidato>();
         Scanner e = new Scanner(System.in);
