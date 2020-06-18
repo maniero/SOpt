@@ -13,20 +13,14 @@ int main(void) {
 	    while (1) {
 		    printf("Nota de matemática: ");
 		    scanf("%f", &aluno[contador].notaMath);
-		    if (aluno[contador].notaMath > 10.0) {
-		        printf("Apenas notas até 10.\n");
-		    } else {
-		        break;
-		    }
+		    if (aluno[contador].notaMath > 10.0) printf("Apenas notas até 10.\n");
+		    else break;
 	    }
 		while (1) {
 		    printf("Nota de física: ");
 		    scanf("%f", &aluno[contador].notaPhysics);
-		    if (aluno[contador].notaPhysics > 10.0) {
-		        printf("Apenas notas até 10.\n");
-		    } else {
-		        break;
-		    }
+		    if (aluno[contador].notaPhysics > 10.0) printf("Apenas notas até 10.\n");
+		    else break;
 		}
 	    aluno[contador].media = (aluno[contador].notaMath + aluno[contador].notaPhysics) / 2;
 	    printf("\n");
