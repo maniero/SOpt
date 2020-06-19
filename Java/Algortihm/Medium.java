@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Exe_04 {
+class Main {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         System.out.println("Informe a quantidade de numeros a serem listados.");
