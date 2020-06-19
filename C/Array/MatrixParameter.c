@@ -3,15 +3,11 @@
 void Transposta(int linhas, int colunas, int matriz[][colunas]) {
 	int matrizTransposta[colunas][colunas];
      for (int i = 0; i < colunas; i++) {
-        for (int j = 0; j < linhas; j++) {
-            matrizTransposta[i][j] = matriz[j][i];
-        }
+        for (int j = 0; j < linhas; j++) matrizTransposta[i][j] = matriz[j][i];
         printf("\n");
     }
    for (int i = 0; i < linhas; i++) {
-        for (int j = 0; j < colunas; j++) {
-            printf("%4d", matrizTransposta[i][j]);
-        }
+        for (int j = 0; j < colunas; j++) printf("%4d", matrizTransposta[i][j]);
         printf("\n");
     }
 }
@@ -24,18 +20,12 @@ void Valores() {
     scanf("%d", &colunas);
     int matriz[linhas][colunas];
     printf("Matriz do tipo: %dx%d ", linhas, colunas);
-    if (linhas == colunas) {
-        printf("(Matriz quadrada).");
-    } else if (linhas == 1 && colunas > 1) {
-        printf("(Matriz linha).");
-    } else if(linhas > 1 && colunas == 1) {
-        printf("(Matriz coluna).");
-    }
+    if (linhas == colunas) printf("(Matriz quadrada).");
+    else if (linhas == 1 && colunas > 1) printf("(Matriz linha).");
+    else if(linhas > 1 && colunas == 1) printf("(Matriz coluna).");
     printf("\n");
     for (int i = 0; i < linhas; i++) {
-        for (int j = 0; j < colunas; j++) {
-            printf("a%d%d ", i + 1, j + 1);
-        }
+        for (int j = 0; j < colunas; j++) printf("a%d%d ", i + 1, j + 1);
         printf("\n");
     }
     printf("Digite os valores de: \n");
@@ -47,9 +37,7 @@ void Valores() {
     }
     printf("\n");
     for (int i = 0; i < linhas; i++) {
-        for (int j = 0; j < colunas; j++) {
-            printf("%4d", matriz[i][j]);
-        }
+        for (int j = 0; j < colunas; j++) printf("%4d", matriz[i][j]);
         printf("\n");
     }
     printf("\n");
