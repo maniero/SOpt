@@ -10,11 +10,8 @@ int main(void) {
 	printf("\n1- Sou mulher ");
 	printf("\n2- Sou homem ");
 	scanf("%d", &escolha);
-	if (escolha == 1) {
-		strcpy(sexo, "Feminino");
-	} else {
-		strcpy(sexo, "Masculino");
-	}
+	if (escolha == 1) strcpy(sexo, "Feminino");
+	else strcpy(sexo, "Masculino");
 	printf("Você é do sexo: %s", sexo);
 }
 
