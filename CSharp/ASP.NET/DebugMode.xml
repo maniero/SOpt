@@ -1,0 +1,6 @@
+<system.web>
+    <customErrors mode="Off"/>
+    <compilation debug="true"/>
+</system.web>
+
+<!--https://pt.stackoverflow.com/q/250446/101
