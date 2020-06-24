@@ -12,7 +12,7 @@ while (n > 0) { //o número ainda é maior que zero?
     n /= 2; //muda o próprio número
 }
 
-static void ImprimeRepresetacaoBinariaParcial(int n) {
+static void imprimeRepresetacaoBinariaParcial(int n) {
     if (n > 0) {
         ImprimeRepresetacaoBinariaParcial(n / 2);
         System.out.print(n % 2);
@@ -20,7 +20,7 @@ static void ImprimeRepresetacaoBinariaParcial(int n) {
     return n;
 }
 
-static void ImprimeFormatoBinario(int n) {
+static void imprimeFormatoBinario(int n) {
     while (n > 0) {
         System.out.print(n % 2);
         n /= 2;
