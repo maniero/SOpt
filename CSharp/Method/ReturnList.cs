@@ -2,9 +2,7 @@ using static System.Console;
 using System.Collections.Generic;
 
 public class Program {
-	public static void Main() {
-		var lista = ListMethod.GenerateList(5);
-	}
+	public static void Main() => ListMethod.GenerateList(5);
 }
 
 public static class ListMethod {
