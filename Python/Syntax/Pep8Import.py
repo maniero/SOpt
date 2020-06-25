@@ -4,7 +4,6 @@ import threading
 import pygame
 from classes import Carta
 
-
 def main():
     pass
 
