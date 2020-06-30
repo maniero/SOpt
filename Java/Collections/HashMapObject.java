@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Program {
+class Ideone {
 	public static void main (String[] args) {
 		Map<String, Alimento> mapalimentos = new HashMap<>();
 	    mapalimentos.put("Maçã", new Alimento(50, 10));
