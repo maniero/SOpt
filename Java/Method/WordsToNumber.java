@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Ideone {
+class Main {
     public static long converte(String entrada) {
 	    switch (entrada) {
 	    case "um":
