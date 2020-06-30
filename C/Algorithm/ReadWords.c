@@ -13,7 +13,7 @@ int main() {
             letra = getchar();
             texto[i] = realloc(texto[i], j + 1);
             texto[i][j] = letra;
-            if ((i + 1) % 3 == 0) printf("%c", letra);
+            if (i == 2) printf("%c", letra);
             j++;
         } while (letra != ' ' && letra != '\n');
         i++;
