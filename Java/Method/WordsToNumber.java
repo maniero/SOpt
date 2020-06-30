@@ -32,9 +32,7 @@ class Main {
 	    System.out.println("Inicialização...\nInstruções:\n1-Digite o nome de um número entre um~dez.\n2-O programa encerra ao digitar 'fim'.");
 	    while (true) {
 	        String entrada = key.nextLine();
-	        if (entrada.equals("fim")) {
-	            break;
-	        }
+	        if (entrada.equals("fim")) break;
 	        long convertido = converte(entrada);
 	        if (convertido == -1) {
 	            System.out.println("Palavra inválida");
