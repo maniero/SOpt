@@ -1,0 +1,11 @@
+Se (A < B && A < C && A < D) {
+    Escreva A;
+} Senao Se (B < C && B < D) {
+   Escreva B;
+} Senao Se (C < D) {
+   Escreva C;
+} Senao {
+   Escreva D;
+}
+
+//https://pt.stackoverflow.com/q/256478/101
