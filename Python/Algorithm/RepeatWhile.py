@@ -2,7 +2,6 @@ while True:
     sex = input('Digite seu sexo:')
     if sex == 'M' or sex == 'F':
         break
-Quer continuar fazendo daquela forma?
 
 sex = input('Digite seu sexo:')
 while sex != 'M' and sex != 'F':
