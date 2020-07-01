@@ -20,12 +20,8 @@ void cadastro_cliente(Cliente *cliente) {
 int main() {
     setlocale(LC_ALL,"");
     Cliente clientes[1000] = {{ .nome = "", .conta = 0, .saldo = 0 }};
-    for (int i = 0; i < 2; i++) {
-        cadastro_cliente(&clientes[i]);
-    }
-    for (int i = 0; i < 2; i++) {
-        printf("\n%s - %d", clientes[i].nome, clientes[i].conta);
-    }
+    for (int i = 0; i < 2; i++) cadastro_cliente(&clientes[i]);
+    for (int i = 0; i < 2; i++) printf("\n%s - %d", clientes[i].nome, clientes[i].conta);
 }
 
 //https://pt.stackoverflow.com/q/257797/101
