@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class Main {
     public static void main(String []args) {
         int numero = 123456;
         long time = System.nanoTime();
