@@ -3,6 +3,7 @@ using static System.Console;
 using System.Diagnostics;
 using  System.Text.RegularExpressions;
 using System.Linq;
+using System.Text;
 
 public class Program {
 	public static void Main() {
@@ -29,6 +30,20 @@ public class Program {
 		WriteLine(sw.ElapsedMilliseconds);
 		sw.Restart();
 		for (var i = 0; i < total; i++) {
+			var sb = new StringBuilder(cpf.Length);
+			foreach (var letra in cpf) if (Char.IsDigit(letra)) sb.Append(letra);
+			formatado = sb.ToString();
+		}
+		sw.Stop();
+		WriteLine(sw.ElapsedMilliseconds);
+		sw.Restart();
+		for (var i = 0; i < total; i++) {
+			formatado = string.Join("", cpf.ToCharArray().Where(Char.IsDigit));
+		}
+		sw.Stop();
+		WriteLine(sw.ElapsedMilliseconds);
+		sw.Restart();
+		for (var i = 0; i < total; i++) {
 			formatado = String.Join("", Regex.Split(cpf, @"[^\d]"));
 		}
 		sw.Stop();
@@ -39,12 +54,6 @@ public class Program {
 			var result = "";
 			foreach (Match m in r.Matches(cpf))	result += m.Value;
 			formatado = result;
-		}
-		sw.Stop();
-		WriteLine(sw.ElapsedMilliseconds);
-		sw.Restart();
-		for (var i = 0; i < total; i++) {
-			formatado = string.Join("", cpf.ToCharArray().Where(Char.IsDigit));
 		}
 		sw.Stop();
 		WriteLine(sw.ElapsedMilliseconds);
