@@ -1,6 +1,13 @@
 from random import choice
 
-senha = ''.join([choice("abcdefghABCDEFGH") for i in range(16)])
-print(senha)
+minusculas = "abcdefgh"
+maiusculas = "ABCDEFGH"
+senha = []
+pos = 0
+while pos < 8:
+    senha.append(choice(maiusculas))
+    senha.append(choice(minusculas))
+    pos += 1
+print(''.join(senha))
 
 #https://pt.stackoverflow.com/q/461052/101
