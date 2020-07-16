@@ -1,0 +1,14 @@
+Var
+    soma, index : inteiro
+Inicio
+    index <- 1
+    soma <- 0
+    enquanto (index < 101) faca
+        escreva (index, " + ")
+        soma <- soma + index
+        index <- index + 1
+    fimenquanto
+    escreva ("A soma dos inteiros de 1 à 100 é: ", soma)
+Fimalgoritmo
+
+//https://pt.stackoverflow.com/q/290524/101
