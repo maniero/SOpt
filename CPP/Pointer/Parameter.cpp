@@ -1,3 +1,6 @@
+#include <iostream>
+using namespace std;
+
 void teste(int *t) {
     *t = 50;
 }   
