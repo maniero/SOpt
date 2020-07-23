@@ -1,6 +1,6 @@
 import java.util.StringTokenizer;
 
-class Ideone {
+class Main {
     public static void main (String[] args) {
         System.out.println(new StringTokenizer(" ").countTokens() > 1);
         System.out.println(new StringTokenizer(" a").countTokens() > 1);
