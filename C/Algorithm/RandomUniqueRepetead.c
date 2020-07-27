@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdlib.h>
 
-void shuffle(int *array, int tamanho) { //sorteia grantindamente único - algoritmo Fisher-Yates
+void shuffle(int *array, int tamanho) { //sorteia grantidamente único - algoritmo Fisher-Yates
     for (int i = tamanho - 1; i > 0; i--) {
         int j = rand() % (i + 1);
         int tmp = array[j];
