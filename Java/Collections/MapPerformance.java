@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Ideone {
+class Main {
 	public static HashMap<String, String> lista = new HashMap<>();
 	
 	private static void Put(String teste, String outra) {
