@@ -1,0 +1,18 @@
+Var
+    val, quant, totval, totquant : real
+Inicio
+    totval <- 0
+    totquant <- 0
+    repita
+        escreval("Qual valor do ingresso: ")
+        leia(val)
+        escreval("Quantos ingressos: ")
+        leia(quant)
+        totval <- totval + val * quant
+        totquant <- totquant + quant
+    até val = 0
+    escreval ("valor total de ingressos é: ", totval)
+    escreval ("Quantidade de ingressos vendido é: " , totquan)
+Fim
+
+//https://pt.stackoverflow.com/q/320472/101
