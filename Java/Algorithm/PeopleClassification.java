@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program {
+public class Main {
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
 		int soma = 0, somaM = 0, somaF = 0, contM = 0, contF = 0, contJ = 0;
