@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int Comparacao(int x, int y)  {
-    return x < y ? -1 : x != y);
+    return x < y ? -1 : x != y;
 }
 
 int main(){
