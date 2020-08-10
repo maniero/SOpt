@@ -42,7 +42,7 @@ public class Program {
 		}
 		return partes;
 	}
-	//esta implmentação é um pouco ingênua, não funciona em todas as situações mas funciona com o básico
+	//esta implementação é um pouco ingênua, não funciona em todas as situações mas funciona com o básico
 	public static List<object> SplitFixedTyped(string texto, List<Tuple<int, Type>> tamanhos) {
 		var partes = new List<object>();
 		var posicao = 0;
