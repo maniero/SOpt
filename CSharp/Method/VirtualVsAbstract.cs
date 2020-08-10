@@ -1,5 +1,5 @@
 public abstract class Base {
-    public abstract void MetodoAbstrato(string nome); //não há implmentação
+    public abstract void MetodoAbstrato(string nome); //não há implementação
 
     public virtual void MetodoVirtual(int x) {
         //faz algo aqui
