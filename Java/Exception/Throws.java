@@ -1,6 +1,6 @@
 import java.util.*;
     
-public class Estudos{
+public class Main {
     public static void main(String[] args) {
         String palavra = "Java";    
         Scanner in = new Scanner(System.in);
