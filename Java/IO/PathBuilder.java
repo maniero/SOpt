@@ -1,6 +1,6 @@
 import java.io.*;
 
-class Program {
+class Main {
 	public static void main (String[] args) {
     	File path = new File("src", "models");
 		System.out.println(path.getPath());
