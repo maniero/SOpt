@@ -3,7 +3,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
-class DateFormatExample {
+class Main {
     public static void main(String[] args) {
         Thread th = new Thread(new Runnable() { //cria uma thread
             public void run() {
