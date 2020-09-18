@@ -9,9 +9,7 @@ public class MyClass {
    private MyClass() {}
    public static MyClass Instance {
       get {
-         if (instance == null) {
-            instance = new MyClass();
-         }
+         if (instance == null) instance = new MyClass();
          return instance;
       }
    }
