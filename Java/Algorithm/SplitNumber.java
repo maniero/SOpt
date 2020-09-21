@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Program {
+class Main {
 	public static void main (String[] args)	{
 		ImprimeLista(SeparaDigitos(12345));
 		ImprimeLista(SeparaDigitos(-123));
