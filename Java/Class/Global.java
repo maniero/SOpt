@@ -4,7 +4,7 @@ public final class Global {
     public static int[] getVetor() { return vetor; }
     public static void setVetor(int[] vetor) { this.vetor = vetor; }
     //aqui pode colocar vários outros dados se eles forem relacionados
-    //o ideal é criar classe gobais para cada necessidade
+    //o ideal é criar classe globais para cada necessidade
     //nem sempre é necessário usar getter e setter, o campo público pode ser suficiente
     //é possível criar outras operações específicas de acordo com a necessidade
     //por exemplo pode pegar e setar um elemento do vetor
