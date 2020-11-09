@@ -1,0 +1,29 @@
+import 'dart:io';
+
+main() {
+  CalculoIMC();
+}
+
+CalculoIMC() {
+    stdout.write("Digite a sua massa: ");
+    var massa = double.tryParse(stdin.readLineSync());
+    if (massa == null) return;
+    stdout.write("Digite a sua altura: ");
+    var altura = double.tryParse(stdin.readLineSync());
+    if (altura == null) return;
+    ImprimirResultado(massa / (altura * 2));
+}
+
+ImprimirResultado(double IMC) {
+	var IMCFormated = IMC.toStringAsFixed(2);
+    if (IMC < 16) print("Você está com $IMCFormated\Kg, MUITO ABAIXO DO PESO");
+    else if (IMC > 16 && IMC < 17) print("Você está com $IMCFormated\Kg, MAGREZA MODERADA");
+    else if (IMC > 17 && IMC < 18.5) print("Você está com $IMCFormated\Kg, MAGREZA LEVE");
+    else if (IMC > 18.5 && IMC < 25) print("Você está com $IMCFormated\Kg, SAUDÁVEL");
+    else if (IMC > 25 && IMC < 30) print("Você está com $IMCFormated\Kg, SOBREPESO");
+    else if (IMC > 30 && IMC < 35) print("Você está com $IMCFormated\Kg, OBESIDADE GRAU I");
+    else if (IMC > 35 && IMC < 40) print("Você está com $IMCFormated\Kg, OBESIDADE GRAU II");
+    else if (IMC >= 40) print("Você está com $IMC\Kg, OBESIDADE GRAU III");
+}
+
+//https://pt.stackoverflow.com/q/481123/101
