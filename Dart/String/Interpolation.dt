@@ -1,0 +1,14 @@
+import 'dart:io';
+ 
+main() {
+  var pessoa = Pessoa();
+  print("Oi, meu nome é ${pessoa.nome}, tenho ${pessoa.idade} e meu pseudônimo é $pessoa.pseudonimo.");
+}
+
+class Pessoa {
+  String nome = "Rodrigo";
+  String pseudonimo = "Kyukay";
+  int idade = 23;  
+}
+
+//https://pt.stackoverflow.com/q/481223/101
