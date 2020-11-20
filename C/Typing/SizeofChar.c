@@ -2,9 +2,9 @@
 
 int main() {
     char a = 'a';
-    printf("%d\n", sizeof(char));
-    printf("%d\n", sizeof(a));
-    printf("%d\n", sizeof('a'));
+    printf("%zd\n", sizeof(char));
+    printf("%zd\n", sizeof(a));
+    printf("%zd\n", sizeof('a'));
 }
 
 //http://pt.stackoverflow.com/q/178443/101
