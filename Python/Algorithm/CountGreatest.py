@@ -1,7 +1,7 @@
 num_lidos = int(input('Digite a quantidade de números: '))
 maior = 0
 qnt = 0
-for num in range(1, num_lidos):
+for num in range(0, num_lidos):
     num = int(input('Digite o valor: '))
     if num > maior:
         maior = num
