@@ -1,5 +1,3 @@
-using Console;
-
 namespace BusinessDAL {
     public class ArquivoDAL {   
         string valor =  Console.Business.Caminho;
