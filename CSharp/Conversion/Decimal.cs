@@ -5,11 +5,11 @@ using System.Globalization;
 
 public class Program {
 	public static void Main() {
-		if (!decimal.TryParse("5.541,88", NumberStyles.Currency, CultureInfo.CreateSpecificCulture("pt-BR"), out var valor)) WriteLine("deu erro");
+		if (!decimal.TryParse("5.541,88", NumberStyles.Currency, CultureInfo.CreateSpecificCulture("pt-BR"), out var valor)) WriteLine("Formato inválido para conversão");
 		WriteLine($"Decimal: {valor}");
 		WriteLine($"Inteiro: {ToInt32(valor)}");
-		WriteLine($"Inteiro: {Truncate(valor)}");
-		WriteLine($"Inteiro: {decimal.Truncate(valor)}");
+		WriteLine($"Inteiro truncado: {Truncate(valor)}");
+		WriteLine($"Decimal truncado: {decimal.Truncate(valor)}");
 	}
 }
 
