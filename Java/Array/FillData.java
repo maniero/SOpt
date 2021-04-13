@@ -1,5 +1,5 @@
 public class Program {
-	public static void main (String[] args) {
+	public static void main(String[] args) {
 		Numeros objeto = new Numeros();
 		objeto.gerador();
 		for (int item : objeto.getDezenas()) System.out.println(item);
