@@ -1,0 +1,69 @@
+union Result<T, E> {
+    Ok(T),
+    Error(E),
+}
+
+Result<string, string> Read(string name) {
+    string resultado = "";
+    if (File.Open(name)) {
+        foreach (linha in handler.ReadLine()) {
+            resultado += linha;
+        }
+    } else {
+        return Error("O arquivo nem foi aberto");
+    }
+    return Ok(resultado);
+}
+
+var = textoLido = Read("arquivo.txt");
+match textoLido {
+    Error(msg) => print("Deu problema:" + msg);
+    Ok(texto) => print(texto);
+}
+
+if (File.Exists("arq.txt") {
+    handler = File.Open("arq.txt");
+    foreach(linha in handler.ReadLine()) {
+        print linha;
+    }
+} else {
+    print "Não foi possível executar a operação";
+}
+if (handler != null) {
+    handler.Close();
+}
+
+if (File.Open("arq.txt", @handler)) {
+    foreach(linha in handler.ReadLine()) {
+        print linha;
+    }
+} else {
+    print "Não foi possível executar a operação";
+}
+if (handler != null) {
+    handler.Close();
+}
+
+if (File.Open("arq.txt", @handler)) {
+    foreach(linha in handler.ReadLine()) {
+        if (linha != null) {
+            print linha;
+        }
+    }
+} else {
+    print "Não foi possível executar a operação";
+}
+handler.Close();
+
+try {
+    handler = File.Open("arq.txt")) {
+    foreach(linha in handler.ReadLine()) {
+        print linha;
+    }
+} catch (IOException e) {
+    print "Não foi possível executar a operação";
+} finnaly {
+    handler.Close();
+}
+
+//https://pt.stackoverflow.com/q/21767/101
