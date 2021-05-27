@@ -1,0 +1,19 @@
+for (i = 0; i < 10; i++) {
+    ...
+    if (condiçao) {
+        continue;
+    }
+    ...
+}
+
+i = 0;
+while(i < 10) {
+    ...
+    if (condiçao) {
+        continue;
+    }
+    ...
+    i++;
+}
+
+//https://pt.stackoverflow.com/q/88747/101
