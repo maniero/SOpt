@@ -13,11 +13,11 @@ public class Program {
 		Veiculo e = new Carro2(); //aqui só esconde, não faz polimorfismo, a instância não importa
 		e.Andar(); //aqui imprime Veiculo, afinal o tipo da variável é dessa classe
 		Carro3 f = new Carro3();
-		f.Andar(); //funciona igual, nernhuma confusão
+		f.Andar(); //funciona igual, nenhuma confusão
 		Veiculo g = new Carro3(); //pode estar esperando polimorfismo que não ocorrerá
 		g.Andar(); //funciona igual, mas poderia não ser o que deseja
 		Carro4 h = new Carro4();
-		h.Andar(); //funciona igual, nernhuma confusão
+		h.Andar(); //funciona igual, nenhuma confusão
 		Veiculo2 i = new Carro4(); //pode estar esperando polimorfismo que não ocorrerá
 		i.Andar(); //funciona igual, mas poderia não ser o que deseja
 	}
