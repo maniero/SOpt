@@ -1,0 +1,44 @@
+if (File.Exists("nomeDoArquivo.txt")) {
+    SendFile("nomeDoArquivo.txt");
+}
+
+if (contaJoao.OperacaoASerProcessada() == Operacao.Deposito) {
+    contaJoao.Deposita(10000);
+    contaJoao.Libera(Operacao.Deposito);
+}
+
+if (x == 10) { //esse x é uma referência, pode haver mais de um "proprietário"
+    y = x * 2;
+}
+
+ try {
+     SendFile("nomeDoArquivo.txt");
+ } catch (FileNotFoundException) {
+     //faz alguma coisa indicando que o arquivo não existe
+ }
+Ganhe acesso exclusivo
+
+Tem casos que não é só questão de verificar, ou não tem como dissociar a verificação da execução. Aí tem que ter alguma forma de travamento. Precisa ganhar acesso exclusivo ao objeto por um período mínimo onde outras linhas de execução não conseguirão fazer nada.
+
+contaJoao.Lock();
+if (contaJoao.OperacaoASerProcessada() == Operacao.Deposito) {
+    contaJoao.Deposita(10000);
+    contaJoao.Libera(Operacao.Deposito);
+}
+contaJoao.UnLock();
+
+ try {
+     contaJoao.Lock();
+     if (contaJoao.OperacaoASerProcessada() == Operacao.Deposito) {
+         contaJoao.Deposita(10000);
+         contaJoao.Libera(Operacao.Deposito);
+     }
+ } finally {
+     contaJoao.UnLock();
+ }
+
+if (x == 10) { //esse x é um valor, ele foi copiado pra cá e é independente de sua origem
+    y = x * 2;
+}
+
+//https://pt.stackoverflow.com/q/159342/101
