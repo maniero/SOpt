@@ -16,9 +16,6 @@ if (x == 10) { //esse x é uma referência, pode haver mais de um "proprietário
  } catch (FileNotFoundException) {
      //faz alguma coisa indicando que o arquivo não existe
  }
-Ganhe acesso exclusivo
-
-Tem casos que não é só questão de verificar, ou não tem como dissociar a verificação da execução. Aí tem que ter alguma forma de travamento. Precisa ganhar acesso exclusivo ao objeto por um período mínimo onde outras linhas de execução não conseguirão fazer nada.
 
 contaJoao.Lock();
 if (contaJoao.OperacaoASerProcessada() == Operacao.Deposito) {
