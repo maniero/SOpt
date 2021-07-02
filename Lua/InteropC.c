@@ -7,7 +7,7 @@ extern "C" {
 int main() {
     lua_State *L = lua_open();
     luaL_openlibs(L);
-    luaL_loadstring(L, "print('Ola mundo')");
+    luaL_dostring(L, "print('Ola mundo')");
     lua_close(L);
 }
 
