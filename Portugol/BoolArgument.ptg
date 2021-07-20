@@ -1,0 +1,9 @@
+Compare(true);
+
+Compare(Case.Sensitive);
+
+CompareCaseSensitive();
+
+Compare(CaseSensitive : true);
+
+//https://pt.stackoverflow.com/q/227780/101
