@@ -1,0 +1,16 @@
+if (true)
+
+valor = true
+if (valor)
+
+totalDescontandoAcimaLimite = valorUnitario * quantidade * 0.9 > 100
+if (totalDescontandoAcimaLimite)
+
+condicao = valorUnitario * quantidade * 0.9 > 100
+if (condicao)
+
+atual = estoque.contagem + 0
+
+if (objeto instanceof Tipo == true)
+
+//https://pt.stackoverflow.com/q/315434/101
