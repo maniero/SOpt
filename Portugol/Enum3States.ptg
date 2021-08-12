@@ -1,0 +1,5 @@
+enum tribool { false, true, maybe = -1 }
+
+enum compara { igual, depois, antes = -1 }
+
+//https://pt.stackoverflow.com/q/325479/101
