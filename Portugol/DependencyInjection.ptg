@@ -1,0 +1,40 @@
+metodo() => for (int i = 0; i < 10; i++) print(i);
+
+metodo(int x) => for (int i = 0; i < x; i++) print(i);
+
+class SeiLá {
+    public Método() {
+        Service service = new Service();
+        ...
+    }
+    public Méwtodo(IService service) {
+        ...
+    }
+}
+
+class SeiLá {
+    public Metédo() {
+        Service service = new Service();
+        ...
+    }
+    [Debug] //ou use aqui outro mecanismo que nem mande para o executável este método
+    public Metodo(IService service) {
+        ...
+    }
+}
+
+class SeiLá<T> where T : IService {
+    public Método() {
+        T service = new T();
+        ...
+    }
+}
+
+class SeiLá {
+    public Método() {
+        #TService service = new #TService();
+        ...
+    }
+}
+
+//https://pt.stackoverflow.com/q/327121/101
