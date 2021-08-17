@@ -1,0 +1,5 @@
+substring("abc", 3, 1)
+
+"abc".substring(3, 1)
+
+//https://pt.stackoverflow.com/q/341597/101
