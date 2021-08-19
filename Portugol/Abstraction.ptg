@@ -1,0 +1,15 @@
+x > y ? y : x
+
+Min(x, y)
+
+(x > y ? y : x)
+
+forEach(objeto, acao) {
+    for (var i in objeto) acao(i);
+}
+
+forEach(objeto, (x) => print(x)); //chamando
+
+for (var i in objeto) print(i);
+
+//https://pt.stackoverflow.com/q/360556/101
