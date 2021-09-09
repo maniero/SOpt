@@ -1,0 +1,17 @@
+variavel := verdadeiro;
+
+status := x > 0; //ou dá falso ou dá verdadeiro
+
+se idade >= 18 então
+
+enquanto nome <> "" faça
+
+se status então
+
+se status = verdadeiro então
+
+status := (x + 0) > 10;
+
+enquanto 10 faça
+
+//https://pt.stackoverflow.com/q/459047/101
