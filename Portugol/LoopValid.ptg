@@ -1,0 +1,22 @@
+A <= 1
+
+A >= 2
+
+A < 1
+
+A > 2
+
+Algoritmo "Brincadeira2Ou1"
+    Var A: inteiro
+Inicio
+    A <- 0
+    escreval("(=====================2===OU===1=====================)")
+    enquanto verdadeiro faca
+        escreval("Insira o número do (A)ndré: ")
+        leia(A)
+        if A == 1 ou A == 2
+            sair //não sei se é assim no seu pseudo código seria um break aqui
+        escreval("Número inválido! Número deve ser 1 ou 2")
+    fimenquanto
+    
+//https://pt.stackoverflow.com/q/454545/101
