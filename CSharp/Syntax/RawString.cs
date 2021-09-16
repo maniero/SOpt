@@ -1,4 +1,4 @@
-string a = "\\\\servidor01\\arquivos"
+string a = "\\\\servidor01\\arquivos";
 
 string a = "hello, world";                // hello, world
 string b = @"hello, world";               // hello, world
