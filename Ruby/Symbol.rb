@@ -6,4 +6,4 @@ end
 puts Teste.method_defined?(:minha_funcao)
 #puts Teste.method_defined?(minha_funcao)
 
-//https://pt.stackoverflow.com/q/527833/101
+#https://pt.stackoverflow.com/q/527833/101
