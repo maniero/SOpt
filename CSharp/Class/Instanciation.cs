@@ -5,4 +5,4 @@ var alimento = new Alimento(identificador, titulo) {
     ...
 }
 
-https://pt.stackoverflow.com/q/73226/101
+//https://pt.stackoverflow.com/q/73226/101
