@@ -1,0 +1,19 @@
+import 'dart:io';
+ 
+class Idade {
+    int idade;
+    Idade(this.idade);
+}
+
+void main() {
+    Map<String, Idade> pessoas = Map();
+    pessoas['Fulano'] = Idade(48);
+    pessoas['Ciclano'] = Idade(19);
+    print(pessoas.keys);
+    print(pessoas.values);
+    for (var pessoa in pessoas.values) {
+        print(pessoa.idade);
+    }
+}
+
+//https://pt.stackoverflow.com/q/528053/101
