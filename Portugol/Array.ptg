@@ -1,0 +1,21 @@
+leia(nota1)
+leia(nota2)
+leia(nota3)
+.
+.
+.
+leia(nota50)
+
+leia(nota[1])
+leia(nota[2])
+leia(nota[3])
+.
+.
+.
+leia(nota[50])
+
+para i de 1 ate 50 faca
+    leia(nota[i])
+fimpara
+
+//https://pt.stackoverflow.com/q/124849/101
