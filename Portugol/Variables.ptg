@@ -1,0 +1,18 @@
+int x;
+int f(int x, int y); //varia de linguagem para linguagem, mas note o ponto e vírgula
+class Exemplo; //só para dizer que a classe existe
+
+x = 10 * Sin(30) + 5; //x já estava declarada antes
+//faz algo com x
+x = 0; // nova atribuição
+
+int x = 1; //declarando e atribuindo.
+var x = 2; //inferiu o tipo durante a inicialização
+x : int = 3; //algumas linguagens possuem sintaxe diferente, claro
+x := 4; //simples, né? O : diferencia a declaração de uma atribuição
+
+int f(int x, int y) { return x + y; } //não tem ; no fim, mas está declarando também
+class Exemplo { ... //membros aqui } //algumas linguagens exigem o ; final, outras não
+Exemplo::f(int x, int y) { return x + y; } //algumas linguagens definem as funções fora
+
+//https://pt.stackoverflow.com/q/136279/101
