@@ -1,0 +1,5 @@
+const maxLenghtPassword = 8;
+...
+if (texto.Lenght < maxLenghtPassword) { //melhor que por o 8 aqui, já que ele pode mudar
+
+//https://pt.stackoverflow.com/q/135108/101
