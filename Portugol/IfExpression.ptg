@@ -1,0 +1,3 @@
+x = if a > 0 then 5 else 0 //x valerá 5 ou 0
+
+//https://pt.stackoverflow.com/q/168177/101
