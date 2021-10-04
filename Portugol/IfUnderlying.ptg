@@ -1,0 +1,9 @@
+var x = 8;
+if (x < 4) goto TRUE;
+print("x é maior do que 4!");
+goto FIM;
+:TRUE
+print("x é menor do que 4!");
+:FIM
+
+//https://pt.stackoverflow.com/q/420854/101
