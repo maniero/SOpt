@@ -7,4 +7,4 @@ objeto = Classe()
 objeto.propriedade = 10
 objeto.metodo()
 
-#http://pt.stackoverflow.com/q/183675/101
+#https://pt.stackoverflow.com/q/176543/101
