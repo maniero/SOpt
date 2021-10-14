@@ -21,4 +21,4 @@ int main() {
     cout << len(c) << "\n";
 }
 
-////https://pt.stackoverflow.com/q/391548/101
+//https://pt.stackoverflow.com/q/391548/101
