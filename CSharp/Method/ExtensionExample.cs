@@ -9,9 +9,7 @@ public class Program {
 
 namespace System {
     public static class StringExt {
-        public static string ToCamelCase(this string text) {
-            return char.ToLower(text[0]) + text.Substring(1);
-        }
+        public static string ToCamelCase(this string text) => char.ToLower(text[0]) + text.Substring(1);
     }
 }
 
