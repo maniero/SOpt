@@ -1,0 +1,10 @@
+O(1) = O(yeah) - constante
+O(log n) = O(nice) - logarítmica
+O(n) = O(k) - linear
+O(n log n) = O(k-ish) - logarítmica linear
+O(n^2) = O(my) - quadrática
+O(2^n) = O(no) - subexponencial
+O(n^n) = O(fuck) - exponencial
+O(n!) = O(mg!) - fatorial
+
+https://pt.stackoverflow.com/q/33319/101
