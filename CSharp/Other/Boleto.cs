@@ -1,4 +1,4 @@
-witch (Banco.Codigo) {
+switch (Banco.Codigo) {
     case 1:
         descricaoCarteira = new Carteira_BancoBrasil(carteira).Codigo;
         break;
