@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
-class Media {
+class Program {
     public static void main(String[] args) {
         ArrayList<Float> valores= new ArrayList<Float>();
         float acumulador = 0;
