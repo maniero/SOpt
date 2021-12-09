@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Media {
+class Program {
     public static void main(String[] args) {
         float acumulador = 0;
         int contador = 0;
