@@ -18,9 +18,7 @@ class Program {
             contador++;
             acumulador += valor;
             System.out.println("Deseja inserir outro valor S/N? ");
-            if (!scanner.next().equals("S")) {
-            	break;
-            }
+            if (!scanner.next().equals("S")) break;
         }
         for (int i = 0; i < valores.size(); i++) System.out.println("Nota " + (i + 1) + ": " + valores.get(i));
         System.out.println("Média: "+ acumulador / contador);
