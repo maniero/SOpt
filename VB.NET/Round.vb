@@ -7,4 +7,4 @@ Public Class Program
 	End Sub
 End Class
 
-//https://pt.stackoverflow.com/q/255701/101
+'https://pt.stackoverflow.com/q/255701/101
