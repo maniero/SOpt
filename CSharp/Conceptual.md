@@ -2,8 +2,6 @@
 
 - [Quais as diferenças mais relevantes entre C# e Java?](https://pt.stackoverflow.com/q/110142/101)
 
-- [Qual é a diferença de string vs String?](http://pt.stackoverflow.com/a/3787/101)
-
 # Exceções
 
 - [Melhor maneira de lidar com Exceptions](http://pt.stackoverflow.com/a/13611/101)
@@ -21,6 +19,7 @@
 # Tipagem
 
 - [Por que usar short?](http://pt.stackoverflow.com/q/13930/101)
+- [Qual é a diferença de string vs String?](http://pt.stackoverflow.com/a/3787/101)
 
 # Bibliotecas
 
@@ -29,8 +28,9 @@
 
 # ASP.NET
 
-- [Como funciona o “namespace” no ASP.Net](http://pt.stackoverflow.com/q/15666/101)
+- [Como funciona o “namespace” no ASP.NET](http://pt.stackoverflow.com/q/15666/101)
 
 # Visual Studio
 
 - [Defasagem do Visual Studio 2010](http://pt.stackoverflow.com/q/14704/101)
+- [Alternativas para desenvolver em C# no Linux?](https://pt.stackoverflow.com/q/125949/101)
