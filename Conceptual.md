@@ -27,6 +27,10 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Regras de Negócio no Banco de Dados - quais as vantagens e desvantagens?](http://pt.stackoverflow.com/q/15739/101)
 - [O que é scaffold?](https://pt.stackoverflow.com/q/119731/101)
 
+# Engineering
+
+- [O que significa escalabilidade de software?](https://pt.stackoverflow.com/q/90297/101)
+
 # Threading
 
 - [É sempre garantido que uma aplicação com múltiplas threads rode mais rápido que usando uma única thread?](http://pt.stackoverflow.com/q/1946/101)
