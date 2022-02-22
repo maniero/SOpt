@@ -9,3 +9,7 @@
 # JavaScript
   
 - [Executar aplicativo externo com JavaScript](https://pt.stackoverflow.com/q/29286/101)
+  
+# High level
+  
+- [Qual a diferença entre servidor web e servidor de aplicação?](https://pt.stackoverflow.com/q/122589/101)
