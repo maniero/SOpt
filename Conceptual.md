@@ -6,6 +6,10 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 
 - [Quais as principais vantagens e desvantagens de se usar um parser LL ou um LR?](http://pt.stackoverflow.com/q/2044/101)
 
+# Languages
+
+- [O que realmente significa NULL?](https://pt.stackoverflow.com/q/90363/101)
+
 # Coding Style
 
 - [Por que devo usar apenas um “return” em cada função?](http://pt.stackoverflow.com/q/2477/101)
