@@ -1,0 +1,1 @@
+- [CMD, PowerShell, Bash - Qual a diferença?](https://pt.stackoverflow.com/q/145926/101)
