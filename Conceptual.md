@@ -55,3 +55,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 # Computers
 
 - [Quantidade mínima de bits necessária para representar números decimais](https://pt.stackoverflow.com/q/200308/101)
+
+# Operating System
+
+- [Quais as diferenças entre Kernel e Microkernel?](https://pt.stackoverflow.com/q/114911/101)
