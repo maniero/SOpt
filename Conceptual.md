@@ -35,6 +35,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 # Engineering
 
 - [O que significa escalabilidade de software?](https://pt.stackoverflow.com/q/90297/101)
+- [Qual a diferença entre escalonamento vertical e horizontal?](https://pt.stackoverflow.com/q/160142/101)
 
 # Threading
 
