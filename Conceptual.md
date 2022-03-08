@@ -37,6 +37,10 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que significa escalabilidade de software?](https://pt.stackoverflow.com/q/90297/101)
 - [Qual a diferença entre escalonamento vertical e horizontal?](https://pt.stackoverflow.com/q/160142/101)
 
+# Data Structure
+
+- [Qual a diferença entre lista simplesmente-encadeada e duplamente-encadeada?](https://pt.stackoverflow.com/q/102983/101)
+
 # Threading
 
 - [É sempre garantido que uma aplicação com múltiplas threads rode mais rápido que usando uma única thread?](http://pt.stackoverflow.com/q/1946/101)
