@@ -1,0 +1,1 @@
+- [O que o C++ pode fazer que o C# não pode?](https://pt.stackoverflow.com/q/7740/101)
