@@ -2,6 +2,7 @@
 
 - [Quais as diferenças mais relevantes entre C# e Java?](https://pt.stackoverflow.com/q/110142/101)
 - [Diferença entre while e for](https://pt.stackoverflow.com/q/61491/101)
+- [O que o C++ pode fazer que o C# não pode?](https://pt.stackoverflow.com/q/7740/101)
 
 # Exceptions
 
