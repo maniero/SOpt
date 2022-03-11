@@ -3,7 +3,6 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 # Compilers
 
 - [Devo usar um gerador de parser ou devo desenvolver meu próprio código para fazer “parse” e “lex”?](http://pt.stackoverflow.com/q/2130/101)
-
 - [Quais as principais vantagens e desvantagens de se usar um parser LL ou um LR?](http://pt.stackoverflow.com/q/2044/101)
 
 # Languages
@@ -60,6 +59,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 # Computers
 
 - [Quantidade mínima de bits necessária para representar números decimais](https://pt.stackoverflow.com/q/200308/101)
+- [O que são registradores e qual é o seu funcionamento básico?](https://pt.stackoverflow.com/q/320285/101)
 
 # Operating System
 
