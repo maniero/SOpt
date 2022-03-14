@@ -4,6 +4,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 
 - [Devo usar um gerador de parser ou devo desenvolver meu próprio código para fazer “parse” e “lex”?](http://pt.stackoverflow.com/q/2130/101)
 - [Quais as principais vantagens e desvantagens de se usar um parser LL ou um LR?](http://pt.stackoverflow.com/q/2044/101)
+- [Como saber em que linguagem um programa foi escrito?](https://pt.stackoverflow.com/q/260120/101)
 
 # Languages
 
