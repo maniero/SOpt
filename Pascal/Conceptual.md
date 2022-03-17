@@ -1,0 +1,1 @@
+- [Delphi é uma IDE ou linguagem de programação?](https://pt.stackoverflow.com/q/101695/101)
