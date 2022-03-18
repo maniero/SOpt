@@ -1,0 +1,1 @@
+- [Quais são as principais diferenças entre VB.NET, VB6 e VBA?](https://pt.stackoverflow.com/q/153507/101)
