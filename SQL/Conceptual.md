@@ -10,3 +10,4 @@
 
 - [Quais os tipos de dados existentes no MySQL para textos?](https://pt.stackoverflow.com/q/78812/101)
 - [Por que é muito utilizado Varchar(255)?](https://pt.stackoverflow.com/q/190799/101)
+- [Qual a diferença entre SMALLINT(3) e INT(3)?](https://pt.stackoverflow.com/q/310488/101)
