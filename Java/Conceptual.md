@@ -5,3 +5,7 @@
 # Desktop
 
 - [Como criar/manter "variavel global" para login?](https://pt.stackoverflow.com/q/54588/101)
+
+# Exception
+
+- [Exception vs RuntimeException, quando utilizar um ou outro?](https://pt.stackoverflow.com/q/55624/101)
