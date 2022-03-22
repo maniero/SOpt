@@ -37,6 +37,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que significa escalabilidade de software?](https://pt.stackoverflow.com/q/90297/101)
 - [Qual a diferença entre escalonamento vertical e horizontal?](https://pt.stackoverflow.com/q/160142/101)
 - [Como desenvolver manuais de usuários?](https://pt.stackoverflow.com/q/95401/101)
+- [Quais são as diferenças entre uma aplicação web e a aplicação desktop?](https://pt.stackoverflow.com/q/177531/101)
 
 # Data Structure
 
