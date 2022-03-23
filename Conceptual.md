@@ -9,6 +9,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 # Languages
 
 - [O que realmente significa NULL?](https://pt.stackoverflow.com/q/90363/101)
+- [O que significa uma variável de dupla precisão?](https://pt.stackoverflow.com/q/177531/101)
 
 # Coding Style
 
