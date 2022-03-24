@@ -28,6 +28,10 @@
 - [C# tem suporte à GPS?](http://pt.stackoverflow.com/q/14856/101)
 - [Qual a melhor forma de fazer a leitura de um arquivo XLS?](http://pt.stackoverflow.com/a/15605/101)
 
+# .NET
+
+- [O que é Reflection. Por que é útil?](https://pt.stackoverflow.com/q/13089/101)
+
 # ASP.NET
 
 - [Como funciona o “namespace” no ASP.NET](http://pt.stackoverflow.com/q/15666/101)
