@@ -5,6 +5,7 @@
 # Modeling
 
 - [Qual a diferença entre MER (Modelo de Entidade Relacionamento) e DER (Diagrama de Entidade Relacionamento)?](https://pt.stackoverflow.com/q/328342/101)
+- [O que é normalização de banco de dados?](https://pt.stackoverflow.com/q/151323/101)
 
 # MySQL
 
