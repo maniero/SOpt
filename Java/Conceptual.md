@@ -9,3 +9,7 @@
 # Exception
 
 - [Exception vs RuntimeException, quando utilizar um ou outro?](https://pt.stackoverflow.com/q/55624/101)
+
+# Misc
+
+- [É possível utilizar ponteiros em Java?](https://pt.stackoverflow.com/q/58219/101)
