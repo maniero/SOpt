@@ -1,0 +1,1 @@
+- [Qual é a principal diferença entre um Tuple e um List?](https://pt.stackoverflow.com/q/52799/101)
