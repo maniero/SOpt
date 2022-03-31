@@ -64,6 +64,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 # Git
 
 - [Desfazendo um pull no Git](https://pt.stackoverflow.com/q/74566/101)
+- [Como dar permissão para outros usuários uparem conteúdo no meu projeto no GitHub?](https://pt.stackoverflow.com/q/326508/101)
 
 # Computers
 
