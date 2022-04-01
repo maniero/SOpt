@@ -2,6 +2,7 @@
 
 - [Para que serve o . em <form action="." method="post">?](https://pt.stackoverflow.com/q/184732/101)
 - [O que é parse, e como funciona o parse do DOM no HTML5?](https://pt.stackoverflow.com/q/99632/101)
+- [É possível criar uma aplicação desktop usando apenas PHP, HTML, CSS e jQuery?](https://pt.stackoverflow.com/q/107280/101)
   
 # HTTP
   
