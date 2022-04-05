@@ -17,4 +17,4 @@
 
 # General
 
-- [oloquei no **GitHub** para referência futura.](https://pt.stackoverflow.com/q/198708/101)
+- [Qual a diferença entre clustered index e nonclustered index?](https://pt.stackoverflow.com/q/198708/101)
