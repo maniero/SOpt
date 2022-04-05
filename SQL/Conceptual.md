@@ -14,3 +14,7 @@
 - [Por que é muito utilizado Varchar(255)?](https://pt.stackoverflow.com/q/190799/101)
 - [Qual a diferença entre SMALLINT(3) e INT(3)?](https://pt.stackoverflow.com/q/310488/101)
 - [Qual a vantagem em usar o tipo ENUM?](https://pt.stackoverflow.com/q/81801/101)
+
+# General
+
+- [oloquei no **GitHub** para referência futura.](https://pt.stackoverflow.com/q/198708/101)
