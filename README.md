@@ -5,6 +5,8 @@ Se você achar algum problema, comente lá na pergunta postada no site para que 
 
 Entenda que muito código aqui está dentro de um contexto. Não é intenção ser o melhor código possível, é dar a melhor resposta possível para quem perguntou, considerando o *background* do autor da pergunta e depende da disponibilidade de tempo que tive para responder. Muitos casos são ajuda para exercícios e adotar a melhor codificação pode não ser a resposta ideal, o autor da pergunta pode estar em outro nível.
 
+Se pesquisar aqui e em outras plataformas, achará bastante conteúdo interessante. Se considerar que vale a pena pode me seguir em vários locais (links abaixo), estou produzindo material que considero útil em outros lugares mais adequados, inclusive farei algo que muitos pedem para aprender programar corretamente. Me segue para ficar sabendo quando rolar.
+
 <a href="https://mvp.microsoft.com/pt-br/PublicProfile/5002397"><img src="https://i.stack.imgur.com/Pxtyu.png" alt="Veja meu perfil e realizações como Microsoft Most Valuable Professional"></a>
 
 <a href="https://www.linkedin.com/in/maniero/"><img src="https://i.stack.imgur.com/xuK85.png" alt="Linkedin"></a>
