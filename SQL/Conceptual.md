@@ -18,3 +18,7 @@
 # General
 
 - [Qual a diferença entre clustered index e nonclustered index?](https://pt.stackoverflow.com/q/198708/101)
+
+# SQL
+
+- [Diferenças entre Natural Join e Inner Join](https://pt.stackoverflow.com/q/55243/101)
