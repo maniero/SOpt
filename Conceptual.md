@@ -75,3 +75,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 # Operating System
 
 - [Quais as diferenças entre Kernel e Microkernel?](https://pt.stackoverflow.com/q/114911/101)
+
+# Terminology
+
+- [O que é overhead?](https://pt.stackoverflow.com/q/198252/101)
