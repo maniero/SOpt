@@ -11,3 +11,7 @@
 # Library
 
 - [O que a expressão `system("pause")` faz?](https://pt.stackoverflow.com/q/349388/101)
+
+# Misc
+
+- [É possível programar orientado a objeto em C?](https://pt.stackoverflow.com/q/80228/101)
