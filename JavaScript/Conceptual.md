@@ -7,6 +7,7 @@
 # HTTP
   
 - [Qual é a diferença entre 401 Unauthorized e 403 Forbidden?](https://pt.stackoverflow.com/q/50209/101)
+- [O que é REST e RESTful?](https://pt.stackoverflow.com/q/45783/101)
 
 # JavaScript
   
