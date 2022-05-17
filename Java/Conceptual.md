@@ -10,6 +10,10 @@
 
 - [Exception vs RuntimeException, quando utilizar um ou outro?](https://pt.stackoverflow.com/q/55624/101)
 
+# OOP
+
+-[Qual o uso de uma variável estática ou final em Java?](https://pt.stackoverflow.com/a/17018/101)
+
 # Misc
 
 - [É possível utilizar ponteiros em Java?](https://pt.stackoverflow.com/q/58219/101)
