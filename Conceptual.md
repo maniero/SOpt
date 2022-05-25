@@ -80,3 +80,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 # Terminology
 
 - [O que é overhead?](https://pt.stackoverflow.com/q/198252/101)
+- [Qual é a diferença de API, biblioteca e Framework?](https://pt.stackoverflow.com/q/17501/101)
