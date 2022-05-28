@@ -7,6 +7,8 @@ Entenda que muito código aqui está dentro de um contexto. Não é intenção s
 
 Se pesquisar aqui e em outras plataformas, achará bastante conteúdo interessante. Se considerar que vale a pena pode me seguir em vários locais (links abaixo), estou produzindo material que considero útil em outros lugares mais adequados, inclusive farei algo que muitos pedem para aprender programar corretamente. Me segue para ficar sabendo quando rolar.
 
+Gostou do que eu posto? Quer me "pagar"? Só faça me ajude compartilhando para outras pessoas o que eu posto que você acha bom (eu sei que nem tudo é) e vote (likes strs, claps e ups) na plataformas que permitem isso. Se ela exigir alguma participação prévia para poder votar faça alguma coisa para liberar o voto, me avcise se precisar de ajuda para que eu conteúdo seja validao para dar o privilégio (especialmente no SOpt).
+
 <a href="https://mvp.microsoft.com/pt-br/PublicProfile/5002397"><img src="https://i.stack.imgur.com/Pxtyu.png" alt="Veja meu perfil e realizações como Microsoft Most Valuable Professional"></a>
 
 <a href="https://www.linkedin.com/in/maniero/"><img src="https://i.stack.imgur.com/xuK85.png" alt="Linkedin"></a>
