@@ -46,6 +46,10 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 
 - [Qual a diferença entre lista simplesmente-encadeada e duplamente-encadeada?](https://pt.stackoverflow.com/q/102983/101)
 
+# Algorithms
+
+- [Como descriptografar MD5?](https://pt.stackoverflow.com/q/41517/101)
+
 # OOP
 
 - [Qual a diferença entre Associação, Agregação e Composição em OOP?](https://pt.stackoverflow.com/q/86715/101)
