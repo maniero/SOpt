@@ -42,6 +42,10 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Como desenvolver manuais de usuários?](https://pt.stackoverflow.com/q/95401/101)
 - [Quais são as diferenças entre uma aplicação web e a aplicação desktop?](https://pt.stackoverflow.com/q/177531/101)
 
+# Typing
+
+- [Qual a forma correta de usar os tipos float, double e decimal?](https://pt.stackoverflow.com/q/219211/101)
+
 # Data Structure
 
 - [Qual a diferença entre lista simplesmente-encadeada e duplamente-encadeada?](https://pt.stackoverflow.com/q/102983/101)
