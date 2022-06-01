@@ -1,2 +1,3 @@
 - [CMD, PowerShell, Bash - Qual a diferença?](https://pt.stackoverflow.com/q/145926/101)
 - [Qual é a diferença entre o Apache Cordova e o Ionic?](https://pt.stackoverflow.com/q/236145/101)
+- [O que é um Teste de Mesa? Como aplicá-lo?](https://pt.stackoverflow.com/q/220474/101)
