@@ -49,6 +49,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 # Data Structure
 
 - [Qual a diferença entre lista simplesmente-encadeada e duplamente-encadeada?](https://pt.stackoverflow.com/q/102983/101)
+- [O que é JSON? Para que serve e como funciona?](https://pt.stackoverflow.com/q/4042/101)
 
 # Algorithms
 
