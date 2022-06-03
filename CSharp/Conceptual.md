@@ -35,6 +35,7 @@
 # ASP.NET
 
 - [Como funciona o “namespace” no ASP.NET](http://pt.stackoverflow.com/q/15666/101)
+- [Qual é a diferença entre C# e ASP.NET?](https://pt.stackoverflow.com/q/3581/101)
 
 # Visual Studio
 
