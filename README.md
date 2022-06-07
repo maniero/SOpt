@@ -12,7 +12,7 @@ Gostou do que eu posto? Quer me "pagar"? Só faça me ajude compartilhando para 
 <a href="https://mvp.microsoft.com/pt-br/PublicProfile/5002397"><img src="https://i.stack.imgur.com/Pxtyu.png" alt="Veja meu perfil e realizações como Microsoft Most Valuable Professional"></a>
 
 <a href="https://www.linkedin.com/in/maniero/"><img src="https://i.stack.imgur.com/xuK85.png" alt="Linkedin"></a>
-<a href="https://www.quora.com/profile/Antonio-Maniero"><img src="https://i.stack.imgur.com/yTbv3.png" alt="Quora"></a>
+<a href="https://pt.quora.com/profile/Antonio-Maniero"><img src="https://i.stack.imgur.com/yTbv3.png" alt="Quora"></a>
 <a href="https://medium.com/@devraiz"><img src="https://i.stack.imgur.com/XEJUq.png" alt="Medium"></a>
 <a href="https://pt.stackoverflow.com/users/101/maniero?tab=profile"><img src="https://i.stack.imgur.com/26l2Y.png" alt="Stack Overflow"></a>
 <a href="https://github.com/maniero"><img src="https://i.stack.imgur.com/a2v1f.png" alt="GitHub"></a>
