@@ -4,6 +4,7 @@
 - [O que é parse, e como funciona o parse do DOM no HTML5?](https://pt.stackoverflow.com/q/99632/101)
 - [É possível criar uma aplicação desktop usando apenas PHP, HTML, CSS e jQuery?](https://pt.stackoverflow.com/q/107280/101)
 - [Comentários em CSS com // ao invés de /* */](https://pt.stackoverflow.com/q/46229/101)
+- [HTML é uma linguagem de programação?](https://pt.stackoverflow.com/q/35547/101)
   
 # HTTP
   
