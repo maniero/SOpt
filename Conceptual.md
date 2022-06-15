@@ -60,6 +60,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 # OOP
 
 - [Qual a diferença entre Associação, Agregação e Composição em OOP?](https://pt.stackoverflow.com/q/86715/101)
+- [O que é e para que serve uma classe abstrata?](https://pt.stackoverflow.com/q/87423/101)
 
 # Threading
 
