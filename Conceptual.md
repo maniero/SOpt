@@ -81,6 +81,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Desfazendo um pull no Git](https://pt.stackoverflow.com/q/74566/101)
 - [Como dar permissão para outros usuários uparem conteúdo no meu projeto no GitHub?](https://pt.stackoverflow.com/q/326508/101)
 - [Aviso Git: LF will be replaced by CRLF](https://pt.stackoverflow.com/q/44373/101)
+- [Como excluir commit de um branch no Git?](https://pt.stackoverflow.com/q/128578/101)
 
 # Computers
 
