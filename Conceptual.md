@@ -96,3 +96,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 
 - [O que é overhead?](https://pt.stackoverflow.com/q/198252/101)
 - [Qual é a diferença de API, biblioteca e Framework?](https://pt.stackoverflow.com/q/17501/101)
+- [O que é payload?](https://pt.stackoverflow.com/q/188469/101)
