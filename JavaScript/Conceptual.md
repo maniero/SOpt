@@ -19,3 +19,7 @@
 # High level
   
 - [Qual a diferença entre servidor web e servidor de aplicação?](https://pt.stackoverflow.com/q/122589/101)
+  
+# Frameworks
+  
+- [O que é o Vanilla JS?](https://pt.stackoverflow.com/q/46983/101)
