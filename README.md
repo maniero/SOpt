@@ -26,7 +26,7 @@ Em cada local eu posto coisas diferentes, então **me siga em vários deles**.
 <img src="https://stackexchange.com/users/flair/77792.png" width="208" height="58" alt="perfil de Maniero no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade" title="perfil de Maniero no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade"></a>  
 [Former Moderator on SoftEng.SE][1]
 
-**Aviso sobre minhas postagens em todas plataformas**: Sei que algumas coisas que eu posto causam polêmica e atrai a ira de alguns. Não faço para causar mas alguém precisa dizer o que não é lugar comum, só porque você não sabia não significa que está errado.  Obrigado se compreender, ainda que discorde. Se discorda só lamento, é um direito seu e respeito isso. Talvez seja questão da experiência diferente que temos. Dê sugestões e questione nos comentários, isso me ajuda, calado não. Seja respeitoso. Não ligo para a opinião de quem não age assim.
+**Aviso sobre minhas postagens em todas plataformas**: Sei que algumas coisas que eu posto causam polêmica e atrai a ira de alguns. Não faço para causar mas alguém precisa dizer o que não é lugar comum, só porque você não sabia não significa que está errado. Obrigado se compreender, ainda que discorde. Se discorda só lamento, é um direito seu e respeito isso. Talvez seja questão da experiência diferente que temos. Dê sugestões e questione nos comentários, isso me ajuda, calado não. Seja respeitoso. Não ligo para a opinião de quem não age assim, mas adoro quem questiona sensatamente.
 
 Se eu errei você precisa demonstrar o erro. Acho que mais acerto e não tenho compromisso com o erro.
 
