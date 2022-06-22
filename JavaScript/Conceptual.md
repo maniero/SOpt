@@ -11,6 +11,7 @@
 - [Qual é a diferença entre 401 Unauthorized e 403 Forbidden?](https://pt.stackoverflow.com/q/50209/101)
 - [O que é REST e RESTful?](https://pt.stackoverflow.com/q/45783/101)
 - [Qual é a diferença entre o método PUT e o POST?](https://pt.stackoverflow.com/q/92870/101)
+- [Qual a diferença entre URL e URI?](https://pt.stackoverflow.com/q/43224/101)
 
 # JavaScript
   
