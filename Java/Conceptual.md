@@ -17,3 +17,4 @@
 # Misc
 
 - [É possível utilizar ponteiros em Java?](https://pt.stackoverflow.com/q/58219/101)
+- [Quais as diferenças mais relevantes entre C# e Java?](https://pt.stackoverflow.com/q/110142/101)
