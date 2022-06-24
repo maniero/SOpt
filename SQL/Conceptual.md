@@ -15,6 +15,7 @@
 - [Por que é muito utilizado Varchar(255)?](https://pt.stackoverflow.com/q/190799/101)
 - [Qual a diferença entre SMALLINT(3) e INT(3)?](https://pt.stackoverflow.com/q/310488/101)
 - [Qual a vantagem em usar o tipo ENUM?](https://pt.stackoverflow.com/q/81801/101)
+- [É possível usar if else em consultas MySQL?](https://pt.stackoverflow.com/q/135034/101)
 
 # General
 
