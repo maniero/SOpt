@@ -1,2 +1,2 @@
 - [Qual é a principal diferença entre um Tuple e um List?](https://pt.stackoverflow.com/q/52799/101)
-- [Qual a forma correta de concatenar strings em JavaScript?](https://pt.stackoverflow.com/q/231359/101)
+- [oloquei no **GitHub** para referência futura.](https://pt.stackoverflow.com/q/257132/101)
