@@ -68,6 +68,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 # Threading
 
 - [É sempre garantido que uma aplicação com múltiplas threads rode mais rápido que usando uma única thread?](http://pt.stackoverflow.com/q/1946/101)
+- [Existe diferença entre Programa, Thread e Processo?](https://pt.stackoverflow.com/q/131108/101)
 
 # Memory
 
