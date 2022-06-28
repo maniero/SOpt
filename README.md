@@ -30,6 +30,8 @@ Em cada local eu posto coisas diferentes, então **me siga em vários deles**.
 
 Se eu errei você precisa demonstrar o erro. Acho que mais acerto e não tenho compromisso com o erro.
 
+Se você não leu isto talvez eu não responda. É que eu recebo muito comentário de *troll*, de quem não possuem conhecimento sobre o assunto para debater, então a pessoa só deveria perguntar. Demonstre que você não vai cair em falácias e incoerências, apresente fatos, não posso ficar respondendo todas discordâncias, especialmente as que vão levar a vários comentparios. "Lamento" não ter tempo para alimentar *trolls*.
+
 Entendo o poder que *fake news* (ensinamento errado) tem nas pessoas e o estrago que fazem, por isso **preciso da sua ajuda** em engajamento nas plataformas, sei que é chato pedir isso, mas é a única forma para combatê-las.
 
 Entenda que sempre quero ajudar fazer nossa área melhor e você prosperar. Meu objetivo é sempre ajudar na formação de bons engenheiros de software, não de meros codificadores ou curiosos na área, não sei fazer isso. Conto com meu leitor saber interpretar texto. Posto *links* em inglês porque o conteúdo costuma ser melhor, se você é meu leitor sabe como se virar mesmo não sabendo a língua.
