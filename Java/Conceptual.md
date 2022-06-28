@@ -14,6 +14,10 @@
 
 -[Qual o uso de uma variável estática ou final em Java?](https://pt.stackoverflow.com/a/17018/101)
 
+# Library
+
+-[Qual a finalidade da interface Serializable?](https://pt.stackoverflow.com/q/88270/101)
+
 # Misc
 
 - [É possível utilizar ponteiros em Java?](https://pt.stackoverflow.com/q/58219/101)
