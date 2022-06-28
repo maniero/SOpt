@@ -16,6 +16,7 @@
 - [Qual a diferença entre SMALLINT(3) e INT(3)?](https://pt.stackoverflow.com/q/310488/101)
 - [Qual a vantagem em usar o tipo ENUM?](https://pt.stackoverflow.com/q/81801/101)
 - [É possível usar if else em consultas MySQL?](https://pt.stackoverflow.com/q/135034/101)
+- [Qual a diferença de desempenho entre BIGINT e o INT no MySQL?](https://pt.stackoverflow.com/q/73795/101)
 
 # General
 
