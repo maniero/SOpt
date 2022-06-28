@@ -12,6 +12,7 @@
 # Methods
 
 - [Receber quantidade indefinida de parâmetros em C#](http://pt.stackoverflow.com/q/14532/101)
+- [Qual a função de um método estático?](https://pt.stackoverflow.com/q/54012/101)
 
 # Memory Managemnent
 
