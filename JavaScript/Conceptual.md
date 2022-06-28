@@ -5,6 +5,7 @@
 - [É possível criar uma aplicação desktop usando apenas PHP, HTML, CSS e jQuery?](https://pt.stackoverflow.com/q/107280/101)
 - [Comentários em CSS com // ao invés de /* */](https://pt.stackoverflow.com/q/46229/101)
 - [HTML é uma linguagem de programação?](https://pt.stackoverflow.com/q/35547/101)
+- [Quais são as diferenças entre os valores "pt" e "pt-BR" do atributo lang?](https://pt.stackoverflow.com/q/119113/101)
   
 # HTTP
   
