@@ -19,6 +19,10 @@
 - [Qual a diferença de desempenho entre BIGINT e o INT no MySQL?](https://pt.stackoverflow.com/q/73795/101)
 - [Quais as vantagens e desvantagens do uso de índices em base de dados?](https://pt.stackoverflow.com/q/35088/101)
 
+# SQL Server
+
+- [Qual a diferença entre varchar e nvarchar?](https://pt.stackoverflow.com/q/214295/101)
+
 # General
 
 - [Qual a diferença entre clustered index e nonclustered index?](https://pt.stackoverflow.com/q/198708/101)
