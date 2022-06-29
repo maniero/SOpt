@@ -103,3 +103,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual é a diferença de API, biblioteca e Framework?](https://pt.stackoverflow.com/q/17501/101)
 - [O que é payload?](https://pt.stackoverflow.com/q/188469/101)
 - [O que significa o termo Fallback?](https://pt.stackoverflow.com/q/152503/101)
+- [Quais as principais diferenças entre Unicode, UTF, ASCII, ANSI?](https://pt.stackoverflow.com/q/156951/101)
