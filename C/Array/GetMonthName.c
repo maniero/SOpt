@@ -6,7 +6,7 @@ int main() {
     scanf("%d", &mes);
     if (mes < 1 || mes > 12) {
     	printf("Erro\n");
-    	return 0;
+    	return -1;
     }
     printf("%s", (char *[12]){ "Janeiro", "Fevereiro", "Marco", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro" }[mes - 1]);
 }
