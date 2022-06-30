@@ -6,6 +6,7 @@
 - [Comentários em CSS com // ao invés de /* */](https://pt.stackoverflow.com/q/46229/101)
 - [HTML é uma linguagem de programação?](https://pt.stackoverflow.com/q/35547/101)
 - [Quais são as diferenças entre os valores "pt" e "pt-BR" do atributo lang?](https://pt.stackoverflow.com/q/119113/101)
+- [Qual diferença entre htm, html, dhtml e ghtml?](https://pt.stackoverflow.com/q/181884/101)
   
 # HTTP
   
