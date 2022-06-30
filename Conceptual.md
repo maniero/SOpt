@@ -89,6 +89,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Aviso Git: LF will be replaced by CRLF](https://pt.stackoverflow.com/q/44373/101)
 - [Como excluir commit de um branch no Git?](https://pt.stackoverflow.com/q/128578/101)
 - [Quais as diferenças entre Git, SVN e CVS?](https://pt.stackoverflow.com/q/8315/101)
+- [Qual significado de branch, tag e trunk?](https://pt.stackoverflow.com/q/20989/101)
 
 # Computers
 
