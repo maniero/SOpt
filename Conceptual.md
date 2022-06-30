@@ -45,6 +45,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Como desenvolver manuais de usuários?](https://pt.stackoverflow.com/q/95401/101)
 - [Quais são as diferenças entre uma aplicação web e a aplicação desktop?](https://pt.stackoverflow.com/q/177531/101)
 - [O que são os conceitos de coesão e acoplamento?](https://pt.stackoverflow.com/q/81314/101)
+- [Como definir a versão de um software?](https://pt.stackoverflow.com/q/101896/101)
 
 # Typing
 
