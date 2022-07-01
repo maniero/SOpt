@@ -42,5 +42,33 @@ Minhas opiniões não refletem ninguém ligado a mim e é o que eu pensava naque
 
 Ah, sei que não sou comediante, mas eu sou bem humorado, também lamento se não faço perceber isso :D Minhas *trollagens* são para fazer graça, nunca para causar confusão.
 
+Por fim deixo uma fábula para entender porque não vou te responder sem demostrar que merece:
+
+![Tigre e um burro sobre a grama](https://i.stack.imgur.com/nA4ZW.png)
+
+> O burro disse ao tigre: “A grama é azul.”
+> 
+> O tigre respondeu: “Não, a grama é verde.”
+> 
+> A discussão acirrou e os dois decidiram submetê-la à arbitragem do leão, o Rei da Selva.
+> 
+> Antes mesmo de chegar à clareira onde o leão estava sentado em seu trono, o burro começou a gritar: “Vossa Alteza, não é verdade que a grama é azul?
+> 
+> O leão respondeu: “Certo, a grama é azul!”
+> 
+> O burro continuou: “O tigre discorda de mim e isso me incomoda. Por favor, castigue-o.”
+> 
+> O rei declarou então: “O tigre será punido com quatro anos de silêncio”.
+> 
+> O burro, saltitante e feliz, continuou o seu caminho, repetindo: “A grama é azul!”
+> 
+> O tigre aceitou sua punição, mas questionou o leão: “Sua Majestade, por que fui punido? Afinal, a grama é verde.”
+> 
+> O leão respondeu: “Sim, na verdade, a grama é verde!”
+> 
+> O tigre perguntou: “Então por que está me punindo?”
+> 
+> O leão respondeu: “Isso não tem nada a ver com a questão de se a grama é azul ou verde. O castigo é devido ao fato de que não é possível para uma criatura corajosa e inteligente como você perder tempo discutindo com um burro, e ainda por cima me incomodando com essa questão.”
+
 
   [1]: https://softwareengineering.stackexchange.com/users/389/bigown
