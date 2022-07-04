@@ -70,5 +70,12 @@ Por fim deixo uma fábula para entender porque não vou te responder sem demostr
 > 
 > O leão respondeu: “Isso não tem nada a ver com a questão de se a grama é azul ou verde. O castigo é devido ao fato de que não é possível para uma criatura corajosa e inteligente como você perder tempo discutindo com um burro, e ainda por cima me incomodando com essa questão.”
 
+[Brasil é o país com a 2a. pior percepção da realidade[[2]. Quase todo mundo concorda com isso e que os outros realamente tem a percepção afetada. A conta não fecha. As pessoas precisam se ater mais aos fatos. Isto afeta a vida de todos mais do que imaginam, mais um fator de fuga da realidade. Há uma tendência de quanto mais confiante mais erra.
+
+Eu me desculpo por ter dificuldades de lidar com analfabetos funcionais. Um dia eu explico porque isso acontece, enquanto isso (provavelmente) deixo você achando coisas horríveis sobre mim.
+
+Obrigado por ler, ainda mais se compreender.
+
 
   [1]: https://softwareengineering.stackexchange.com/users/389/bigown
+  [2]: https://www.dw.com/pt-br/brasil-%C3%A9-2%C2%BA-pa%C3%ADs-com-pior-no%C3%A7%C3%A3o-da-pr%C3%B3pria-realidade/a-41682142
