@@ -19,6 +19,7 @@
 - [É possível usar if else em consultas MySQL?](https://pt.stackoverflow.com/q/135034/101)
 - [Qual a diferença de desempenho entre BIGINT e o INT no MySQL?](https://pt.stackoverflow.com/q/73795/101)
 - [Quais as vantagens e desvantagens do uso de índices em base de dados?](https://pt.stackoverflow.com/q/35088/101)
+- [Quais as diferenças entre MyISAM e InnoDB?](https://pt.stackoverflow.com/q/41672/101)
 
 # SQL Server
 
