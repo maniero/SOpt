@@ -33,6 +33,7 @@
 # .NET
 
 - [O que é Reflection. Por que é útil?](https://pt.stackoverflow.com/q/13089/101)
+- [O que é o .NET Core?](https://pt.stackoverflow.com/q/40671/101)
 
 # ASP.NET
 
