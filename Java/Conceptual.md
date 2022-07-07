@@ -22,3 +22,4 @@
 
 - [É possível utilizar ponteiros em Java?](https://pt.stackoverflow.com/q/58219/101)
 - [Quais as diferenças mais relevantes entre C# e Java?](https://pt.stackoverflow.com/q/110142/101)
+- [O que é uma linguagem interpretada? Java é interpretado?](https://pt.stackoverflow.com/q/22647/101)
