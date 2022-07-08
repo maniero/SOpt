@@ -15,6 +15,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual a diferença entre linguagem compilada para linguagem interpretada?](https://pt.stackoverflow.com/q/77070/101)
 - [Quais as diferenças mais relevantes entre C# e Java?](https://pt.stackoverflow.com/q/110142/101)
 - [Para que serve um construtor?](https://pt.stackoverflow.com/q/73530/101)
+- [O que faz uma linguagem ser considerada de baixo/alto nível?](https://pt.stackoverflow.com/q/57309/101)
 
 # Coding Style
 
