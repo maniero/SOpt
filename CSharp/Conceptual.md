@@ -34,6 +34,7 @@
 
 - [O que é Reflection. Por que é útil?](https://pt.stackoverflow.com/q/13089/101)
 - [O que é o .NET Core?](https://pt.stackoverflow.com/q/40671/101)
+- [Diferença entre Console.Read(); e Console.ReadLine();](https://pt.stackoverflow.com/q/50950/101)
 
 # ASP.NET
 
