@@ -17,3 +17,4 @@
 # Misc
 
 - [É possível programar orientado a objeto em C?](https://pt.stackoverflow.com/q/80228/101)
+- [O que é segmentation fault?](https://pt.stackoverflow.com/q/177185/101)
