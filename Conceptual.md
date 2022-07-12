@@ -95,6 +95,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Quais as diferenças entre Git, SVN e CVS?](https://pt.stackoverflow.com/q/8315/101)
 - [Qual significado de branch, tag e trunk?](https://pt.stackoverflow.com/q/20989/101)
 - [Diferenças e vantagens entre GitHub e GitLab](https://pt.stackoverflow.com/q/224304/101)
+- [Como atualizar repositório Github depois de ter alterado arquivos localmente no Git?](https://pt.stackoverflow.com/q/44713/101)
 
 # Computers
 
