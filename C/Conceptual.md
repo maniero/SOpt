@@ -13,6 +13,7 @@
 # Library
 
 - [O que a expressão `system("pause")` faz?](https://pt.stackoverflow.com/q/349388/101)
+- [Qual é a diferença entre "calloc()" e "malloc()"?](https://pt.stackoverflow.com/q/179205/101)
 
 # Misc
 
