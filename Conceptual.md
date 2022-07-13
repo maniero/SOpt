@@ -85,6 +85,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Programar C em Linux - IDE vs. editor + linha de comando](http://pt.stackoverflow.com/q/15794/101)
 - [Como converter bloco de código em única linha?](https://pt.stackoverflow.com/q/81282/101)
 - [Diferença entre o Visual Studio Community, Enterprise e Code](https://pt.stackoverflow.com/q/152242/101)
+- [O que é "build" e qual é a sua relação com a IDE?](https://pt.stackoverflow.com/q/157135/101)
 
 # Git
 
