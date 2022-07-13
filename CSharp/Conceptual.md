@@ -30,6 +30,10 @@
 - [C# tem suporte à GPS?](http://pt.stackoverflow.com/q/14856/101)
 - [Qual a melhor forma de fazer a leitura de um arquivo XLS?](http://pt.stackoverflow.com/a/15605/101)
 
+# LINQ
+
+- [O que são loop Parallel.For e Parallel.ForEach?](https://pt.stackoverflow.com/q/234618/101)
+
 # .NET
 
 - [O que é Reflection. Por que é útil?](https://pt.stackoverflow.com/q/13089/101)
