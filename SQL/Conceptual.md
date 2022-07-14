@@ -25,6 +25,10 @@
 
 - [Qual a diferença entre varchar e nvarchar?](https://pt.stackoverflow.com/q/214295/101)
 
+# SQLite
+
+- [É possível usar o SQLite como cliente-servidor?](https://pt.stackoverflow.com/q/2371/101)
+
 # General
 
 - [Qual a diferença entre clustered index e nonclustered index?](https://pt.stackoverflow.com/q/198708/101)
