@@ -5,6 +5,7 @@
 - [Diferença entre %i e %d](https://pt.stackoverflow.com/q/152399/101)
 - [Qual o significado do operador "&" (e comercial) na linguagem C?](https://pt.stackoverflow.com/q/125793/101)
 - [Quando usar const e quando usar #define?](https://pt.stackoverflow.com/q/136467/101)
+- [Como um ponteiro pode apontar para uma função?](https://pt.stackoverflow.com/q/430446/101)
 
 # Algorithm
 
