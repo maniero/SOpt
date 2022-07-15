@@ -7,6 +7,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Quais as principais vantagens e desvantagens de se usar um parser LL ou um LR?](http://pt.stackoverflow.com/q/2044/101)
 - [Como saber em que linguagem um programa foi escrito?](https://pt.stackoverflow.com/q/260120/101)
 - [O que é linguagem de programação, IDE e compilador?](https://pt.stackoverflow.com/q/101691/101)
+- [O que é Transpilação?](https://pt.stackoverflow.com/q/189894/101)
 
 # Languages
 
