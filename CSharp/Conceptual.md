@@ -25,6 +25,7 @@
 
 - [Por que usar short?](http://pt.stackoverflow.com/q/13930/101)
 - [Qual é a diferença de string vs String?](http://pt.stackoverflow.com/a/3787/101)
+- [Verificar se int é "null" em C#](https://pt.stackoverflow.com/q/229191/101)
 
 # Libraries
 
