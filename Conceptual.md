@@ -52,6 +52,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que são os conceitos de coesão e acoplamento?](https://pt.stackoverflow.com/q/81314/101)
 - [Como definir a versão de um software?](https://pt.stackoverflow.com/q/101896/101)
 - [O que é MVP e MVVM?](https://pt.stackoverflow.com/q/21539/101)
+- [Qual a diferença entre mock & stub?](https://pt.stackoverflow.com/q/36745/101)
 
 # Typing
 
