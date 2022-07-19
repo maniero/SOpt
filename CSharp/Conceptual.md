@@ -5,6 +5,7 @@
 - [O que o C++ pode fazer que o C# não pode?](https://pt.stackoverflow.com/q/7740/101)
 - [Qual a diferença entre Struct e Class?](https://pt.stackoverflow.com/q/16181/101)
 - [Em C#, para que serve a palavra chave await?](https://pt.stackoverflow.com/q/2793/101)
+- [Como e quando usar Interface?](https://pt.stackoverflow.com/q/107524/101)
 
 # Exceptions
 
