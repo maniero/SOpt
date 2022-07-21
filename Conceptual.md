@@ -18,6 +18,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Quais as diferenças mais relevantes entre C# e Java?](https://pt.stackoverflow.com/q/110142/101)
 - [Para que serve um construtor?](https://pt.stackoverflow.com/q/73530/101)
 - [O que faz uma linguagem ser considerada de baixo/alto nível?](https://pt.stackoverflow.com/q/57309/101)
+- [Qual a linguagem utilizada para programar um sistema operacional?](https://pt.stackoverflow.com/q/118865/101)
 
 # Coding Style
 
