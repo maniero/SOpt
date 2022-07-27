@@ -83,6 +83,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 # Memory
 
 - [O que são e onde estão o “stack” e “heap”?](http://pt.stackoverflow.com/q/3797/101)
+- [Qual a diferença entre ponteiro e referência?](https://pt.stackoverflow.com/q/56470/101)
 
 # IDE
 
