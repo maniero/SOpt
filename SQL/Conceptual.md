@@ -26,6 +26,7 @@
 # SQL Server
 
 - [Qual a diferença entre varchar e nvarchar?](https://pt.stackoverflow.com/q/214295/101)
+- [Quais os limites SQL Server Express e MySQL?](https://pt.stackoverflow.com/q/75091/101)
 
 # SQLite
 
