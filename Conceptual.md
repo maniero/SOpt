@@ -123,3 +123,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual a diferença entre funções e procedimentos?](https://pt.stackoverflow.com/q/122429/101)
 - [O que significam GMT e UTC?](https://pt.stackoverflow.com/q/398796/101)
 - [Propriedade x Atributo](https://pt.stackoverflow.com/q/75265/101)
+- [O que é um SDK?](https://pt.stackoverflow.com/q/191584/101)
