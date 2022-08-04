@@ -30,6 +30,7 @@
 - [Calcular o resto de uma divisão de números decimais em JavaScript](https://pt.stackoverflow.com/q/107368/101)
 - [Acessar variável dentro e fora de uma função](https://pt.stackoverflow.com/q/114493/101)
 - [JavaScript é uma linguagem Orientada a Objetos?](https://pt.stackoverflow.com/q/141645/101)
+- [O que é o NPM e o Node?](https://pt.stackoverflow.com/q/157034/101)
   
 # High level
   
