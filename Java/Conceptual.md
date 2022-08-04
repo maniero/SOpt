@@ -24,3 +24,4 @@
 - [Quais as diferenças mais relevantes entre C# e Java?](https://pt.stackoverflow.com/q/110142/101)
 - [O que é uma linguagem interpretada? Java é interpretado?](https://pt.stackoverflow.com/q/22647/101)
 - [Tem como passar métodos como parâmetro?](https://pt.stackoverflow.com/q/109898/101)
+- [Qual diferença entre o return e o break em um switch case?](https://pt.stackoverflow.com/q/175459/101)
