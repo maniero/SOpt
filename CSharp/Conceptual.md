@@ -6,6 +6,7 @@
 - [Qual a diferença entre Struct e Class?](https://pt.stackoverflow.com/q/16181/101)
 - [Em C#, para que serve a palavra chave await?](https://pt.stackoverflow.com/q/2793/101)
 - [Como e quando usar Interface?](https://pt.stackoverflow.com/q/107524/101)
+- [Padrão de nomenclatura no código para o C#](https://pt.stackoverflow.com/q/31646/101)
 
 # Exceptions
 
