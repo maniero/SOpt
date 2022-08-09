@@ -55,6 +55,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é MVP e MVVM?](https://pt.stackoverflow.com/q/21539/101)
 - [Qual a diferença entre mock & stub?](https://pt.stackoverflow.com/q/36745/101)
 - [O que é e para que serve uma "tabela verdade"?](https://pt.stackoverflow.com/q/227811/101)
+- [O que é Multi-Tenancy?](https://pt.stackoverflow.com/q/179757/101)
 
 # Typing
 
