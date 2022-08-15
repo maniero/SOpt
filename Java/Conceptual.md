@@ -1,23 +1,21 @@
-# String
+# String & Collencions
 
 - [String e sua eficiência](http://pt.stackoverflow.com/q/16050/101)
+- [ArrayList x List](https://pt.stackoverflow.com/q/73633/101)
+
+# Library
+
+- [Exception vs RuntimeException, quando utilizar um ou outro?](https://pt.stackoverflow.com/q/55624/101)
+-[Qual a finalidade da interface Serializable?](https://pt.stackoverflow.com/q/88270/101)
 
 # Desktop
 
 - [Como criar/manter "variavel global" para login?](https://pt.stackoverflow.com/q/54588/101)
 
-# Exception
-
-- [Exception vs RuntimeException, quando utilizar um ou outro?](https://pt.stackoverflow.com/q/55624/101)
-
 # OOP
 
 - [Qual o uso de uma variável estática ou final em Java?](https://pt.stackoverflow.com/a/17018/101)
 - [Na herança com os atributos privados, a classe filha não toma os seus atributos da classe mãe?](https://pt.stackoverflow.com/q/108574/101)
-
-# Library
-
--[Qual a finalidade da interface Serializable?](https://pt.stackoverflow.com/q/88270/101)
 
 # Misc
 
