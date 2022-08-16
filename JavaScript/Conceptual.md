@@ -31,6 +31,7 @@
 - [Acessar variável dentro e fora de uma função](https://pt.stackoverflow.com/q/114493/101)
 - [JavaScript é uma linguagem Orientada a Objetos?](https://pt.stackoverflow.com/q/141645/101)
 - [Obter data e hora independente da hora do sistema](https://pt.stackoverflow.com/q/140645/101)
+- [Como uma função é executa automaticamente sem ser chamada?](https://pt.stackoverflow.com/q/194465/101)
   
 # High level
   
