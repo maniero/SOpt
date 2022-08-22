@@ -1,0 +1,1 @@
+- [Clipper ainda existe?](https://pt.stackoverflow.com/q/43902/101)
