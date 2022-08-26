@@ -19,6 +19,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Para que serve um construtor?](https://pt.stackoverflow.com/q/73530/101)
 - [O que faz uma linguagem ser considerada de baixo/alto nível?](https://pt.stackoverflow.com/q/57309/101)
 - [Qual a linguagem utilizada para programar um sistema operacional?](https://pt.stackoverflow.com/q/118865/101)
+- [O Excel é uma linguagem de programação?](https://pt.stackoverflow.com/q/99642/101)
 
 # Coding Style
 
