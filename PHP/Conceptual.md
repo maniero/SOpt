@@ -5,3 +5,4 @@
 - [Uso de ? e : em PHP](https://pt.stackoverflow.com/q/56812/101)
 - [Posso escrever em JavaScript dentro de PHP?](https://pt.stackoverflow.com/q/89802/101)
 - [Usar o addslashes contra injeção de SQL é seguro?](https://pt.stackoverflow.com/q/50839/101)
+- [Qual é a vantagem de usarmos funções recursivas?](https://pt.stackoverflow.com/q/107657/101)
