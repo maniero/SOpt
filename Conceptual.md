@@ -127,3 +127,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que significam GMT e UTC?](https://pt.stackoverflow.com/q/398796/101)
 - [Propriedade x Atributo](https://pt.stackoverflow.com/q/75265/101)
 - [O que é um SDK?](https://pt.stackoverflow.com/q/191584/101)
+- [Qual a diferença entre carriage return e line feed?](https://pt.stackoverflow.com/q/93444/101)
