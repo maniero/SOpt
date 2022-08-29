@@ -7,6 +7,7 @@
 - [Em C#, para que serve a palavra chave await?](https://pt.stackoverflow.com/q/2793/101)
 - [Como e quando usar Interface?](https://pt.stackoverflow.com/q/107524/101)
 - [Padrão de nomenclatura no código para o C#](https://pt.stackoverflow.com/q/31646/101)
+- [Para que serve e onde pode usar C#?](https://pt.stackoverflow.com/q/204430/101)
 
 # Exceptions
 
