@@ -27,6 +27,7 @@
 
 - [Qual a diferença entre varchar e nvarchar?](https://pt.stackoverflow.com/q/214295/101)
 - [Quais os limites SQL Server Express e MySQL?](https://pt.stackoverflow.com/q/75091/101)
+- [Como definir "charset" de uma tabela no SQL Server?](https://pt.stackoverflow.com/q/80583/101)
 
 # SQLite
 
