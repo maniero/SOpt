@@ -37,6 +37,7 @@
 - [Qual a melhor forma de fazer a leitura de um arquivo XLS?](http://pt.stackoverflow.com/a/15605/101)
 - [Melhor prática para registrar log do sistema](https://pt.stackoverflow.com/q/52240/101)
 - [Como é gerado o GUID (Identificador Único Global)?](https://pt.stackoverflow.com/q/184538/101)
+- [Devo utilizar GUID ou int como chave primária?](https://pt.stackoverflow.com/q/21907/101)
 
 # LINQ
 
