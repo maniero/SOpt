@@ -37,6 +37,7 @@
 
 - [Qual a diferença entre clustered index e nonclustered index?](https://pt.stackoverflow.com/q/198708/101)
 - [Qual a diferença entre View e Materialized View?](https://pt.stackoverflow.com/q/138033/101)
+- [O que é Data Warehouse e quais suas vantagens e desvantagens?](https://pt.stackoverflow.com/q/54007/101)
 
 # SQL
 
