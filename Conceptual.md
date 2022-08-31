@@ -58,6 +58,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é e para que serve uma "tabela verdade"?](https://pt.stackoverflow.com/q/227811/101)
 - [O que é Multi-Tenancy?](https://pt.stackoverflow.com/q/179757/101)
 - [Qual a diferença entre um programador e um engenheiro de software?](https://pt.stackoverflow.com/q/207541/101)
+- [Diferença entre epics e features](https://pt.stackoverflow.com/q/177334/101)
 
 # Typing
 
