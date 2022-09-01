@@ -38,6 +38,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 
 - [O que fazer se cliente pode ser tanto PF quanto PJ?](http://pt.stackoverflow.com/q/14839/101)
 - [Quantidade de caracteres do CPF, CNPJ e RG](https://pt.stackoverflow.com/q/121593/101)
+- [O que fazer se cliente pode ser tanto PF quanto PJ?](https://pt.stackoverflow.com/q/14839/101)
 
 # Database
 
