@@ -1,7 +1,6 @@
 - [O que o C++ pode fazer que o C# não pode?](https://pt.stackoverflow.com/q/7740/101)
 - [O que são os arquivos com extensão .cpp e .h?](https://pt.stackoverflow.com/q/240579/101)
-
 - [É possível criar uma aplicação em C/C++ para Android?](https://pt.stackoverflow.com/q/209455/101)
-
 - [Qual é o significado da palavra "cout" no C/C++?](https://pt.stackoverflow.com/q/113302/101)
 - [Formas de instanciar um objeto e declarar construtores](https://pt.stackoverflow.com/q/87980/101)
+- [Diferença de cout para printf() em C++](https://pt.stackoverflow.com/q/204071/101)
