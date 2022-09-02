@@ -26,6 +26,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Por que devo usar apenas um “return” em cada função?](http://pt.stackoverflow.com/q/2477/101)
 - [Como escrever um código legível e de fácil manutenção?](http://pt.stackoverflow.com/q/13890/101)
 - [Como saber a medida certa de comentários?](http://pt.stackoverflow.com/q/15488/101)
+- [Quais as melhores práticas para dar nome às funções?](https://pt.stackoverflow.com/q/106061/101)
 
 # Paradigms
 
