@@ -7,3 +7,4 @@
 - [Usar o addslashes contra injeção de SQL é seguro?](https://pt.stackoverflow.com/q/50839/101)
 - [Qual é a vantagem de usarmos funções recursivas?](https://pt.stackoverflow.com/q/107657/101)
 - [Vantagens de usar PHP Orientado a Objetos? Onde usar?](https://pt.stackoverflow.com/q/108204/101)
+- [Como usar o PHP na linha de comando?](https://pt.stackoverflow.com/q/361581/101)
