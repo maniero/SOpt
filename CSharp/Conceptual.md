@@ -24,6 +24,7 @@
 
 - [Alocação de memória em C# - Tipos valor e tipos referência](http://pt.stackoverflow.com/q/14490/101)
 - [Como funciona o gerenciamento de métodos na memória em C#?](http://pt.stackoverflow.com/q/14334/101)
+- [O que é um dump de memória?](https://pt.stackoverflow.com/q/77916/101)
 
 # Typing
 
