@@ -9,6 +9,7 @@
 - [Padrão de nomenclatura no código para o C#](https://pt.stackoverflow.com/q/31646/101)
 - [Para que serve e onde pode usar C#?](https://pt.stackoverflow.com/q/204430/101)
 - [Quais as principais diferenças entre VB.NET e C#?](https://pt.stackoverflow.com/q/51599/101)
+- [C# é uma linguagem compilada ou interpretada?](https://pt.stackoverflow.com/q/125588/101)
 
 # Exceptions
 
