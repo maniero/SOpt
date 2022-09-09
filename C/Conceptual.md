@@ -17,6 +17,7 @@
 - [O que a expressão `system("pause")` faz?](https://pt.stackoverflow.com/q/349388/101)
 - [Qual é a diferença entre "calloc()" e "malloc()"?](https://pt.stackoverflow.com/q/179205/101)
 - [Manipulação do malloc() e realloc()](https://pt.stackoverflow.com/q/322228/101)
+- [Qual a diferença de DLL e lib?](https://pt.stackoverflow.com/q/44269/101)
 
 # Misc
 
