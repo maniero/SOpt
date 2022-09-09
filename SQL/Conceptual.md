@@ -10,6 +10,7 @@
 - [Tipo do campo CPF ou CNPJ no banco de dados VARCHAR ou INT?](https://pt.stackoverflow.com/q/47871/101)
 - [https://github.com/maniero/SOpt/blob/master/SQL/Conceptual.md](https://pt.stackoverflow.com/q/138452/101)
 - [Quando é interessante desnormalizar o banco de dados?](https://pt.stackoverflow.com/q/22069/101)
+- [Modelagem de dados para produtos](https://pt.stackoverflow.com/q/342677/101)
 
 # MySQL
 
