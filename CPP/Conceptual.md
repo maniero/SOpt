@@ -4,3 +4,4 @@
 - [Qual é o significado da palavra "cout" no C/C++?](https://pt.stackoverflow.com/q/113302/101)
 - [Formas de instanciar um objeto e declarar construtores](https://pt.stackoverflow.com/q/87980/101)
 - [Diferença de cout para printf() em C++](https://pt.stackoverflow.com/q/204071/101)
+- [É possível desenvolver sites com C/C++?](https://pt.stackoverflow.com/q/171613/101)
