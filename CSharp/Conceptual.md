@@ -15,6 +15,7 @@
 
 - [Melhor maneira de lidar com Exceptions](http://pt.stackoverflow.com/a/13611/101)
 - [É uma boa prática lançar exceção nesses casos?](http://pt.stackoverflow.com/q/15261/101)
+- [O que causa o 'System.NullReferenceException'?](https://pt.stackoverflow.com/q/106133/101)
 
 # Methods
 
