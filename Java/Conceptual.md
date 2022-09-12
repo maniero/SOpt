@@ -3,6 +3,10 @@
 - [String e sua eficiência](http://pt.stackoverflow.com/q/16050/101)
 - [ArrayList x List](https://pt.stackoverflow.com/q/73633/101)
 
+# Language
+
+- [Como criar um método com parâmetros opcionais em Java puro?](https://pt.stackoverflow.com/q/145625/101)
+
 # Library
 
 - [Exception vs RuntimeException, quando utilizar um ou outro?](https://pt.stackoverflow.com/q/55624/101)
