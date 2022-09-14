@@ -24,6 +24,7 @@
 - [Quais as vantagens e desvantagens do uso de índices em base de dados?](https://pt.stackoverflow.com/q/35088/101)
 - [Quais as diferenças entre MyISAM e InnoDB?](https://pt.stackoverflow.com/q/41672/101)
 - [Diferença entre decimal e numeric](https://pt.stackoverflow.com/q/54176/101)
+- [BIT(1) versus TINYINT(1) para valores booleanos](https://pt.stackoverflow.com/q/108842/101)
 
 # SQL Server
 
