@@ -11,6 +11,7 @@
 
 - [Exception vs RuntimeException, quando utilizar um ou outro?](https://pt.stackoverflow.com/q/55624/101)
 - [Qual a finalidade da interface Serializable?](https://pt.stackoverflow.com/q/88270/101)
+- [O que é stream?](https://pt.stackoverflow.com/q/227339/101)
 
 # Desktop
 
