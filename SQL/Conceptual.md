@@ -49,3 +49,4 @@
 - [Diferenças entre Natural Join e Inner Join](https://pt.stackoverflow.com/q/55243/101)
 - [Por que usar "SELECT * FROM tabela" é ruim?](https://pt.stackoverflow.com/q/21583/101)
 - [Qual diferença entre where e having?](https://pt.stackoverflow.com/q/211794/101)
+- [O que é um upsert?](https://pt.stackoverflow.com/q/324209/101)
