@@ -22,6 +22,7 @@
 - [Qual a diferença entre URL e URI?](https://pt.stackoverflow.com/q/43224/101)
 - [Qual o significado de do erro 406?](https://pt.stackoverflow.com/q/91822/101)
 - [Quais são as diferenças entre HTTP 2 e HTTP 1.1?](https://pt.stackoverflow.com/q/167014/101)
+- [Qual a diferença entre usar toString() e JSON.stringify()?](https://pt.stackoverflow.com/q/333611/101)
 
 # JavaScript
   
