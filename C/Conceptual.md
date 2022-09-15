@@ -21,6 +21,7 @@
 - [Qual a diferença de DLL e lib?](https://pt.stackoverflow.com/q/44269/101)
 - [Para que serve o sscanf() e sprintf()?](https://pt.stackoverflow.com/q/336172/101)
 - [puts() e printf(), quando e qual usar?](https://pt.stackoverflow.com/q/323261/101)
+- [Limpar buffer em C com fflush() ou __fpurge()](https://pt.stackoverflow.com/q/111697/101)
 
 # Misc
 
