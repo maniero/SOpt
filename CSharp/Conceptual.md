@@ -11,6 +11,7 @@
 - [Quais as principais diferenças entre VB.NET e C#?](https://pt.stackoverflow.com/q/51599/101)
 - [C# é uma linguagem compilada ou interpretada?](https://pt.stackoverflow.com/q/125588/101)
 - [Existe uma forma correta de comentar um trecho de código?](https://pt.stackoverflow.com/q/153813/101)
+- [O que são métodos Async?](https://pt.stackoverflow.com/q/175304/101)
 
 # Exceptions
 
