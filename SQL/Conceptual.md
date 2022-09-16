@@ -12,6 +12,7 @@
 - [Quando é interessante desnormalizar o banco de dados?](https://pt.stackoverflow.com/q/22069/101)
 - [Modelagem de dados para produtos](https://pt.stackoverflow.com/q/342677/101)
 - [Quais são as vantagens de utilizar banco de dados orientado a objetos?](https://pt.stackoverflow.com/q/113899/101)
+- [Modelo relacional banco de dados com SKU](https://pt.stackoverflow.com/q/139902/101)
 
 # MySQL
 
