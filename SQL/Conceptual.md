@@ -1,7 +1,3 @@
-# Firebird
-
-- [Como abrir um arquivo .fdb?](https://pt.stackoverflow.com/q/112883/101)
-
 # Modeling
 
 - [Qual a diferença entre MER (Modelo de Entidade Relacionamento) e DER (Diagrama de Entidade Relacionamento)?](https://pt.stackoverflow.com/q/328342/101)
@@ -13,6 +9,13 @@
 - [Modelagem de dados para produtos](https://pt.stackoverflow.com/q/342677/101)
 - [Quais são as vantagens de utilizar banco de dados orientado a objetos?](https://pt.stackoverflow.com/q/113899/101)
 - [Modelo relacional banco de dados com SKU](https://pt.stackoverflow.com/q/139902/101)
+
+# SQL
+
+- [Diferenças entre Natural Join e Inner Join](https://pt.stackoverflow.com/q/55243/101)
+- [Por que usar "SELECT * FROM tabela" é ruim?](https://pt.stackoverflow.com/q/21583/101)
+- [Qual diferença entre where e having?](https://pt.stackoverflow.com/q/211794/101)
+- [O que é um upsert?](https://pt.stackoverflow.com/q/324209/101)
 
 # MySQL
 
@@ -39,6 +42,14 @@
 - [É possível usar o SQLite como cliente-servidor?](https://pt.stackoverflow.com/q/2371/101)
 - [Qual o limite de armazenamento do SQLite?](https://pt.stackoverflow.com/q/82865/101)
 
+# Oracle
+
+- [Qual é a lógica por trás da função trunc()?](https://pt.stackoverflow.com/q/262967/101)
+
+# Firebird
+
+- [Como abrir um arquivo .fdb?](https://pt.stackoverflow.com/q/112883/101)
+
 # General
 
 - [Qual a diferença entre clustered index e nonclustered index?](https://pt.stackoverflow.com/q/198708/101)
@@ -47,13 +58,6 @@
 - [O que é persistência de dados?](https://pt.stackoverflow.com/q/140411/101)
 - [Como escolher entre NoSQL e SQL?](https://pt.stackoverflow.com/q/122452/101)
 - [O que são os índices, B-tree, hash, GiST e GIN?](https://pt.stackoverflow.com/q/101065/101)
-
-# SQL
-
-- [Diferenças entre Natural Join e Inner Join](https://pt.stackoverflow.com/q/55243/101)
-- [Por que usar "SELECT * FROM tabela" é ruim?](https://pt.stackoverflow.com/q/21583/101)
-- [Qual diferença entre where e having?](https://pt.stackoverflow.com/q/211794/101)
-- [O que é um upsert?](https://pt.stackoverflow.com/q/324209/101)
 
 # NoSQL
 
