@@ -37,18 +37,6 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Programação Funcional e Programação Orientada a Objetos. O que são e quais suas principais diferenças?](https://pt.stackoverflow.com/q/13372/101)
 - [O que é programação procedural e não procedural?](https://pt.stackoverflow.com/q/195069/101)
 
-# Modeling
-
-- [O que fazer se cliente pode ser tanto PF quanto PJ?](http://pt.stackoverflow.com/q/14839/101)
-- [Quantidade de caracteres do CPF, CNPJ e RG](https://pt.stackoverflow.com/q/121593/101)
-- [O que fazer se cliente pode ser tanto PF quanto PJ?](https://pt.stackoverflow.com/q/14839/101)
-
-# Database
-
-- [NoSQL é tão problemático quanto parece?](http://pt.stackoverflow.com/q/14533/101)
-- [Regras de Negócio no Banco de Dados - quais as vantagens e desvantagens?](http://pt.stackoverflow.com/q/15739/101)
-- [O que é scaffold?](https://pt.stackoverflow.com/q/119731/101)
-
 # Engineering
 
 - [O que significa escalabilidade de software?](https://pt.stackoverflow.com/q/90297/101)
@@ -64,6 +52,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual a diferença entre um programador e um engenheiro de software?](https://pt.stackoverflow.com/q/207541/101)
 - [Diferença entre epics e features](https://pt.stackoverflow.com/q/177334/101)
 - [Qual é a diferença entre website e aplicação web?](https://pt.stackoverflow.com/q/236208/101)
+- [O que é scaffold?](https://pt.stackoverflow.com/q/119731/101)
 
 # Typing
 
@@ -137,3 +126,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é um SDK?](https://pt.stackoverflow.com/q/191584/101)
 - [Qual a diferença entre carriage return e line feed?](https://pt.stackoverflow.com/q/93444/101)
 - [O que é ortogonalidade?](https://pt.stackoverflow.com/q/195461/101)
+- [Qual o significado do termo "canônico" no contexto de programação?](https://pt.stackoverflow.com/q/260464/101)
