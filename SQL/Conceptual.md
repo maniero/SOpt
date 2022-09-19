@@ -9,7 +9,10 @@
 - [Modelagem de dados para produtos](https://pt.stackoverflow.com/q/342677/101)
 - [Quais são as vantagens de utilizar banco de dados orientado a objetos?](https://pt.stackoverflow.com/q/113899/101)
 - [Modelo relacional banco de dados com SKU](https://pt.stackoverflow.com/q/139902/101)
-
+- [Regras de Negócio no Banco de Dados - quais as vantagens e desvantagens?](http://pt.stackoverflow.com/q/15739/101)
+- [O que fazer se cliente pode ser tanto PF quanto PJ?](http://pt.stackoverflow.com/q/14839/101)
+- [Quantidade de caracteres do CPF, CNPJ e RG](https://pt.stackoverflow.com/q/121593/101)
+- 
 # SQL
 
 - [Diferenças entre Natural Join e Inner Join](https://pt.stackoverflow.com/q/55243/101)
@@ -61,4 +64,5 @@
 
 # NoSQL
 
-- []()
+- [NoSQL é tão problemático quanto parece?](http://pt.stackoverflow.com/q/14533/101)
+- [Em que tipo de aplicação posso usar MongoDB?](https://pt.stackoverflow.com/q/274320/101)
