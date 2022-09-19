@@ -73,6 +73,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual a diferença entre Associação, Agregação e Composição em OOP?](https://pt.stackoverflow.com/q/86715/101)
 - [O que é e para que serve uma classe abstrata?](https://pt.stackoverflow.com/q/87423/101)
 - [Qual a diferença entre uma classe e um objeto?](https://pt.stackoverflow.com/q/100812/101)
+- [Programar voltado para interface e não para a implementação, por quê?](https://pt.stackoverflow.com/q/86484/101)
 
 # Threading
 
