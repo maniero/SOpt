@@ -26,6 +26,7 @@
 - [Quais as diferenças entre MyISAM e InnoDB?](https://pt.stackoverflow.com/q/41672/101)
 - [Diferença entre decimal e numeric](https://pt.stackoverflow.com/q/54176/101)
 - [BIT(1) versus TINYINT(1) para valores booleanos](https://pt.stackoverflow.com/q/108842/101)
+- [Usar VARCHAR(255) para todos os campos ou ficar escolhendo o melhor tamanho para cada campo?](https://pt.stackoverflow.com/q/296749/101)
 
 # SQL Server
 
@@ -53,3 +54,7 @@
 - [Por que usar "SELECT * FROM tabela" é ruim?](https://pt.stackoverflow.com/q/21583/101)
 - [Qual diferença entre where e having?](https://pt.stackoverflow.com/q/211794/101)
 - [O que é um upsert?](https://pt.stackoverflow.com/q/324209/101)
+
+# NoSQL
+
+- []()
