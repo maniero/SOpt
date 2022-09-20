@@ -12,6 +12,7 @@
 - [C# é uma linguagem compilada ou interpretada?](https://pt.stackoverflow.com/q/125588/101)
 - [Existe uma forma correta de comentar um trecho de código?](https://pt.stackoverflow.com/q/153813/101)
 - [O que são métodos Async?](https://pt.stackoverflow.com/q/175304/101)
+- [Qual é a diferença entre o uso de aspas simples e aspas duplas no C#?](https://pt.stackoverflow.com/q/131054/101)
 
 # Exceptions
 
