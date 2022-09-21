@@ -5,3 +5,4 @@
 - [Onde fica o construtor da classe em Python?]()
 - [Extensões .pyc .pyd .pyo em Python](https://pt.stackoverflow.com/q/185944/101)
 - [Existe função "main()" em Python?](https://pt.stackoverflow.com/q/367715/101)
+- [O que faz o join() ser tão superior se comparado a outras técnicas de concatenação?](https://pt.stackoverflow.com/q/153322/101)
