@@ -8,3 +8,4 @@
 - [Qual é a vantagem de usarmos funções recursivas?](https://pt.stackoverflow.com/q/107657/101)
 - [Vantagens de usar PHP Orientado a Objetos? Onde usar?](https://pt.stackoverflow.com/q/108204/101)
 - [Como usar o PHP na linha de comando?](https://pt.stackoverflow.com/q/361581/101)
+- [Qual a diferença entre 'yield' e 'return' no PHP?](https://pt.stackoverflow.com/q/108082/101)
