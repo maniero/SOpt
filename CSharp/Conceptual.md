@@ -60,6 +60,7 @@
 - [O que é o .NET Core?](https://pt.stackoverflow.com/q/40671/101)
 - [Diferença entre Console.Read(); e Console.ReadLine();](https://pt.stackoverflow.com/q/50950/101)
 - [O que são provedores? Qual a diferença entre OLE DB e ODBC?](https://pt.stackoverflow.com/q/22460/101)
+- [Desenvolver para várias plataformas usando C# e Xamarin Studio](https://pt.stackoverflow.com/q/38099/101)
 
 # ASP.NET
 
