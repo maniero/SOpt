@@ -6,3 +6,4 @@
 - [Diferença de cout para printf() em C++](https://pt.stackoverflow.com/q/204071/101)
 - [É possível desenvolver sites com C/C++?](https://pt.stackoverflow.com/q/171613/101)
 - [Como usar várias linguagens em um único programa?](https://pt.stackoverflow.com/q/134596/101)
+- [O que é o "stdafx.h" e qual sua importância?](https://pt.stackoverflow.com/q/206097/101)
