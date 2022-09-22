@@ -54,6 +54,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual é a diferença entre website e aplicação web?](https://pt.stackoverflow.com/q/236208/101)
 - [O que é scaffold?](https://pt.stackoverflow.com/q/119731/101)
 - [Diferença entre DTO e ViewModel?](https://pt.stackoverflow.com/q/305301/101)
+- [O que é Design Pattern?](https://pt.stackoverflow.com/q/96452/101)
 
 # Typing
 
