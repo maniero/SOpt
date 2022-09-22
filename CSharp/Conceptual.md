@@ -52,6 +52,7 @@
 # LINQ
 
 - [O que são loop Parallel.For e Parallel.ForEach?](https://pt.stackoverflow.com/q/234618/101)
+- [Como escrever um código legível e de fácil manutenção?](https://pt.stackoverflow.com/q/13890/101)
 
 # .NET
 
