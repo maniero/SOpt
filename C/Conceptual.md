@@ -22,6 +22,7 @@
 - [Para que serve o sscanf() e sprintf()?](https://pt.stackoverflow.com/q/336172/101)
 - [puts() e printf(), quando e qual usar?](https://pt.stackoverflow.com/q/323261/101)
 - [Limpar buffer em C com fflush() ou __fpurge()](https://pt.stackoverflow.com/q/111697/101)
+- [Problema com a biblioteca math.h (referência indefinida para `sqrt')](https://pt.stackoverflow.com/q/228706/101)
 
 # Misc
 
