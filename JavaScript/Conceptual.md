@@ -35,6 +35,7 @@
 - [Como uma função é executa automaticamente sem ser chamada?](https://pt.stackoverflow.com/q/194465/101)
 - [Como criar Interface em JavaScript?](https://pt.stackoverflow.com/q/344098/101)
 - [Qual é o paradigma de programação usado pelo JavaScript?](https://pt.stackoverflow.com/q/126886/101)
+- [O que significa o operador "=>"?](https://pt.stackoverflow.com/q/114367/101)
   
 # High level
   
