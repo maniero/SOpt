@@ -134,3 +134,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é ortogonalidade?](https://pt.stackoverflow.com/q/195461/101)
 - [Qual o significado do termo "canônico" no contexto de programação?](https://pt.stackoverflow.com/q/260464/101)
 - [Em programação, o que é um objeto?](https://pt.stackoverflow.com/q/205482/101)
+- [O que significa o termo "Consumir uma API"?](https://pt.stackoverflow.com/q/164407/101)
