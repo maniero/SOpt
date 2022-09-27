@@ -62,6 +62,7 @@
 - [O que é persistência de dados?](https://pt.stackoverflow.com/q/140411/101)
 - [Como escolher entre NoSQL e SQL?](https://pt.stackoverflow.com/q/122452/101)
 - [O que são os índices, B-tree, hash, GiST e GIN?](https://pt.stackoverflow.com/q/101065/101)
+- [Qual é a diferença entre ASC ou DESC em índices clusterizados?](https://pt.stackoverflow.com/q/326193/101)
 
 # NoSQL
 
