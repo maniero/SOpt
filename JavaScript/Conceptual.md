@@ -36,6 +36,7 @@
 - [Como criar Interface em JavaScript?](https://pt.stackoverflow.com/q/344098/101)
 - [Qual é o paradigma de programação usado pelo JavaScript?](https://pt.stackoverflow.com/q/126886/101)
 - [O que significa o operador "=>"?](https://pt.stackoverflow.com/q/114367/101)
+- [O que é especificação ECMAScript 2015 (ES6)?](https://pt.stackoverflow.com/q/181071/101)
   
 # High level
   
