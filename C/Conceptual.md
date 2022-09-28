@@ -7,6 +7,7 @@
 - [Quando usar const e quando usar #define?](https://pt.stackoverflow.com/q/136467/101)
 - [Como um ponteiro pode apontar para uma função?](https://pt.stackoverflow.com/q/430446/101)
 - [É possível concatenar números do tipo int?](https://pt.stackoverflow.com/q/275206/101)
+- [Para que serve uma função static?](https://pt.stackoverflow.com/q/259785/101)
 
 # Algorithm
 
