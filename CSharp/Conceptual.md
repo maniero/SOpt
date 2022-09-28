@@ -49,6 +49,7 @@
 - [Agendar execução processo em C#](https://pt.stackoverflow.com/q/81084/101)
 - [Diferença entre Task e Thread](https://pt.stackoverflow.com/q/123173/101)
 - [O que é um DataSet e qual sua função?](https://pt.stackoverflow.com/q/283532/101)
+- [O que é e pra que serve IEnumerable e IEnumerator?](https://pt.stackoverflow.com/q/191582/101)
 
 # LINQ
 
