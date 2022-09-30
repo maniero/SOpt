@@ -8,6 +8,7 @@
 - [Como um ponteiro pode apontar para uma função?](https://pt.stackoverflow.com/q/430446/101)
 - [É possível concatenar números do tipo int?](https://pt.stackoverflow.com/q/275206/101)
 - [Para que serve uma função static?](https://pt.stackoverflow.com/q/259785/101)
+- [Existe diferença entre usar "return" ou "exit()" para encerrar a função "main()"?](https://pt.stackoverflow.com/q/174312/101)
 
 # Algorithm
 
