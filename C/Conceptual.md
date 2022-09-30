@@ -31,3 +31,4 @@
 - [É possível programar orientado a objeto em C?](https://pt.stackoverflow.com/q/80228/101)
 - [O que é segmentation fault?](https://pt.stackoverflow.com/q/177185/101)
 - [Na prática, qual a utilidade dos ponteiros em C?](https://pt.stackoverflow.com/q/244828/101)
+- [Erro "undefined reference" ao compilar em C](https://pt.stackoverflow.com/q/239967/101)
