@@ -73,6 +73,10 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 
 - [Como descriptografar MD5?](https://pt.stackoverflow.com/q/41517/101)
 
+# Design Patters
+
+= [Como funciona e como implementar o Design Pattern Observer?](https://pt.stackoverflow.com/q/36655/101)
+
 # OOP
 
 - [Qual a diferença entre Associação, Agregação e Composição em OOP?](https://pt.stackoverflow.com/q/86715/101)
