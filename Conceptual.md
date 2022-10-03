@@ -56,6 +56,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Diferença entre DTO e ViewModel?](https://pt.stackoverflow.com/q/305301/101)
 - [O que é Design Pattern?](https://pt.stackoverflow.com/q/96452/101)
 - [O que é um DTO?](https://pt.stackoverflow.com/q/31362/101)
+- [Sistemas distribuídos (vantagens e desvantagens)](https://pt.stackoverflow.com/q/365505/101)
 
 # Typing
 
