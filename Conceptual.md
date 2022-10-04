@@ -115,6 +115,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Como atualizar repositório Github depois de ter alterado arquivos localmente no Git?](https://pt.stackoverflow.com/q/44713/101)
 - [Qual é a diferença entre um "branch" e uma "tag"?](https://pt.stackoverflow.com/q/80583/101)
 - [Como listar todos repositórios remotos no Git?](https://pt.stackoverflow.com/q/77406/101)
+- [Como funciona o merge?](https://pt.stackoverflow.com/q/52611/101)
 
 # Computers
 
