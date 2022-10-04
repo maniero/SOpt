@@ -143,3 +143,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Em programação, o que é um objeto?](https://pt.stackoverflow.com/q/205482/101)
 - [O que significa o termo "Consumir uma API"?](https://pt.stackoverflow.com/q/164407/101)
 - [Qual é o significado de um arquivo "Manifest" em programação?](https://pt.stackoverflow.com/q/137147/101)
+- [Qual a diferença entre atributo e campo, nas classes?](https://pt.stackoverflow.com/q/269089/101)
