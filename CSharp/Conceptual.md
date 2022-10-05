@@ -76,6 +76,10 @@
 - [Angular + ASP.NET MVC: Faz sentido?](https://pt.stackoverflow.com/q/183226/101)
 - [ASP.NET MVC ou WebAPI?](https://pt.stackoverflow.com/q/49090/101)
 
+# WinForms
+
+- [Ajustar o layout do Form de acordo com a resolução do monitor](https://pt.stackoverflow.com/q/257393/101)
+
 # Visual Studio
 
 - [Defasagem do Visual Studio 2010](http://pt.stackoverflow.com/q/14704/101)
