@@ -102,6 +102,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Como converter bloco de código em única linha?](https://pt.stackoverflow.com/q/81282/101)
 - [Diferença entre o Visual Studio Community, Enterprise e Code](https://pt.stackoverflow.com/q/152242/101)
 - [O que é "build" e qual é a sua relação com a IDE?](https://pt.stackoverflow.com/q/157135/101)
+- [Quais são as diferenças entre um editor de código, editor de texto e um IDE?](https://pt.stackoverflow.com/q/276003/101)
 
 # Git
 
