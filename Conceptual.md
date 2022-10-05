@@ -146,3 +146,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que significa o termo "Consumir uma API"?](https://pt.stackoverflow.com/q/164407/101)
 - [Qual é o significado de um arquivo "Manifest" em programação?](https://pt.stackoverflow.com/q/137147/101)
 - [Qual a diferença entre atributo e campo, nas classes?](https://pt.stackoverflow.com/q/269089/101)
+- [O que é dívida técnica?](https://pt.stackoverflow.com/q/32420/101)
