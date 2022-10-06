@@ -58,6 +58,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é um DTO?](https://pt.stackoverflow.com/q/31362/101)
 - [Sistemas distribuídos (vantagens e desvantagens)](https://pt.stackoverflow.com/q/365505/101)
 - [Até que ponto não é aconselhável usar uma ORM?](https://pt.stackoverflow.com/q/14225/101)
+- [Como fazer Teste de Mesa para determinado algoritmo?](https://pt.stackoverflow.com/q/136393/101)
 
 # Typing
 
