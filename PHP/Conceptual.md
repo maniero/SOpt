@@ -10,3 +10,4 @@
 - [Como usar o PHP na linha de comando?](https://pt.stackoverflow.com/q/361581/101)
 - [Qual a diferença entre 'yield' e 'return' no PHP?](https://pt.stackoverflow.com/q/108082/101)
 - [Métodos Getters e Setters](https://pt.stackoverflow.com/q/212300/101)
+- [O que são módulos na programação?](https://pt.stackoverflow.com/q/129254/101)
