@@ -21,6 +21,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual a linguagem utilizada para programar um sistema operacional?](https://pt.stackoverflow.com/q/118865/101)
 - [O Excel é uma linguagem de programação?](https://pt.stackoverflow.com/q/99642/101)
 - [Existe alguma linguagem de programação em português? Se sim, em que são aplicadas?](https://pt.stackoverflow.com/q/248079/101)
+- [Qual a diferença de "nó", "atributo", "elemento" e "tag" em XML?](https://pt.stackoverflow.com/q/147049/101)
 
 # Coding Style
 
