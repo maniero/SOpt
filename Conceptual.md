@@ -126,6 +126,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Quantidade mínima de bits necessária para representar números decimais](https://pt.stackoverflow.com/q/200308/101)
 - [O que são registradores e qual é o seu funcionamento básico?](https://pt.stackoverflow.com/q/320285/101)
 - [O que é "palavra" de uma CPU?](https://pt.stackoverflow.com/q/185523/101)
+- [https://github.com/maniero/SOpt/blob/master/Conceptual.md](https://pt.stackoverflow.com/q/189180/101)
 
 # Operating System
 
