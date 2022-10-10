@@ -35,6 +35,7 @@
 - [Diferença entre decimal e numeric](https://pt.stackoverflow.com/q/54176/101)
 - [BIT(1) versus TINYINT(1) para valores booleanos](https://pt.stackoverflow.com/q/108842/101)
 - [Usar VARCHAR(255) para todos os campos ou ficar escolhendo o melhor tamanho para cada campo?](https://pt.stackoverflow.com/q/296749/101)
+- [Qual a diferença de uma string vazia e NULL no SQL?](https://pt.stackoverflow.com/q/177250/101)
 
 # SQL Server
 
