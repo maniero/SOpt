@@ -7,6 +7,7 @@
 
 - [Como criar um método com parâmetros opcionais em Java puro?](https://pt.stackoverflow.com/q/145625/101)
 - [Break e Continue em forEach Java 8](https://pt.stackoverflow.com/q/356686/101)
+- [https://pt.stackoverflow.com/q/113049/101](https://pt.stackoverflow.com/q/113049/101)
 
 # Library
 
