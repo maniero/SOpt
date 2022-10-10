@@ -54,6 +54,7 @@
 - [O que é e pra que serve IEnumerable e IEnumerator?](https://pt.stackoverflow.com/q/191582/101)
 - [Qual a probablidade de se gerar um Guid Repetido?](https://pt.stackoverflow.com/q/40525/101)
 - [https://pt.stackoverflow.com/q/40309/101](https://pt.stackoverflow.com/q/40309/101)
+- [Capturar nome do arquivo](https://pt.stackoverflow.com/q/143774/101)
 
 # LINQ
 
