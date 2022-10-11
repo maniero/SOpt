@@ -2,6 +2,7 @@
 
 - [String e sua eficiência](http://pt.stackoverflow.com/q/16050/101)
 - [ArrayList x List](https://pt.stackoverflow.com/q/73633/101)
+- [Devo inicializar strings (ou objetos em geral) com null?](https://pt.stackoverflow.com/q/108486/101)
 
 # Language
 
