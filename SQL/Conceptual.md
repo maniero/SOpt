@@ -53,6 +53,7 @@
 # Oracle
 
 - [Qual é a lógica por trás da função trunc()?](https://pt.stackoverflow.com/q/262967/101)
+- [Qual a diferença entre os operadores de comparação no Oracle?](https://pt.stackoverflow.com/q/250848/101)
 
 # Firebird
 
