@@ -55,6 +55,7 @@
 - [Qual a probablidade de se gerar um Guid Repetido?](https://pt.stackoverflow.com/q/40525/101)
 - [https://pt.stackoverflow.com/q/40309/101](https://pt.stackoverflow.com/q/40309/101)
 - [Capturar nome do arquivo](https://pt.stackoverflow.com/q/143774/101)
+- [Qual a diferença entre usar propriedade virtual ou não no EF?](https://pt.stackoverflow.com/q/52908/101)
 
 # LINQ
 
