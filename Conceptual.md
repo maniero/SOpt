@@ -37,6 +37,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é a Programação Orientada a Eventos?](https://pt.stackoverflow.com/q/80601/101)
 - [Programação Funcional e Programação Orientada a Objetos. O que são e quais suas principais diferenças?](https://pt.stackoverflow.com/q/13372/101)
 - [O que é programação procedural e não procedural?](https://pt.stackoverflow.com/q/195069/101)
+- [O que é uma linguagem de multi-paradigmas?](https://pt.stackoverflow.com/q/129597/101)
 
 # Engineering
 
