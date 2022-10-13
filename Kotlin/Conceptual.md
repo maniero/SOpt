@@ -1,2 +1,3 @@
+- [O que é Kotlin?](https://pt.stackoverflow.com/q/221905/101)
 - [Qual a linguagem de programação para criar aplicações Android?](https://pt.stackoverflow.com/q/174598/101)
 - [Qual é a diferença no Kotlin entre var e val?](https://pt.stackoverflow.com/q/224552/101)
