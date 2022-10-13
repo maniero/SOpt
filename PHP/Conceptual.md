@@ -12,3 +12,4 @@
 - [Métodos Getters e Setters](https://pt.stackoverflow.com/q/212300/101)
 - [O que são módulos na programação?](https://pt.stackoverflow.com/q/129254/101)
 - [Qual a diferença entre print e echo no PHP?](https://pt.stackoverflow.com/q/45412/101)
+- [O que significa "sanitizar" dados?](https://pt.stackoverflow.com/q/186358/101)
