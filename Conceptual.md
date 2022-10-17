@@ -156,3 +156,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual a diferença entre atributo e campo, nas classes?](https://pt.stackoverflow.com/q/269089/101)
 - [O que é dívida técnica?](https://pt.stackoverflow.com/q/32420/101)
 - [O que são MIME types?](https://pt.stackoverflow.com/q/98031/101)
+- [Qual o significado do termo “Hard Coded”?](https://pt.stackoverflow.com/q/437800/101)
