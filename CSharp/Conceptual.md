@@ -56,6 +56,7 @@
 - [https://pt.stackoverflow.com/q/40309/101](https://pt.stackoverflow.com/q/40309/101)
 - [Capturar nome do arquivo](https://pt.stackoverflow.com/q/143774/101)
 - [Qual a diferença entre usar propriedade virtual ou não no EF?](https://pt.stackoverflow.com/q/52908/101)
+- [Como obter a quantidade de registros em uma consulta no SQLite?](https://pt.stackoverflow.com/q/81491/101)
 
 # LINQ
 
