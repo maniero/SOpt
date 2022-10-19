@@ -15,6 +15,7 @@
 - [Qual é a diferença entre o uso de aspas simples e aspas duplas no C#?](https://pt.stackoverflow.com/q/131054/101)
 - [Conceito de classe, entidade e objetos](https://pt.stackoverflow.com/q/203166/101)
 - [Erro: Referência de objeto não definida para uma instância de um objeto, como resolver?](https://pt.stackoverflow.com/q/99116/101)
+- [O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção](https://pt.stackoverflow.com/q/392225/101)
 
 # Exceptions
 
