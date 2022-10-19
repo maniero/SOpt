@@ -17,6 +17,10 @@
 - [Erro: Referência de objeto não definida para uma instância de um objeto, como resolver?](https://pt.stackoverflow.com/q/99116/101)
 - [O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção](https://pt.stackoverflow.com/q/392225/101)
 
+# Algorithms
+
+- [Criar lista sem valores duplicados](https://pt.stackoverflow.com/q/29226/101)
+
 # Exceptions
 
 - [Melhor maneira de lidar com Exceptions](http://pt.stackoverflow.com/a/13611/101)
