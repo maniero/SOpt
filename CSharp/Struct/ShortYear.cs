@@ -14,11 +14,11 @@ public struct ShortYear {
 	public byte Year;
 	public const short Century = 1900;
 	public ShortYear(short value) {
-		Contract.Ensures(value >= 1900 && value < 2156);
+		Contract.Ensures(value >= Century && value < Century + 256);
 		Year = (byte)(value - Century);
 	}
 	public ShortYear(int value) {
-		Contract.Ensures(value >= 1900 && value < 2156);
+		Contract.Ensures(value >= Century && value < Century + 256);
 		Year = (byte)(value - Century);
 	}
     public static implicit operator short(ShortYear value) => (short)(value.Year + Century);
