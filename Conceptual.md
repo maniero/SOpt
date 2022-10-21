@@ -131,6 +131,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que são registradores e qual é o seu funcionamento básico?](https://pt.stackoverflow.com/q/320285/101)
 - [O que é "palavra" de uma CPU?](https://pt.stackoverflow.com/q/185523/101)
 - [https://github.com/maniero/SOpt/blob/master/Conceptual.md](https://pt.stackoverflow.com/q/189180/101)
+- [Como um computador entende o código binário?](https://pt.stackoverflow.com/q/142289/101)
 
 # Operating System
 
