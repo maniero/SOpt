@@ -3,9 +3,7 @@
 - [Quais as diferenças mais relevantes entre C# e Java?](https://pt.stackoverflow.com/q/110142/101)
 - [Diferença entre while e for](https://pt.stackoverflow.com/q/61491/101)
 - [O que o C++ pode fazer que o C# não pode?](https://pt.stackoverflow.com/q/7740/101)
-- [Qual a diferença entre Struct e Class?](https://pt.stackoverflow.com/q/16181/101)
 - [Em C#, para que serve a palavra chave await?](https://pt.stackoverflow.com/q/2793/101)
-- [Como e quando usar Interface?](https://pt.stackoverflow.com/q/107524/101)
 - [Padrão de nomenclatura no código para o C#](https://pt.stackoverflow.com/q/31646/101)
 - [Para que serve e onde pode usar C#?](https://pt.stackoverflow.com/q/204430/101)
 - [Quais as principais diferenças entre VB.NET e C#?](https://pt.stackoverflow.com/q/51599/101)
@@ -41,6 +39,8 @@
 
 # Typing
 
+- [Qual a diferença entre Struct e Class?](https://pt.stackoverflow.com/q/16181/101)
+- [Como e quando usar Interface?](https://pt.stackoverflow.com/q/107524/101)
 - [Por que usar short?](http://pt.stackoverflow.com/q/13930/101)
 - [Qual é a diferença de string vs String?](http://pt.stackoverflow.com/a/3787/101)
 - [Verificar se int é "null" em C#](https://pt.stackoverflow.com/q/229191/101)
@@ -56,10 +56,14 @@
 - [Devo utilizar GUID ou int como chave primária?](https://pt.stackoverflow.com/q/21907/101)
 - [Agendar execução processo em C#](https://pt.stackoverflow.com/q/81084/101)
 - [Diferença entre Task e Thread](https://pt.stackoverflow.com/q/123173/101)
-- [O que é um DataSet e qual sua função?](https://pt.stackoverflow.com/q/283532/101)
 - [O que é e pra que serve IEnumerable e IEnumerator?](https://pt.stackoverflow.com/q/191582/101)
 - [Qual a probablidade de se gerar um Guid Repetido?](https://pt.stackoverflow.com/q/40525/101)
-- [https://pt.stackoverflow.com/q/40309/101](https://pt.stackoverflow.com/q/40309/101)
+
+# IO
+
+- [O que é um DataSet e qual sua função?](https://pt.stackoverflow.com/q/283532/101)
+- [Como obter o tipo de codificação de um arquivo?](https://pt.stackoverflow.com/q/252001/101)
+- [Quebra de linha em mensagem de e-mail](https://pt.stackoverflow.com/q/40309/101)
 - [Capturar nome do arquivo](https://pt.stackoverflow.com/q/143774/101)
 - [Qual a diferença entre usar propriedade virtual ou não no EF?](https://pt.stackoverflow.com/q/52908/101)
 - [Como obter a quantidade de registros em uma consulta no SQLite?](https://pt.stackoverflow.com/q/81491/101)
