@@ -14,6 +14,7 @@
 - [Quantidade de caracteres do CPF, CNPJ e RG](https://pt.stackoverflow.com/q/121593/101)
 - [Quais são os tipos de dados apropriados para colunas como endereço, e-mail, telefone e celular, para base de dados SQL?](https://pt.stackoverflow.com/q/4170/101)
 - [Qual a diferença entre modelagem conceitual, lógica e física?](https://pt.stackoverflow.com/q/294699/101)
+- [Pode ser considerada uma má prática de modelagem armazenar todas as pessoas (clientes, funcionários, fornecedores) em uma mesma tabela?](https://pt.stackoverflow.com/q/54177/101)
 
 # SQL
 
