@@ -10,6 +10,7 @@
 - [Break e Continue em forEach Java 8](https://pt.stackoverflow.com/q/356686/101)
 - [https://pt.stackoverflow.com/q/113049/101](https://pt.stackoverflow.com/q/113049/101)
 - [Diferença entre tipo primitivo e objeto em Java](https://pt.stackoverflow.com/q/274391/101)
+- [Como funciona o método equals()?](https://pt.stackoverflow.com/q/111208/101)
 
 # Library
 
