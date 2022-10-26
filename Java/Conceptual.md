@@ -3,6 +3,7 @@
 - [String e sua eficiência](http://pt.stackoverflow.com/q/16050/101)
 - [ArrayList x List](https://pt.stackoverflow.com/q/73633/101)
 - [Devo inicializar strings (ou objetos em geral) com null?](https://pt.stackoverflow.com/q/108486/101)
+- [Por que em Java o tamanho de um array é um atributo e de uma String é um método?](https://pt.stackoverflow.com/q/208880/101)
 
 # Language
 
