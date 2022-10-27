@@ -33,3 +33,4 @@
 - [O que é segmentation fault?](https://pt.stackoverflow.com/q/177185/101)
 - [Na prática, qual a utilidade dos ponteiros em C?](https://pt.stackoverflow.com/q/244828/101)
 - [Erro "undefined reference" ao compilar em C](https://pt.stackoverflow.com/q/239967/101)
+- [É possível saber as funções de uma DLL sem ter a sua documentação?](https://pt.stackoverflow.com/q/136404/101)
