@@ -39,6 +39,7 @@
 - [Usar VARCHAR(255) para todos os campos ou ficar escolhendo o melhor tamanho para cada campo?](https://pt.stackoverflow.com/q/296749/101)
 - [Qual a diferença de uma string vazia e NULL no SQL?](https://pt.stackoverflow.com/q/177250/101)
 - [Como encontrar relacionamento e cardinalidade no MySQL?](https://pt.stackoverflow.com/q/89527/101)
+- [O que é um valor absoluto?](https://pt.stackoverflow.com/q/235010/101)
 
 # SQL Server
 
