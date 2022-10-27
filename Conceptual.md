@@ -161,3 +161,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que são MIME types?](https://pt.stackoverflow.com/q/98031/101)
 - [Qual o significado do termo “Hard Coded”?](https://pt.stackoverflow.com/q/437800/101)
 - [O que é debug? Para que serve e como fazer?](https://pt.stackoverflow.com/q/422913/101)
+- [Diferença entre classe e interface](https://pt.stackoverflow.com/q/136404/101)
