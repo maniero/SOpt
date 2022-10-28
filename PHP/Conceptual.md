@@ -13,3 +13,4 @@
 - [O que são módulos na programação?](https://pt.stackoverflow.com/q/129254/101)
 - [Qual a diferença entre print e echo no PHP?](https://pt.stackoverflow.com/q/45412/101)
 - [O que significa "sanitizar" dados?](https://pt.stackoverflow.com/q/186358/101)
+- [Como usar as aspas duplas e simples?](https://pt.stackoverflow.com/q/88058/101)
