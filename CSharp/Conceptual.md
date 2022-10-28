@@ -96,6 +96,10 @@
 
 - [Ajustar o layout do Form de acordo com a resolução do monitor](https://pt.stackoverflow.com/q/257393/101)
 
+# Xamarin
+
+- [O Xamarin é uma opção viável para desenvolvimento mobile?](https://pt.stackoverflow.com/q/90871/101)
+
 # Visual Studio
 
 - [Defasagem do Visual Studio 2010](http://pt.stackoverflow.com/q/14704/101)
