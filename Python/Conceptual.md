@@ -7,3 +7,4 @@
 - [Existe função "main()" em Python?](https://pt.stackoverflow.com/q/367715/101)
 - [O que faz o join() ser tão superior se comparado a outras técnicas de concatenação?](https://pt.stackoverflow.com/q/153322/101)
 - [Como funciona o polimorfismo de sobrecarga em Python?](https://pt.stackoverflow.com/q/317239/101)
+- [Diferença entre comandos para interromper execução](https://pt.stackoverflow.com/q/338584/101)
