@@ -165,3 +165,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é debug? Para que serve e como fazer?](https://pt.stackoverflow.com/q/422913/101)
 - [Diferença entre classe e interface](https://pt.stackoverflow.com/q/136404/101)
 - [Diferença do erro de compilação e execução](https://pt.stackoverflow.com/q/332635/101)
+- [O que é uma função pura?](https://pt.stackoverflow.com/q/255557/101)
