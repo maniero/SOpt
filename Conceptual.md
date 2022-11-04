@@ -166,3 +166,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Diferença entre classe e interface](https://pt.stackoverflow.com/q/136404/101)
 - [Diferença do erro de compilação e execução](https://pt.stackoverflow.com/q/332635/101)
 - [O que é uma função pura?](https://pt.stackoverflow.com/q/255557/101)
+- [O que é indireção?](https://pt.stackoverflow.com/q/181032/101)
