@@ -92,6 +92,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual a diferença entre uma classe e um objeto?](https://pt.stackoverflow.com/q/100812/101)
 - [Programar voltado para interface e não para a implementação, por quê?](https://pt.stackoverflow.com/q/86484/101)
 - [https://pt.stackoverflow.com/q/360609/101](https://pt.stackoverflow.com/q/360609/101)
+- [Princípio de Delegação, o que é?](https://pt.stackoverflow.com/q/87521/101)
 
 # Threading
 
