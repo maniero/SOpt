@@ -80,6 +80,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 # Algorithms
 
 - [Como descriptografar MD5?](https://pt.stackoverflow.com/q/41517/101)
+- [Qual a lógica por trás do "dias * 24* 60* 60* 1000"?](https://pt.stackoverflow.com/q/357597/101)
 
 # Design Patters
 
