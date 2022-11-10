@@ -36,3 +36,4 @@
 - [Erro "undefined reference" ao compilar em C](https://pt.stackoverflow.com/q/239967/101)
 - [É possível saber as funções de uma DLL sem ter a sua documentação?](https://pt.stackoverflow.com/q/136404/101)
 - [https://pt.stackoverflow.com/q/169142/101](https://pt.stackoverflow.com/q/169142/101)
+- [Qual a diferença entre C e C99?](https://pt.stackoverflow.com/q/295685/101)
