@@ -40,4 +40,5 @@
 - [Qual diferença entre o return e o break em um switch case?](https://pt.stackoverflow.com/q/175459/101)
 - [Qual a razão de Java consumir tanta memória?](https://pt.stackoverflow.com/q/52517/101)
 - [Heap de memória Java](https://pt.stackoverflow.com/q/36741/101)
-- [https://pt.stackoverflow.com/q/160947/101](https://pt.stackoverflow.com/q/160947/101)
+- [https://pt.stackoverflow.com/q/160947/101](https://pt.stackoverflow.com/q/160947/101
+- [Verificar se um email existe ou o seu domínio e-mail]()
