@@ -52,3 +52,4 @@
 - [O que é o Vanilla JS?](https://pt.stackoverflow.com/q/46983/101)
 - [React Native ou Ionic?](https://pt.stackoverflow.com/q/170138/101)
 - [O que é o NPM e o Node?](https://pt.stackoverflow.com/q/157034/101)
+- [Angular com TypeScript ou JavaScript?](https://pt.stackoverflow.com/q/308352/101)
