@@ -75,6 +75,7 @@
 - [Como escolher entre NoSQL e SQL?](https://pt.stackoverflow.com/q/122452/101)
 - [O que são os índices, B-tree, hash, GiST e GIN?](https://pt.stackoverflow.com/q/101065/101)
 - [Qual é a diferença entre ASC ou DESC em índices clusterizados?](https://pt.stackoverflow.com/q/326193/101)
+- [O que é ACID em banco de dados?](https://pt.stackoverflow.com/q/203857/101)
 
 # NoSQL
 
