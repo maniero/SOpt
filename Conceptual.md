@@ -170,3 +170,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é uma função pura?](https://pt.stackoverflow.com/q/255557/101)
 - [O que é indireção?](https://pt.stackoverflow.com/q/181032/101)
 - [Quais são as funções de um ORM?](https://pt.stackoverflow.com/q/138938/101)
+- [O que é paradigma?](https://pt.stackoverflow.com/q/141624/101)
