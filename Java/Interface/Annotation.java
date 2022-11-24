@@ -3,7 +3,7 @@ import java.lang.reflect.*;
 
 //criando a anotação
 @Retention(RetentionPolicy.RUNTIME) //são anotações usadas para criar anotações
-@Target(ElementType.METHOD)
+@Target(ElementType.METHOD) //só permite usar em métodos
 @interface MyAnnotation { //note o @
     int value();  
 }  
