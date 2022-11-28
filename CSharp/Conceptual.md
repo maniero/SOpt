@@ -15,6 +15,7 @@
 - [Erro: Referência de objeto não definida para uma instância de um objeto, como resolver?](https://pt.stackoverflow.com/q/99116/101)
 - [O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção](https://pt.stackoverflow.com/q/392225/101)
 - [Quando usar método assíncronos ou síncronos?](https://pt.stackoverflow.com/q/201998/101)
+- [Converter string para float no C#](https://pt.stackoverflow.com/q/395289/101)
 
 # Algorithms
 
