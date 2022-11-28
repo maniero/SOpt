@@ -39,6 +39,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Programação Funcional e Programação Orientada a Objetos. O que são e quais suas principais diferenças?](https://pt.stackoverflow.com/q/13372/101)
 - [O que é programação procedural e não procedural?](https://pt.stackoverflow.com/q/195069/101)
 - [O que é uma linguagem de multi-paradigmas?](https://pt.stackoverflow.com/q/129597/101)
+- [O que é paradigma?](https://pt.stackoverflow.com/q/141624/101)
 
 # Engineering
 
@@ -81,8 +82,9 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 
 - [Como descriptografar MD5?](https://pt.stackoverflow.com/q/41517/101)
 - [Qual a lógica por trás do "dias * 24* 60* 60* 1000"?](https://pt.stackoverflow.com/q/357597/101)
+- [O que é complexidade ciclomática?](https://pt.stackoverflow.com/q/193665/101)
 
-# Design Patters
+# Design Patterns
 
 = [Como funciona e como implementar o Design Pattern Observer?](https://pt.stackoverflow.com/q/36655/101)
 
@@ -170,4 +172,3 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é uma função pura?](https://pt.stackoverflow.com/q/255557/101)
 - [O que é indireção?](https://pt.stackoverflow.com/q/181032/101)
 - [Quais são as funções de um ORM?](https://pt.stackoverflow.com/q/138938/101)
-- [O que é paradigma?](https://pt.stackoverflow.com/q/141624/101)
