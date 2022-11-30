@@ -38,3 +38,4 @@
 - [https://pt.stackoverflow.com/q/169142/101](https://pt.stackoverflow.com/q/169142/101)
 - [Qual a diferença entre C e C99?](https://pt.stackoverflow.com/q/295685/101)
 - [Pra que serve um linker?](https://pt.stackoverflow.com/q/191565/101)
+- [Determinando uma string dentro de um switch em C](https://pt.stackoverflow.com/q/151605/101)
