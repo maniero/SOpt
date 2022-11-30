@@ -9,11 +9,11 @@ WriteLine(TrimPosition(" Aventureiros Afortunados, 12345", MaxTamanhoEndereco));
 WriteLine(TrimPosition("Aventureiros Afortunados, 12345", MaxTamanhoEndereco));
 WriteLine(TrimPosition("Aventureiros Afortunados, 1234", MaxTamanhoEndereco));
 
-static string TrimPosition(string text, int limite, string specialChars = " ,.", string trimMarker = "...") {
-	if (text.Length > limite) {
+static string TrimPosition(string text, int limit, string specialChars = " ,.", string trimMarker = "...") {
+	if (text.Length > limit) {
 		var markerLength = trimMarker.Length;
-		var isSpecial = specialChars.Contains(text.Substring(limite - markerLength, 1));
-		text = text.Substring(0, limite - markerLength);
+		var isSpecial = specialChars.Contains(text.Substring(limit - markerLength, 1));
+		text = text.Substring(0, limit - markerLength);
 		var posicaoUltimoEspaco = text.LastIndexOfAny(specialChars.ToCharArray());
 		text = ((posicaoUltimoEspaco > 0 && !isSpecial) ? text.Substring(0, posicaoUltimoEspaco) : text) + trimMarker;
 	}
