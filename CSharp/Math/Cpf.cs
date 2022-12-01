@@ -29,7 +29,6 @@ static string GerarCpf(Uf uf = Uf.NA) {
 
 static bool Repetidos(int[] digitos) {
 	var val = digitos[0];
-	var x = digitos.Take(9);
 	return digitos.Take(9).All(x => x == val);
 }
 
