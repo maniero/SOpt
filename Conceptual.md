@@ -96,6 +96,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Programar voltado para interface e não para a implementação, por quê?](https://pt.stackoverflow.com/q/86484/101)
 - [https://pt.stackoverflow.com/q/360609/101](https://pt.stackoverflow.com/q/360609/101)
 - [Princípio de Delegação, o que é?](https://pt.stackoverflow.com/q/87521/101)
+- [O que é uma classe de domínio?](https://pt.stackoverflow.com/q/298692/101)
 
 # Threading
 
