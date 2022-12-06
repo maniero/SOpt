@@ -5,7 +5,7 @@ WriteLine(FormataTelefone("49988070405"));
 WriteLine(FormataTelefone("4988070405"));
 
 static string FormataTelefone(string number) {
-	if (number.Length != 11 && number.Length != 10) throw new ArgumentException($"Tamanho da string {nameof(number)} deve ser 10 ou 11");
+	if (number.Length != 10 && number.Length != 11) throw new ArgumentException($"Tamanho da string deve ser 10 ou 11", nameof(number));
 	ReadOnlySpan<char> span = stackalloc char[number.Length];
 	span = number.AsSpan();
 	var offset = 11 - number.Length;
