@@ -1,10 +1,10 @@
-var text = "aaaaaaaaaa\"aaa\"aaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\naaaaa\"aaaaaaaaaa\"aaaaaaaaaaaaa";
+var text = "aaaaaaaaaa\"aaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\naaaaa\"aaaaaaaaaa\"aaaaaaaaaaaaa";
 var open = false;
 System.Text.StringBuilder newText = new();
 foreach (var character in text) {
-	if (character == '"') {
+	if (character == '"' || (open && character == '\n')) {
 		open = !open;
-		newText.Append('"');
+		newText.Append(character);
 		continue;
 	}
 	newText.Append(open ? 'b' : character);
