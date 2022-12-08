@@ -30,6 +30,7 @@
 - [Qual o uso de uma variável estática ou final em Java?](https://pt.stackoverflow.com/a/17018/101)
 - [Na herança com os atributos privados, a classe filha não toma os seus atributos da classe mãe?](https://pt.stackoverflow.com/q/108574/101)
 - [É correto criar um método construtor em uma classe abstrata?](https://pt.stackoverflow.com/q/89257/101)
+- [Quando e por que devemos usar polimorfismo?](https://pt.stackoverflow.com/q/25100/101)
 
 # Misc
 
