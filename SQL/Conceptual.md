@@ -51,6 +51,7 @@
 - [Quais os limites SQL Server Express e MySQL?](https://pt.stackoverflow.com/q/75091/101)
 - [Como definir "charset" de uma tabela no SQL Server?](https://pt.stackoverflow.com/q/80583/101)
 - [Diferença entre date e datetime](https://pt.stackoverflow.com/q/313973/101)
+- [Diferença entre versões do SQL Server Express?](https://pt.stackoverflow.com/q/102120/101)
 
 # SQLite
 
