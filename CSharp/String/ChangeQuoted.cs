@@ -5,9 +5,7 @@ foreach (var character in text) {
 	if (character == '"' || (open && character == '\n')) {
 		open = !open;
 		newText.Append(character);
-		continue;
-	}
-	newText.Append(open ? 'b' : character);
+	} else newText.Append(open ? 'b' : character);
 }
 System.Console.WriteLine(newText);
 
