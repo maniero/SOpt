@@ -1,0 +1,1 @@
+- [O que são os arquivos ".d.ts"?](https://pt.stackoverflow.com/q/456677/101)
