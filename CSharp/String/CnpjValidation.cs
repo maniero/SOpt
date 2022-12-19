@@ -3,11 +3,13 @@ using System;
 
 (var ok, var digitos) = ValidarCnpj("12345678901234");
 if (!ok) WriteLine($"Dígitos finais corretos seriam {digitos}");
+(ok, digitos) = ValidarCnpj("12.345.678.9012-34");
+if (!ok) WriteLine($"Dígitos finais corretos seriam {digitos}");
 
 static (bool, string) ValidarCnpj(string cnpj) {
 	if (cnpj.Length < 14) return (false, "");
     Span<int> digitos = stackalloc int[14];
-	for (int i = 0; i < 14; i++) if (char.IsDigit(cnpj[i])) digitos[i] = cnpj[i] - 48;
+	for (int i = 0, j = 0; i < 14; j++) if (char.IsDigit(cnpj[j])) digitos[i++] = cnpj[j] - 48;
     int soma = 0, soma2 = 0;
 	for (var i = 0; i < 4; i++) {
 		soma += digitos[i] * (5 - i);
