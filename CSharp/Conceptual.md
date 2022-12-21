@@ -94,6 +94,7 @@
 - [Angular + ASP.NET MVC: Faz sentido?](https://pt.stackoverflow.com/q/183226/101)
 - [ASP.NET MVC ou WebAPI?](https://pt.stackoverflow.com/q/49090/101)
 - [Quais as diferenças entre ASP.NET MVC e ASP.NET Razor Pages?](https://pt.stackoverflow.com/q/275940/101)
+- [O que é Partial View?](https://pt.stackoverflow.com/q/93072/101)
 
 # WinForms
 
