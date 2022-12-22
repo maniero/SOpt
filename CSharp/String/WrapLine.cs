@@ -17,7 +17,7 @@ static string WrapString(string text, int len) {
 	if (text.Length / 10 != ToSingle(text.Length) / 10) {
 		sb.Append(text[(i * 10)..]);
 		sb.Append("\r\n");
-	}
+	} else sb.Remove(sb.Length - 2, 2);
 	return sb.ToString();
 }
 
