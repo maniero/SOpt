@@ -7,6 +7,7 @@ WriteLine(WrapString("01234567890123456", 10));
 WriteLine(WrapString("012345", 10));
 
 static string WrapString(string text, int len) {
+	if (text.Length <= len) return text;
 	StringBuilder sb = new(text.Length + text.Length / len * 2);
 	var i = 0;
 	for (; i < text.Length / 10; i++) {
