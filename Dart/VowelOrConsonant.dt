@@ -1,0 +1,21 @@
+import 'dart:io';
+ 
+void main() {
+    VogalOuConsoante("A");
+    VogalOuConsoante("c");
+    VogalOuConsoante("1");
+    VogalOuConsoante("Nome");
+}
+
+void VogalOuConsoante(String letra) {
+    var chr = letra[0].toLowerCase();
+    if ("aeiou".contains(chr)) {
+        print("A letra ${letra[0]} é uma vogal");
+    } else if ("bcdfghjklmnpqrstuvxyz".contains(chr)) {
+        print("A letra ${letra[0]} é uma consoante");
+    } else {
+        print("${letra[0]} não é uma letra");
+    }
+}
+
+//https://pt.stackoverflow.com/q/573430/101
