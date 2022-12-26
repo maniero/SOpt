@@ -41,6 +41,7 @@
 - [O que significa o operador "=>"?](https://pt.stackoverflow.com/q/114367/101)
 - [O que é especificação ECMAScript 2015 (ES6)?](https://pt.stackoverflow.com/q/181071/101)
 - [Quais as vantagens e desvantagens de minificar scripts JavaScript?](https://pt.stackoverflow.com/q/88058/101)
+- [Existe classe em JavaScript?](https://pt.stackoverflow.com/q/108548/101)
   
 # High level
   
