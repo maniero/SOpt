@@ -8,3 +8,4 @@
 - [Como usar várias linguagens em um único programa?](https://pt.stackoverflow.com/q/134596/101)
 - [O que é o "stdafx.h" e qual sua importância?](https://pt.stackoverflow.com/q/206097/101)
 - [warning: control reaches end of non-void function - c++](https://pt.stackoverflow.com/q/266301/101)
+- [Como funciona a estrutura MVC para aplicações Desktop?](https://pt.stackoverflow.com/q/85848/101)
