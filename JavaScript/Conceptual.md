@@ -43,6 +43,7 @@
 - [Quais as vantagens e desvantagens de minificar scripts JavaScript?](https://pt.stackoverflow.com/q/88058/101)
 - [Existe classe em JavaScript?](https://pt.stackoverflow.com/q/108548/101)
 - [Existe ponteiro no JavaScript?](https://pt.stackoverflow.com/q/427346/101)
+- [Nos novos navegadores agora não haverá mais requisições síncronas?](https://pt.stackoverflow.com/q/48011/101)
   
 # High level
   
