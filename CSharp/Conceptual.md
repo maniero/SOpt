@@ -111,3 +111,4 @@
 - [Visual Studio Community pode ser usado em projetos comerciais?](https://pt.stackoverflow.com/q/40609/101)
 - [Como mudar cor de fundo Visual Studio?](https://pt.stackoverflow.com/q/102097/101)
 - [Quais as diferenças entre as versões disponíveis do Visual Studio 2015?](https://pt.stackoverflow.com/q/121997/101)
+- [Como descobrir a versão do C# que eu estou usando?](https://pt.stackoverflow.com/q/285755/101)
