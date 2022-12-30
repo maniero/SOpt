@@ -145,6 +145,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 
 - [Quais as diferenças entre Kernel e Microkernel?](https://pt.stackoverflow.com/q/114911/101)
 - [O que é "overlay" e qual a sua ligação com a memória?](https://pt.stackoverflow.com/q/203928/101)
+- [O que seria Win32?](https://pt.stackoverflow.com/q/34953/101)
 
 # Terminology
 
