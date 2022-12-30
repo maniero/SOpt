@@ -40,3 +40,4 @@
 - [Pra que serve um linker?](https://pt.stackoverflow.com/q/191565/101)
 - [Determinando uma string dentro de um switch em C](https://pt.stackoverflow.com/q/151605/101)
 - [Divisão matemática precisa](https://pt.stackoverflow.com/q/38138/101)
+- [Como criar um programa em C e usar interface gráfica do Java/C#?](https://pt.stackoverflow.com/q/85684/101)
