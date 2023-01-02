@@ -77,6 +77,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual a diferença entre array e matriz?](https://pt.stackoverflow.com/q/232895/101)
 - [Qual tamanho máximo um arquivo JSON pode ter?](https://pt.stackoverflow.com/q/259450/101)
 - [O que são números de notação Decimal, Hexadecimal e Octal?](https://pt.stackoverflow.com/q/47854/101)
+- [O que é na verdade o array?](https://pt.stackoverflow.com/q/199751/101)
 
 # Algorithms
 
