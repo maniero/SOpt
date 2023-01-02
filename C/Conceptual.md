@@ -41,3 +41,4 @@
 - [Determinando uma string dentro de um switch em C](https://pt.stackoverflow.com/q/151605/101)
 - [Divisão matemática precisa](https://pt.stackoverflow.com/q/38138/101)
 - [Como criar um programa em C e usar interface gráfica do Java/C#?](https://pt.stackoverflow.com/q/85684/101)
+- [Handler? O que é isso e para que serve em C/C++?](https://pt.stackoverflow.com/q/261417/101)
