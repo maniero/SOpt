@@ -46,6 +46,10 @@
 - [Como definir tipos pré definidos no MySQL?](https://pt.stackoverflow.com/q/81012/101)
 - [Quais são os valores recomendados para database MySQL (id, usuario, senha e email)?](https://pt.stackoverflow.com/q/16967/101)
 
+# PostgreSQL
+
+- [Em termos de performance, "character varying" ou "text" no PostgreSQL?](https://pt.stackoverflow.com/q/258734/101)
+
 # SQL Server
 
 - [Qual a diferença entre varchar e nvarchar?](https://pt.stackoverflow.com/q/214295/101)
