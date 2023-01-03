@@ -86,6 +86,7 @@
 - [O que são provedores? Qual a diferença entre OLE DB e ODBC?](https://pt.stackoverflow.com/q/22460/101)
 - [Desenvolver para várias plataformas usando C# e Xamarin Studio](https://pt.stackoverflow.com/q/38099/101)
 - [O que é Garbage Collector e como ele funciona?](https://pt.stackoverflow.com/q/255769/101)
+- [Proteção de código .NET](https://pt.stackoverflow.com/q/141721/101)
 
 # ASP.NET
 
