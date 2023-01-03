@@ -17,6 +17,7 @@
 - [Pode ser considerada uma má prática de modelagem armazenar todas as pessoas (clientes, funcionários, fornecedores) em uma mesma tabela?](https://pt.stackoverflow.com/q/54177/101)
 - [Armazenar valores representantes do 'sexo' de um usuário em bancos de dados](https://pt.stackoverflow.com/q/57429/101)
 - [O que é Tabela Associativa?](https://pt.stackoverflow.com/q/173768/101)
+- [É realmente necessário criar uma 3ª tabela auxiliar em relacionamentos N-N?](https://pt.stackoverflow.com/q/221018/101)
 
 # SQL
 
