@@ -45,6 +45,7 @@
 - [Qual a diferença entre usar ou não um "constraint" no "foreign key"?](https://pt.stackoverflow.com/q/363606/101)
 - [Como definir tipos pré definidos no MySQL?](https://pt.stackoverflow.com/q/81012/101)
 - [Quais são os valores recomendados para database MySQL (id, usuario, senha e email)?](https://pt.stackoverflow.com/q/16967/101)
+- [Como selecionar todas as colunas menos uma em específico?](https://pt.stackoverflow.com/q/247484/101)
 
 # PostgreSQL
 
