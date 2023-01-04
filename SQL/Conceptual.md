@@ -86,6 +86,7 @@
 - [O que são os índices, B-tree, hash, GiST e GIN?](https://pt.stackoverflow.com/q/101065/101)
 - [Qual é a diferença entre ASC ou DESC em índices clusterizados?](https://pt.stackoverflow.com/q/326193/101)
 - [O que é ACID em banco de dados?](https://pt.stackoverflow.com/q/203857/101)
+- [Qual a diferença entre tabela, banco de dados e base de dados?](https://pt.stackoverflow.com/q/479739/101)
 
 # NoSQL
 
