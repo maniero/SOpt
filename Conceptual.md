@@ -99,6 +99,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Princípio de Delegação, o que é?](https://pt.stackoverflow.com/q/87521/101)
 - [O que é uma classe de domínio?](https://pt.stackoverflow.com/q/298692/101)
 - [Quais são os pilares da programação orientada à objetos?](https://pt.stackoverflow.com/q/215679/101)
+- [Principal objetivo de classes utilitárias](https://pt.stackoverflow.com/q/90047/101)
 
 # Threading
 
