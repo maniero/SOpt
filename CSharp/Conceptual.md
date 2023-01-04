@@ -88,6 +88,7 @@
 - [Desenvolver para várias plataformas usando C# e Xamarin Studio](https://pt.stackoverflow.com/q/38099/101)
 - [O que é Garbage Collector e como ele funciona?](https://pt.stackoverflow.com/q/255769/101)
 - [Proteção de código .NET](https://pt.stackoverflow.com/q/141721/101)
+- [Como compilar o banco de dados para instalar junto com uma aplicação C#?](https://pt.stackoverflow.com/q/104635/101)
 
 # ASP.NET
 
