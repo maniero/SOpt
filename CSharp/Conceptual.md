@@ -17,6 +17,7 @@
 - [Quando usar método assíncronos ou síncronos?](https://pt.stackoverflow.com/q/201998/101)
 - [Converter string para float no C#](https://pt.stackoverflow.com/q/395289/101)
 - [Como realmente entender Streams?](https://pt.stackoverflow.com/q/49831/101)
+- [Compilador Roslyn - O que é, e porque foi criado?](https://pt.stackoverflow.com/q/82756/101)
 
 # Algorithms
 
