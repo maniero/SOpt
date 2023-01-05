@@ -15,3 +15,4 @@
 - [O que significa "sanitizar" dados?](https://pt.stackoverflow.com/q/186358/101)
 - [Como usar as aspas duplas e simples?](https://pt.stackoverflow.com/q/88058/101)
 - [Tipagem do retorno no PHP 7. Quais as vantagens?](https://pt.stackoverflow.com/q/93707/101)
+- [Qual a diferença entre "notice" e "warning" no PHP?](https://pt.stackoverflow.com/q/186344/101)
