@@ -64,6 +64,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Até que ponto não é aconselhável usar uma ORM?](https://pt.stackoverflow.com/q/14225/101)
 - [Como fazer Teste de Mesa para determinado algoritmo?](https://pt.stackoverflow.com/q/136393/101)
 - [O que é Teste de Regressão?](https://pt.stackoverflow.com/q/286892/101)
+- [Qual a diferença entre teste e depuração?](https://pt.stackoverflow.com/q/149424/101)
 
 # Typing
 
