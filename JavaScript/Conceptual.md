@@ -27,6 +27,7 @@
 - [Qual a diferença entre usar toString() e JSON.stringify()?](https://pt.stackoverflow.com/q/333611/101)
 - [Quais as diferenças entre HTTP 1.1 vs HTTP 1.0?](https://pt.stackoverflow.com/q/153512/101)
 - [O que significa handshake?](https://pt.stackoverflow.com/q/181115/101)
+- [Como posso adquirir HTTPS na minha aplicação web?](https://pt.stackoverflow.com/q/47194/101)
 
 # JavaScript
   
