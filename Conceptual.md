@@ -23,6 +23,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Existe alguma linguagem de programação em português? Se sim, em que são aplicadas?](https://pt.stackoverflow.com/q/248079/101)
 - [Qual a diferença de "nó", "atributo", "elemento" e "tag" em XML?](https://pt.stackoverflow.com/q/147049/101)
 - [A primeira linguagem de programação](https://pt.stackoverflow.com/q/156521/101)
+- [O que caracteriza uma linguagem de programação?](https://pt.stackoverflow.com/q/102452/101)
 
 # Coding Style
 
