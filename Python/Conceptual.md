@@ -8,3 +8,4 @@
 - [O que faz o join() ser tão superior se comparado a outras técnicas de concatenação?](https://pt.stackoverflow.com/q/153322/101)
 - [Como funciona o polimorfismo de sobrecarga em Python?](https://pt.stackoverflow.com/q/317239/101)
 - [Diferença entre comandos para interromper execução](https://pt.stackoverflow.com/q/338584/101)
+- [Por que nas declarações de classes no Python devemos estender object?](https://pt.stackoverflow.com/q/53037/101)
