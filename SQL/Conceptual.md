@@ -67,6 +67,7 @@
 - [É possível usar o SQLite como cliente-servidor?](https://pt.stackoverflow.com/q/2371/101)
 - [Qual o limite de armazenamento do SQLite?](https://pt.stackoverflow.com/q/82865/101)
 - [Quando usar o SQLite?](https://pt.stackoverflow.com/q/100460/101)
+- [Como ignorar acentos numa consulta SQL?](https://pt.stackoverflow.com/q/317526/101)
 
 # Oracle
 
