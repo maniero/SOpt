@@ -16,3 +16,4 @@
 - [Como usar as aspas duplas e simples?](https://pt.stackoverflow.com/q/88058/101)
 - [Tipagem do retorno no PHP 7. Quais as vantagens?](https://pt.stackoverflow.com/q/93707/101)
 - [Qual a diferença entre "notice" e "warning" no PHP?](https://pt.stackoverflow.com/q/186344/101)
+- [Pra que serve os "spaceship operator" <=> do PHP7?](https://pt.stackoverflow.com/q/87231/101)
