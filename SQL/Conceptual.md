@@ -26,6 +26,7 @@
 - [Qual diferença entre where e having?](https://pt.stackoverflow.com/q/211794/101)
 - [O que é um upsert?](https://pt.stackoverflow.com/q/324209/101)
 - [Surrogate Key e Natural Key](https://pt.stackoverflow.com/q/277091/101)
+- [Subqueries podem diminuir a performance? Mito ou verdade?](https://pt.stackoverflow.com/q/138334/101)
 
 # MySQL
 
