@@ -154,6 +154,10 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que seria Win32?](https://pt.stackoverflow.com/q/34953/101)
 - [Por que em nomes de arquivos e pastas, alguns caracteres ainda não são aceitos?](https://pt.stackoverflow.com/q/184020/101)
 
+# Misc
+
+- [Como colocar autoria usando licença MIT?](https://pt.stackoverflow.com/q/54421/101)
+
 # Terminology
 
 - [O que é overhead?](https://pt.stackoverflow.com/q/198252/101)
