@@ -9,6 +9,7 @@
 - [É possível concatenar números do tipo int?](https://pt.stackoverflow.com/q/275206/101)
 - [Para que serve uma função static?](https://pt.stackoverflow.com/q/259785/101)
 - [Existe diferença entre usar "return" ou "exit()" para encerrar a função "main()"?](https://pt.stackoverflow.com/q/174312/101)
+- [Qual é a finalidade dos comandos size_t e ssize_t em C?](https://pt.stackoverflow.com/q/104118/101)
 
 # Algorithm
 
@@ -35,7 +36,7 @@
 - [Na prática, qual a utilidade dos ponteiros em C?](https://pt.stackoverflow.com/q/244828/101)
 - [Erro "undefined reference" ao compilar em C](https://pt.stackoverflow.com/q/239967/101)
 - [É possível saber as funções de uma DLL sem ter a sua documentação?](https://pt.stackoverflow.com/q/136404/101)
-- [https://pt.stackoverflow.com/q/169142/101](https://pt.stackoverflow.com/q/169142/101)
+- [Qual é a diferença entre um arquivo .c e .cpp?](https://pt.stackoverflow.com/q/169142/101)
 - [Qual a diferença entre C e C99?](https://pt.stackoverflow.com/q/295685/101)
 - [Pra que serve um linker?](https://pt.stackoverflow.com/q/191565/101)
 - [Determinando uma string dentro de um switch em C](https://pt.stackoverflow.com/q/151605/101)
