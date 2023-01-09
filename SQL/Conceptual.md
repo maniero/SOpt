@@ -49,6 +49,7 @@
 - [Quais são os valores recomendados para database MySQL (id, usuario, senha e email)?](https://pt.stackoverflow.com/q/16967/101)
 - [Como selecionar todas as colunas menos uma em específico?](https://pt.stackoverflow.com/q/247484/101)
 - [Por que GROUP BY não funciona com MySQL nesse caso?](https://pt.stackoverflow.com/q/259969/101)
+- [Índices em consultas no MySQL](https://pt.stackoverflow.com/q/32052/101)
 
 # PostgreSQL
 
