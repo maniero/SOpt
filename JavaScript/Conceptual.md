@@ -46,6 +46,7 @@
 - [Existe classe em JavaScript?](https://pt.stackoverflow.com/q/108548/101)
 - [Existe ponteiro no JavaScript?](https://pt.stackoverflow.com/q/427346/101)
 - [Nos novos navegadores agora não haverá mais requisições síncronas?](https://pt.stackoverflow.com/q/48011/101)
+- [Qual a diferença do For, ForEach e o Find no JavaScript?](https://pt.stackoverflow.com/q/271587/101)
   
 # High level
   
