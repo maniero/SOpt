@@ -55,6 +55,7 @@
 # PostgreSQL
 
 - [Em termos de performance, "character varying" ou "text" no PostgreSQL?](https://pt.stackoverflow.com/q/258734/101)
+- [Como faço para adicionar uma coluna nova entre 2 colunas no PostgreSQL?](https://pt.stackoverflow.com/q/74959/101)
 
 # SQL Server
 
