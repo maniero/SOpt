@@ -66,6 +66,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Como fazer Teste de Mesa para determinado algoritmo?](https://pt.stackoverflow.com/q/136393/101)
 - [O que é Teste de Regressão?](https://pt.stackoverflow.com/q/286892/101)
 - [Qual a diferença entre teste e depuração?](https://pt.stackoverflow.com/q/149424/101)
+- [Qual a diferença entre escalabilidade e elasticidade?](https://pt.stackoverflow.com/q/187375/101)
 
 # Typing
 
