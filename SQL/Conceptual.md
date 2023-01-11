@@ -18,6 +18,7 @@
 - [Armazenar valores representantes do 'sexo' de um usuário em bancos de dados](https://pt.stackoverflow.com/q/57429/101)
 - [O que é Tabela Associativa?](https://pt.stackoverflow.com/q/173768/101)
 - [É realmente necessário criar uma 3ª tabela auxiliar em relacionamentos N-N?](https://pt.stackoverflow.com/q/221018/101)
+- [A seguinte modelagem de banco de dados é nóia da minha cabeça?](https://pt.stackoverflow.com/q/138090/101)
 
 # SQL
 
