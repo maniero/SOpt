@@ -29,6 +29,7 @@
 - [Subqueries podem diminuir a performance? Mito ou verdade?](https://pt.stackoverflow.com/q/138334/101)
 - [Em qual tabela fica a chave estrangeira em uma relação 1 para 1?](https://pt.stackoverflow.com/q/357827/101)
 - [Diferença e utilização entre Primary Key e Foreign Key](https://pt.stackoverflow.com/q/356021/101)
+- [Índices desnecessários no banco são um problema?](https://pt.stackoverflow.com/q/23348/101)
 
 # MySQL
 
