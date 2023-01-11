@@ -10,3 +10,4 @@
 - [warning: control reaches end of non-void function - c++](https://pt.stackoverflow.com/q/266301/101)
 - [Como funciona a estrutura MVC para aplicações Desktop?](https://pt.stackoverflow.com/q/85848/101)
 - [Como fazer um inteiro armazenar um número de 12 dígitos?](https://pt.stackoverflow.com/q/42970/101)
+- [O que é o using namespace?](https://pt.stackoverflow.com/q/348049/101)
