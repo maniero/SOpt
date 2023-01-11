@@ -106,6 +106,7 @@
 # WinForms
 
 - [Ajustar o layout do Form de acordo com a resolução do monitor](https://pt.stackoverflow.com/q/257393/101)
+- [Qual diferença entre Show(), ShowDialog() e Application.Run()?](https://pt.stackoverflow.com/q/208173/101)
 
 # Xamarin
 
