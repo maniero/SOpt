@@ -19,6 +19,7 @@
 - [Como realmente entender Streams?](https://pt.stackoverflow.com/q/49831/101)
 - [Compilador Roslyn - O que é, e porque foi criado?](https://pt.stackoverflow.com/q/82756/101)
 - [Quando não retornar Task em métodos async?](https://pt.stackoverflow.com/q/219433/101)
+- [Pra que serve o sealed em C#?](https://pt.stackoverflow.com/q/307106/101)
 
 # Algorithms
 
