@@ -125,6 +125,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é "build" e qual é a sua relação com a IDE?](https://pt.stackoverflow.com/q/157135/101)
 - [Quais são as diferenças entre um editor de código, editor de texto e um IDE?](https://pt.stackoverflow.com/q/276003/101)
 - [Linha vertical no meio da tela do Visual Studio Code](https://pt.stackoverflow.com/q/460407/101)
+- [TODO - O que é, qual sua utilidade e como usar?](https://pt.stackoverflow.com/q/121245/101)
 
 # Git
 
