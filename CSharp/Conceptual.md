@@ -103,6 +103,7 @@
 - [Quais as diferenças entre ASP.NET MVC e ASP.NET Razor Pages?](https://pt.stackoverflow.com/q/275940/101)
 - [O que é Partial View?](https://pt.stackoverflow.com/q/93072/101)
 - [Para que é usado Bind(Include = "Propriedade")?](https://pt.stackoverflow.com/q/45459/101)
+- [É possível criar um site com HTML e C# sem ASP.NET?](https://pt.stackoverflow.com/q/238928/101)
 
 # WinForms
 
