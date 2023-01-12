@@ -24,6 +24,7 @@
 - [O que é stream?](https://pt.stackoverflow.com/q/227339/101)
 - [O que vem a ser ThreadPool?](https://pt.stackoverflow.com/q/168848/101)
 - [Quais são os estados de um thread?](https://pt.stackoverflow.com/q/157068/101)
+- [Quais as diferenças entre InputStreamReader e Scanner em Java](https://pt.stackoverflow.com/q/52719/101)
 
 # Desktop
 
