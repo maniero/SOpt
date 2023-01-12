@@ -31,6 +31,7 @@
 - [Em qual tabela fica a chave estrangeira em uma relação 1 para 1?](https://pt.stackoverflow.com/q/357827/101)
 - [Diferença e utilização entre Primary Key e Foreign Key](https://pt.stackoverflow.com/q/356021/101)
 - [Índices desnecessários no banco são um problema?](https://pt.stackoverflow.com/q/23348/101)
+- [Performance do COUNT(*) e COUNT(1)](https://pt.stackoverflow.com/q/214077/101)
 
 # MySQL
 
