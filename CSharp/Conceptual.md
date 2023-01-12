@@ -20,6 +20,7 @@
 - [Compilador Roslyn - O que é, e porque foi criado?](https://pt.stackoverflow.com/q/82756/101)
 - [Quando não retornar Task em métodos async?](https://pt.stackoverflow.com/q/219433/101)
 - [Pra que serve o sealed em C#?](https://pt.stackoverflow.com/q/307106/101)
+- [Qual é a diferença, na prática, entre "" e String.Empty?](https://pt.stackoverflow.com/q/151120/101)
 
 # Algorithms
 
