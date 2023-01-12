@@ -16,6 +16,7 @@
 - [Como melhor tratar exceções em Java?](https://pt.stackoverflow.com/q/48011/101)
 - [Colocar várias classes no mesmo arquivo](https://pt.stackoverflow.com/q/246632/101)
 - [Casas decimais do float](https://pt.stackoverflow.com/q/40045/101)
+- [Exceções devem ser usadas para controle de fluxo?](https://pt.stackoverflow.com/q/48410/101)
 
 # Library
 
