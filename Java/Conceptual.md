@@ -50,3 +50,4 @@
 - [Heap de memória Java](https://pt.stackoverflow.com/q/36741/101)
 - [https://pt.stackoverflow.com/q/160947/101](https://pt.stackoverflow.com/q/160947/101
 - [Verificar se um email existe ou o seu domínio e-mail]()
+- [Como desativar a atualização automática do Java?](https://pt.stackoverflow.com/q/42230/101)
