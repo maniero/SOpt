@@ -116,6 +116,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que são e onde estão o “stack” e “heap”?](http://pt.stackoverflow.com/q/3797/101)
 - [Qual a diferença entre ponteiro e referência?](https://pt.stackoverflow.com/q/56470/101)
 - [O que é page fault?](https://pt.stackoverflow.com/q/207174/101)
+- [Qual tamanho de um endereço de memória?](https://pt.stackoverflow.com/q/54769/101)
 
 # IDE
 
