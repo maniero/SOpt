@@ -28,6 +28,7 @@
 - [Limpar buffer em C com fflush() ou __fpurge()](https://pt.stackoverflow.com/q/111697/101)
 - [Problema com a biblioteca math.h (referência indefinida para `sqrt')](https://pt.stackoverflow.com/q/228706/101)
 - [Como limitar as casas decimais da leitura ("scanf()") de uma variável double?](https://pt.stackoverflow.com/q/146852/101)
+- [Problema com função pow()](https://pt.stackoverflow.com/q/286771/101)
 
 # Misc
 
