@@ -161,6 +161,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 # Misc
 
 - [Como colocar autoria usando licença MIT?](https://pt.stackoverflow.com/q/54421/101)
+- [Qual a diferença do PWA e TWA (Trusted Web Activities)?](https://pt.stackoverflow.com/q/397165/101)
 
 # Terminology
 
