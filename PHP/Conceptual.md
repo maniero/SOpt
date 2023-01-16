@@ -19,3 +19,4 @@
 - [Pra que serve os "spaceship operator" <=> do PHP7?](https://pt.stackoverflow.com/q/87231/101)
 - [Qual é o conceito do GTK? É recomendável usá-lo?](https://pt.stackoverflow.com/q/133354/101)
 - [É uma má prática usar apenas métodos estáticos numa classe?](https://pt.stackoverflow.com/q/115473/101)
+- [Qual a diferença entre "!=" e "<>" em PHP? Qual usar?](https://pt.stackoverflow.com/q/47887/101)
