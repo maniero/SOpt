@@ -105,6 +105,7 @@
 - [O que é Partial View?](https://pt.stackoverflow.com/q/93072/101)
 - [Para que é usado Bind(Include = "Propriedade")?](https://pt.stackoverflow.com/q/45459/101)
 - [É possível criar um site com HTML e C# sem ASP.NET?](https://pt.stackoverflow.com/q/238928/101)
+- [Qual é mais seguro: session ou cookie?](https://pt.stackoverflow.com/q/116891/101)
 
 # WinForms
 
