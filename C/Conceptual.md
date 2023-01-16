@@ -11,6 +11,7 @@
 - [Existe diferença entre usar "return" ou "exit()" para encerrar a função "main()"?](https://pt.stackoverflow.com/q/174312/101)
 - [Qual é a finalidade dos comandos size_t e ssize_t em C?](https://pt.stackoverflow.com/q/104118/101)
 - [Sizeof() ou strlen()?](https://pt.stackoverflow.com/q/143457/101)
+- [char[] ou *char malloc?](https://pt.stackoverflow.com/q/141975/101)
 
 # Algorithm
 
