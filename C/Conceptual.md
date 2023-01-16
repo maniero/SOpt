@@ -10,6 +10,7 @@
 - [Para que serve uma função static?](https://pt.stackoverflow.com/q/259785/101)
 - [Existe diferença entre usar "return" ou "exit()" para encerrar a função "main()"?](https://pt.stackoverflow.com/q/174312/101)
 - [Qual é a finalidade dos comandos size_t e ssize_t em C?](https://pt.stackoverflow.com/q/104118/101)
+- [Sizeof() ou strlen()?](https://pt.stackoverflow.com/q/143457/101)
 
 # Algorithm
 
