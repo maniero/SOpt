@@ -22,6 +22,7 @@
 - [Pra que serve o sealed em C#?](https://pt.stackoverflow.com/q/307106/101)
 - [Qual é a diferença, na prática, entre "" e String.Empty?](https://pt.stackoverflow.com/q/151120/101)
 - [O que é um literal?](https://pt.stackoverflow.com/q/114473/101)
+- [Qual é o sentido de um atributo ser private e static ao mesmo tempo em uma classe?](https://pt.stackoverflow.com/q/99603/101)
 
 # Algorithms
 
