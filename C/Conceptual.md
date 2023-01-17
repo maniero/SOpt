@@ -12,6 +12,7 @@
 - [Qual é a finalidade dos comandos size_t e ssize_t em C?](https://pt.stackoverflow.com/q/104118/101)
 - [Sizeof() ou strlen()?](https://pt.stackoverflow.com/q/143457/101)
 - [char[] ou *char malloc?](https://pt.stackoverflow.com/q/141975/101)
+- [Simular o tipo booleano em C](https://pt.stackoverflow.com/q/95812/101)
 
 # Algorithm
 
