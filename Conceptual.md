@@ -74,6 +74,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Quando usar ANSI e quando usar UTF-8?](https://pt.stackoverflow.com/q/27519/101)
 - [O que é booleano?](https://pt.stackoverflow.com/q/214972/101)
 - [Qual o significado de "string"?](https://pt.stackoverflow.com/q/427535/101)
+- [O que é estilo de tipagem?](https://pt.stackoverflow.com/q/190463/101)
 
 # Data Structure
 
