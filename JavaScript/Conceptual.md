@@ -55,6 +55,7 @@
 - [Qual a diferença entre servidor web e servidor de aplicação?](https://pt.stackoverflow.com/q/122589/101)
 - [Escrever cada passo do cálculo de um fatorial](https://pt.stackoverflow.com/q/303346/101)
 - [Impressora fiscal via web é possível?](https://pt.stackoverflow.com/q/48366/101)
+- [Quais as vantagens e desvantagens das SPA (Single-Page Application)?](https://pt.stackoverflow.com/q/354818/101)
   
 # Frameworks
   
