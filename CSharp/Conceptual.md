@@ -69,6 +69,7 @@
 - [O que é e pra que serve IEnumerable e IEnumerator?](https://pt.stackoverflow.com/q/191582/101)
 - [Qual a probablidade de se gerar um Guid Repetido?](https://pt.stackoverflow.com/q/40525/101)
 - [O que é CultureInfo.InvariantCulture?](https://pt.stackoverflow.com/q/91005/101)
+- [MemoryStream vs Stream](https://pt.stackoverflow.com/q/226800/101)
 
 # IO
 
