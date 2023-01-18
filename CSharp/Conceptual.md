@@ -130,3 +130,4 @@
 - [Como descobrir a versão do C# que eu estou usando?](https://pt.stackoverflow.com/q/285755/101)
 - [Desenvolver em C# e .NET no Linux Ubuntu?](https://pt.stackoverflow.com/q/143727/101)
 - [Modo Debug e Release no Visual Studio, para que serve?](https://pt.stackoverflow.com/q/95909/101)
+- [Voltar posição anterior no Visual Studio](https://pt.stackoverflow.com/q/44966/101)
