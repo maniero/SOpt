@@ -67,6 +67,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é Teste de Regressão?](https://pt.stackoverflow.com/q/286892/101)
 - [Qual a diferença entre teste e depuração?](https://pt.stackoverflow.com/q/149424/101)
 - [Qual a diferença entre escalabilidade e elasticidade?](https://pt.stackoverflow.com/q/187375/101)
+- [Como programar de maneira modular?](https://pt.stackoverflow.com/q/223549/101)
 
 # Typing
 
