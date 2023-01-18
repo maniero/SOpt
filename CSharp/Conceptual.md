@@ -87,6 +87,7 @@
 - [Como escrever um código legível e de fácil manutenção?](https://pt.stackoverflow.com/q/13890/101)
 - [Qual a diferença entre "lambda" e LINQ? Como diferenciá-los em uma sentença?](https://pt.stackoverflow.com/q/79894/101)
 - [LINQ usando função dentro de select new{} com lambda expression](https://pt.stackoverflow.com/q/266872/101)
+- [Qual diferença entre ToListAsync() e ToList()?](https://pt.stackoverflow.com/q/169733/101)
 
 # .NET
 
