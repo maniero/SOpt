@@ -32,6 +32,7 @@
 - [Diferença e utilização entre Primary Key e Foreign Key](https://pt.stackoverflow.com/q/356021/101)
 - [Índices desnecessários no banco são um problema?](https://pt.stackoverflow.com/q/23348/101)
 - [Performance do COUNT(*) e COUNT(1)](https://pt.stackoverflow.com/q/214077/101)
+- [View ou tabela temporária?](https://pt.stackoverflow.com/q/328509/101)
 
 # MySQL
 
