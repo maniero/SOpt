@@ -13,6 +13,7 @@
 - [Sizeof() ou strlen()?](https://pt.stackoverflow.com/q/143457/101)
 - [char[] ou *char malloc?](https://pt.stackoverflow.com/q/141975/101)
 - [Simular o tipo booleano em C](https://pt.stackoverflow.com/q/95812/101)
+- [Qual a diferença entre ponteiro para vetor e ponteiro para variável?](https://pt.stackoverflow.com/q/193507/101)
 
 # Algorithm
 
