@@ -56,6 +56,7 @@
 - [Escrever cada passo do cálculo de um fatorial](https://pt.stackoverflow.com/q/303346/101)
 - [Impressora fiscal via web é possível?](https://pt.stackoverflow.com/q/48366/101)
 - [Quais as vantagens e desvantagens das SPA (Single-Page Application)?](https://pt.stackoverflow.com/q/354818/101)
+- [Podemos desenvolver uma aplicação web 100% JavaScript/HTML/CSS sem backend?](https://pt.stackoverflow.com/q/268916/101)
   
 # Frameworks
   
