@@ -19,6 +19,7 @@
 - [Como converter binário em decimal?](https://pt.stackoverflow.com/q/152947/101)
 - [Conversão decimal em binário em linguagem C](https://pt.stackoverflow.com/q/216128/101)
 - [Como medir a complexidade de um algoritmo?](https://pt.stackoverflow.com/q/114330/101)
+- [Excluir fisicamente um registro de tipo struct](https://pt.stackoverflow.com/q/83266/101)
 
 # Library
 
