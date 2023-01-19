@@ -50,3 +50,4 @@
 - [Como criar um programa em C e usar interface gráfica do Java/C#?](https://pt.stackoverflow.com/q/85684/101)
 - [Handler? O que é isso e para que serve em C/C++?](https://pt.stackoverflow.com/q/261417/101)
 - [Qual a diferença entre linkagem estática e dinâmica?](https://pt.stackoverflow.com/q/149372/101)
+- [O que é o buffer overflow?](https://pt.stackoverflow.com/q/115613/101)
