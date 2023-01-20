@@ -21,3 +21,4 @@
 - [É uma má prática usar apenas métodos estáticos numa classe?](https://pt.stackoverflow.com/q/115473/101)
 - [Qual a diferença entre "!=" e "<>" em PHP? Qual usar?](https://pt.stackoverflow.com/q/47887/101)
 - [Qual é a finalidade da função "assert()" e quando devemos utilizá-la?](https://pt.stackoverflow.com/q/166719)
+- [Qual é a quantidade máxima que um array pode suportar em PHP?](https://pt.stackoverflow.com/q/114925)
