@@ -102,6 +102,7 @@
 - [Proteção de código .NET](https://pt.stackoverflow.com/q/141721/101)
 - [Como compilar o banco de dados para instalar junto com uma aplicação C#?](https://pt.stackoverflow.com/q/104635/101)
 - [O que é o código IL e onde eu posso encontrar este código?](https://pt.stackoverflow.com/q/138577/101)
+- [Rodar Python e C# juntos](https://pt.stackoverflow.com/q/265445)
 
 # ASP.NET
 
