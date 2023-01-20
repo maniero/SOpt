@@ -30,11 +30,12 @@
 - [Qual a diferença de DLL e lib?](https://pt.stackoverflow.com/q/44269/101)
 - [Para que serve o sscanf() e sprintf()?](https://pt.stackoverflow.com/q/336172/101)
 - [puts() e printf(), quando e qual usar?](https://pt.stackoverflow.com/q/323261/101)
-- [Limpar buffer em C com fflush() ou __fpurge()](https://pt.stackoverflow.com/q/111697/101)
-- [Problema com a biblioteca math.h (referência indefinida para `sqrt')](https://pt.stackoverflow.com/q/228706/101)
+- [Problema com a biblioteca math.h (referência indefinida para 'sqrt')](https://pt.stackoverflow.com/q/228706/101)
 - [Como limitar as casas decimais da leitura ("scanf()") de uma variável double?](https://pt.stackoverflow.com/q/146852/101)
 - [Problema com função pow()](https://pt.stackoverflow.com/q/286771/101)
-
+- [Como ler apenas números inteiros no scanf()?](https://pt.stackoverflow.com/q/336557)
+- [Limpar buffer em C com fflush() ou __fpurge()](https://pt.stackoverflow.com/q/111697/101)
+- 
 # Misc
 
 - [É possível programar orientado a objeto em C?](https://pt.stackoverflow.com/q/80228/101)
