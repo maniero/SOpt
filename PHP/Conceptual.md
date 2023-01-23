@@ -23,3 +23,4 @@
 - [Qual é a finalidade da função "assert()" e quando devemos utilizá-la?](https://pt.stackoverflow.com/q/166719)
 - [Qual é a quantidade máxima que um array pode suportar em PHP?](https://pt.stackoverflow.com/q/114925)
 - [Qual a diferença entre define() e const?](https://pt.stackoverflow.com/q/45806/101)
+- [Função unset() do PHP pode melhorar o desempenho?](https://pt.stackoverflow.com/q/143602/101)
