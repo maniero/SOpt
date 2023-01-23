@@ -10,3 +10,4 @@
 - [Diferença entre comandos para interromper execução](https://pt.stackoverflow.com/q/338584/101)
 - [Por que nas declarações de classes no Python devemos estender object?](https://pt.stackoverflow.com/q/53037/101)
 - [Como atribuir valores a uma quantidade indefinida de variáveis em python?](https://pt.stackoverflow.com/q/354047)
+- [O que faz Python ser uma linguagem de programação multiparadigma?](https://pt.stackoverflow.com/q/186300/101)
