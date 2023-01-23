@@ -19,6 +19,7 @@
 - [O que é Tabela Associativa?](https://pt.stackoverflow.com/q/173768/101)
 - [É realmente necessário criar uma 3ª tabela auxiliar em relacionamentos N-N?](https://pt.stackoverflow.com/q/221018/101)
 - [A seguinte modelagem de banco de dados é nóia da minha cabeça?](https://pt.stackoverflow.com/q/138090/101)
+- [Armazenando unidade de medida em tabela MySQL](https://pt.stackoverflow.com/q/58800/101)
 
 # SQL
 
