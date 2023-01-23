@@ -20,6 +20,7 @@
 - [É realmente necessário criar uma 3ª tabela auxiliar em relacionamentos N-N?](https://pt.stackoverflow.com/q/221018/101)
 - [A seguinte modelagem de banco de dados é nóia da minha cabeça?](https://pt.stackoverflow.com/q/138090/101)
 - [Armazenando unidade de medida em tabela MySQL](https://pt.stackoverflow.com/q/58800/101)
+- [Como armazenar lista de produtos de um pedido em tabela do banco de dados?](https://pt.stackoverflow.com/q/430721/101)
 
 # SQL
 
