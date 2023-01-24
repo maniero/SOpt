@@ -83,6 +83,7 @@
 - [Como obter a quantidade de registros em uma consulta no SQLite?](https://pt.stackoverflow.com/q/81491/101)
 - [O que é a string de conexão "connectionString"?](https://pt.stackoverflow.com/q/124809/101)
 - [Impedir que uma aplicação seja fechada pelo usuário através do gerenciador de tarefas](https://pt.stackoverflow.com/q/51860)
+- [Como imprimir de uma aplicação web em uma impressora local com C#?](https://pt.stackoverflow.com/q/236888/101)
 
 # LINQ
 
