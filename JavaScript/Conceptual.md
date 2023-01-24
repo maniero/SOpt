@@ -49,6 +49,7 @@
 - [Nos novos navegadores agora não haverá mais requisições síncronas?](https://pt.stackoverflow.com/q/48011/101)
 - [Qual a diferença do For, ForEach e o Find no JavaScript?](https://pt.stackoverflow.com/q/271587/101)
 - [Como bloquear adblock?](https://pt.stackoverflow.com/q/123884/101)
+- [Qual a finalidade do comando "return true;" no final de uma função?](https://pt.stackoverflow.com/q/89889/101)
   
 # High level
   
