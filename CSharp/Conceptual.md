@@ -24,6 +24,7 @@
 - [O que é um literal?](https://pt.stackoverflow.com/q/114473/101)
 - [Qual é o sentido de um atributo ser private e static ao mesmo tempo em uma classe?](https://pt.stackoverflow.com/q/99603/101)
 - [O que preciso para programar em C#?](https://pt.stackoverflow.com/q/52291/101)
+- [Exceções consomem muito processamento. Verdade ou lenda?](https://pt.stackoverflow.com/q/5888/101)
 
 # Algorithms
 
