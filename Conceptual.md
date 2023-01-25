@@ -172,6 +172,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual a diferença do PWA e TWA (Trusted Web Activities)?](https://pt.stackoverflow.com/q/397165/101)
 - [Devo mostrar mensagens de erro genéricas como, senha ou usuário errado, ou mensagens específicas?](https://pt.stackoverflow.com/q/245240/101)
 - [Por que ainda se usam outras codificações além do UTF-8?](https://pt.stackoverflow.com/q/23807/101)
+- [O que é Travis CI?](https://pt.stackoverflow.com/q/197689/101)
 
 # Terminology
 
