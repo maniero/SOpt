@@ -1,11 +1,3 @@
-# String & Collencions
-
-- [String e sua eficiência](http://pt.stackoverflow.com/q/16050/101)
-- [ArrayList x List](https://pt.stackoverflow.com/q/73633/101)
-- [Devo inicializar strings (ou objetos em geral) com null?](https://pt.stackoverflow.com/q/108486/101)
-- [Por que em Java o tamanho de um array é um atributo e de uma String é um método?](https://pt.stackoverflow.com/q/208880/101)
-- [Qual a diferença dos métodos replace() e replaceAll()?](https://pt.stackoverflow.com/q/194684/101)
-
 # Language
 
 - [Como criar um método com parâmetros opcionais em Java puro?](https://pt.stackoverflow.com/q/145625/101)
@@ -17,6 +9,7 @@
 - [Colocar várias classes no mesmo arquivo](https://pt.stackoverflow.com/q/246632/101)
 - [Casas decimais do float](https://pt.stackoverflow.com/q/40045/101)
 - [Exceções devem ser usadas para controle de fluxo?](https://pt.stackoverflow.com/q/48410/101)
+- [Interface ou Abstract?](https://pt.stackoverflow.com/q/35317/101)
 
 # Library
 
@@ -27,6 +20,14 @@
 - [Quais são os estados de um thread?](https://pt.stackoverflow.com/q/157068/101)
 - [Quais as diferenças entre InputStreamReader e Scanner em Java](https://pt.stackoverflow.com/q/52719/101)
 - [Qual a melhor forma de armazenar valores monetários no SQLite?](https://pt.stackoverflow.com/q/78306/101)
+
+# String & Collencions
+
+- [String e sua eficiência](http://pt.stackoverflow.com/q/16050/101)
+- [ArrayList x List](https://pt.stackoverflow.com/q/73633/101)
+- [Devo inicializar strings (ou objetos em geral) com null?](https://pt.stackoverflow.com/q/108486/101)
+- [Por que em Java o tamanho de um array é um atributo e de uma String é um método?](https://pt.stackoverflow.com/q/208880/101)
+- [Qual a diferença dos métodos replace() e replaceAll()?](https://pt.stackoverflow.com/q/194684/101)
 
 # Desktop
 
