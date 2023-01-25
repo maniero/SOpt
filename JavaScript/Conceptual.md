@@ -51,6 +51,7 @@
 - [Qual a diferença do For, ForEach e o Find no JavaScript?](https://pt.stackoverflow.com/q/271587/101)
 - [Como bloquear adblock?](https://pt.stackoverflow.com/q/123884/101)
 - [Qual a finalidade do comando "return true;" no final de uma função?](https://pt.stackoverflow.com/q/89889/101)
+- [Retornar parte inteira no JavaScript](https://pt.stackoverflow.com/q/294069/101)
   
 # High level
   
