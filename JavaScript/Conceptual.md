@@ -17,6 +17,7 @@
 # CSS
 
 - [O que é User Agent StyleSheets?](https://pt.stackoverflow.com/q/165937/101)
+- [Devemos usar ícones em SVG ou PNG para websites?](https://pt.stackoverflow.com/q/185931/101)
   
 # HTTP
   
