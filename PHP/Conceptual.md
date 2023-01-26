@@ -25,3 +25,4 @@
 - [Qual a diferença entre define() e const?](https://pt.stackoverflow.com/q/45806/101)
 - [Função unset() do PHP pode melhorar o desempenho?](https://pt.stackoverflow.com/q/143602/101)
 - [Função e método são a mesma coisa?](https://pt.stackoverflow.com/q/212265/101)
+- [Por que dizem que utilizar @ arroba pra suprimir erros é uma má prática?](https://pt.stackoverflow.com/q/84178/101)
