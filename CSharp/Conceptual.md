@@ -32,6 +32,7 @@
 - [Criar lista sem valores duplicados](https://pt.stackoverflow.com/q/29226/101)
 - [Testar se há preenchimento de string](https://pt.stackoverflow.com/q/325742/101)
 - [Qual a diferença entre os async, multithreading, paralelismo e concorrência?](https://pt.stackoverflow.com/q/157435/101)
+- [Como fazer pesquisa binária em um arquivo txt?](https://pt.stackoverflow.com/q/37390/101)
 
 # Exceptions
 
