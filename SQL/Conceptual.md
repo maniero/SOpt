@@ -23,6 +23,7 @@
 - [Como armazenar lista de produtos de um pedido em tabela do banco de dados?](https://pt.stackoverflow.com/q/430721/101)
 - [Alternativa para CPF (Usuários Estrangeiros)](https://pt.stackoverflow.com/q/236888/101)
 - [Qual o tipo que devo utilizar para salvar apenas a hora (sem data) em um banco de dados?](https://pt.stackoverflow.com/q/73718/101)
+- [DER para aluno, disciplina e curso](https://pt.stackoverflow.com/q/46410/101)
 
 # SQL
 
