@@ -36,6 +36,7 @@
 - [Problema com função pow()](https://pt.stackoverflow.com/q/286771/101)
 - [Como ler apenas números inteiros no scanf()?](https://pt.stackoverflow.com/q/336557)
 - [Limpar buffer em C com fflush() ou __fpurge()](https://pt.stackoverflow.com/q/111697/101)
+- [Como programar GUI em C?](https://pt.stackoverflow.com/q/80324/101)
 - 
 # Misc
 
