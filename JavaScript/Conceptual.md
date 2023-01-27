@@ -53,6 +53,7 @@
 - [Como bloquear adblock?](https://pt.stackoverflow.com/q/123884/101)
 - [Qual a finalidade do comando "return true;" no final de uma função?](https://pt.stackoverflow.com/q/89889/101)
 - [Retornar parte inteira no JavaScript](https://pt.stackoverflow.com/q/294069/101)
+- [Como calcular PI com "n" casas decimais em JavaScript?](https://pt.stackoverflow.com/q/51625/101)
   
 # High level
   
