@@ -8,7 +8,7 @@ class VerificaLetra {
 	    String sexo = " ";
 	    if (letra.equals("f") || letra.equals("F")) {
 	        sexo = "Sexo = Feminino";
-	    } else if (letra.equals("m") || letra.equals("f")) {
+	    } else if (letra.equals("m") || letra.equals("M")) {
 	        sexo = "Sexo = Masculino";
 	    }
 	    System.out.println(sexo);        
