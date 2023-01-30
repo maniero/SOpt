@@ -15,6 +15,7 @@
 - [Simular o tipo booleano em C](https://pt.stackoverflow.com/q/95812/101)
 - [Qual a diferença entre ponteiro para vetor e ponteiro para variável?](https://pt.stackoverflow.com/q/193507/101)
 - [Como limitar casa decimais?](https://pt.stackoverflow.com/q/259634)
+- [Em C/C++, para que servem as diretivas de compilação? Quando devo utilizá-las?](https://pt.stackoverflow.com/q/90571/101)
 
 # Algorithm
 
