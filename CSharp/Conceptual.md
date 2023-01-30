@@ -26,6 +26,7 @@
 - [O que preciso para programar em C#?](https://pt.stackoverflow.com/q/52291/101)
 - [Exceções consomem muito processamento. Verdade ou lenda?](https://pt.stackoverflow.com/q/5888/101)
 - [list.foreach vs foreach](https://pt.stackoverflow.com/q/78470/101)
+- [Criar objetos sem referência C#](https://pt.stackoverflow.com/q/212675/101)
 
 # Algorithms
 
