@@ -24,6 +24,7 @@
 - [Alternativa para CPF (Usuários Estrangeiros)](https://pt.stackoverflow.com/q/236888/101)
 - [Qual o tipo que devo utilizar para salvar apenas a hora (sem data) em um banco de dados?](https://pt.stackoverflow.com/q/73718/101)
 - [DER para aluno, disciplina e curso](https://pt.stackoverflow.com/q/46410/101)
+- [Modelo conceitual](https://pt.stackoverflow.com/q/126104/101)
 
 # SQL
 
