@@ -27,6 +27,7 @@
 - [Exceções consomem muito processamento. Verdade ou lenda?](https://pt.stackoverflow.com/q/5888/101)
 - [list.foreach vs foreach](https://pt.stackoverflow.com/q/78470/101)
 - [Criar objetos sem referência C#](https://pt.stackoverflow.com/q/212675/101)
+- [Performance: string "concatenado" ou todo na mesma linha?](https://pt.stackoverflow.com/q/7734/101)
 
 # Algorithms
 
