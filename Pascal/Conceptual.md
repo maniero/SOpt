@@ -1,1 +1,2 @@
 - [Delphi é uma IDE ou linguagem de programação?](https://pt.stackoverflow.com/q/101695/101)
+- [O Delphi possui coletor de lixo?](https://pt.stackoverflow.com/q/54919/101)
