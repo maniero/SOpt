@@ -55,3 +55,4 @@
 - [https://pt.stackoverflow.com/q/160947/101](https://pt.stackoverflow.com/q/160947/101
 - [Verificar se um email existe ou o seu domínio e-mail]()
 - [Como desativar a atualização automática do Java?](https://pt.stackoverflow.com/q/42230/101)
+- [Tratar regras de negócio no model é uma má prática?](https://pt.stackoverflow.com/q/94065/101)
