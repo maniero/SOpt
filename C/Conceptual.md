@@ -17,6 +17,7 @@
 - [Como limitar casa decimais?](https://pt.stackoverflow.com/q/259634)
 - [Em C/C++, para que servem as diretivas de compilação? Quando devo utilizá-las?](https://pt.stackoverflow.com/q/90571/101)
 - [Qual loop é mais rápido em C: while ou for?](https://pt.stackoverflow.com/q/103194/101)
+- [Error invalid conversion from 'int' to 'int*' usando -fpermissive](https://pt.stackoverflow.com/q/97753/101)
 
 # Algorithm
 
