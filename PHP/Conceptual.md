@@ -27,3 +27,4 @@
 - [Função e método são a mesma coisa?](https://pt.stackoverflow.com/q/212265/101)
 - [Por que dizem que utilizar @ arroba pra suprimir erros é uma má prática?](https://pt.stackoverflow.com/q/84178/101)
 - [Funções e métodos no PHP são case-insensitive?](https://pt.stackoverflow.com/q/50316/101)
+- [Tratar divisão por zero](https://pt.stackoverflow.com/q/277798/101)
