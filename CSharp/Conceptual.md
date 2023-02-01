@@ -89,6 +89,7 @@
 - [O que é a string de conexão "connectionString"?](https://pt.stackoverflow.com/q/124809/101)
 - [Impedir que uma aplicação seja fechada pelo usuário através do gerenciador de tarefas](https://pt.stackoverflow.com/q/51860)
 - [Como imprimir de uma aplicação web em uma impressora local com C#?](https://pt.stackoverflow.com/q/236888/101)
+- [Quais as diferenças em questão de performance ao utilizar queries com EF vs ADO?](https://pt.stackoverflow.com/q/121849/101)
 
 # LINQ
 
