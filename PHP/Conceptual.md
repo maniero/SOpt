@@ -28,3 +28,4 @@
 - [Por que dizem que utilizar @ arroba pra suprimir erros é uma má prática?](https://pt.stackoverflow.com/q/84178/101)
 - [Funções e métodos no PHP são case-insensitive?](https://pt.stackoverflow.com/q/50316/101)
 - [Tratar divisão por zero](https://pt.stackoverflow.com/q/277798/101)
+- [Como escolher uma convenção para nome de variáveis e funções?](https://pt.stackoverflow.com/q/243958/101)
