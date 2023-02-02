@@ -56,6 +56,7 @@
 - [Como calcular PI com "n" casas decimais em JavaScript?](https://pt.stackoverflow.com/q/51625/101)
 - [Qual a diferença entre window.location e window.location.href?](https://pt.stackoverflow.com/q/392462/101)
 - [Como obter porcentagem de carregamento de página?](https://pt.stackoverflow.com/q/40822/101)
+- [Usar validação via cliente é suficiente?](https://pt.stackoverflow.com/q/13298/101)
   
 # High level
   
