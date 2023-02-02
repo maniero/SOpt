@@ -13,3 +13,4 @@
 - [O que é o using namespace?](https://pt.stackoverflow.com/q/348049/101)
 - [Qual a diferença entre o modo Debug e Release?](https://pt.stackoverflow.com/q/149966/101)
 - [Acessar atributos de um vetor de objetos de outra classe usando ponteiros C++](https://pt.stackoverflow.com/q/87902/101)
+- [Diferença entre std::list, std::vector e std::array](https://pt.stackoverflow.com/q/163424/101)
