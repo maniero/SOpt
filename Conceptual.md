@@ -150,6 +150,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Como funciona o merge?](https://pt.stackoverflow.com/q/52611/101)
 - [Criação de dois projetos em único repositório Git](https://pt.stackoverflow.com/q/91082/101)
 - [Qual a diferença entre Team Foundation Service e Git?](https://pt.stackoverflow.com/q/246339/101)
+- [Qual é a diferença entre SVN e TFS?](https://pt.stackoverflow.com/q/108465/101)
 
 # Computers
 
