@@ -209,3 +209,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [SOA é a mesma coisa que REST?](https://pt.stackoverflow.com/q/223728/101)
 - [O que é um código depreciado?](https://pt.stackoverflow.com/q/360553/101)
 - [O que é um código escalável?](https://pt.stackoverflow.com/q/364945/101)
+- [O que significa o termo "atômico"?](https://pt.stackoverflow.com/q/253852/101)
