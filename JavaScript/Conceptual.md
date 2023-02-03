@@ -65,6 +65,7 @@
 - [Impressora fiscal via web é possível?](https://pt.stackoverflow.com/q/48366/101)
 - [Quais as vantagens e desvantagens das SPA (Single-Page Application)?](https://pt.stackoverflow.com/q/354818/101)
 - [Podemos desenvolver uma aplicação web 100% JavaScript/HTML/CSS sem backend?](https://pt.stackoverflow.com/q/268916/101)
+- [Quais são as camadas de uma aplicação web?](https://pt.stackoverflow.com/q/122309/101)
   
 # Frameworks
   
