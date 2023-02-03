@@ -29,3 +29,4 @@
 - [Funções e métodos no PHP são case-insensitive?](https://pt.stackoverflow.com/q/50316/101)
 - [Tratar divisão por zero](https://pt.stackoverflow.com/q/277798/101)
 - [Como escolher uma convenção para nome de variáveis e funções?](https://pt.stackoverflow.com/q/243958/101)
+- [Há algum problema em usar Java para aplicação de automação comercial no dektop? Ou é melhor fazer para web usando PHP?](https://pt.stackoverflow.com/q/136702/101)
