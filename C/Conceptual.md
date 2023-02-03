@@ -18,6 +18,7 @@
 - [Em C/C++, para que servem as diretivas de compilação? Quando devo utilizá-las?](https://pt.stackoverflow.com/q/90571/101)
 - [Qual loop é mais rápido em C: while ou for?](https://pt.stackoverflow.com/q/103194/101)
 - [Error invalid conversion from 'int' to 'int*' usando -fpermissive](https://pt.stackoverflow.com/q/97753/101)
+- [Como funciona a C99 em relação à C90 para declaração de variáveis no meio do código?](https://pt.stackoverflow.com/q/48231/101)
 
 # Algorithm
 
