@@ -41,7 +41,8 @@
 - [Limpar buffer em C com fflush() ou __fpurge()](https://pt.stackoverflow.com/q/111697/101)
 - [Como programar GUI em C?](https://pt.stackoverflow.com/q/80324/101)
 - [Programa pedindo libgcc_s_dw2-1.dll](https://pt.stackoverflow.com/q/90556/101)
-- 
+- [Qual a finalidade da função free()?](https://pt.stackoverflow.com/q/43766/101)
+
 # Misc
 
 - [É possível programar orientado a objeto em C?](https://pt.stackoverflow.com/q/80228/101)
