@@ -26,6 +26,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [A primeira linguagem de programação](https://pt.stackoverflow.com/q/156521/101)
 - [O que caracteriza uma linguagem de programação?](https://pt.stackoverflow.com/q/102452/101)
 - [Por que existem tantas linguagens de programação?](https://pt.stackoverflow.com/q/414433/101)
+- [Especificação e Implementação](https://pt.stackoverflow.com/q/111284/101)
 
 # Coding Style
 
