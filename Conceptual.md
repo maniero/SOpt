@@ -125,6 +125,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual a diferença entre ponteiro e referência?](https://pt.stackoverflow.com/q/56470/101)
 - [O que é page fault?](https://pt.stackoverflow.com/q/207174/101)
 - [Qual tamanho de um endereço de memória?](https://pt.stackoverflow.com/q/54769/101)
+- [Como um programa é carregado na memória e depois executado?](https://pt.stackoverflow.com/q/209542/101)
 
 # IDE
 
