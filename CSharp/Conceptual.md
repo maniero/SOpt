@@ -126,10 +126,11 @@
 - [Aplicação MVC ou SPA](https://pt.stackoverflow.com/q/130973/101)
 - [ASP.NET precisa de um servidor Windows?](https://pt.stackoverflow.com/q/104939/101)
 
-# WinForms
+# WinForms/WPF
 
 - [Ajustar o layout do Form de acordo com a resolução do monitor](https://pt.stackoverflow.com/q/257393/101)
 - [Qual diferença entre Show(), ShowDialog() e Application.Run()?](https://pt.stackoverflow.com/q/208173/101)
+- [É possível aproveitar a mesma view WPF para Desktop e Web?](https://pt.stackoverflow.com/q/9520/101)
 
 # Xamarin
 
