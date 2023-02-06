@@ -28,6 +28,7 @@
 - [list.foreach vs foreach](https://pt.stackoverflow.com/q/78470/101)
 - [Criar objetos sem referência C#](https://pt.stackoverflow.com/q/212675/101)
 - [Performance: string "concatenado" ou todo na mesma linha?](https://pt.stackoverflow.com/q/7734/101)
+- [Quais os cenários em que o C# tem vantagem em relação a outras linguagens?](https://pt.stackoverflow.com/q/309322/101)
 
 # Algorithms
 
