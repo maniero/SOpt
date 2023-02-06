@@ -66,6 +66,7 @@
 - [Quais as vantagens e desvantagens das SPA (Single-Page Application)?](https://pt.stackoverflow.com/q/354818/101)
 - [Podemos desenvolver uma aplicação web 100% JavaScript/HTML/CSS sem backend?](https://pt.stackoverflow.com/q/268916/101)
 - [Quais são as camadas de uma aplicação web?](https://pt.stackoverflow.com/q/122309/101)
+- [O que é WebAssembly?](https://pt.stackoverflow.com/q/199158/101)
   
 # Frameworks
   
