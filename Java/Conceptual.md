@@ -11,6 +11,7 @@
 - [Exceções devem ser usadas para controle de fluxo?](https://pt.stackoverflow.com/q/48410/101)
 - [Interface ou Abstract?](https://pt.stackoverflow.com/q/35317/101)
 - [Qual é a finalidade do default quando usado na assinatura de um método?](https://pt.stackoverflow.com/q/117134/101)
+- [É possível alterar o tipo da variável em Java?](https://pt.stackoverflow.com/q/51312/101)
 
 # Library
 
