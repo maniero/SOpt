@@ -169,6 +169,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é "overlay" e qual a sua ligação com a memória?](https://pt.stackoverflow.com/q/203928/101)
 - [O que seria Win32?](https://pt.stackoverflow.com/q/34953/101)
 - [Por que em nomes de arquivos e pastas, alguns caracteres ainda não são aceitos?](https://pt.stackoverflow.com/q/184020/101)
+- [É possível utilizar o .htaccess com o IIS?](https://pt.stackoverflow.com/q/128266/101)
 
 # Security
 
