@@ -79,6 +79,7 @@
 - [Diferença entre versões do SQL Server Express?](https://pt.stackoverflow.com/q/102120/101)
 - [Qual o limite de argumentos do operador IN no SQL Server?](https://pt.stackoverflow.com/q/169945/101)
 - [Qual a problemática de se usar [n]varchar(max)?](https://pt.stackoverflow.com/q/392379/101)
+- [Tamanho de campo decimal SQL](https://pt.stackoverflow.com/q/436817/101)
 
 # SQLite
 
