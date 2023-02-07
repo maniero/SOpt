@@ -73,6 +73,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Como programar de maneira modular?](https://pt.stackoverflow.com/q/223549/101)
 - [MVC versus MVVM](https://pt.stackoverflow.com/q/214658/101)
 - [Devo declarar Get's e Set's na UML?](https://pt.stackoverflow.com/q/45282/101)
+- [Qual a diferença entre o VO (Value Object) e o DTO (Data Transfer Object)](https://pt.stackoverflow.com/q/362345/101)
 
 # Typing
 
