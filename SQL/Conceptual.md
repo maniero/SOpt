@@ -64,6 +64,7 @@
 - [Como selecionar todas as colunas menos uma em específico?](https://pt.stackoverflow.com/q/247484/101)
 - [Por que GROUP BY não funciona com MySQL nesse caso?](https://pt.stackoverflow.com/q/259969/101)
 - [Índices em consultas no MySQL](https://pt.stackoverflow.com/q/32052/101)
+- [Tamanho máximo para tabelas de banco de dados](https://pt.stackoverflow.com/q/139408/101)
 
 # PostgreSQL
 
