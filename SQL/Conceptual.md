@@ -65,6 +65,7 @@
 - [Por que GROUP BY não funciona com MySQL nesse caso?](https://pt.stackoverflow.com/q/259969/101)
 - [Índices em consultas no MySQL](https://pt.stackoverflow.com/q/32052/101)
 - [Tamanho máximo para tabelas de banco de dados](https://pt.stackoverflow.com/q/139408/101)
+- [Qual real diferença entre o operador '=' e LIKE?](https://pt.stackoverflow.com/q/212220/101)
 
 # PostgreSQL
 
