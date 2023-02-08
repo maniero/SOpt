@@ -32,3 +32,4 @@
 - [Há algum problema em usar Java para aplicação de automação comercial no dektop? Ou é melhor fazer para web usando PHP?](https://pt.stackoverflow.com/q/136702/101)
 - [É recomendável usar PHP caching? Como usar?](https://pt.stackoverflow.com/q/139932/101)
 - [Como herdar mais de uma classe no PHP?](https://pt.stackoverflow.com/q/237176/101)
+- [O que é e para que serve o php.ini?](https://pt.stackoverflow.com/q/99213/101)
