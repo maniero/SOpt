@@ -58,6 +58,7 @@
 - [Como obter porcentagem de carregamento de página?](https://pt.stackoverflow.com/q/40822/101)
 - [Usar validação via cliente é suficiente?](https://pt.stackoverflow.com/q/13298/101)
 - [Por que (1 == true) é "verdadeiro" e (2 == true) é "falso"?](https://pt.stackoverflow.com/q/77051/101)
+- [O que é Access Token? Pra que serve?](https://pt.stackoverflow.com/q/179431/101)
   
 # High level
   
