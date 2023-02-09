@@ -9,6 +9,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é linguagem de programação, IDE e compilador?](https://pt.stackoverflow.com/q/101691/101)
 - [O que é Transpilação?](https://pt.stackoverflow.com/q/189894/101)
 - [O que é Backus-Naur Form (BNF)?](https://pt.stackoverflow.com/q/178720/101)
+- [O que é um JITter?](https://pt.stackoverflow.com/q/146250/101)
 
 # Languages
 
