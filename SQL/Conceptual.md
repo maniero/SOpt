@@ -67,6 +67,7 @@
 - [Índices em consultas no MySQL](https://pt.stackoverflow.com/q/32052/101)
 - [Tamanho máximo para tabelas de banco de dados](https://pt.stackoverflow.com/q/139408/101)
 - [Qual real diferença entre o operador '=' e LIKE?](https://pt.stackoverflow.com/q/212220/101)
+- [Como trabalhar com timezones sem usar um timestamp?](https://pt.stackoverflow.com/q/411035/101)
 
 # PostgreSQL
 
