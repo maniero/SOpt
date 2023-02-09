@@ -58,3 +58,4 @@
 - [Verificar se um email existe ou o seu domínio e-mail]()
 - [Como desativar a atualização automática do Java?](https://pt.stackoverflow.com/q/42230/101)
 - [Tratar regras de negócio no model é uma má prática?](https://pt.stackoverflow.com/q/94065/101)
+- [https://github.com/maniero/SOpt/blob/master/Java/Conceptual.md](https://pt.stackoverflow.com/q/168246/101)
