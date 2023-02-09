@@ -41,6 +41,7 @@
 - [Performance do COUNT(*) e COUNT(1)](https://pt.stackoverflow.com/q/214077/101)
 - [View ou tabela temporária?](https://pt.stackoverflow.com/q/328509/101)
 - [Deixar de colocar índices ou foreign keys numa tabela pode tornar a consulta lenta?](https://pt.stackoverflow.com/q/324151/101)
+- [A linguagem SQL é orientada a objetos?](https://pt.stackoverflow.com/q/223589/101)
 
 # MySQL
 
