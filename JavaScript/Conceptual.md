@@ -13,6 +13,7 @@
 - [Como fazer desaparecer os &nbsp;&nbsp;&nbsp;&nbsp;?](https://pt.stackoverflow.com/q/74815/101)
 - [Para que servem os atributos aria-* em HTML5?](https://pt.stackoverflow.com/q/96948/101)
 - [Tem como aplicar HTML/CSS em um programa em C puro?](https://pt.stackoverflow.com/q/220761/101)
+- [Quantidade máxima de elementos enviado por um formulário?](https://pt.stackoverflow.com/q/47145/101)
 
 # CSS
 
