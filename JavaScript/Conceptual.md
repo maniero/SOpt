@@ -69,6 +69,7 @@
 - [Podemos desenvolver uma aplicação web 100% JavaScript/HTML/CSS sem backend?](https://pt.stackoverflow.com/q/268916/101)
 - [Quais são as camadas de uma aplicação web?](https://pt.stackoverflow.com/q/122309/101)
 - [O que é WebAssembly?](https://pt.stackoverflow.com/q/199158/101)
+- [Qual é real necessidade do SSR (Server Side Rendering)?](https://pt.stackoverflow.com/q/411529/101)
   
 # Frameworks
   
