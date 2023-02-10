@@ -62,3 +62,4 @@
 - [O que é o buffer overflow?](https://pt.stackoverflow.com/q/115613/101)
 - [Como compilar e executar programa em C utilizando o Sublime Text no Ubuntu 12.04?](https://pt.stackoverflow.com/q/55229/101)
 - [O que impede um array de ser inicializado com um tamanho variável em C?](https://pt.stackoverflow.com/q/106719/101)
+- [Por que o índice de arrays e outras sequências começam pelo zero?](https://pt.stackoverflow.com/q/183798/101)
