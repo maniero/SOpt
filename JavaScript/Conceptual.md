@@ -80,3 +80,7 @@
 - [Angular com TypeScript ou JavaScript?](https://pt.stackoverflow.com/q/308352/101)
 - [O que é Native Script?](https://pt.stackoverflow.com/q/143564/101)
 - [Para que serve o :: (dois-pontos duplos) no AngularJS?](https://pt.stackoverflow.com/q/153646/101)
+
+# TypeScript
+
+- [Qual a utilidade da exclamação (non null assertion operator) em TypeScript?](https://pt.stackoverflow.com/q/364765/101)
