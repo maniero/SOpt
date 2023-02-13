@@ -158,6 +158,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual a diferença entre Team Foundation Service e Git?](https://pt.stackoverflow.com/q/246339/101)
 - [Qual é a diferença entre SVN e TFS?](https://pt.stackoverflow.com/q/108465/101)
 - [Tem como deletar uma pasta dentro de um repositório direto do site do GitHub sem usar Git?](https://pt.stackoverflow.com/q/219700/101)
+- [Como funciona a nomenclatura de versão para projetos privados ou públicos?](https://pt.stackoverflow.com/q/82366/101)
 
 # Computers
 
