@@ -114,6 +114,7 @@
 - [O que é ACID em banco de dados?](https://pt.stackoverflow.com/q/203857/101)
 - [Qual a diferença entre tabela, banco de dados e base de dados?](https://pt.stackoverflow.com/q/479739/101)
 - [Criptografar o banco de dados é uma medida eficiente? Como proteger dados contra vazamentos?](https://pt.stackoverflow.com/q/151950/101)
+- [O que é um banco de dados embutido (embedded)?](https://pt.stackoverflow.com/q/270859/101)
 
 # NoSQL
 
