@@ -80,6 +80,7 @@
 - [O que é CultureInfo.InvariantCulture?](https://pt.stackoverflow.com/q/91005/101)
 - [MemoryStream vs Stream](https://pt.stackoverflow.com/q/226800/101)
 - [Executar uma função em um tempo determinado](https://pt.stackoverflow.com/q/87293/101)
+- [Quando e por que devemos usar threads?](https://pt.stackoverflow.com/q/143865/101)
 
 # IO
 
