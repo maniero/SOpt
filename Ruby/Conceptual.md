@@ -1,0 +1,1 @@
+- [Quais aplicações Ruby tem além da web?](https://pt.stackoverflow.com/q/124921/101)
