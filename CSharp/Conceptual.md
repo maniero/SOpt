@@ -134,6 +134,7 @@
 - [ASP.NET precisa de um servidor Windows?](https://pt.stackoverflow.com/q/104939/101)
 - [WebAPI x WebServices](https://pt.stackoverflow.com/q/222143/101)
 - [OWIN e OAuth O que são e como utilizar?](https://pt.stackoverflow.com/q/76609/101)
+- [Criptografar Web.config](https://pt.stackoverflow.com/q/54960/101)
 
 # WinForms/WPF
 
