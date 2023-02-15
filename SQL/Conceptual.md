@@ -93,6 +93,7 @@
 - [Qual o limite de armazenamento do SQLite?](https://pt.stackoverflow.com/q/82865/101)
 - [Quando usar o SQLite?](https://pt.stackoverflow.com/q/100460/101)
 - [Como ignorar acentos numa consulta SQL?](https://pt.stackoverflow.com/q/317526/101)
+- [Banco de dados para dispositivos móveis](https://pt.stackoverflow.com/q/165539/101)
 
 # Oracle
 
