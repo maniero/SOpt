@@ -44,6 +44,7 @@
 - [Como programar GUI em C?](https://pt.stackoverflow.com/q/80324/101)
 - [Programa pedindo libgcc_s_dw2-1.dll](https://pt.stackoverflow.com/q/90556/101)
 - [Qual a finalidade da função free()?](https://pt.stackoverflow.com/q/43766/101)
+- [Qual o melhor a usar, scanf() ou get_s()?](https://pt.stackoverflow.com/q/325628/101)
 
 # Misc
 
