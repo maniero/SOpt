@@ -77,6 +77,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual a diferença entre o VO (Value Object) e o DTO (Data Transfer Object)](https://pt.stackoverflow.com/q/362345/101)
 - [O que exatamente é "Clean Architecture"? Como e onde usar?](https://pt.stackoverflow.com/q/441073/101)
 - [Documentação no desenvolvimento de software](https://pt.stackoverflow.com/q/94146/101)
+- [Uma função grande ou muitas pequenas?](https://pt.stackoverflow.com/q/30772/101)
 
 # Typing
 
