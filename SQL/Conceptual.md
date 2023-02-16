@@ -70,6 +70,7 @@
 - [Qual real diferença entre o operador '=' e LIKE?](https://pt.stackoverflow.com/q/212220/101)
 - [Como trabalhar com timezones sem usar um timestamp?](https://pt.stackoverflow.com/q/411035/101)
 - [No MySQL qual tipo de campo é adequado para guardar peso em gramas?](https://pt.stackoverflow.com/q/286457/101)
+- [Condição no join ou no where?](https://pt.stackoverflow.com/q/149893/101)
 
 # PostgreSQL
 
