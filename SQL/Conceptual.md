@@ -119,6 +119,7 @@
 - [Criptografar o banco de dados é uma medida eficiente? Como proteger dados contra vazamentos?](https://pt.stackoverflow.com/q/151950/101)
 - [O que é um banco de dados embutido (embedded)?](https://pt.stackoverflow.com/q/270859/101)
 - [O que é mais rápido, acessar dados em arquivo ou banco de dados?](https://pt.stackoverflow.com/q/45423/101)
+- [É comum ter vários servidores diferentes para uma mesma aplicação web?](https://pt.stackoverflow.com/q/123430/101)
 
 # NoSQL
 
