@@ -119,6 +119,7 @@
 - [Rodar Python e C# juntos](https://pt.stackoverflow.com/q/265445)
 - [Resgatar código de um programa executável?](https://pt.stackoverflow.com/q/141151/101)
 - [Mudar o projeto do .NET 4.5 para o 4.5.2, como fazer?](https://pt.stackoverflow.com/q/30547/101)
+- [O .NET Framework está morto?](https://pt.stackoverflow.com/q/385594/101)
 
 # ASP.NET
 
