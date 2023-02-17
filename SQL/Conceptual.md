@@ -27,6 +27,7 @@
 - [Modelo conceitual](https://pt.stackoverflow.com/q/126104/101)
 - [Estrutura de tabelas em modelo de perguntas e respostas de usuários](https://pt.stackoverflow.com/q/277151/101)
 - [Como representar relações do tipo "é-um" no modelo lógico?](https://pt.stackoverflow.com/q/81623/101)
+- [Modelagem de base de dados](https://pt.stackoverflow.com/q/89015/101)
 
 # SQL
 
