@@ -30,6 +30,7 @@
 - [Performance: string "concatenado" ou todo na mesma linha?](https://pt.stackoverflow.com/q/7734/101)
 - [Quais os cenários em que o C# tem vantagem em relação a outras linguagens?](https://pt.stackoverflow.com/q/309322/101)
 - [Qual diferença entre async Task e void?](https://pt.stackoverflow.com/q/224568/101)
+- [Como saber a medida certa de comentários?](https://pt.stackoverflow.com/q/15488/101)
 
 # Algorithms
 
