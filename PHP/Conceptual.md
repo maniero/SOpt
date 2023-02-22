@@ -34,3 +34,4 @@
 - [Como herdar mais de uma classe no PHP?](https://pt.stackoverflow.com/q/237176/101)
 - [O que é e para que serve o php.ini?](https://pt.stackoverflow.com/q/99213/101)
 - [Afinal, por que o código fonte PHP não aparece no navegador?](https://pt.stackoverflow.com/q/280042/101)
+- [É correto concatenar PHP no JavaScript?](https://pt.stackoverflow.com/q/107521/101)
