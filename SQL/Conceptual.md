@@ -88,6 +88,7 @@
 - [Qual o limite de argumentos do operador IN no SQL Server?](https://pt.stackoverflow.com/q/169945/101)
 - [Qual a problemática de se usar [n]varchar(max)?](https://pt.stackoverflow.com/q/392379/101)
 - [Tamanho de campo decimal SQL](https://pt.stackoverflow.com/q/436817/101)
+- [READPAST e NOLOCK O que são?](https://pt.stackoverflow.com/q/233861/101)
 
 # SQLite
 
