@@ -45,6 +45,7 @@
 - [Deixar de colocar índices ou foreign keys numa tabela pode tornar a consulta lenta?](https://pt.stackoverflow.com/q/324151/101)
 - [A linguagem SQL é orientada a objetos?](https://pt.stackoverflow.com/q/223589/101)
 - [Como aplicar indexes para melhorar a performance das queries?](https://pt.stackoverflow.com/q/55118/101)
+- [É necessário criar uma chave primária com auto increment?](https://pt.stackoverflow.com/q/255270/101)
 
 # MySQL
 
