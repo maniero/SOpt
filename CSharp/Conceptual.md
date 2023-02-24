@@ -85,6 +85,7 @@
 - [Quando e por que devemos usar threads?](https://pt.stackoverflow.com/q/143865/101)
 - [Como converter string para double sem erro de arredondamento?](https://pt.stackoverflow.com/q/77592/101)
 - [Preciso saber quando o usuário usa ponto ou vírgula em números decimais](https://pt.stackoverflow.com/q/252542/101)
+- [Quais as diferenças entre background e foreground threads?](https://pt.stackoverflow.com/q/32910/101)
 
 # IO
 
