@@ -142,15 +142,13 @@
 - [Criptografar Web.config](https://pt.stackoverflow.com/q/54960/101)
 - [Site em C# e MVC muito lento](https://pt.stackoverflow.com/q/76954/101)
 
-# WinForms/WPF
+# WinForms/WPF/Xamarin
 
 - [Ajustar o layout do Form de acordo com a resolução do monitor](https://pt.stackoverflow.com/q/257393/101)
 - [Qual diferença entre Show(), ShowDialog() e Application.Run()?](https://pt.stackoverflow.com/q/208173/101)
 - [É possível aproveitar a mesma view WPF para Desktop e Web?](https://pt.stackoverflow.com/q/9520/101)
-
-# Xamarin
-
 - [O Xamarin é uma opção viável para desenvolvimento mobile?](https://pt.stackoverflow.com/q/90871/101)
+- [Como faço para fechar/encerrar um msgbox via código?](https://pt.stackoverflow.com/q/50873/101)
 
 # Visual Studio
 
