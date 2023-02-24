@@ -122,6 +122,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Quais são os pilares da programação orientada à objetos?](https://pt.stackoverflow.com/q/215679/101)
 - [Principal objetivo de classes utilitárias](https://pt.stackoverflow.com/q/90047/101)
 - [Quais as limitações do paradigma orientado a objetos?](https://pt.stackoverflow.com/q/276787/101)
+- [Troca de mensagens entre objetos, o que significa?](https://pt.stackoverflow.com/q/86479/101)
 
 # Threading
 
