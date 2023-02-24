@@ -28,7 +28,8 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que caracteriza uma linguagem de programação?](https://pt.stackoverflow.com/q/102452/101)
 - [Por que existem tantas linguagens de programação?](https://pt.stackoverflow.com/q/414433/101)
 - [Especificação e Implementação](https://pt.stackoverflow.com/q/111284/101)
-- [https://pt.stackoverflow.com/q/105117/101](https://pt.stackoverflow.com/q/105117/101)
+- [Por que a Linguagem D é pouco usada?](https://pt.stackoverflow.com/q/105117/101)
+- [Qual é a utilidade e importância de "do... while"?](https://pt.stackoverflow.com/q/78493/101)
 
 # Coding Style
 
