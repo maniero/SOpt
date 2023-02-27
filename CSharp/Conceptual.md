@@ -32,6 +32,7 @@
 - [Qual diferença entre async Task e void?](https://pt.stackoverflow.com/q/224568/101)
 - [Como saber a medida certa de comentários?](https://pt.stackoverflow.com/q/15488/101)
 - [Delegate vazio ( delegate { } )](https://pt.stackoverflow.com/q/171157/101)
+- [É possível descobrir com código o tamanho que o objeto ocupa na memória?](https://pt.stackoverflow.com/q/199618/101)
 
 # Algorithms
 
