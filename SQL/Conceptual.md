@@ -77,6 +77,7 @@
 - [Como trabalhar com timezones sem usar um timestamp?](https://pt.stackoverflow.com/q/411035/101)
 - [No MySQL qual tipo de campo é adequado para guardar peso em gramas?](https://pt.stackoverflow.com/q/286457/101)
 - [Condição no join ou no where?](https://pt.stackoverflow.com/q/149893/101)
+- [Apagar registro quando a data de uma coluna for atingida](https://pt.stackoverflow.com/q/128179/101)
 
 # PostgreSQL
 
