@@ -2,3 +2,4 @@
 - [Qual é a diferença entre o Apache Cordova e o Ionic?](https://pt.stackoverflow.com/q/236145/101)
 - [O que é um Teste de Mesa? Como aplicá-lo?](https://pt.stackoverflow.com/q/220474/101)
 - [O que é e para que serve "2>&1"?](https://pt.stackoverflow.com/q/55765/101)
+- [Quais são os comandos/variaveis do batch. Exemplo [%username% ou %groupname%]](https://pt.stackoverflow.com/q/361448/101)
