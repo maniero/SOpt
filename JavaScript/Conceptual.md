@@ -90,3 +90,4 @@
 # TypeScript
 
 - [Qual a utilidade da exclamação (non null assertion operator) em TypeScript?](https://pt.stackoverflow.com/q/364765/101)
+- [Quais as principais diferenças entre Dart e TypeScript?](https://pt.stackoverflow.com/q/49408/101)
