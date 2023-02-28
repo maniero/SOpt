@@ -64,6 +64,7 @@
 - [O que é Access Token? Pra que serve?](https://pt.stackoverflow.com/q/179431/101)
 - [Como usar uma imagem em uma caixa de alerta em JavaScript?](https://pt.stackoverflow.com/q/364124/101)
 - [É possível "forçar" tipagem em JavaScript?](https://pt.stackoverflow.com/q/355528/101)
+- [Qual a boa solução para substituir o alert?](https://pt.stackoverflow.com/q/215672/101)
   
 # High level
   
