@@ -35,6 +35,7 @@
 - [Qual a diferença dos métodos replace() e replaceAll()?](https://pt.stackoverflow.com/q/194684/101)
 - [Como inicializar um ArrayList no construtor?](https://pt.stackoverflow.com/q/389983/101)
 - [Quais são as diferenças entre HashMap e Hashtable?](https://pt.stackoverflow.com/q/82549/101)
+- [Por que objetos String são imutáveis?](https://pt.stackoverflow.com/q/164729/101)
 
 # Desktop
 
