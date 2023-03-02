@@ -30,6 +30,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Especificação e Implementação](https://pt.stackoverflow.com/q/111284/101)
 - [Por que a Linguagem D é pouco usada?](https://pt.stackoverflow.com/q/105117/101)
 - [Qual é a utilidade e importância de "do... while"?](https://pt.stackoverflow.com/q/78493/101)
+- [Existem linguagens mais seguras que outras?](https://pt.stackoverflow.com/q/119839/101)
 
 # Coding Style
 
