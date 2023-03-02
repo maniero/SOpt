@@ -20,6 +20,7 @@
 - [Error invalid conversion from 'int' to 'int*' usando -fpermissive](https://pt.stackoverflow.com/q/97753/101)
 - [Como funciona a C99 em relação à C90 para declaração de variáveis no meio do código?](https://pt.stackoverflow.com/q/48231/101)
 - [Atribuir um valor ao ponteiro e multiplicar (diretamente)](https://pt.stackoverflow.com/q/137702/101)
+- [Como copiar valores de um vetor para outro de forma rápida](https://pt.stackoverflow.com/q/300005/101)
 
 # Algorithm
 
