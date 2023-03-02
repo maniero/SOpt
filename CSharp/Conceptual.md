@@ -34,6 +34,7 @@
 - [Delegate vazio ( delegate { } )](https://pt.stackoverflow.com/q/171157/101)
 - [É possível descobrir com código o tamanho que o objeto ocupa na memória?](https://pt.stackoverflow.com/q/199618/101)
 - [Forma mais rápida de acessar propriedades em uma lista C#](https://pt.stackoverflow.com/q/120711/101)
+- [O que são ponteiros?](https://pt.stackoverflow.com/q/266756/101)
 
 # Algorithms
 
