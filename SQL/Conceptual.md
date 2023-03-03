@@ -79,6 +79,7 @@
 - [Condição no join ou no where?](https://pt.stackoverflow.com/q/149893/101)
 - [Apagar registro quando a data de uma coluna for atingida](https://pt.stackoverflow.com/q/128179/101)
 - [Campos com mesmo nome em diferentes tabelas](https://pt.stackoverflow.com/q/403745/101)
+- [Por que não é possível usar um "alias" na cláusula WHERE no MySQL?](https://pt.stackoverflow.com/q/391262/101)
 
 # PostgreSQL
 
