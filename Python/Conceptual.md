@@ -14,3 +14,4 @@
 - [Qual a diferença entre "string" e "character" em Python?](https://pt.stackoverflow.com/q/232094/101)
 - [Como limpar a tela no TkInter?](https://pt.stackoverflow.com/q/78290/101)
 - [Qual o uso do método .isidentifier() em Python?](https://pt.stackoverflow.com/q/322121/101)
+- [Por que uma função está chamando ela mesma?](https://pt.stackoverflow.com/q/190426/101)
