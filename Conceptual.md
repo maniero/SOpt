@@ -234,3 +234,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é um código escalável?](https://pt.stackoverflow.com/q/364945/101)
 - [O que significa o termo "atômico"?](https://pt.stackoverflow.com/q/253852/101)
 - [https://github.com/maniero/SOpt/blob/master/Conceptual.md](https://pt.stackoverflow.com/q/216594/101)
+- [O que é um Backend as a Service (BaaS)?](https://pt.stackoverflow.com/q/298361/101)
