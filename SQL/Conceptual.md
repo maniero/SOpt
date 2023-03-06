@@ -81,6 +81,7 @@
 - [Apagar registro quando a data de uma coluna for atingida](https://pt.stackoverflow.com/q/128179/101)
 - [Campos com mesmo nome em diferentes tabelas](https://pt.stackoverflow.com/q/403745/101)
 - [Por que não é possível usar um "alias" na cláusula WHERE no MySQL?](https://pt.stackoverflow.com/q/391262/101)
+- [Quais as diferenças entre os algoritmos HASH e BTREE usados em um índice?](https://pt.stackoverflow.com/q/258193/101)
 
 # PostgreSQL
 
