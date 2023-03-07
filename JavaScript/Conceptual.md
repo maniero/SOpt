@@ -66,6 +66,7 @@
 - [É possível "forçar" tipagem em JavaScript?](https://pt.stackoverflow.com/q/355528/101)
 - [Qual a boa solução para substituir o alert?](https://pt.stackoverflow.com/q/215672/101)
 - [Métodos com o mesmo nome mas com quantidade de parâmetros diferentes](https://pt.stackoverflow.com/q/122246/101)
+- [Existe um equivalente do Scanner do Java no JavaScript?](https://pt.stackoverflow.com/q/411387/101)
   
 # High level
   
