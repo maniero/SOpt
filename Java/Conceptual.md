@@ -36,6 +36,7 @@
 - [Como inicializar um ArrayList no construtor?](https://pt.stackoverflow.com/q/389983/101)
 - [Quais são as diferenças entre HashMap e Hashtable?](https://pt.stackoverflow.com/q/82549/101)
 - [Por que objetos String são imutáveis?](https://pt.stackoverflow.com/q/164729/101)
+- [Há como interpolar strings em Java?](https://pt.stackoverflow.com/q/512957/101)
 
 # Desktop
 
