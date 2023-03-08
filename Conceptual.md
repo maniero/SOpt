@@ -128,6 +128,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Principal objetivo de classes utilitárias](https://pt.stackoverflow.com/q/90047/101)
 - [Quais as limitações do paradigma orientado a objetos?](https://pt.stackoverflow.com/q/276787/101)
 - [Troca de mensagens entre objetos, o que significa?](https://pt.stackoverflow.com/q/86479/101)
+- [Utilizar muitas interfaces é uma má prática de programação?](https://pt.stackoverflow.com/q/23900/101)
 
 # Threading
 
