@@ -9,13 +9,14 @@
 - [Qual diferença entre htm, html, dhtml e ghtml?](https://pt.stackoverflow.com/q/181884/101)
 - [Pra que serve o atributo Role?](https://pt.stackoverflow.com/q/51391/101)
 - [O certo é br ou br/ ou br /?](https://pt.stackoverflow.com/q/46370/101)
-- [https://pt.stackoverflow.com/q/330063/101](https://pt.stackoverflow.com/q/330063/101)
+- [Qual é a diferença entre as tags <q>, <blockquote> e <cite> no HTML? E como as usar corretamente?](https://pt.stackoverflow.com/q/330063/101)
 - [Como fazer desaparecer os &nbsp;&nbsp;&nbsp;&nbsp;?](https://pt.stackoverflow.com/q/74815/101)
 - [Para que servem os atributos aria-* em HTML5?](https://pt.stackoverflow.com/q/96948/101)
 - [Tem como aplicar HTML/CSS em um programa em C puro?](https://pt.stackoverflow.com/q/220761/101)
 - [Quantidade máxima de elementos enviado por um formulário?](https://pt.stackoverflow.com/q/47145/101)
-- [https://pt.stackoverflow.com/q/49103/101](https://pt.stackoverflow.com/q/49103/101)
+- [Internet Explorer restringiu execução de scripts](https://pt.stackoverflow.com/q/49103/101)
 - [É certo criar minhas tags HTML?](https://pt.stackoverflow.com/q/138463/101)
+- [Qual é utilidade da pseudo classe :root?](https://pt.stackoverflow.com/q/171132/101)
 
 # CSS
 
