@@ -120,6 +120,7 @@
 
 - [Como abrir um arquivo .fdb?](https://pt.stackoverflow.com/q/112883/101)
 - [Concatenar colunas e algumas com valor NULL](https://pt.stackoverflow.com/q/80565/101)
+- [Tamanho máximo para o nome de stored procedures, fields, etc ... no Firebird](https://pt.stackoverflow.com/q/117969/101)
 
 # General
 
