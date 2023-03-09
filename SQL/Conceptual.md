@@ -82,6 +82,7 @@
 - [Campos com mesmo nome em diferentes tabelas](https://pt.stackoverflow.com/q/403745/101)
 - [Por que não é possível usar um "alias" na cláusula WHERE no MySQL?](https://pt.stackoverflow.com/q/391262/101)
 - [Quais as diferenças entre os algoritmos HASH e BTREE usados em um índice?](https://pt.stackoverflow.com/q/258193/101)
+- [Por que preciso do WAMP (exemplo) para que o MySQL funcione?](https://pt.stackoverflow.com/q/320150/101)
 
 # PostgreSQL
 
