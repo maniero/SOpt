@@ -36,3 +36,4 @@
 - [Afinal, por que o código fonte PHP não aparece no navegador?](https://pt.stackoverflow.com/q/280042/101)
 - [É correto concatenar PHP no JavaScript?](https://pt.stackoverflow.com/q/107521/101)
 - [Multiplas conexões com o Banco](https://pt.stackoverflow.com/q/44671/101)
+- [Quando usar e não usar AJAX no envio de formulários?](https://pt.stackoverflow.com/q/91147/101)
