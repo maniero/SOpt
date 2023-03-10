@@ -108,6 +108,7 @@
 - [Toda tabela deve ter primary key?](https://pt.stackoverflow.com/q/390743/101)
 - [Controle de concorrência em inserção no banco de dados](https://pt.stackoverflow.com/q/32299/101)
 - [Diferença entre ADO.NET e Dapper](https://pt.stackoverflow.com/q/316241/101)
+- [SQL no código ou no banco de dados?](https://pt.stackoverflow.com/q/51956/101)
 
 # LINQ
 
