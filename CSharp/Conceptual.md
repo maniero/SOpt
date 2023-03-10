@@ -36,6 +36,7 @@
 - [Forma mais rápida de acessar propriedades em uma lista C#](https://pt.stackoverflow.com/q/120711/101)
 - [O que são ponteiros?](https://pt.stackoverflow.com/q/266756/101)
 - [Qual é o jeito correto de chamar as versões do C#?](https://pt.stackoverflow.com/q/21672/101)
+- [O que é um POC em C#?](https://pt.stackoverflow.com/q/58203/101)
 
 # Algorithms
 
