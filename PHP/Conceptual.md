@@ -37,3 +37,4 @@
 - [É correto concatenar PHP no JavaScript?](https://pt.stackoverflow.com/q/107521/101)
 - [Multiplas conexões com o Banco](https://pt.stackoverflow.com/q/44671/101)
 - [Quando usar e não usar AJAX no envio de formulários?](https://pt.stackoverflow.com/q/91147/101)
+- [Número de requisições simultâneas que um servidor PHP suporta](https://pt.stackoverflow.com/q/239802/101)
