@@ -85,6 +85,7 @@
 - [Quais as diferenças entre os algoritmos HASH e BTREE usados em um índice?](https://pt.stackoverflow.com/q/258193/101)
 - [Por que preciso do WAMP (exemplo) para que o MySQL funcione?](https://pt.stackoverflow.com/q/320150/101)
 - [É uma boa prática utilizar chaves compostas como chave primária?](https://pt.stackoverflow.com/q/146066/101)
+- [Indexar views no MySQL](https://pt.stackoverflow.com/q/140214/101)
 
 # PostgreSQL
 
