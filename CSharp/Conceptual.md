@@ -92,6 +92,7 @@
 - [Preciso saber quando o usuário usa ponto ou vírgula em números decimais](https://pt.stackoverflow.com/q/252542/101)
 - [Quais as diferenças entre background e foreground threads?](https://pt.stackoverflow.com/q/32910/101)
 - [O que exatamente faz o método Application.DoEvents()?](https://pt.stackoverflow.com/q/242606/101)
+- [Alternativas para desenvolvimento de VBA no Office](https://pt.stackoverflow.com/q/37247/101)
 
 # IO
 
