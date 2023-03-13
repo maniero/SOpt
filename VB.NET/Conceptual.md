@@ -1,1 +1,2 @@
 - [Quais são as principais diferenças entre VB.NET, VB6 e VBA?](https://pt.stackoverflow.com/q/153507/101)
+- [VBA é orientada a objeto?](https://pt.stackoverflow.com/q/360749/101)
