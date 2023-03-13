@@ -39,3 +39,4 @@
 - [Quando usar e não usar AJAX no envio de formulários?](https://pt.stackoverflow.com/q/91147/101)
 - [Número de requisições simultâneas que um servidor PHP suporta](https://pt.stackoverflow.com/q/239802/101)
 - [É uma boa prática usar construtores (ou métodos mágicos) em interfaces?](https://pt.stackoverflow.com/q/123459/101)
+- [Incrementar letras no PHP?](https://pt.stackoverflow.com/q/49449/101)
