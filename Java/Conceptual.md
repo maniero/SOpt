@@ -16,6 +16,7 @@
 - [Por que é uma má prática ter atributos int?](https://pt.stackoverflow.com/q/132272/101)
 - [O que é e para que serve a palavra reservada "strictfp"?](https://pt.stackoverflow.com/q/45455/101)
 - [Diferença entre método e construtor?](https://pt.stackoverflow.com/q/104707/101)
+- [Que tipo de dados (double, float) eu devo usar ao representar uma temperatura?](https://pt.stackoverflow.com/q/328110/101)
 
 # Library
 
