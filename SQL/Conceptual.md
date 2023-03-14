@@ -87,6 +87,7 @@
 - [Por que preciso do WAMP (exemplo) para que o MySQL funcione?](https://pt.stackoverflow.com/q/320150/101)
 - [É uma boa prática utilizar chaves compostas como chave primária?](https://pt.stackoverflow.com/q/146066/101)
 - [Indexar views no MySQL](https://pt.stackoverflow.com/q/140214/101)
+- [Qual é mais rápido: NULL ou NOT NULL (com uma string vazia)?](https://pt.stackoverflow.com/q/310493/101)
 
 # PostgreSQL
 
