@@ -35,6 +35,7 @@
 - [Quais as diferenças entre HTTP 1.1 vs HTTP 1.0?](https://pt.stackoverflow.com/q/153512/101)
 - [O que significa handshake?](https://pt.stackoverflow.com/q/181115/101)
 - [Como posso adquirir HTTPS na minha aplicação web?](https://pt.stackoverflow.com/q/47194/101)
+  [Como o protocolo HTTP processa as requisições?](https://pt.stackoverflow.com/q/174116/101)
 
 # JavaScript
   
