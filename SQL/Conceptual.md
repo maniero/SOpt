@@ -114,6 +114,7 @@
 - [Quando usar o SQLite?](https://pt.stackoverflow.com/q/100460/101)
 - [Como ignorar acentos numa consulta SQL?](https://pt.stackoverflow.com/q/317526/101)
 - [Banco de dados para dispositivos móveis](https://pt.stackoverflow.com/q/165539/101)
+- [Vantagens e desvantagens do SQLite](https://pt.stackoverflow.com/q/336249/101)
 
 # Oracle
 
