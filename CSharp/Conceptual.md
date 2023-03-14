@@ -155,6 +155,7 @@
 - [OWIN e OAuth O que são e como utilizar?](https://pt.stackoverflow.com/q/76609/101)
 - [Criptografar Web.config](https://pt.stackoverflow.com/q/54960/101)
 - [Site em C# e MVC muito lento](https://pt.stackoverflow.com/q/76954/101)
+- [https://github.com/maniero/SOpt/blob/master/CSharp/Conceptual.md](https://pt.stackoverflow.com/q/111209/101)
 
 # WinForms/WPF/Xamarin
 
