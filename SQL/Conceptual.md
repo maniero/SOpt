@@ -30,6 +30,7 @@
 - [Modelagem de base de dados](https://pt.stackoverflow.com/q/89015/101)
 - [Modelagem para tabela de endereço compartilhado](https://pt.stackoverflow.com/q/125667/101)
 - [Qual a vantagem de um relacionamento 1:1?](https://pt.stackoverflow.com/q/253550/101)
+- [Gravar registros com a máscara ou remover antes?](https://pt.stackoverflow.com/q/233709/101)
 
 # SQL
 
