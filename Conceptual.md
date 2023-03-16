@@ -34,7 +34,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual é a vantagem de usar linguagens que compila pra outras linguagens?](https://pt.stackoverflow.com/q/102787/101)
 - [Diferença entre else if e elsif](https://pt.stackoverflow.com/q/192382/101)
 - [Quais as linguagens atuais utilizadas para desenvolvimento de aplicações para Windows?](https://pt.stackoverflow.com/q/445163/101)
-- [https://pt.stackoverflow.com/q/199158/101](https://pt.stackoverflow.com/q/284715/101)
+- [Critérios para escolher linguagem para uso específico considerando o desempenho](https://pt.stackoverflow.com/q/284715/101)
 
 # Coding Style
 
