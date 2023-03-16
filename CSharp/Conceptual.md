@@ -37,8 +37,9 @@
 - [O que são ponteiros?](https://pt.stackoverflow.com/q/266756/101)
 - [Qual é o jeito correto de chamar as versões do C#?](https://pt.stackoverflow.com/q/21672/101)
 - [O que é um POC em C#?](https://pt.stackoverflow.com/q/58203/101)
-- [https://github.com/maniero/SOpt/blob/master/C/Conceptual.md](https://pt.stackoverflow.com/q/198599/101)
+- [Como acessar objeto criado por outra thread?](https://pt.stackoverflow.com/q/198599/101)
 - [Qual é a vantagem do ponto e vírgula em linguagens de programação?](https://pt.stackoverflow.com/q/186838/101)
+- [Método para executar ao destruir instância de uma classe](https://pt.stackoverflow.com/q/41175/101)
 
 # Algorithms
 
