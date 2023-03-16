@@ -37,6 +37,7 @@
 - [O que são ponteiros?](https://pt.stackoverflow.com/q/266756/101)
 - [Qual é o jeito correto de chamar as versões do C#?](https://pt.stackoverflow.com/q/21672/101)
 - [O que é um POC em C#?](https://pt.stackoverflow.com/q/58203/101)
+- [https://github.com/maniero/SOpt/blob/master/C/Conceptual.md](https://pt.stackoverflow.com/q/198599/101)
 
 # Algorithms
 
