@@ -2,7 +2,7 @@
 
 - [Como criar um método com parâmetros opcionais em Java puro?](https://pt.stackoverflow.com/q/145625/101)
 - [Break e Continue em forEach Java 8](https://pt.stackoverflow.com/q/356686/101)
-- [https://pt.stackoverflow.com/q/113049/101](https://pt.stackoverflow.com/q/113049/101)
+- [Qual a diferença entre Math.random() e java.util.Random?](https://pt.stackoverflow.com/q/113049/101)
 - [Diferença entre tipo primitivo e objeto em Java](https://pt.stackoverflow.com/q/274391/101)
 - [Como funciona o método equals()?](https://pt.stackoverflow.com/q/111208/101)
 - [Como melhor tratar exceções em Java?](https://pt.stackoverflow.com/q/48011/101)
@@ -54,6 +54,7 @@
 - [Por que todo mundo odeia herança múltipla em C++ e qual sua diferença para mixins?](https://pt.stackoverflow.com/q/42970/101)
 - [Herança e Polimorfismo](https://pt.stackoverflow.com/q/80948/101)
 - [Sobrecarga de método é polimorfismo?](https://pt.stackoverflow.com/q/310083/101)
+- [Criar herança de classes](https://pt.stackoverflow.com/q/119082/101)
 
 # Misc
 
