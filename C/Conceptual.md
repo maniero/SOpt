@@ -48,6 +48,7 @@
 - [Qual a finalidade da função free()?](https://pt.stackoverflow.com/q/43766/101)
 - [Qual o melhor a usar, scanf() ou get_s()?](https://pt.stackoverflow.com/q/325628/101)
 - [Qual biblioteca usar para pausar o sistema no lugar de getch()?](https://pt.stackoverflow.com/q/191981/101)
+- [Como corrijo "referencia indefinida para 'função' em C?](https://pt.stackoverflow.com/q/259128/101)
 
 # Misc
 
