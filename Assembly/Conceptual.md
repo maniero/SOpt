@@ -1,0 +1,1 @@
+- [Como funciona e qual é a síntaxe do código de máquina?](https://pt.stackoverflow.com/q/117796/101)
