@@ -23,6 +23,7 @@
 - [Como copiar valores de um vetor para outro de forma rápida](https://pt.stackoverflow.com/q/300005/101)
 - [Consultar métodos, classes e atributos na linguagem C](https://pt.stackoverflow.com/q/134555/101)
 - [Erro declaração null - Unknown type name 'bool'](https://pt.stackoverflow.com/q/198954/101)
+- [error: initializer element is not constant](https://pt.stackoverflow.com/q/142091/101)
 
 # Algorithm
 
