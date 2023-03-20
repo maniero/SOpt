@@ -41,3 +41,4 @@
 - [É uma boa prática usar construtores (ou métodos mágicos) em interfaces?](https://pt.stackoverflow.com/q/123459/101)
 - [Incrementar letras no PHP?](https://pt.stackoverflow.com/q/49449/101)
 - [Como criar programa executável em PHP?](https://pt.stackoverflow.com/q/214519/101)
+- [https://github.com/maniero/SOpt/blob/master/Java/Conceptual.md](https://pt.stackoverflow.com/q/82465/101)
