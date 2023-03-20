@@ -17,6 +17,7 @@
 - [Internet Explorer restringiu execução de scripts](https://pt.stackoverflow.com/q/49103/101)
 - [É certo criar minhas tags HTML?](https://pt.stackoverflow.com/q/138463/101)
 - [Qual é utilidade da pseudo classe :root?](https://pt.stackoverflow.com/q/171132/101)
+  [Qual a diferença entre Local Storage, IndexedDB e WebSQL?](https://pt.stackoverflow.com/q/439271/101)
 
 # CSS
 
