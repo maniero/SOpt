@@ -93,6 +93,7 @@
 - [O que é Native Script?](https://pt.stackoverflow.com/q/143564/101)
 - [Para que serve o :: (dois-pontos duplos) no AngularJS?](https://pt.stackoverflow.com/q/153646/101)
 - [https://pt.stackoverflow.com/q/124849/101](https://pt.stackoverflow.com/q/171822/101)
+  [Por que usar o AngularJS?](https://pt.stackoverflow.com/q/123913/101)
 
 # TypeScript
 
