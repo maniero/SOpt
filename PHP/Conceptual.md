@@ -42,3 +42,4 @@
 - [Incrementar letras no PHP?](https://pt.stackoverflow.com/q/49449/101)
 - [Como criar programa executável em PHP?](https://pt.stackoverflow.com/q/214519/101)
 - [https://github.com/maniero/SOpt/blob/master/Java/Conceptual.md](https://pt.stackoverflow.com/q/82465/101)
+- [Comparando prepare() vs query() com mysqli](https://pt.stackoverflow.com/q/47437/101)
