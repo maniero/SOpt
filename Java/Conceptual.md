@@ -40,6 +40,7 @@
 - [Quais são as diferenças entre HashMap e Hashtable?](https://pt.stackoverflow.com/q/82549/101)
 - [Por que objetos String são imutáveis?](https://pt.stackoverflow.com/q/164729/101)
 - [Há como interpolar strings em Java?](https://pt.stackoverflow.com/q/512957/101)
+- [Tamanho de um ArrayList](https://pt.stackoverflow.com/q/54259/101)
 
 # Desktop
 
