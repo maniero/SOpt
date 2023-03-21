@@ -168,6 +168,7 @@
 - [O Xamarin é uma opção viável para desenvolvimento mobile?](https://pt.stackoverflow.com/q/90871/101)
 - [Como faço para fechar/encerrar um msgbox via código?](https://pt.stackoverflow.com/q/50873/101)
 - [Posso utilizar um iPhone para testar um app Xamarin?](https://pt.stackoverflow.com/q/212298/101)
+- [UserControl, o que é? Quando utilizar?](https://pt.stackoverflow.com/q/146107/101)
 
 # Visual Studio
 
