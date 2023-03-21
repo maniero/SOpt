@@ -140,6 +140,7 @@
 - [Mudar o projeto do .NET 4.5 para o 4.5.2, como fazer?](https://pt.stackoverflow.com/q/30547/101)
 - [O .NET Framework está morto?](https://pt.stackoverflow.com/q/385594/101)
 - [Programas escritos em C# dependem do .NET Framework para rodar?](https://pt.stackoverflow.com/q/240858/101)
+- [O que é marshalling e como funciona?](https://pt.stackoverflow.com/q/192342/101)
 
 # ASP.NET
 
