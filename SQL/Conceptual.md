@@ -90,6 +90,7 @@
 - [Indexar views no MySQL](https://pt.stackoverflow.com/q/140214/101)
 - [Qual é mais rápido: NULL ou NOT NULL (com uma string vazia)?](https://pt.stackoverflow.com/q/310493/101)
 - [Qual os tipos de dados existentes em MySQL para armazenar textos e numeros inteiros?](https://pt.stackoverflow.com/q/362878/101)
+- [Especificar campos que eu não quero no MySQL](https://pt.stackoverflow.com/q/50000/101)
 
 # PostgreSQL
 
