@@ -40,6 +40,7 @@
 - [Como acessar objeto criado por outra thread?](https://pt.stackoverflow.com/q/198599/101)
 - [Qual é a vantagem do ponto e vírgula em linguagens de programação?](https://pt.stackoverflow.com/q/186838/101)
 - [Método para executar ao destruir instância de uma classe](https://pt.stackoverflow.com/q/41175/101)
+- [Qual a diferença entre Data Annotations e Fluent API?](https://pt.stackoverflow.com/q/168377/101)
 
 # Algorithms
 
