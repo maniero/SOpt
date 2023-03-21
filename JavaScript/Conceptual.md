@@ -72,6 +72,7 @@
 - [Métodos com o mesmo nome mas com quantidade de parâmetros diferentes](https://pt.stackoverflow.com/q/122246/101)
 - [Existe um equivalente do Scanner do Java no JavaScript?](https://pt.stackoverflow.com/q/411387/101)
 - [Por que "alert", "confirm" e "prompt" travam o carregamento independente da ordem de definição?](https://pt.stackoverflow.com/q/166269/101)
+  [Diferença de ' ' e ` `](https://pt.stackoverflow.com/q/188004/101)
   
 # High level
   
