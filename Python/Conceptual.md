@@ -16,3 +16,4 @@
 - [Qual o uso do método .isidentifier() em Python?](https://pt.stackoverflow.com/q/322121/101)
 - [Por que uma função está chamando ela mesma?](https://pt.stackoverflow.com/q/190426/101)
 - [Por que Python é tão atual?](https://pt.stackoverflow.com/q/358731/101)
+- [É possível criar interfaces gráficas para aplicações em Python?](https://pt.stackoverflow.com/q/74770/101)
