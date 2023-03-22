@@ -44,3 +44,4 @@
 - [https://github.com/maniero/SOpt/blob/master/Java/Conceptual.md](https://pt.stackoverflow.com/q/82465/101)
 - [Comparando prepare() vs query() com mysqli](https://pt.stackoverflow.com/q/47437/101)
 - [Enviar email com PHPMailer sem autenticação?](https://pt.stackoverflow.com/q/105658/101)
+- [$_GET pega valor do ID ou do name?](https://pt.stackoverflow.com/q/217582/101)
