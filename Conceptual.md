@@ -43,6 +43,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Como saber a medida certa de comentários?](http://pt.stackoverflow.com/q/15488/101)
 - [Quais as melhores práticas para dar nome às funções?](https://pt.stackoverflow.com/q/106061/101)
 - [Uma enumeração deve ser constante no tempo de vida da solução?](https://pt.stackoverflow.com/q/21997/101)
+- [É uma boa prática lançar exceção nesses casos?](https://pt.stackoverflow.com/q/15261/101)
 
 # Paradigms
 
