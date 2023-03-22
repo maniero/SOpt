@@ -41,6 +41,7 @@
 - [Por que objetos String são imutáveis?](https://pt.stackoverflow.com/q/164729/101)
 - [Há como interpolar strings em Java?](https://pt.stackoverflow.com/q/512957/101)
 - [Tamanho de um ArrayList](https://pt.stackoverflow.com/q/54259/101)
+- [Ordenar vetor numérico sem utilizar Bubble sort](https://pt.stackoverflow.com/q/110243/101)
 
 # Desktop
 
