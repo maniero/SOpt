@@ -142,6 +142,7 @@
 - [O .NET Framework está morto?](https://pt.stackoverflow.com/q/385594/101)
 - [Programas escritos em C# dependem do .NET Framework para rodar?](https://pt.stackoverflow.com/q/240858/101)
 - [O que é marshalling e como funciona?](https://pt.stackoverflow.com/q/192342/101)
+- [O que posso fazer no .NET Framework e no .NET Core não? E vice-versa](https://pt.stackoverflow.com/q/156517/101)
 
 # ASP.NET
 
