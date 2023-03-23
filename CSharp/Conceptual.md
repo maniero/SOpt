@@ -115,6 +115,7 @@
 - [Controle de concorrência em inserção no banco de dados](https://pt.stackoverflow.com/q/32299/101)
 - [Diferença entre ADO.NET e Dapper](https://pt.stackoverflow.com/q/316241/101)
 - [SQL no código ou no banco de dados?](https://pt.stackoverflow.com/q/51956/101)
+- [O que é READ_COMMITTED_SNAPSHOT?](https://pt.stackoverflow.com/q/163335/101)
 
 # LINQ
 
