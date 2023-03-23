@@ -89,6 +89,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Uma função grande ou muitas pequenas?](https://pt.stackoverflow.com/q/30772/101)
 - [Eval é mocinho ou bandido?](https://pt.stackoverflow.com/q/128845/101)
 - [Quantos parâmetros um método deve ter?](https://pt.stackoverflow.com/q/197735/101)
+- [Classes com associações em UML](https://pt.stackoverflow.com/q/311968/101)
 
 # Typing
 
