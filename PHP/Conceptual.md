@@ -45,3 +45,4 @@
 - [Comparando prepare() vs query() com mysqli](https://pt.stackoverflow.com/q/47437/101)
 - [Enviar email com PHPMailer sem autenticação?](https://pt.stackoverflow.com/q/105658/101)
 - [$_GET pega valor do ID ou do name?](https://pt.stackoverflow.com/q/217582/101)
+- [Quando usar método mágico __contructor ou set e get?](https://pt.stackoverflow.com/q/45285/101)
