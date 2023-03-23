@@ -164,6 +164,7 @@
 - [Criptografar Web.config](https://pt.stackoverflow.com/q/54960/101)
 - [Site em C# e MVC muito lento](https://pt.stackoverflow.com/q/76954/101)
 - [https://github.com/maniero/SOpt/blob/master/CSharp/Conceptual.md](https://pt.stackoverflow.com/q/111209/101)
+- [Configurar site no IIS no Windows 8](https://pt.stackoverflow.com/q/76350/101)
 
 # WinForms/WPF/Xamarin
 
