@@ -175,6 +175,7 @@
 - [Como faço para fechar/encerrar um msgbox via código?](https://pt.stackoverflow.com/q/50873/101)
 - [Posso utilizar um iPhone para testar um app Xamarin?](https://pt.stackoverflow.com/q/212298/101)
 - [UserControl, o que é? Quando utilizar?](https://pt.stackoverflow.com/q/146107/101)
+- [Aplicar filtro em DataGrid preenchido com List sem alterar o DataSource](https://pt.stackoverflow.com/q/81251/101)
 
 # Visual Studio
 
