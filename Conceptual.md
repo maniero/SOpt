@@ -101,8 +101,11 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual o significado de "string"?](https://pt.stackoverflow.com/q/427535/101)
 - [O que é estilo de tipagem?](https://pt.stackoverflow.com/q/190463/101)
 
-# Data Structure
+# Algorithms & Data Structure
 
+- [Como descriptografar MD5?](https://pt.stackoverflow.com/q/41517/101)
+- [Qual a lógica por trás do "dias * 24* 60* 60* 1000"?](https://pt.stackoverflow.com/q/357597/101)
+- [O que é complexidade ciclomática?](https://pt.stackoverflow.com/q/193665/101)
 - [Qual a diferença entre lista simplesmente-encadeada e duplamente-encadeada?](https://pt.stackoverflow.com/q/102983/101)
 - [O que é JSON? Para que serve e como funciona?](https://pt.stackoverflow.com/q/4042/101)
 - [Qual a diferença entre array e matriz?](https://pt.stackoverflow.com/q/232895/101)
@@ -111,18 +114,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é na verdade o array?](https://pt.stackoverflow.com/q/199751/101)
 - [Qual a diferença entre ordered, unordered e sorted?](https://pt.stackoverflow.com/q/168531/101)
 
-# Algorithms
-
-- [Como descriptografar MD5?](https://pt.stackoverflow.com/q/41517/101)
-- [Qual a lógica por trás do "dias * 24* 60* 60* 1000"?](https://pt.stackoverflow.com/q/357597/101)
-- [O que é complexidade ciclomática?](https://pt.stackoverflow.com/q/193665/101)
-
-# Design Patterns
-
-- [Como funciona e como implementar o Design Pattern Observer?](https://pt.stackoverflow.com/q/36655/101)
-- [Como identifcar e quando usar o Value Object?](https://pt.stackoverflow.com/q/232955/101)
-
-# OOP
+# OOP & Design Patterns
 
 - [Qual a diferença entre Associação, Agregação e Composição em OOP?](https://pt.stackoverflow.com/q/86715/101)
 - [O que é e para que serve uma classe abstrata?](https://pt.stackoverflow.com/q/87423/101)
@@ -136,16 +128,16 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Quais as limitações do paradigma orientado a objetos?](https://pt.stackoverflow.com/q/276787/101)
 - [Troca de mensagens entre objetos, o que significa?](https://pt.stackoverflow.com/q/86479/101)
 - [Utilizar muitas interfaces é uma má prática de programação?](https://pt.stackoverflow.com/q/23900/101)
+- [Como funciona e como implementar o Design Pattern Observer?](https://pt.stackoverflow.com/q/36655/101)
+- [Como identifcar e quando usar o Value Object?](https://pt.stackoverflow.com/q/232955/101)
 
-# Threading
+
+# Memory & Threading
 
 - [É sempre garantido que uma aplicação com múltiplas threads rode mais rápido que usando uma única thread?](http://pt.stackoverflow.com/q/1946/101)
 - [Existe diferença entre Programa, Thread e Processo?](https://pt.stackoverflow.com/q/131108/101)
 - [O que é non-blocking I/O?](https://pt.stackoverflow.com/q/185666/101)
 - [Existem diferenças entre os termos Thread, Multithread, Async e Await?](https://pt.stackoverflow.com/q/208321/101)
-
-# Memory
-
 - [O que são e onde estão o “stack” e “heap”?](http://pt.stackoverflow.com/q/3797/101)
 - [Qual a diferença entre ponteiro e referência?](https://pt.stackoverflow.com/q/56470/101)
 - [O que é page fault?](https://pt.stackoverflow.com/q/207174/101)
@@ -181,25 +173,18 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Tem como deletar uma pasta dentro de um repositório direto do site do GitHub sem usar Git?](https://pt.stackoverflow.com/q/219700/101)
 - [Como funciona a nomenclatura de versão para projetos privados ou públicos?](https://pt.stackoverflow.com/q/82366/101)
 
-# Computers
+# Architeture & Operating System
 
 - [Quantidade mínima de bits necessária para representar números decimais](https://pt.stackoverflow.com/q/200308/101)
 - [O que são registradores e qual é o seu funcionamento básico?](https://pt.stackoverflow.com/q/320285/101)
 - [O que é "palavra" de uma CPU?](https://pt.stackoverflow.com/q/185523/101)
 - [https://github.com/maniero/SOpt/blob/master/Conceptual.md](https://pt.stackoverflow.com/q/189180/101)
 - [Como um computador entende o código binário?](https://pt.stackoverflow.com/q/142289/101)
-
-# Operating System
-
 - [Quais as diferenças entre Kernel e Microkernel?](https://pt.stackoverflow.com/q/114911/101)
 - [O que é "overlay" e qual a sua ligação com a memória?](https://pt.stackoverflow.com/q/203928/101)
 - [O que seria Win32?](https://pt.stackoverflow.com/q/34953/101)
 - [Por que em nomes de arquivos e pastas, alguns caracteres ainda não são aceitos?](https://pt.stackoverflow.com/q/184020/101)
 - [É possível utilizar o .htaccess com o IIS?](https://pt.stackoverflow.com/q/128266/101)
-
-# Security
-
-- [O que é encriptação end-to-end?](https://pt.stackoverflow.com/q/49714/101)
 
 # Misc
 
@@ -209,6 +194,8 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Por que ainda se usam outras codificações além do UTF-8?](https://pt.stackoverflow.com/q/23807/101)
 - [O que é Travis CI?](https://pt.stackoverflow.com/q/197689/101)
 - [Qual a diferença de computação nas nuvens e computação web?](https://pt.stackoverflow.com/q/122592/101)
+- [O que é encriptação end-to-end?](https://pt.stackoverflow.com/q/49714/101)
+- [Quais as diferenças entre Lightbox e Modal box?](https://pt.stackoverflow.com/q/351410/101)
 
 # Terminology
 
