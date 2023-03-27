@@ -18,6 +18,7 @@
 - [Diferença entre método e construtor?](https://pt.stackoverflow.com/q/104707/101)
 - [Que tipo de dados (double, float) eu devo usar ao representar uma temperatura?](https://pt.stackoverflow.com/q/328110/101)
 - [Como funciona o CamelCase? Onde uso maiúsculas e minúsculas em nomes?](https://pt.stackoverflow.com/q/239964/101)
+- [Uso específico do try-catch](https://pt.stackoverflow.com/q/108484/101)
 
 # Library
 
