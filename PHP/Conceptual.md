@@ -46,3 +46,4 @@
 - [Enviar email com PHPMailer sem autenticação?](https://pt.stackoverflow.com/q/105658/101)
 - [$_GET pega valor do ID ou do name?](https://pt.stackoverflow.com/q/217582/101)
 - [Quando usar método mágico __contructor ou set e get?](https://pt.stackoverflow.com/q/45285/101)
+- [Como e quando devemos usar Interface para documentar sistemas no PHP?](https://pt.stackoverflow.com/q/100489/101)
