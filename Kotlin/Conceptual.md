@@ -4,3 +4,4 @@
 - [O que são coroutines?](https://pt.stackoverflow.com/q/241437/101)
 - [Qual é a diferença entre as extensões KTS e KT?](https://pt.stackoverflow.com/q/394577/101)
 - [O que significa o ponto de exclamação após o nome de um tipo?](https://pt.stackoverflow.com/q/318128/101)
+- [Conversão Java para Kotlin](https://pt.stackoverflow.com/q/225756/101)
