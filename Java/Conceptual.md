@@ -60,6 +60,7 @@
 - [Herança e Polimorfismo](https://pt.stackoverflow.com/q/80948/101)
 - [Sobrecarga de método é polimorfismo?](https://pt.stackoverflow.com/q/310083/101)
 - [Criar herança de classes](https://pt.stackoverflow.com/q/119082/101)
+- [Uma subclasse pode ter duas superclasses?](https://pt.stackoverflow.com/q/279170/101)
 
 # Misc
 
