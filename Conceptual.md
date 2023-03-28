@@ -92,6 +92,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Quantos parâmetros um método deve ter?](https://pt.stackoverflow.com/q/197735/101)
 - [Classes com associações em UML](https://pt.stackoverflow.com/q/311968/101)
 - [Como se decide se uma aplicação está em alfa, beta, RC ou RTM?](https://pt.stackoverflow.com/q/20999/101)
+- [O que é e como se usa o SRP?](https://pt.stackoverflow.com/q/100516/101)
 
 # Typing
 
