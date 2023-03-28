@@ -19,6 +19,7 @@
 - [Que tipo de dados (double, float) eu devo usar ao representar uma temperatura?](https://pt.stackoverflow.com/q/328110/101)
 - [Como funciona o CamelCase? Onde uso maiúsculas e minúsculas em nomes?](https://pt.stackoverflow.com/q/239964/101)
 - [Uso específico do try-catch](https://pt.stackoverflow.com/q/108484/101)
+- [Método "finalize" em Java](https://pt.stackoverflow.com/q/128665/101)
 
 # Library
 
