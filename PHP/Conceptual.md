@@ -47,3 +47,4 @@
 - [$_GET pega valor do ID ou do name?](https://pt.stackoverflow.com/q/217582/101)
 - [Quando usar método mágico __contructor ou set e get?](https://pt.stackoverflow.com/q/45285/101)
 - [Como e quando devemos usar Interface para documentar sistemas no PHP?](https://pt.stackoverflow.com/q/100489/101)
+- [https://github.com/maniero/SOpt/blob/master/PHP/Conceptual.md](https://pt.stackoverflow.com/q/51418/101)
