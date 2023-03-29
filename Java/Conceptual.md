@@ -61,6 +61,7 @@
 - [Sobrecarga de método é polimorfismo?](https://pt.stackoverflow.com/q/310083/101)
 - [Criar herança de classes](https://pt.stackoverflow.com/q/119082/101)
 - [Uma subclasse pode ter duas superclasses?](https://pt.stackoverflow.com/q/279170/101)
+- [Listeners são uma implementação de Observer?](https://pt.stackoverflow.com/q/125624/101)
 
 # Misc
 
