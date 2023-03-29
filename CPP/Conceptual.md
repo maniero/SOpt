@@ -18,3 +18,4 @@
 - [Funcionamento do operador new](https://pt.stackoverflow.com/q/237588/101)
 - [Quando devo escolher entre utilizar ou não um ponteiro ao criar um objeto?](https://pt.stackoverflow.com/q/50165/101)
 - [Posso substituir o cout e printf?](https://pt.stackoverflow.com/q/263407/101)
+- [https://github.com/maniero/SOpt/blob/master/CPP/Conceptual.md](https://pt.stackoverflow.com/q/103810/101)
