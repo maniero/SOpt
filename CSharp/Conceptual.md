@@ -42,6 +42,7 @@
 - [Método para executar ao destruir instância de uma classe](https://pt.stackoverflow.com/q/41175/101)
 - [Qual a diferença entre Data Annotations e Fluent API?](https://pt.stackoverflow.com/q/168377/101)
 - [O que uma classe "Thread Safety" significa?](https://pt.stackoverflow.com/q/76758/101)
+- [O que significa (Char)0 / (Char)8 / (Char)13?](https://pt.stackoverflow.com/q/345718/101)
 
 # Algorithms
 
