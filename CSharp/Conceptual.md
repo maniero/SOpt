@@ -193,3 +193,4 @@
 - [Modo Debug e Release no Visual Studio, para que serve?](https://pt.stackoverflow.com/q/95909/101)
 - [Voltar posição anterior no Visual Studio](https://pt.stackoverflow.com/q/44966/101)
 - [Trabalhar com Windows Forms com designer no Linux?](https://pt.stackoverflow.com/q/145617/101)
+- [Converter diagrama MER (Modelo Entidade Relacionamento) para classes VB.NET ou C#](https://pt.stackoverflow.com/q/134317/101)
