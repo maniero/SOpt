@@ -20,6 +20,7 @@
 - [Como funciona o CamelCase? Onde uso maiúsculas e minúsculas em nomes?](https://pt.stackoverflow.com/q/239964/101)
 - [Uso específico do try-catch](https://pt.stackoverflow.com/q/108484/101)
 - [Método "finalize" em Java](https://pt.stackoverflow.com/q/128665/101)
+- [Por que a ausência do sufixo L faz a variável long ser interpretada como int?](https://pt.stackoverflow.com/q/238771/101)
 
 # Library
 
