@@ -44,6 +44,7 @@
 - [O que uma classe "Thread Safety" significa?](https://pt.stackoverflow.com/q/76758/101)
 - [O que significa (Char)0 / (Char)8 / (Char)13?](https://pt.stackoverflow.com/q/345718/101)
 - [Qual o comportamento de variáveis estáticas no .NET?](https://pt.stackoverflow.com/q/27776/101)
+- [Por que os métodos implementados de uma interface não podem ser privados?](https://pt.stackoverflow.com/q/58891/101)
 
 # Algorithms
 
