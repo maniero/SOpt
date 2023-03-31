@@ -198,6 +198,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual a diferença de computação nas nuvens e computação web?](https://pt.stackoverflow.com/q/122592/101)
 - [O que é encriptação end-to-end?](https://pt.stackoverflow.com/q/49714/101)
 - [Quais as diferenças entre Lightbox e Modal box?](https://pt.stackoverflow.com/q/351410/101)
+- [O que é Null Byte Injection? Como evitá-lo?](https://pt.stackoverflow.com/q/80760/101)
 
 # Terminology
 
