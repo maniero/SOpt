@@ -38,7 +38,8 @@
 - [Como posso adquirir HTTPS na minha aplicação web?](https://pt.stackoverflow.com/q/47194/101)
 - [Como o protocolo HTTP processa as requisições?](https://pt.stackoverflow.com/q/174116/101)
 - [Quais são as camadas existentes em uma requisição HTTP/HTTPS?](https://pt.stackoverflow.com/q/186437/101)
-  [Existe diferenças entre Post e Request?](https://pt.stackoverflow.com/q/154860/101)
+- [Existe diferenças entre Post e Request?](https://pt.stackoverflow.com/q/154860/101)
+- [Quais são os benefícios de se usar HTTPS?](https://pt.stackoverflow.com/q/49561/101)
 
 # JavaScript
   
