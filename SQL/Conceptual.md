@@ -32,6 +32,7 @@
 - [Qual a vantagem de um relacionamento 1:1?](https://pt.stackoverflow.com/q/253550/101)
 - [Gravar registros com a máscara ou remover antes?](https://pt.stackoverflow.com/q/233709/101)
 - [Como uma especialização é implementada em um banco?](https://pt.stackoverflow.com/q/116692/101)
+- [Modelagem de banco de dados de um sistema de notas](https://pt.stackoverflow.com/q/390213/101)
 
 # SQL
 
