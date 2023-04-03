@@ -145,6 +145,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é page fault?](https://pt.stackoverflow.com/q/207174/101)
 - [Qual tamanho de um endereço de memória?](https://pt.stackoverflow.com/q/54769/101)
 - [Como um programa é carregado na memória e depois executado?](https://pt.stackoverflow.com/q/209542/101)
+- [O que são Mutexes e quando é aconselhável usar este recurso?](https://pt.stackoverflow.com/q/336456/101)
 
 # IDE
 
