@@ -10,6 +10,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é Transpilação?](https://pt.stackoverflow.com/q/189894/101)
 - [O que é Backus-Naur Form (BNF)?](https://pt.stackoverflow.com/q/178720/101)
 - [O que é um JITter?](https://pt.stackoverflow.com/q/146250/101)
+- [Devo usar um gerador de parser ou devo desenvolver meu próprio código para fazer "parse" e "lex"?](https://pt.stackoverflow.com/q/2130/101)
 
 # Languages
 
