@@ -133,6 +133,7 @@
 - [Qual diferença entre ToListAsync() e ToList()?](https://pt.stackoverflow.com/q/169733/101)
 - [O que é tecnologia LINQ?](https://pt.stackoverflow.com/q/182176/101)
 - [Dúvida entre o Any() e o All() numa expressão lambda em uma lista](https://pt.stackoverflow.com/q/50453/101)
+- ["foreach" do C# vs "ForEach()" do EF6](https://pt.stackoverflow.com/q/211053/101)
 
 # .NET
 
