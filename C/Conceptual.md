@@ -33,6 +33,7 @@
 - [Conversão decimal em binário em linguagem C](https://pt.stackoverflow.com/q/216128/101)
 - [Como medir a complexidade de um algoritmo?](https://pt.stackoverflow.com/q/114330/101)
 - [Excluir fisicamente um registro de tipo struct](https://pt.stackoverflow.com/q/83266/101)
+- [Vetor struct e ponteiros](https://pt.stackoverflow.com/q/37063/101)
 
 # Library
 
