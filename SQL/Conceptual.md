@@ -157,3 +157,4 @@
 - [NoSQL é tão problemático quanto parece?](http://pt.stackoverflow.com/q/14533/101)
 - [Em que tipo de aplicação posso usar MongoDB?](https://pt.stackoverflow.com/q/274320/101)
 - [Solr, Lucene e ElasticSearch quais as diferenças? Quando usar um ou outro?](https://pt.stackoverflow.com/q/86854/101)
+- [O que é um banco NoSQL? Como é o seu funcionamento?](https://pt.stackoverflow.com/q/96409/101)
