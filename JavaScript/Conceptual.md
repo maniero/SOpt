@@ -40,6 +40,7 @@
 - [Quais são as camadas existentes em uma requisição HTTP/HTTPS?](https://pt.stackoverflow.com/q/186437/101)
 - [Existe diferenças entre Post e Request?](https://pt.stackoverflow.com/q/154860/101)
 - [Quais são os benefícios de se usar HTTPS?](https://pt.stackoverflow.com/q/49561/101)
+  [O que é Gzip? Como ele melhora um site?](https://pt.stackoverflow.com/q/182564/101)
 
 # JavaScript
   
