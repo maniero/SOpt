@@ -31,6 +31,7 @@
 - [Quais são os estados de um thread?](https://pt.stackoverflow.com/q/157068/101)
 - [Quais as diferenças entre InputStreamReader e Scanner em Java](https://pt.stackoverflow.com/q/52719/101)
 - [Qual a melhor forma de armazenar valores monetários no SQLite?](https://pt.stackoverflow.com/q/78306/101)
+- [https://github.com/maniero/SOpt/blob/master/Java/Conceptual.md](https://pt.stackoverflow.com/q/252588/101)
 
 # String & Collencions
 
