@@ -239,3 +239,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que são efeitos colaterais?](https://pt.stackoverflow.com/q/330341/101)
 - [Quais são as diferenças entre Web App, Native App e Hybrid App?](https://pt.stackoverflow.com/q/176771/101)
 - [O que é uma variável?](https://pt.stackoverflow.com/q/181332/101)
+- [O que é um evento?](https://pt.stackoverflow.com/q/207571/101)
