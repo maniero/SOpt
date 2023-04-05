@@ -100,6 +100,7 @@
 - [Em termos de performance, "character varying" ou "text" no PostgreSQL?](https://pt.stackoverflow.com/q/258734/101)
 - [Como faço para adicionar uma coluna nova entre 2 colunas no PostgreSQL?](https://pt.stackoverflow.com/q/74959/101)
 - [ERROR: column reference “customer” is ambiguous](https://pt.stackoverflow.com/q/410258/101)
+- [No PostgreSQL, que campo utilizar para porcentagem?](https://pt.stackoverflow.com/q/52373/101)
 
 # SQL Server
 
