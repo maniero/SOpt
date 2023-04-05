@@ -175,6 +175,7 @@
 - [https://github.com/maniero/SOpt/blob/master/CSharp/Conceptual.md](https://pt.stackoverflow.com/q/111209/101)
 - [Configurar site no IIS no Windows 8](https://pt.stackoverflow.com/q/76350/101)
 - [Projetos com APIs síncronas e assíncronas](https://pt.stackoverflow.com/q/320594/101)
+- [Onde é armazenado a Session no ASP.NET Core e qual melhor forma de utilizar?](https://pt.stackoverflow.com/q/407563/101)
 
 # WinForms/WPF/Xamarin
 
