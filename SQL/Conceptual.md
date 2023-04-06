@@ -33,6 +33,7 @@
 - [Gravar registros com a máscara ou remover antes?](https://pt.stackoverflow.com/q/233709/101)
 - [Como uma especialização é implementada em um banco?](https://pt.stackoverflow.com/q/116692/101)
 - [Modelagem de banco de dados de um sistema de notas](https://pt.stackoverflow.com/q/390213/101)
+- [Normalização de banco de dados em sistema de RH](https://pt.stackoverflow.com/q/402810/101)
 
 # SQL
 
