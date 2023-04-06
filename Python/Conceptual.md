@@ -18,3 +18,4 @@
 - [Por que Python é tão atual?](https://pt.stackoverflow.com/q/358731/101)
 - [É possível criar interfaces gráficas para aplicações em Python?](https://pt.stackoverflow.com/q/74770/101)
 - [Usar mais de uma linguagem no mesmo projeto?](https://pt.stackoverflow.com/q/388838/101)
+- [https://github.com/maniero/SOpt/blob/master/Python/Conceptual.md](https://pt.stackoverflow.com/q/294896/101)
