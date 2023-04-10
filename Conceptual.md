@@ -201,6 +201,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é encriptação end-to-end?](https://pt.stackoverflow.com/q/49714/101)
 - [Quais as diferenças entre Lightbox e Modal box?](https://pt.stackoverflow.com/q/351410/101)
 - [O que é Null Byte Injection? Como evitá-lo?](https://pt.stackoverflow.com/q/80760/101)
+- [O que é uma modal?](https://pt.stackoverflow.com/q/419766/101)
 
 # Terminology
 
