@@ -21,6 +21,7 @@
 - [Uso específico do try-catch](https://pt.stackoverflow.com/q/108484/101)
 - [Método "finalize" em Java](https://pt.stackoverflow.com/q/128665/101)
 - [Por que a ausência do sufixo L faz a variável long ser interpretada como int?](https://pt.stackoverflow.com/q/238771/101)
+- [O que é e qual a função do . (ponto) em POO?](https://pt.stackoverflow.com/q/114938/101)
 
 # Library
 
