@@ -49,3 +49,4 @@
 - [Como e quando devemos usar Interface para documentar sistemas no PHP?](https://pt.stackoverflow.com/q/100489/101)
 - [https://github.com/maniero/SOpt/blob/master/PHP/Conceptual.md](https://pt.stackoverflow.com/q/51418/101)
 - [O que o Model pode fazer em questão de validação no MVC?](https://pt.stackoverflow.com/q/67911/101)
+- [https://github.com/maniero/SOpt/blob/master/PHP/Conceptual.md](https://pt.stackoverflow.com/q/362861/101)
