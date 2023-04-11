@@ -95,6 +95,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Como se decide se uma aplicação está em alfa, beta, RC ou RTM?](https://pt.stackoverflow.com/q/20999/101)
 - [O que é e como se usa o SRP?](https://pt.stackoverflow.com/q/100516/101)
 - [O que são os princípios SOLID?](https://pt.stackoverflow.com/q/178718/101)
+- [O que é Feature Driven Development (FDD)?](https://pt.stackoverflow.com/q/323143/101)
 
 # Typing
 
