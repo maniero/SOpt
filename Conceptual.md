@@ -116,6 +116,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que são números de notação Decimal, Hexadecimal e Octal?](https://pt.stackoverflow.com/q/47854/101)
 - [O que é na verdade o array?](https://pt.stackoverflow.com/q/199751/101)
 - [Qual a diferença entre ordered, unordered e sorted?](https://pt.stackoverflow.com/q/168531/101)
+- [Todo algoritmo deve ser finito?](https://pt.stackoverflow.com/q/126015/101)
 
 # OOP & Design Patterns
 
@@ -133,7 +134,6 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Utilizar muitas interfaces é uma má prática de programação?](https://pt.stackoverflow.com/q/23900/101)
 - [Como funciona e como implementar o Design Pattern Observer?](https://pt.stackoverflow.com/q/36655/101)
 - [Como identifcar e quando usar o Value Object?](https://pt.stackoverflow.com/q/232955/101)
-
 
 # Memory & Threading
 
