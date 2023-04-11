@@ -48,6 +48,7 @@
 - [Há como interpolar strings em Java?](https://pt.stackoverflow.com/q/512957/101)
 - [Tamanho de um ArrayList](https://pt.stackoverflow.com/q/54259/101)
 - [Ordenar vetor numérico sem utilizar Bubble sort](https://pt.stackoverflow.com/q/110243/101)
+- [Qual a diferença entre String[] args e String args[]?](https://pt.stackoverflow.com/q/169929/101)
 
 # Desktop
 
