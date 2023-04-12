@@ -35,6 +35,7 @@
 - [Modelagem de banco de dados de um sistema de notas](https://pt.stackoverflow.com/q/390213/101)
 - [Normalização de banco de dados em sistema de RH](https://pt.stackoverflow.com/q/402810/101)
 - [Uma tabela de telefone para cada cliente ou uma só para todos clientes?](https://pt.stackoverflow.com/q/366757/101)
+- [Qual a diferença entre os relacionamentos entre tabelas?](https://pt.stackoverflow.com/q/146425/101)
 
 # SQL
 
