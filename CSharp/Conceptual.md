@@ -180,6 +180,7 @@
 - [Configurar site no IIS no Windows 8](https://pt.stackoverflow.com/q/76350/101)
 - [Projetos com APIs síncronas e assíncronas](https://pt.stackoverflow.com/q/320594/101)
 - [Onde é armazenado a Session no ASP.NET Core e qual melhor forma de utilizar?](https://pt.stackoverflow.com/q/407563/101)
+- [Qual a diferença entre WCF e um Web Services?](https://pt.stackoverflow.com/q/215593/101)
 
 # WinForms/WPF/Xamarin
 
