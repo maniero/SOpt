@@ -127,6 +127,7 @@
 - [Diferença entre ADO.NET e Dapper](https://pt.stackoverflow.com/q/316241/101)
 - [SQL no código ou no banco de dados?](https://pt.stackoverflow.com/q/51956/101)
 - [O que é READ_COMMITTED_SNAPSHOT?](https://pt.stackoverflow.com/q/163335/101)
+- [Qual SGBD utilizar para que possa ser instalado no computador do cliente para rodar uma aplicação C#?](https://pt.stackoverflow.com/q/219470/101)
 
 # LINQ
 
