@@ -76,5 +76,6 @@
 - [O que impede um array de ser inicializado com um tamanho variável em C?](https://pt.stackoverflow.com/q/106719/101)
 - [Por que o índice de arrays e outras sequências começam pelo zero?](https://pt.stackoverflow.com/q/183798/101)
 - [Linguagem de programação diretamente com hardware](https://pt.stackoverflow.com/q/77958/101)
-- [https://github.com/maniero/SOpt/blob/master/C/Conceptual.md](https://pt.stackoverflow.com/q/95824/101)
+- [Quando ocorre o Stack Overflow?](https://pt.stackoverflow.com/q/95824/101)
 - [Existe interpretador C?](https://pt.stackoverflow.com/q/179754/101)
+- [Como evitar buffer overflow em C/C++](https://pt.stackoverflow.com/q/145613/101)
