@@ -243,3 +243,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Quais são as diferenças entre Web App, Native App e Hybrid App?](https://pt.stackoverflow.com/q/176771/101)
 - [O que é uma variável?](https://pt.stackoverflow.com/q/181332/101)
 - [O que é um evento?](https://pt.stackoverflow.com/q/207571/101)
+- [O que significa "ad-hoc" no contexto da computação?](https://pt.stackoverflow.com/q/505248/101)
