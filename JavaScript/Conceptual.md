@@ -77,6 +77,7 @@
 - [Por que "alert", "confirm" e "prompt" travam o carregamento independente da ordem de definição?](https://pt.stackoverflow.com/q/166269/101)
   [Diferença de ' ' e ` `](https://pt.stackoverflow.com/q/188004/101)
   [O que é Unobtrusive JavaScript?](https://pt.stackoverflow.com/q/423922/101)
+  [https://github.com/maniero/SOpt/blob/master/JavaScript/Conceptual.md](https://pt.stackoverflow.com/q/171278/101)
   
 # High level
   
