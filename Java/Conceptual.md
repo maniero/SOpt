@@ -69,6 +69,7 @@
 - [Uma subclasse pode ter duas superclasses?](https://pt.stackoverflow.com/q/279170/101)
 - [Listeners são uma implementação de Observer?](https://pt.stackoverflow.com/q/125624/101)
 - [Diferença entre herança de tipo e herança de implementação](https://pt.stackoverflow.com/q/296594/101)
+- [O que significa uma variável do tipo de uma classe abstrata?](https://pt.stackoverflow.com/q/139045/101)
 
 # Misc
 
