@@ -51,4 +51,5 @@
 - [O que o Model pode fazer em questão de validação no MVC?](https://pt.stackoverflow.com/q/67911/101)
 - [Acessar atributos privados de uma classe dentro de outra classe](https://pt.stackoverflow.com/q/362861/101)
 - [PHP somente se conecta com o MySQL?](https://pt.stackoverflow.com/q/215074/101)
-- [https://github.com/maniero/SOpt/blob/master/PHP/Conceptual.md](https://pt.stackoverflow.com/q/130990/101)
+- [Por que usar somente return, sem retornar nenhum dado?](https://pt.stackoverflow.com/q/130990/101)
+- [Contar número de registros em uma base de dados](https://pt.stackoverflow.com/q/39857/101)
