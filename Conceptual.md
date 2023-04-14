@@ -136,6 +136,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Utilizar muitas interfaces é uma má prática de programação?](https://pt.stackoverflow.com/q/23900/101)
 - [Como funciona e como implementar o Design Pattern Observer?](https://pt.stackoverflow.com/q/36655/101)
 - [Como identifcar e quando usar o Value Object?](https://pt.stackoverflow.com/q/232955/101)
+- [Qual a diferença entre OO e DDD?](https://pt.stackoverflow.com/q/56850/101)
 
 # Memory & Threading
 
