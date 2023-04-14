@@ -37,6 +37,7 @@
 - [Uma tabela de telefone para cada cliente ou uma só para todos clientes?](https://pt.stackoverflow.com/q/366757/101)
 - [Qual a diferença entre os relacionamentos entre tabelas?](https://pt.stackoverflow.com/q/146425/101)
 - [https://github.com/maniero/SOpt/blob/master/SQL/Conceptual.md](https://pt.stackoverflow.com/q/440644/101)
+- [Varchar ou int para campos "tipo"](https://pt.stackoverflow.com/q/159284/101)
 
 # SQL
 
