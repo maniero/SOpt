@@ -178,11 +178,12 @@
 - [OWIN e OAuth O que são e como utilizar?](https://pt.stackoverflow.com/q/76609/101)
 - [Criptografar Web.config](https://pt.stackoverflow.com/q/54960/101)
 - [Site em C# e MVC muito lento](https://pt.stackoverflow.com/q/76954/101)
-- [https://github.com/maniero/SOpt/blob/master/CSharp/Conceptual.md](https://pt.stackoverflow.com/q/111209/101)
+- [Quais são e como se relacionam as tecnologias .NET para se desenvolver sistemas web?](https://pt.stackoverflow.com/q/111209/101)
 - [Configurar site no IIS no Windows 8](https://pt.stackoverflow.com/q/76350/101)
 - [Projetos com APIs síncronas e assíncronas](https://pt.stackoverflow.com/q/320594/101)
 - [Onde é armazenado a Session no ASP.NET Core e qual melhor forma de utilizar?](https://pt.stackoverflow.com/q/407563/101)
 - [Qual a diferença entre WCF e um Web Services?](https://pt.stackoverflow.com/q/215593/101)
+  [Como fazer script C# para rodar HTML?](https://pt.stackoverflow.com/q/36760/101)
 
 # WinForms/WPF/Xamarin
 
