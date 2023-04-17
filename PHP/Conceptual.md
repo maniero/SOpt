@@ -53,3 +53,4 @@
 - [PHP somente se conecta com o MySQL?](https://pt.stackoverflow.com/q/215074/101)
 - [Por que usar somente return, sem retornar nenhum dado?](https://pt.stackoverflow.com/q/130990/101)
 - [Contar número de registros em uma base de dados](https://pt.stackoverflow.com/q/39857/101)
+- [Qual a real utilidade de Interface em PHP?](https://pt.stackoverflow.com/q/326633/101)
