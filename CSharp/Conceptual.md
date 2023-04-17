@@ -46,6 +46,7 @@
 - [Qual o comportamento de variáveis estáticas no .NET?](https://pt.stackoverflow.com/q/27776/101)
 - [Por que os métodos implementados de uma interface não podem ser privados?](https://pt.stackoverflow.com/q/58891/101)
 - [Destruição de uma instância](https://pt.stackoverflow.com/q/94763/101)
+- [Qual a diferença entre usar (int)variavel ou Convert.ToInt32(variavel)?](https://pt.stackoverflow.com/q/90928/101)
 
 # Algorithms
 
