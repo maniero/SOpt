@@ -196,7 +196,8 @@
 - [Posso utilizar um iPhone para testar um app Xamarin?](https://pt.stackoverflow.com/q/212298/101)
 - [UserControl, o que é? Quando utilizar?](https://pt.stackoverflow.com/q/146107/101)
 - [Aplicar filtro em DataGrid preenchido com List sem alterar o DataSource](https://pt.stackoverflow.com/q/81251/101)
-  [Como centralizar o texto em uma MessageBox?](https://pt.stackoverflow.com/q/288150/101)
+- [Como centralizar o texto em uma MessageBox?](https://pt.stackoverflow.com/q/288150/101)
+- [Como faço para colocar um campo de Senha em um MessageBox?](https://pt.stackoverflow.com/q/45522/101)
 
 # Visual Studio
 
