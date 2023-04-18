@@ -78,7 +78,7 @@
 - [Por que "alert", "confirm" e "prompt" travam o carregamento independente da ordem de definição?](https://pt.stackoverflow.com/q/166269/101)
   [Diferença de ' ' e ` `](https://pt.stackoverflow.com/q/188004/101)
   [O que é Unobtrusive JavaScript?](https://pt.stackoverflow.com/q/423922/101)
-  [https://github.com/maniero/SOpt/blob/master/JavaScript/Conceptual.md](https://pt.stackoverflow.com/q/171278/101)
+  [Por que JavaScript permite usar variáveis sem declarar?](https://pt.stackoverflow.com/q/171278/101)
   
 # High level
   
@@ -91,6 +91,7 @@
 - [O que é WebAssembly?](https://pt.stackoverflow.com/q/199158/101)
 - [Qual é real necessidade do SSR (Server Side Rendering)?](https://pt.stackoverflow.com/q/411529/101)
   [Quais as diferenças entre client-side e server-side "rendering"?](https://pt.stackoverflow.com/q/210359/101)
+  [Impressora Fiscal](https://pt.stackoverflow.com/q/53722/101)
   
 # Frameworks
   
@@ -100,7 +101,7 @@
 - [Angular com TypeScript ou JavaScript?](https://pt.stackoverflow.com/q/308352/101)
 - [O que é Native Script?](https://pt.stackoverflow.com/q/143564/101)
 - [Para que serve o :: (dois-pontos duplos) no AngularJS?](https://pt.stackoverflow.com/q/153646/101)
-- [https://pt.stackoverflow.com/q/124849/101](https://pt.stackoverflow.com/q/171822/101)
+- [Quais as diferenças entre as versões do jQuery normal e o slim?](https://pt.stackoverflow.com/q/171822/101)
   [Por que usar o AngularJS?](https://pt.stackoverflow.com/q/123913/101)
 
 # TypeScript
