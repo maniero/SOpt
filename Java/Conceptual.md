@@ -50,6 +50,7 @@
 - [Tamanho de um ArrayList](https://pt.stackoverflow.com/q/54259/101)
 - [Ordenar vetor numérico sem utilizar Bubble sort](https://pt.stackoverflow.com/q/110243/101)
 - [Qual a diferença entre String[] args e String args[]?](https://pt.stackoverflow.com/q/169929/101)
+- [Quando uma String é considerada um tipo primitivo no desenvolvimento para a web?](https://pt.stackoverflow.com/q/83317/101)
 
 # Desktop
 
