@@ -55,3 +55,4 @@
 - [Contar número de registros em uma base de dados](https://pt.stackoverflow.com/q/39857/101)
 - [Qual a real utilidade de Interface em PHP?](https://pt.stackoverflow.com/q/326633/101)
 - [Classe privada ou protegida no PHP](https://pt.stackoverflow.com/q/285933/101)
+- [Declarar variáveis públicas no método __construct](https://pt.stackoverflow.com/q/162906/101)
