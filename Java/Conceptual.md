@@ -80,9 +80,10 @@
 - [Qual diferença entre o return e o break em um switch case?](https://pt.stackoverflow.com/q/175459/101)
 - [Qual a razão de Java consumir tanta memória?](https://pt.stackoverflow.com/q/52517/101)
 - [Heap de memória Java](https://pt.stackoverflow.com/q/36741/101)
-- [https://pt.stackoverflow.com/q/160947/101](https://pt.stackoverflow.com/q/160947/101
-- [Verificar se um email existe ou o seu domínio e-mail]()
+- [Qual a convenção de uso de maiúsculas e minúsculas para nomes no Java?](https://pt.stackoverflow.com/q/160947/101)
+- [Verificar se um email existe ou o seu domínio e-mail](https://pt.stackoverflow.com/q/268697/101)
 - [Como desativar a atualização automática do Java?](https://pt.stackoverflow.com/q/42230/101)
 - [Tratar regras de negócio no model é uma má prática?](https://pt.stackoverflow.com/q/94065/101)
-- [https://github.com/maniero/SOpt/blob/master/Java/Conceptual.md](https://pt.stackoverflow.com/q/168246/101)
+- [O que é a View no padrão MVC?](https://pt.stackoverflow.com/q/168246/101)
 - [Qual a diferença entre Type-safe e Null-safe?](https://pt.stackoverflow.com/q/249099/101)
+- [Qual a diferença entre referenciar um atributo diretamente ou por get/set?](https://pt.stackoverflow.com/q/129353/101)
