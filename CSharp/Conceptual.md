@@ -48,6 +48,7 @@
 - [Destruição de uma instância](https://pt.stackoverflow.com/q/94763/101)
 - [Qual a diferença entre usar (int)variavel ou Convert.ToInt32(variavel)?](https://pt.stackoverflow.com/q/90928/101)
 - [Posso remover todos os using que não estou usando?](https://pt.stackoverflow.com/q/176974/101)
+- [Por que não posso declarar um atributo usando a palavra-chave var?](https://pt.stackoverflow.com/q/112564/101)
 
 # Algorithms
 
