@@ -113,6 +113,7 @@
 - [Alternativas para desenvolvimento de VBA no Office](https://pt.stackoverflow.com/q/37247/101)
 - [Como usar e pra que serve a função timer no C#?](https://pt.stackoverflow.com/q/211902/101)
 - [Qual número máximo de itens que eu posso por dentro de uma List<T> no C#?](https://pt.stackoverflow.com/q/225692/101)
+- [C# tem suporte à GPS?](https://pt.stackoverflow.com/q/14856/101)
 
 # IO
 
