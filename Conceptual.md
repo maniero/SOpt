@@ -250,3 +250,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é um evento?](https://pt.stackoverflow.com/q/207571/101)
 - [O que significa "ad-hoc" no contexto da computação?](https://pt.stackoverflow.com/q/505248/101)
 - [O que é um manipulador de eventos?](https://pt.stackoverflow.com/q/207569/101)
+- [O que é uma Engine?](https://pt.stackoverflow.com/q/284935/101)
