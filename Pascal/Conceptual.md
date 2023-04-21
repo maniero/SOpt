@@ -2,3 +2,4 @@
 - [O Delphi possui coletor de lixo?](https://pt.stackoverflow.com/q/54919/101)
 - [Que tipo de variável aloca menos memória, integer ou string?](https://pt.stackoverflow.com/q/357631/101)
 - [Enviar mensagem para TV conectada na rede](https://pt.stackoverflow.com/q/87777/101)
+- [O uso do Try no Delphi quando mal usado pode ser uma armadilha?](https://pt.stackoverflow.com/q/292615/101)
