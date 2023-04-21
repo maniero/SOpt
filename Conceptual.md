@@ -209,6 +209,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Quais as diferenças entre Lightbox e Modal box?](https://pt.stackoverflow.com/q/351410/101)
 - [O que é Null Byte Injection? Como evitá-lo?](https://pt.stackoverflow.com/q/80760/101)
 - [O que é uma modal?](https://pt.stackoverflow.com/q/419766/101)
+- [Como funciona um mecanismo de busca?](https://pt.stackoverflow.com/q/124793/101)
 
 # Terminology
 
