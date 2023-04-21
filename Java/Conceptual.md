@@ -35,6 +35,7 @@
 - [Quais as diferenças entre InputStreamReader e Scanner em Java](https://pt.stackoverflow.com/q/52719/101)
 - [Qual a melhor forma de armazenar valores monetários no SQLite?](https://pt.stackoverflow.com/q/78306/101)
 - [https://github.com/maniero/SOpt/blob/master/Java/Conceptual.md](https://pt.stackoverflow.com/q/252588/101)
+- [O que é o sort do Java?](https://pt.stackoverflow.com/q/336281/101)
 
 # String & Collencions
 
