@@ -130,6 +130,7 @@
 - [Banco de dados para dispositivos móveis](https://pt.stackoverflow.com/q/165539/101)
 - [Vantagens e desvantagens do SQLite](https://pt.stackoverflow.com/q/336249/101)
 - [Como salvar e recuperar um campo date em SQLite3?](https://pt.stackoverflow.com/q/108331/101)
+- [Impedir DROP TABLE](https://pt.stackoverflow.com/q/38786/101)
 
 # Oracle
 
