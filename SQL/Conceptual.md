@@ -119,6 +119,7 @@
 - [Tamanho de campo decimal SQL](https://pt.stackoverflow.com/q/436817/101)
 - [READPAST e NOLOCK O que são?](https://pt.stackoverflow.com/q/233861/101)
 - [UPSERT ou UPDATE-INSERT?](https://pt.stackoverflow.com/q/324354/101)
+- [Diferença entre tabela temporária e variável tipo table](https://pt.stackoverflow.com/q/207083/101)
 
 # SQLite
 
