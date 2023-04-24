@@ -164,6 +164,7 @@
 - [O que é marshalling e como funciona?](https://pt.stackoverflow.com/q/192342/101)
 - [O que posso fazer no .NET Framework e no .NET Core não? E vice-versa](https://pt.stackoverflow.com/q/156517/101)
 - [Tarefas agendadas na web](https://pt.stackoverflow.com/q/41275/101)
+  [Fornecedor desconhecido](https://pt.stackoverflow.com/q/49019/101)
 
 # ASP.NET
 
