@@ -49,6 +49,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [É uma boa prática lançar exceção nesses casos?](https://pt.stackoverflow.com/q/15261/101)
 - [Usar um catch vazio é uma prática ruim?](https://pt.stackoverflow.com/q/107887/101)
 - [É correto prefixar nome de variáveis com seu tipo?](https://pt.stackoverflow.com/q/139321/101)
+- [Por que não comentar o código?](https://pt.stackoverflow.com/q/399158/101)
 
 # Paradigms
 
