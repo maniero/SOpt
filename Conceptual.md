@@ -141,6 +141,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Como funciona e como implementar o Design Pattern Observer?](https://pt.stackoverflow.com/q/36655/101)
 - [Como identifcar e quando usar o Value Object?](https://pt.stackoverflow.com/q/232955/101)
 - [Qual a diferença entre OO e DDD?](https://pt.stackoverflow.com/q/56850/101)
+- [O que é Container em POO?](https://pt.stackoverflow.com/q/190432/101)
 
 # Memory & Threading
 
