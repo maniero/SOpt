@@ -219,3 +219,4 @@
 - [Converter diagrama MER (Modelo Entidade Relacionamento) para classes VB.NET ou C#](https://pt.stackoverflow.com/q/134317/101)
 - [Por que o Visual Studio sugere que simplifique os nomes? - IDE0001 Name can be simplified](https://pt.stackoverflow.com/q/80138/101)
 - [Importar biblioteca no VS 2010](https://pt.stackoverflow.com/q/40761/101)
+- [Quais as limitações da licença gratuita do Visual Studio Online?](https://pt.stackoverflow.com/q/48887/101)
