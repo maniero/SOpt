@@ -24,6 +24,7 @@
 - [O que é e qual a função do . (ponto) em POO?](https://pt.stackoverflow.com/q/114938/101)
 - [Importar várias classes de um mesmo pacote](https://pt.stackoverflow.com/q/182793/101)
 - [Usando Java junto com C](https://pt.stackoverflow.com/q/46995/101)
+- [Quando usar finalizadores e coleta de lixo em Java?](https://pt.stackoverflow.com/q/76601/101)
 
 # Library
 
