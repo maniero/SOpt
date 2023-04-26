@@ -101,6 +101,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que são os princípios SOLID?](https://pt.stackoverflow.com/q/178718/101)
 - [O que é Feature Driven Development (FDD)?](https://pt.stackoverflow.com/q/323143/101)
 - [Até que ponto a otimização prematura é um problema?](https://pt.stackoverflow.com/q/29507/101)
+- [Devo cobrir métodos privados em testes unitários?](https://pt.stackoverflow.com/q/251706/101)
 
 # Typing
 
