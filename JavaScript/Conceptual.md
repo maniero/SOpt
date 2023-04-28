@@ -18,7 +18,8 @@
 - [É certo criar minhas tags HTML?](https://pt.stackoverflow.com/q/138463/101)
 - [Qual é utilidade da pseudo classe :root?](https://pt.stackoverflow.com/q/171132/101)
 - [Qual a diferença entre Local Storage, IndexedDB e WebSQL?](https://pt.stackoverflow.com/q/439271/101)
- -[Qual padrão usar: HTML5 ou XHTML5?](https://pt.stackoverflow.com/q/120022/101)
+- [Qual padrão usar: HTML5 ou XHTML5?](https://pt.stackoverflow.com/q/120022/101)
+- [Minify código HTML](https://pt.stackoverflow.com/q/128042/101)
 
 # CSS
 
