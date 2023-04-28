@@ -116,6 +116,7 @@
 - [Qual número máximo de itens que eu posso por dentro de uma List<T> no C#?](https://pt.stackoverflow.com/q/225692/101)
 - [C# tem suporte à GPS?](https://pt.stackoverflow.com/q/14856/101)
 - [Existe árvore binária no .NET?](https://pt.stackoverflow.com/q/194672/101)
+- [Como criar uma classe em tempo de execução?](https://pt.stackoverflow.com/q/186372/101)
 
 # IO
 
