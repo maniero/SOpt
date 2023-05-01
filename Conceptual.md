@@ -104,6 +104,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Até que ponto a otimização prematura é um problema?](https://pt.stackoverflow.com/q/29507/101)
 - [Devo cobrir métodos privados em testes unitários?](https://pt.stackoverflow.com/q/251706/101)
 - [Quais problemas um estado global pode acarretar?](https://pt.stackoverflow.com/q/21158/101)
+- [O que é e como funciona uma RTA?](https://pt.stackoverflow.com/q/261189/101)
 
 # Typing
 
