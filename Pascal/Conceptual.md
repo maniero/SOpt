@@ -3,3 +3,4 @@
 - [Que tipo de variável aloca menos memória, integer ou string?](https://pt.stackoverflow.com/q/357631/101)
 - [Enviar mensagem para TV conectada na rede](https://pt.stackoverflow.com/q/87777/101)
 - [O uso do Try no Delphi quando mal usado pode ser uma armadilha?](https://pt.stackoverflow.com/q/292615/101)
+- [Comparação de variáveis de tipo diferente com conversão retorna resultado incorreto](https://pt.stackoverflow.com/q/307068/101)
