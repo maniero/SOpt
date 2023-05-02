@@ -146,6 +146,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Como identifcar e quando usar o Value Object?](https://pt.stackoverflow.com/q/232955/101)
 - [Qual a diferença entre OO e DDD?](https://pt.stackoverflow.com/q/56850/101)
 - [O que é Container em POO?](https://pt.stackoverflow.com/q/190432/101)
+- [Quando faz sentido ter apenas métodos e atributos estáticos em uma classe?](https://pt.stackoverflow.com/q/129983/101)
 
 # Memory & Threading
 
