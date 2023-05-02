@@ -82,3 +82,4 @@
 - [Quando ocorre o Stack Overflow?](https://pt.stackoverflow.com/q/95824/101)
 - [Existe interpretador C?](https://pt.stackoverflow.com/q/179754/101)
 - [Como evitar buffer overflow em C/C++](https://pt.stackoverflow.com/q/145613/101)
+- [Como traduzir um programa em C para Assembly?](https://pt.stackoverflow.com/q/110499/101)
