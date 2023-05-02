@@ -170,7 +170,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Linha vertical no meio da tela do Visual Studio Code](https://pt.stackoverflow.com/q/460407/101)
 - [TODO - O que é, qual sua utilidade e como usar?](https://pt.stackoverflow.com/q/121245/101)
 
-# Git
+# Git & Versioning
 
 - [Desfazendo um pull no Git](https://pt.stackoverflow.com/q/74566/101)
 - [Como dar permissão para outros usuários uparem conteúdo no meu projeto no GitHub?](https://pt.stackoverflow.com/q/326508/101)
@@ -188,6 +188,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Qual é a diferença entre SVN e TFS?](https://pt.stackoverflow.com/q/108465/101)
 - [Tem como deletar uma pasta dentro de um repositório direto do site do GitHub sem usar Git?](https://pt.stackoverflow.com/q/219700/101)
 - [Como funciona a nomenclatura de versão para projetos privados ou públicos?](https://pt.stackoverflow.com/q/82366/101)
+- [Quando incrementar a versão usando Semantic Versioning?](https://pt.stackoverflow.com/q/51817/101)
 
 # Architeture & Operating System
 
