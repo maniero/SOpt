@@ -94,6 +94,7 @@
 - [Qual é real necessidade do SSR (Server Side Rendering)?](https://pt.stackoverflow.com/q/411529/101)
   [Quais as diferenças entre client-side e server-side "rendering"?](https://pt.stackoverflow.com/q/210359/101)
   [Impressora Fiscal](https://pt.stackoverflow.com/q/53722/101)
+  [Regra de campo obrigatório deve estar no backend ou frontend?](https://pt.stackoverflow.com/q/170899/101)
   
 # Frameworks
   
