@@ -25,6 +25,7 @@
 - [Importar várias classes de um mesmo pacote](https://pt.stackoverflow.com/q/182793/101)
 - [Usando Java junto com C](https://pt.stackoverflow.com/q/46995/101)
 - [Quando usar finalizadores e coleta de lixo em Java?](https://pt.stackoverflow.com/q/76601/101)
+- [O uso de imutabilidade](https://pt.stackoverflow.com/q/103460/101)
 
 # Library
 
