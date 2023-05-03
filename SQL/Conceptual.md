@@ -38,6 +38,7 @@
 - [Qual a diferença entre os relacionamentos entre tabelas?](https://pt.stackoverflow.com/q/146425/101)
 - [https://github.com/maniero/SOpt/blob/master/SQL/Conceptual.md](https://pt.stackoverflow.com/q/440644/101)
 - [Varchar ou int para campos "tipo"](https://pt.stackoverflow.com/q/159284/101)
+- [Montando banco de dados, como faço essa relação?](https://pt.stackoverflow.com/q/49462/101)
 
 # SQL
 
