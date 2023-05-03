@@ -105,7 +105,8 @@
 - [O que é Native Script?](https://pt.stackoverflow.com/q/143564/101)
 - [Para que serve o :: (dois-pontos duplos) no AngularJS?](https://pt.stackoverflow.com/q/153646/101)
 - [Quais as diferenças entre as versões do jQuery normal e o slim?](https://pt.stackoverflow.com/q/171822/101)
-  [Por que usar o AngularJS?](https://pt.stackoverflow.com/q/123913/101)
+- [Por que usar o AngularJS?](https://pt.stackoverflow.com/q/123913/101)
+- [Filas (queues) são úteis no Node.js, que é assíncrono?](https://pt.stackoverflow.com/q/410334/101)
 
 # TypeScript
 
