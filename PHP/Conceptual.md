@@ -56,4 +56,5 @@
 - [Qual a real utilidade de Interface em PHP?](https://pt.stackoverflow.com/q/326633/101)
 - [Classe privada ou protegida no PHP](https://pt.stackoverflow.com/q/285933/101)
 - [Declarar variáveis públicas no método __construct](https://pt.stackoverflow.com/q/162906/101)
-- [https://github.com/maniero/SOpt/blob/master/PHP/Conceptual.md](https://pt.stackoverflow.com/q/49435/101)
+- [Atribuir tipo a array em PHP](https://pt.stackoverflow.com/q/49435/101)
+- [Como declarar um atributo em interface?](https://pt.stackoverflow.com/q/261111/101)
