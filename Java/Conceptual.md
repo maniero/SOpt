@@ -26,6 +26,7 @@
 - [Usando Java junto com C](https://pt.stackoverflow.com/q/46995/101)
 - [Quando usar finalizadores e coleta de lixo em Java?](https://pt.stackoverflow.com/q/76601/101)
 - [O uso de imutabilidade](https://pt.stackoverflow.com/q/103460/101)
+- [Qual forma segura de verificar se um objeto é numérico?](https://pt.stackoverflow.com/q/77599/101)
 
 # Library
 
