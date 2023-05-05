@@ -77,6 +77,7 @@
 - [Diferença entre herança de tipo e herança de implementação](https://pt.stackoverflow.com/q/296594/101)
 - [O que significa uma variável do tipo de uma classe abstrata?](https://pt.stackoverflow.com/q/139045/101)
 - [@Override é obrigatório em Java?](https://pt.stackoverflow.com/q/33014/101)
+- [Qual a cardinalidade entre uma solicitação e os serviços inclusos nela?](https://pt.stackoverflow.com/q/80796/101)
 
 # Misc
 
