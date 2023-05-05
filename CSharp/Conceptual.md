@@ -90,7 +90,8 @@
 - [Verificar se int é "null" em C#](https://pt.stackoverflow.com/q/229191/101)
 - [Qual é a diferença de string vs String?](https://pt.stackoverflow.com/q/3711/101)
 - [https://pt.stackoverflow.com/q/78268/101](https://pt.stackoverflow.com/q/78268/101)
-- [https://github.com/maniero/SOpt/blob/master/CSharp/Conceptual.md](https://pt.stackoverflow.com/q/203656/101)
+- [Por que o uso de dynamic é algo a ser evitado?](https://pt.stackoverflow.com/q/203656/101)
+- [Utilizar IEnumerable ou ICollection?](https://pt.stackoverflow.com/q/189888/101)
 
 # Libraries
 
