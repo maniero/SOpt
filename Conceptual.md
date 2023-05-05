@@ -207,6 +207,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Por que em nomes de arquivos e pastas, alguns caracteres ainda não são aceitos?](https://pt.stackoverflow.com/q/184020/101)
 - [É possível utilizar o .htaccess com o IIS?](https://pt.stackoverflow.com/q/128266/101)
 - [https://pt.stackoverflow.com/q/169929/101](https://pt.stackoverflow.com/q/217838/101)
+- [O que são esses registradores de propósito específicos?](https://pt.stackoverflow.com/q/400187/101)
 
 # Misc
 
