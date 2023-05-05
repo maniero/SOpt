@@ -106,6 +106,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Quais problemas um estado global pode acarretar?](https://pt.stackoverflow.com/q/21158/101)
 - [O que é e como funciona uma RTA?](https://pt.stackoverflow.com/q/261189/101)
 - [Qual a diferença entre uma Entidade e um Modelo (do MVC e afins)?](https://pt.stackoverflow.com/q/422783/101)
+- [SOLID é tudo isso que dizem?](https://pt.stackoverflow.com/q/336319/101)
 
 # Typing
 
