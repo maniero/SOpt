@@ -196,6 +196,7 @@
 - [Onde é armazenado a Session no ASP.NET Core e qual melhor forma de utilizar?](https://pt.stackoverflow.com/q/407563/101)
 - [Qual a diferença entre WCF e um Web Services?](https://pt.stackoverflow.com/q/215593/101)
   [Como fazer script C# para rodar HTML?](https://pt.stackoverflow.com/q/36760/101)
+  [Onde criar uma camada Helpers?](https://pt.stackoverflow.com/q/279420/101)
 
 # WinForms/WPF/Xamarin
 
