@@ -162,6 +162,7 @@
 - [O que é mais rápido, acessar dados em arquivo ou banco de dados?](https://pt.stackoverflow.com/q/45423/101)
 - [É comum ter vários servidores diferentes para uma mesma aplicação web?](https://pt.stackoverflow.com/q/123430/101)
 - [Quando e por que usar dicionários de dados?](https://pt.stackoverflow.com/q/347190/101)
+- [Diferença velocidade em HD Sata/SSD](https://pt.stackoverflow.com/q/127708/101)
 
 # NoSQL
 
