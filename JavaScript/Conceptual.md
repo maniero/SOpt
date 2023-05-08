@@ -44,6 +44,7 @@
 - [Quais são os benefícios de se usar HTTPS?](https://pt.stackoverflow.com/q/49561/101)
   [O que é Gzip? Como ele melhora um site?](https://pt.stackoverflow.com/q/182564/101)
   [O que é DOM Parser?](https://pt.stackoverflow.com/q/179714/101)
+  [Em que linguagem o HTTP foi escrito quando implementado na Web?](https://pt.stackoverflow.com/q/177519/101)
 
 # JavaScript
   
