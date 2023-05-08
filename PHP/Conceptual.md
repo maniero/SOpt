@@ -46,6 +46,7 @@
 - [Atribuir tipo a array em PHP](https://pt.stackoverflow.com/q/49435/101)
 - [Como declarar um atributo em interface?](https://pt.stackoverflow.com/q/261111/101)
 - [$GLOBALS para armazenar configurações?](https://pt.stackoverflow.com/q/102402/101)
+- [Como utilizar Traits em PHP?](https://pt.stackoverflow.com/q/219197/101)
 
 # Library
 
