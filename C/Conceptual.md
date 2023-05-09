@@ -29,6 +29,7 @@
 - [Operadores, ordem, relevância, como é lido e prioridade](https://pt.stackoverflow.com/q/40180/101)
 - [Por que o tamanho de uma struct não é a soma dos tamanhos de suas variáveis?](https://pt.stackoverflow.com/q/125057/101)
 - [Como separar funções/variáveis globais do programa em arquivos?](https://pt.stackoverflow.com/q/102073/101)
+- [O que significa while(x--) em linguagem C?](https://pt.stackoverflow.com/q/289656/101)
 
 # Algorithm
 
