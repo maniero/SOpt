@@ -65,3 +65,4 @@
 - [PHP somente se conecta com o MySQL?](https://pt.stackoverflow.com/q/215074/101)
 - [Contar número de registros em uma base de dados](https://pt.stackoverflow.com/q/39857/101)
 - [Erro de conexão com banco de dados](https://pt.stackoverflow.com/q/75121/101)
+- [Trabalhar com listas sem ser usando Array() em PHP](https://pt.stackoverflow.com/q/110132/101)
