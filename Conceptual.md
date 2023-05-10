@@ -210,6 +210,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [É possível utilizar o .htaccess com o IIS?](https://pt.stackoverflow.com/q/128266/101)
 - [https://pt.stackoverflow.com/q/169929/101](https://pt.stackoverflow.com/q/217838/101)
 - [O que são esses registradores de propósito específicos?](https://pt.stackoverflow.com/q/400187/101)
+- [O que é um mainframe?](https://pt.stackoverflow.com/q/422755/101)
 
 # Misc
 
