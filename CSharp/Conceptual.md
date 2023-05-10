@@ -59,6 +59,7 @@
 - [Como fazer pesquisa binária em um arquivo txt?](https://pt.stackoverflow.com/q/37390/101)
 - [Que tipo de dados usar para ID da venda?](https://pt.stackoverflow.com/q/159503/101)
 - [Inicializar campos privados na declaração ou no construtor?](https://pt.stackoverflow.com/q/198190/101)
+- [Cannot evaluate expression because the current thread is in a stack overflow state](https://pt.stackoverflow.com/q/95386/101)
 
 # Exceptions
 
