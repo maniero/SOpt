@@ -21,3 +21,4 @@
 - [https://github.com/maniero/SOpt/blob/master/Python/Conceptual.md](https://pt.stackoverflow.com/q/294896/101)
 - [O que é um mapa de hash em Python?](https://pt.stackoverflow.com/q/415038/101)
 - [O que significa #noqa em Python?](https://pt.stackoverflow.com/q/432059/101)
+- [Conversão de tipos em Python](https://pt.stackoverflow.com/q/201714/101)
