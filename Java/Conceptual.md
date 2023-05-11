@@ -39,6 +39,7 @@
 - [Qual a melhor forma de armazenar valores monetários no SQLite?](https://pt.stackoverflow.com/q/78306/101)
 - [https://github.com/maniero/SOpt/blob/master/Java/Conceptual.md](https://pt.stackoverflow.com/q/252588/101)
 - [O que é o sort do Java?](https://pt.stackoverflow.com/q/336281/101)
+- [Para que serve usar Assert.assertNotNull() nos frameworks?](https://pt.stackoverflow.com/q/479908/101)
 
 # String & Collencions
 
