@@ -1,0 +1,1 @@
+- [Qual a função das chaves { } nessa interpolação?](https://pt.stackoverflow.com/q/401574/101)
