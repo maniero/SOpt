@@ -269,3 +269,4 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é um manipulador de eventos?](https://pt.stackoverflow.com/q/207569/101)
 - [O que é uma Engine?](https://pt.stackoverflow.com/q/284935/101)
 - [O que são Exceptions?](https://pt.stackoverflow.com/q/88831/101)
+- [O que diferencia um microframework de um framework full stack?](https://pt.stackoverflow.com/q/125653/101)
