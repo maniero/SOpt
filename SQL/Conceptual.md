@@ -40,6 +40,7 @@
 - [Varchar ou int para campos "tipo"](https://pt.stackoverflow.com/q/159284/101)
 - [Montando banco de dados, como faço essa relação?](https://pt.stackoverflow.com/q/49462/101)
 - [Modelo relacional para login de usuário](https://pt.stackoverflow.com/q/358142/101)
+- [Normalização de tabela para 2a Forma Normal](https://pt.stackoverflow.com/q/250423/101)
 
 # SQL
 
