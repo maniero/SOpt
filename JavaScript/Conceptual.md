@@ -83,6 +83,7 @@
 - [O que é Unobtrusive JavaScript?](https://pt.stackoverflow.com/q/423922/101)
 - [Por que JavaScript permite usar variáveis sem declarar?](https://pt.stackoverflow.com/q/171278/101)
 - [Qual a vantagem de se utilizar getters/setters em classes com JavaScript?](https://pt.stackoverflow.com/q/416974/101)
+- [Encapsulamento em JavaScript](https://pt.stackoverflow.com/q/93681/101)
   
 # High level
   
