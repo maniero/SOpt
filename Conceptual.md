@@ -130,6 +130,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é na verdade o array?](https://pt.stackoverflow.com/q/199751/101)
 - [Qual a diferença entre ordered, unordered e sorted?](https://pt.stackoverflow.com/q/168531/101)
 - [Todo algoritmo deve ser finito?](https://pt.stackoverflow.com/q/126015/101)
+- [Quando e onde usar os termos: complexidade de tempo, complexidade de espaço?](https://pt.stackoverflow.com/q/329505/101)
 
 # OOP & Design Patterns
 
