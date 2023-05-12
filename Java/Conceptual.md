@@ -62,6 +62,7 @@
 
 - [Como criar/manter "variavel global" para login?](https://pt.stackoverflow.com/q/54588/101)
 - [Quais são as API's para se criar interface gráfica em Java?](https://pt.stackoverflow.com/q/52644/101)
+- [Como definir os requisitos básicos para rodar aplicação Java desktop?](https://pt.stackoverflow.com/q/161950/101)
 
 # OOP
 
