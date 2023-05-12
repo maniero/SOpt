@@ -60,6 +60,7 @@
 - [Qual biblioteca usar para pausar o sistema no lugar de getch()?](https://pt.stackoverflow.com/q/191981/101)
 - [Como corrijo "referencia indefinida para 'função' em C?](https://pt.stackoverflow.com/q/259128/101)
 - [cin vs scanf(), qual é mais rápido?](https://pt.stackoverflow.com/q/126240/101)
+- [Existe IDE para desenvolver interface gráfica GTK?](https://pt.stackoverflow.com/q/199949/101)
 
 # Misc
 
