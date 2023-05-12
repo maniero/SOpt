@@ -98,3 +98,4 @@
 - [Qual a diferença entre Type-safe e Null-safe?](https://pt.stackoverflow.com/q/249099/101)
 - [Qual a diferença entre referenciar um atributo diretamente ou por get/set?](https://pt.stackoverflow.com/q/129353/101)
 - [Por que chamar o System.gc() não garante execução do garbage collector?](https://pt.stackoverflow.com/q/105092/101)
+- [Melhor abordagem é filtrar dados no banco de dados ou na aplicação?](https://pt.stackoverflow.com/q/211020/101)
