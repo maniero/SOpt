@@ -196,6 +196,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Tem como deletar uma pasta dentro de um repositório direto do site do GitHub sem usar Git?](https://pt.stackoverflow.com/q/219700/101)
 - [Como funciona a nomenclatura de versão para projetos privados ou públicos?](https://pt.stackoverflow.com/q/82366/101)
 - [Quando incrementar a versão usando Semantic Versioning?](https://pt.stackoverflow.com/q/51817/101)
+- [Problema com tamanho do repositório Git](https://pt.stackoverflow.com/q/57833/101)
 
 # Architeture & Operating System
 
