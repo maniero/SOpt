@@ -1,6 +1,6 @@
-int x = 1, 2, 3, 4; //o valor de x será 4, o resto seria apenas processado, mas não usado 
+int x = (1, 2, 3, 4); //o valor de x será 4, o resto seria apenas processado, mas não usado 
 
-int x = ((1, 2), 3), 4; //neste exemplo específico os números anteriores foram ignorados
+int x = (((1, 2), 3), 4); //neste exemplo específico os números anteriores foram ignorados
 
 
 for (int x = 1, y = 1; x < 10 && y < 20; x++, y *= 2)
