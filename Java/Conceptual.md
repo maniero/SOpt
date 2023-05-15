@@ -57,6 +57,7 @@
 - [Qual a diferença entre String[] args e String args[]?](https://pt.stackoverflow.com/q/169929/101)
 - [Quando uma String é considerada um tipo primitivo no desenvolvimento para a web?](https://pt.stackoverflow.com/q/83317/101)
 - [Ordenar lista encadeada com método O(n*log(n))](https://pt.stackoverflow.com/q/111198/101)
+- [Como eu crio um ArrayList de objetos com cada posição contendo um novo objeto?](https://pt.stackoverflow.com/q/387004/101)
 
 # Desktop
 
