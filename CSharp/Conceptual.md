@@ -122,6 +122,7 @@
 - [Como criar uma classe em tempo de execução?](https://pt.stackoverflow.com/q/186372/101)
 - [Capturar o som de um microfone no Windows via C#](https://pt.stackoverflow.com/q/110749/101)
 - [Localizar um trecho de um HTML](https://pt.stackoverflow.com/q/39902/101)
+- [Qual é a finalidade da classe Uri?](https://pt.stackoverflow.com/q/117361/101)
 
 # IO
 
