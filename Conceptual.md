@@ -166,6 +166,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Como um programa é carregado na memória e depois executado?](https://pt.stackoverflow.com/q/209542/101)
 - [O que são Mutexes e quando é aconselhável usar este recurso?](https://pt.stackoverflow.com/q/336456/101)
 - [Paralelismo e Simultaneidade](https://pt.stackoverflow.com/q/166032/101)
+- [O que é segmentação de memória?](https://pt.stackoverflow.com/q/214744/101)
 
 # IDE
 
