@@ -49,6 +49,7 @@
 - [Como utilizar Traits em PHP?](https://pt.stackoverflow.com/q/219197/101)
 - [Existe diferença entre usar barra invertida e simples?](https://pt.stackoverflow.com/q/236147/101)
 - [PHP 7 tem tipagem de argumentos e de retorno, mas é opcional. Isso é bom ou ruim?](https://pt.stackoverflow.com/q/107705/101)
+- [Pegar instância de classe filha](https://pt.stackoverflow.com/q/139185/101)
 
 # Library
 
