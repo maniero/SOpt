@@ -27,6 +27,7 @@
 - [Quando usar finalizadores e coleta de lixo em Java?](https://pt.stackoverflow.com/q/76601/101)
 - [O uso de imutabilidade](https://pt.stackoverflow.com/q/103460/101)
 - [Qual forma segura de verificar se um objeto é numérico?](https://pt.stackoverflow.com/q/77599/101)
+- [Por que existe tanta diferença de performance entre stream e loops normais?](https://pt.stackoverflow.com/q/361945/101)
 
 # Library
 
