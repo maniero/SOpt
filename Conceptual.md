@@ -229,6 +229,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [O que é uma modal?](https://pt.stackoverflow.com/q/419766/101)
 - [Como funciona um mecanismo de busca?](https://pt.stackoverflow.com/q/124793/101)
 - [Utilizar teclado virtual ajuda a segurança?](https://pt.stackoverflow.com/q/45897/101)
+- [Como funciona o XOR para dois binários com mais de um dígito?](https://pt.stackoverflow.com/q/205163/101)
 
 # Terminology
 
