@@ -96,6 +96,7 @@
 - [Por que o uso de dynamic é algo a ser evitado?](https://pt.stackoverflow.com/q/203656/101)
 - [Utilizar IEnumerable ou ICollection?](https://pt.stackoverflow.com/q/189888/101)
 - [O que é e qual a explicação para type-safe em C#?](https://pt.stackoverflow.com/q/327538/101)
+- [Erro ao remontar uma string. Tamanho está fora](https://pt.stackoverflow.com/q/115996/101)
 
 # Libraries
 
