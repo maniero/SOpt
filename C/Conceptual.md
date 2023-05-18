@@ -41,6 +41,7 @@
 - [Vetor struct e ponteiros](https://pt.stackoverflow.com/q/37063/101)
 - [Limitar quantidade de dígitos na entrada de dados](https://pt.stackoverflow.com/q/449747/101)
 - [Utilização de teclas de setas para gerar movimento em jogo](https://pt.stackoverflow.com/q/177384/101)
+- [Ordenação estável vs instável](https://pt.stackoverflow.com/q/325088/101)
 
 # Library
 
