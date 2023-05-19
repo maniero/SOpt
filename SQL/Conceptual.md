@@ -1,4 +1,4 @@
-# Na página principal do reporsitório tem informações importante para ler
+# Na página principal do reporsitório tem informações importantes para ler
 
 # Modeling
 
@@ -152,6 +152,7 @@
 - [Como abrir um arquivo .fdb?](https://pt.stackoverflow.com/q/112883/101)
 - [Concatenar colunas e algumas com valor NULL](https://pt.stackoverflow.com/q/80565/101)
 - [Tamanho máximo para o nome de stored procedures, fields, etc ... no Firebird](https://pt.stackoverflow.com/q/117969/101)
+- [O que são SQL dialect 1 e o dialect 3?](https://pt.stackoverflow.com/q/391200/101)
 
 # General
 
