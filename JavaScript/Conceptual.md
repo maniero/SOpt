@@ -20,6 +20,7 @@
 - [Qual a diferença entre Local Storage, IndexedDB e WebSQL?](https://pt.stackoverflow.com/q/439271/101)
 - [Qual padrão usar: HTML5 ou XHTML5?](https://pt.stackoverflow.com/q/120022/101)
 - [Minify código HTML](https://pt.stackoverflow.com/q/128042/101)
+- [Linguagem de marcação equivalente ao HTML?](https://pt.stackoverflow.com/q/227443/101)
 
 # CSS
 
