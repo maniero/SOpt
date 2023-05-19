@@ -1,3 +1,5 @@
+# Na página principal do reporsitório tem informações importante para ler
+
 # Modeling
 
 - [Qual a diferença entre MER (Modelo de Entidade Relacionamento) e DER (Diagrama de Entidade Relacionamento)?](https://pt.stackoverflow.com/q/328342/101)
@@ -41,6 +43,7 @@
 - [Montando banco de dados, como faço essa relação?](https://pt.stackoverflow.com/q/49462/101)
 - [Modelo relacional para login de usuário](https://pt.stackoverflow.com/q/358142/101)
 - [Normalização de tabela para 2a Forma Normal](https://pt.stackoverflow.com/q/250423/101)
+- [Modelagem de lançamentos usando clientes e fornecedores](https://pt.stackoverflow.com/q/154748/101)
 
 # SQL
 
