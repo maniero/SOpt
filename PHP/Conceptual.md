@@ -51,6 +51,7 @@
 - [PHP 7 tem tipagem de argumentos e de retorno, mas é opcional. Isso é bom ou ruim?](https://pt.stackoverflow.com/q/107705/101)
 - [Pegar instância de classe filha](https://pt.stackoverflow.com/q/139185/101)
 - [Como melhorar o desempenho de meu código com "for"?](https://pt.stackoverflow.com/q/268296/101)
+- [Carregar PHP dentro de JS é uma boa prática?](https://pt.stackoverflow.com/q/109685/101)
 
 # Library
 
