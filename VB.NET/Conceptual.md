@@ -2,3 +2,4 @@
 - [VBA é orientada a objeto?](https://pt.stackoverflow.com/q/360749/101)
 - [Referências das Subs e Funções onde está sendo usada sumiu no meu Visual Studio](https://pt.stackoverflow.com/q/129875/101)
 - [Qual a diferença entre Visual Basic e Basic?](https://pt.stackoverflow.com/q/65573/101)
+- [Como funciona o "namespace" no ASP.NET?](https://pt.stackoverflow.com/q/15666/101)
