@@ -102,3 +102,4 @@
 - [Qual a diferença entre referenciar um atributo diretamente ou por get/set?](https://pt.stackoverflow.com/q/129353/101)
 - [Por que chamar o System.gc() não garante execução do garbage collector?](https://pt.stackoverflow.com/q/105092/101)
 - [Melhor abordagem é filtrar dados no banco de dados ou na aplicação?](https://pt.stackoverflow.com/q/211020/101)
+- [Try/Catch: java.lang.OutOfMemoryError: Java heap space](https://pt.stackoverflow.com/q/412995/101)
