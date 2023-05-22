@@ -128,6 +128,7 @@
 - [Capturar o som de um microfone no Windows via C#](https://pt.stackoverflow.com/q/110749/101)
 - [Localizar um trecho de um HTML](https://pt.stackoverflow.com/q/39902/101)
 - [Qual é a finalidade da classe Uri?](https://pt.stackoverflow.com/q/117361/101)
+- [Atalho para o comando Console.WriteLine em C#, existe?](https://pt.stackoverflow.com/q/460299/101)
 
 # IO
 
