@@ -38,6 +38,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Critérios para escolher linguagem para uso específico considerando o desempenho](https://pt.stackoverflow.com/q/284715/101)
 - [Uma linguagem de programação específica para jogos](https://pt.stackoverflow.com/q/156622/101)
 - [Quais as linguagens de programação que dão suporte a Linux e Windows?](https://pt.stackoverflow.com/q/99838/101)
+- [O que é uma meta linguagem?](https://pt.stackoverflow.com/q/215963/101)
 
 # Coding Style
 
