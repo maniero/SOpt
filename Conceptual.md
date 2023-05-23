@@ -200,6 +200,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Como funciona a nomenclatura de versão para projetos privados ou públicos?](https://pt.stackoverflow.com/q/82366/101)
 - [Quando incrementar a versão usando Semantic Versioning?](https://pt.stackoverflow.com/q/51817/101)
 - [Problema com tamanho do repositório Git](https://pt.stackoverflow.com/q/57833/101)
+- [Quando devo manter ou deletar um branch?](https://pt.stackoverflow.com/q/93854/101)
 
 # Architeture & Operating System
 
