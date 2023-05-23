@@ -1,4 +1,4 @@
-# Na página principal do reporsitório tem informações importantes para ler
+# Na página principal do repositório tem informações importantes para ler
 
 # Modeling
 
@@ -172,6 +172,7 @@
 - [Quando e por que usar dicionários de dados?](https://pt.stackoverflow.com/q/347190/101)
 - [Diferença velocidade em HD Sata/SSD](https://pt.stackoverflow.com/q/127708/101)
 - [Gostaria de entender o que é OLTP](https://pt.stackoverflow.com/q/281576/101)
+- [Quais são os tipos mais comuns de bancos de dados para aplicações web?](https://pt.stackoverflow.com/q/205171/101)
 
 # NoSQL
 
