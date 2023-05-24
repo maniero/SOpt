@@ -1,4 +1,4 @@
-# Na página principal do reporsitório tem informações importantes para ler
+# Na página principal do repositório tem informações importantes para ler
 
 # Syntax
 
@@ -44,6 +44,7 @@
 - [Limitar quantidade de dígitos na entrada de dados](https://pt.stackoverflow.com/q/449747/101)
 - [Utilização de teclas de setas para gerar movimento em jogo](https://pt.stackoverflow.com/q/177384/101)
 - [Ordenação estável vs instável](https://pt.stackoverflow.com/q/325088/101)
+- [Conversão de fluxograma para código](https://pt.stackoverflow.com/q/135776/101)
 
 # Library
 
