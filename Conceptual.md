@@ -1,4 +1,6 @@
-Dentro das pastas tem outras coisas conceituais de cada tecnologia
+# Dentro das pastas tem outras coisas conceituais de cada tecnologia
+
+# Na página principal do reporsitório tem informações importantes para ler
 
 # Compilers
 
@@ -201,6 +203,7 @@ Dentro das pastas tem outras coisas conceituais de cada tecnologia
 - [Quando incrementar a versão usando Semantic Versioning?](https://pt.stackoverflow.com/q/51817/101)
 - [Problema com tamanho do repositório Git](https://pt.stackoverflow.com/q/57833/101)
 - [Quando devo manter ou deletar um branch?](https://pt.stackoverflow.com/q/93854/101)
+- [Existe uma regra específica para mensagens de commit em sistemas de versionamento como o Git?](https://pt.stackoverflow.com/q/125203/101)
 
 # Architeture & Operating System
 
