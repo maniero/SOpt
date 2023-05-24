@@ -13,6 +13,7 @@
 - [O que é Backus-Naur Form (BNF)?](https://pt.stackoverflow.com/q/178720/101)
 - [O que é um JITter?](https://pt.stackoverflow.com/q/146250/101)
 - [Devo usar um gerador de parser ou devo desenvolver meu próprio código para fazer "parse" e "lex"?](https://pt.stackoverflow.com/q/2130/101)
+- [Diferença entre compilação Ahead-Of-Time e Just-in-Time](https://pt.stackoverflow.com/q/356739/101)
 
 # Languages
 
