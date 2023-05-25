@@ -186,6 +186,7 @@
 - [Tarefas agendadas na web](https://pt.stackoverflow.com/q/41275/101)
 - [Fornecedor desconhecido](https://pt.stackoverflow.com/q/49019/101)
 - [Any CPU ou x64?](https://pt.stackoverflow.com/q/233477/101)
+- [Por que o .NET Core foi criado?](https://pt.stackoverflow.com/q/225927/101)
 
 # ASP.NET
 
