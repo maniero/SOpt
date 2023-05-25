@@ -1,6 +1,6 @@
 # Dentro das pastas tem outras coisas conceituais de cada tecnologia
 
-# Na página principal do reporsitório tem informações importantes para ler
+# Na página principal do repositório tem informações importantes para ler
 
 # Compilers
 
@@ -14,6 +14,7 @@
 - [O que é um JITter?](https://pt.stackoverflow.com/q/146250/101)
 - [Devo usar um gerador de parser ou devo desenvolver meu próprio código para fazer "parse" e "lex"?](https://pt.stackoverflow.com/q/2130/101)
 - [Diferença entre compilação Ahead-Of-Time e Just-in-Time](https://pt.stackoverflow.com/q/356739/101)
+- [É possível editar e re-compilar revertendo o código-fonte?](https://pt.stackoverflow.com/q/177921/101)
 
 # Languages
 
