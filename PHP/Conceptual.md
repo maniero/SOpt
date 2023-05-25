@@ -55,6 +55,7 @@
 - [Como melhorar o desempenho de meu código com "for"?](https://pt.stackoverflow.com/q/268296/101)
 - [Carregar PHP dentro de JS é uma boa prática?](https://pt.stackoverflow.com/q/109685/101)
 - [PHP 7 já tem versão estável para produção?](https://pt.stackoverflow.com/q/171748/101)
+- [https://pt.stackoverflow.com/q/177921/101](https://pt.stackoverflow.com/q/234844/101)
 
 # Library
 
