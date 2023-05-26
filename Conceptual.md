@@ -114,6 +114,7 @@
 - [Qual a diferença entre uma Entidade e um Modelo (do MVC e afins)?](https://pt.stackoverflow.com/q/422783/101)
 - [SOLID é tudo isso que dizem?](https://pt.stackoverflow.com/q/336319/101)
 - [Qual a diferença entre client-server e three-tiers?](https://pt.stackoverflow.com/q/405299/101)
+- [Regras de negócio sempre são relacionadas à validação?](https://pt.stackoverflow.com/q/48576/101)
 
 # Typing
 
