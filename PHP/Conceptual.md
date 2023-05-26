@@ -55,7 +55,7 @@
 - [Como melhorar o desempenho de meu código com "for"?](https://pt.stackoverflow.com/q/268296/101)
 - [Carregar PHP dentro de JS é uma boa prática?](https://pt.stackoverflow.com/q/109685/101)
 - [PHP 7 já tem versão estável para produção?](https://pt.stackoverflow.com/q/171748/101)
-- [https://pt.stackoverflow.com/q/177921/101](https://pt.stackoverflow.com/q/234844/101)
+- [Por que não é aconselhável utilizar os códigos PHP no mesmo documento de HTML?](https://pt.stackoverflow.com/q/234844/101)
 
 # Library
 
@@ -75,3 +75,7 @@
 - [Contar número de registros em uma base de dados](https://pt.stackoverflow.com/q/39857/101)
 - [Erro de conexão com banco de dados](https://pt.stackoverflow.com/q/75121/101)
 - [Trabalhar com listas sem ser usando Array() em PHP](https://pt.stackoverflow.com/q/110132/101)
+
+# Algorithm
+
+- [Subtituição de caracteres especiais por códigos ASCII](https://pt.stackoverflow.com/q/44151/101)
