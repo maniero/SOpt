@@ -56,6 +56,7 @@
 - [Carregar PHP dentro de JS é uma boa prática?](https://pt.stackoverflow.com/q/109685/101)
 - [PHP 7 já tem versão estável para produção?](https://pt.stackoverflow.com/q/171748/101)
 - [Por que não é aconselhável utilizar os códigos PHP no mesmo documento de HTML?](https://pt.stackoverflow.com/q/234844/101)
+- [Em PHP todas variáveis declaradas são globais?](https://pt.stackoverflow.com/q/173543/101)
 
 # Library
 
