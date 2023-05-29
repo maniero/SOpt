@@ -54,6 +54,7 @@
 - [A que o erro "Não é possível converter implicitamente tipo "void" em "int" " se refere?](https://pt.stackoverflow.com/q/413737/101)
 - [Instanciar classe com método static](https://pt.stackoverflow.com/q/282138/101)
 - [Sobrescrever métodos com base apenas no nome](https://pt.stackoverflow.com/q/139880/101)
+- [O que significa _ no C#?](https://pt.stackoverflow.com/q/412527/101)
 
 # Algorithms
 
