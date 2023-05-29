@@ -34,6 +34,7 @@
 - [O que significa while(x--) em linguagem C?](https://pt.stackoverflow.com/q/289656/101)
 - [Qual a utilidade da keyword auto em C?](https://pt.stackoverflow.com/q/201571/101)
 - ["Operador" colchetes [] na criação do arranjo em C](https://pt.stackoverflow.com/q/329024/101)
+- [Como funcionam os ponteiros do C?](https://pt.stackoverflow.com/q/106227/101)
 
 # Algorithm
 
