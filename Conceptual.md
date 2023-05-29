@@ -43,6 +43,7 @@
 - [Uma linguagem de programação específica para jogos](https://pt.stackoverflow.com/q/156622/101)
 - [Quais as linguagens de programação que dão suporte a Linux e Windows?](https://pt.stackoverflow.com/q/99838/101)
 - [O que é uma meta linguagem?](https://pt.stackoverflow.com/q/215963/101)
+- [Linguagem de programação que não necessitem instalação prévia](https://pt.stackoverflow.com/q/117797/101)
 
 # Coding Style
 
