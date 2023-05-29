@@ -33,6 +33,7 @@
 - [Como separar funções/variáveis globais do programa em arquivos?](https://pt.stackoverflow.com/q/102073/101)
 - [O que significa while(x--) em linguagem C?](https://pt.stackoverflow.com/q/289656/101)
 - [Qual a utilidade da keyword auto em C?](https://pt.stackoverflow.com/q/201571/101)
+- ["Operador" colchetes [] na criação do arranjo em C](https://pt.stackoverflow.com/q/329024/101)
 
 # Algorithm
 
