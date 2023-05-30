@@ -109,6 +109,7 @@
 - [Espaço ocupado entre diferentes tipos de inteiros](https://pt.stackoverflow.com/q/310513/101)
 - [Tamanho do campo ocupa valor total definido?](https://pt.stackoverflow.com/q/207849/101)
 - [Trabalhando com limite de ID em grandes volumes](https://pt.stackoverflow.com/q/78544/101)
+- [Array[] em banco de dados, como criar e manipular?](https://pt.stackoverflow.com/q/360029/101)
 
 # PostgreSQL
 
