@@ -1,3 +1,5 @@
+# Na página principal do repositório tem informações importantes para ler
+
 # HTML
 
 - [Para que serve o . em uma tag form action="." method="post"?](https://pt.stackoverflow.com/q/184732/101)
@@ -9,7 +11,7 @@
 - [Qual diferença entre htm, html, dhtml e ghtml?](https://pt.stackoverflow.com/q/181884/101)
 - [Pra que serve o atributo Role?](https://pt.stackoverflow.com/q/51391/101)
 - [O certo é br ou br/ ou br /?](https://pt.stackoverflow.com/q/46370/101)
-- [Qual é a diferença entre as tags <q>, <blockquote> e <cite> no HTML? E como as usar corretamente?](https://pt.stackoverflow.com/q/330063/101)
+- [Qual é a diferença entre as tags \<q>, \<blockquote> e \<cite> no HTML? E como as usar corretamente?](https://pt.stackoverflow.com/q/330063/101)
 - [Como fazer desaparecer os &nbsp;&nbsp;&nbsp;&nbsp;?](https://pt.stackoverflow.com/q/74815/101)
 - [Para que servem os atributos aria-* em HTML5?](https://pt.stackoverflow.com/q/96948/101)
 - [Tem como aplicar HTML/CSS em um programa em C puro?](https://pt.stackoverflow.com/q/220761/101)
@@ -21,6 +23,7 @@
 - [Qual padrão usar: HTML5 ou XHTML5?](https://pt.stackoverflow.com/q/120022/101)
 - [Minify código HTML](https://pt.stackoverflow.com/q/128042/101)
 - [Linguagem de marcação equivalente ao HTML?](https://pt.stackoverflow.com/q/227443/101)
+- [Qual a finalidade de alt em uma tag \<img />?](https://pt.stackoverflow.com/q/164876/101)
 
 # CSS
 
