@@ -155,6 +155,7 @@
 - [Entity Framework Core x Entity Framework 7](https://pt.stackoverflow.com/q/152679/101)
 - [Instalar banco de dados junto com a aplicação C#](https://pt.stackoverflow.com/q/80849/101)
 - [Escrever uma informação no console do browser através do .NET](https://pt.stackoverflow.com/q/106841/101)
+- [É obrigatório abrir e fechar conexão ao inserir dados?](https://pt.stackoverflow.com/q/245312/101)
 
 # LINQ
 
