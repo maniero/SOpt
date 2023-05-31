@@ -9,3 +9,4 @@
 - [Conversão Java para Kotlin](https://pt.stackoverflow.com/q/225756/101)
 - [Onde consigo o código fonte do Android?](https://pt.stackoverflow.com/q/76753/101)
 - [O que torna Kotlin uma linguagem mais rápida que o Java?](https://pt.stackoverflow.com/q/235643/101)
+- [Qual é o objetivo do internal lateinit?](https://pt.stackoverflow.com/q/227752/101)
