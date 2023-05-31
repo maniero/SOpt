@@ -1,3 +1,5 @@
+# Na página principal do repositório tem informações importantes para ler
+
 - [O que o C++ pode fazer que o C# não pode?](https://pt.stackoverflow.com/q/7740/101)
 - [O que são os arquivos com extensão .cpp e .h?](https://pt.stackoverflow.com/q/240579/101)
 - [É possível criar uma aplicação em C/C++ para Android?](https://pt.stackoverflow.com/q/209455/101)
@@ -18,5 +20,6 @@
 - [Funcionamento do operador new](https://pt.stackoverflow.com/q/237588/101)
 - [Quando devo escolher entre utilizar ou não um ponteiro ao criar um objeto?](https://pt.stackoverflow.com/q/50165/101)
 - [Posso substituir o cout e printf?](https://pt.stackoverflow.com/q/263407/101)
-- [https://github.com/maniero/SOpt/blob/master/CPP/Conceptual.md](https://pt.stackoverflow.com/q/103810/101)
-- [https://github.com/maniero/SOpt/blob/master/CPP/Conceptual.md](https://pt.stackoverflow.com/q/270895/101)
+- [Garbage Collector para C++](https://pt.stackoverflow.com/q/103810/101)
+- [Funções lambda em C++, quando utilizar e quais as vantagens?](https://pt.stackoverflow.com/q/270895/101)
+- [Struct ou Classes?](https://pt.stackoverflow.com/q/143545/101)
