@@ -67,6 +67,7 @@
 - [Qual a diferença entre SQL Server, MySQL e outros SQL?](https://pt.stackoverflow.com/q/480913/101)
 - [Se o campo tem DEFAULT ele deve ser NOT NULL?](https://pt.stackoverflow.com/q/93483/101)
 - [Qual é mais eficiente, realizar várias queries ou usar JOIN?](https://pt.stackoverflow.com/q/251630/101)
+- [Uma chave primária pode ser usada em uma chave estrangeira?](https://pt.stackoverflow.com/q/37080/101)
 
 # MySQL
 
