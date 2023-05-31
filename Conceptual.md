@@ -44,6 +44,7 @@
 - [Quais as linguagens de programação que dão suporte a Linux e Windows?](https://pt.stackoverflow.com/q/99838/101)
 - [O que é uma meta linguagem?](https://pt.stackoverflow.com/q/215963/101)
 - [Linguagem de programação que não necessitem instalação prévia](https://pt.stackoverflow.com/q/117797/101)
+- [Por que certas linguagens são mais rápidas que outras?](https://pt.stackoverflow.com/q/425125/101)
 
 # Coding Style
 
