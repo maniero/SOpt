@@ -162,6 +162,7 @@
 - [O que é Container em POO?](https://pt.stackoverflow.com/q/190432/101)
 - [Quando faz sentido ter apenas métodos e atributos estáticos em uma classe?](https://pt.stackoverflow.com/q/129983/101)
 - [POO é igual em todas as linguagens?](https://pt.stackoverflow.com/q/213951/101)
+- [Devo estender de uma classe abstrata ou de uma concreta?](https://pt.stackoverflow.com/q/89236/101)
 
 # Memory & Threading
 
