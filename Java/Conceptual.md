@@ -32,6 +32,7 @@
 - [Por que existe tanta diferença de performance entre stream e loops normais?](https://pt.stackoverflow.com/q/361945/101)
 - [Trabalhando com Hexadecimais em Java](https://pt.stackoverflow.com/q/211747/101)
 - [Por que usar Int onde cabe Byte ou Short?](https://pt.stackoverflow.com/q/106825/101)
+- [Usar um construtor com vários parâmetros, ou criar vários sets?](https://pt.stackoverflow.com/q/88771/101)
 
 # Library
 
