@@ -77,6 +77,7 @@
 - [Erro de conexão com banco de dados](https://pt.stackoverflow.com/q/75121/101)
 - [Trabalhar com listas sem ser usando Array() em PHP](https://pt.stackoverflow.com/q/110132/101)
 - [O MySQL está embutido no EasyPHP?](https://pt.stackoverflow.com/q/102322/101)
+- [Boas práticas para MVC em PHP](https://pt.stackoverflow.com/q/124413/101)
 
 # Algorithm
 
