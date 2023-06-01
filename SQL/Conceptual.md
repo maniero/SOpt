@@ -176,6 +176,7 @@
 - [Diferença velocidade em HD Sata/SSD](https://pt.stackoverflow.com/q/127708/101)
 - [Gostaria de entender o que é OLTP](https://pt.stackoverflow.com/q/281576/101)
 - [Quais são os tipos mais comuns de bancos de dados para aplicações web?](https://pt.stackoverflow.com/q/205171/101)
+- [É correto usar JSON para armazenar dados que não precisam estar em base de dados?](https://pt.stackoverflow.com/q/88771/101)
 
 # NoSQL
 
