@@ -102,9 +102,10 @@
 - [Quais são as camadas de uma aplicação web?](https://pt.stackoverflow.com/q/122309/101)
 - [O que é WebAssembly?](https://pt.stackoverflow.com/q/199158/101)
 - [Qual é real necessidade do SSR (Server Side Rendering)?](https://pt.stackoverflow.com/q/411529/101)
-  [Quais as diferenças entre client-side e server-side "rendering"?](https://pt.stackoverflow.com/q/210359/101)
-  [Impressora Fiscal](https://pt.stackoverflow.com/q/53722/101)
-  [Regra de campo obrigatório deve estar no backend ou frontend?](https://pt.stackoverflow.com/q/170899/101)
+- [Quais as diferenças entre client-side e server-side "rendering"?](https://pt.stackoverflow.com/q/210359/101)
+- [Impressora Fiscal](https://pt.stackoverflow.com/q/53722/101)
+- [Regra de campo obrigatório deve estar no backend ou frontend?](https://pt.stackoverflow.com/q/170899/101)
+- [Criar layout para aplicações PHP e .NET](https://pt.stackoverflow.com/q/110691/101)
   
 # Frameworks
   
