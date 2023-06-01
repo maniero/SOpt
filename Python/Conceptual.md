@@ -23,3 +23,4 @@
 - [O que significa #noqa em Python?](https://pt.stackoverflow.com/q/432059/101)
 - [Conversão de tipos em Python](https://pt.stackoverflow.com/q/201714/101)
 - [Licenciamento de programas feitos em Python](https://pt.stackoverflow.com/q/76668/101)
+- [Como criar operadores em Python?](https://pt.stackoverflow.com/q/250130/101)
