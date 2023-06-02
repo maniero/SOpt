@@ -4,3 +4,4 @@
 - [O que é e para que serve "2>&1"?](https://pt.stackoverflow.com/q/55765/101)
 - [Quais são os comandos/variaveis do batch. Exemplo [%username% ou %groupname%]](https://pt.stackoverflow.com/q/361448/101)
 - [Qual a diferença entre SET e SETX?](https://pt.stackoverflow.com/q/185486/101)
+- [Perl hoje em dia é utilizado?](https://pt.stackoverflow.com/q/225745/101)
