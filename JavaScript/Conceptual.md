@@ -24,6 +24,7 @@
 - [Minify código HTML](https://pt.stackoverflow.com/q/128042/101)
 - [Linguagem de marcação equivalente ao HTML?](https://pt.stackoverflow.com/q/227443/101)
 - [Qual a finalidade de alt em uma tag \<img />?](https://pt.stackoverflow.com/q/164876/101)
+- [É errado usar mais de um <thead>, <tbody> ou <tfoot> numa tabela?](https://pt.stackoverflow.com/q/175652/101)
 
 # CSS
 
