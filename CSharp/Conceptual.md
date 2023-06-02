@@ -232,6 +232,7 @@
 - [Aplicar filtro em DataGrid preenchido com List sem alterar o DataSource](https://pt.stackoverflow.com/q/81251/101)
 - [Como centralizar o texto em uma MessageBox?](https://pt.stackoverflow.com/q/288150/101)
 - [Como faço para colocar um campo de Senha em um MessageBox?](https://pt.stackoverflow.com/q/45522/101)
+- [Como limitar os recursos usados pelo sistema?](https://pt.stackoverflow.com/q/100124/101)
 
 # Visual Studio
 
