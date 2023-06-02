@@ -246,6 +246,7 @@
 - [Como funciona o XOR para dois binários com mais de um dígito?](https://pt.stackoverflow.com/q/205163/101)
 - [Como representar na UML métodos sobrescritos?](https://pt.stackoverflow.com/q/45331/101)
 - [Permitir ou não permitir espaços das extremidades em senhas?](https://pt.stackoverflow.com/q/272380/101)
+- [Diferenças entre usar XML ou JSON](https://pt.stackoverflow.com/q/402686/101)
 
 # Terminology
 
