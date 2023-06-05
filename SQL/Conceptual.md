@@ -133,6 +133,7 @@
 - [UPSERT ou UPDATE-INSERT?](https://pt.stackoverflow.com/q/324354/101)
 - [Diferença entre tabela temporária e variável tipo table](https://pt.stackoverflow.com/q/207083/101)
 - [Como trabalhar com lock em registros SQL?](https://pt.stackoverflow.com/q/155038/101)
+- [Tamanho máximo, limite de conexões e qual versão do SQL Server devo usar em minha aplicação desktop](https://pt.stackoverflow.com/q/311001/101)
 
 # SQLite
 
