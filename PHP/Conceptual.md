@@ -58,6 +58,7 @@
 - [Por que não é aconselhável utilizar os códigos PHP no mesmo documento de HTML?](https://pt.stackoverflow.com/q/234844/101)
 - [Em PHP todas variáveis declaradas são globais?](https://pt.stackoverflow.com/q/173543/101)
 - [Qual diferença entre echo, print, var_export no PHP?](https://pt.stackoverflow.com/q/245241/101)
+- [Como escrever variáveis no PHP?](https://pt.stackoverflow.com/q/98696/101)
 
 # Library
 
