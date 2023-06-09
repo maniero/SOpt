@@ -59,6 +59,7 @@
 - [Em PHP todas variáveis declaradas são globais?](https://pt.stackoverflow.com/q/173543/101)
 - [Qual diferença entre echo, print, var_export no PHP?](https://pt.stackoverflow.com/q/245241/101)
 - [Como escrever variáveis no PHP?](https://pt.stackoverflow.com/q/98696/101)
+- [Como aumentar performance no PHP?](https://pt.stackoverflow.com/q/259411/101)
 
 # Library
 
