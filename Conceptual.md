@@ -294,3 +294,4 @@
 - [O que são Exceptions?](https://pt.stackoverflow.com/q/88831/101)
 - [O que diferencia um microframework de um framework full stack?](https://pt.stackoverflow.com/q/125653/101)
 - [Diferença entre biblioteca e helper](https://pt.stackoverflow.com/q/54884/101)
+- [O que é Feature Envy?](https://pt.stackoverflow.com/q/189455/101)
