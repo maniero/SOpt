@@ -36,6 +36,7 @@
 - ["Operador" colchetes [] na criação do arranjo em C](https://pt.stackoverflow.com/q/329024/101)
 - [Como funcionam os ponteiros do C?](https://pt.stackoverflow.com/q/106227/101)
 - [Qual é a versão mais atualizada da linguagem C e qual é o compilador que melhor funciona?](https://pt.stackoverflow.com/q/328085/101)
+- [Por que não estoura a pilha?](https://pt.stackoverflow.com/q/221448/101)
 
 # Algorithm
 
