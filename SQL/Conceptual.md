@@ -68,6 +68,7 @@
 - [Se o campo tem DEFAULT ele deve ser NOT NULL?](https://pt.stackoverflow.com/q/93483/101)
 - [Qual é mais eficiente, realizar várias queries ou usar JOIN?](https://pt.stackoverflow.com/q/251630/101)
 - [Uma chave primária pode ser usada em uma chave estrangeira?](https://pt.stackoverflow.com/q/37080/101)
+- [Estou sofrendo ataques do tipo SQL Injection](https://pt.stackoverflow.com/q/103512/101)
 
 # MySQL
 
