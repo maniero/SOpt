@@ -45,6 +45,7 @@
 - [Normalização de tabela para 2a Forma Normal](https://pt.stackoverflow.com/q/250423/101)
 - [Modelagem de lançamentos usando clientes e fornecedores](https://pt.stackoverflow.com/q/154748/101)
 - [Melhor forma de estruturar tabela de histórico com grande quantidade de dados](https://pt.stackoverflow.com/q/130284/101)
+- [Que tipo de dados usar para armazenar URIs no banco?](https://pt.stackoverflow.com/q/241249/101)
 
 # SQL
 
