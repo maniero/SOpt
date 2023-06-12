@@ -114,3 +114,4 @@
 - [Por que chamar o System.gc() não garante execução do garbage collector?](https://pt.stackoverflow.com/q/105092/101)
 - [Melhor abordagem é filtrar dados no banco de dados ou na aplicação?](https://pt.stackoverflow.com/q/211020/101)
 - [Try/Catch: java.lang.OutOfMemoryError: Java heap space](https://pt.stackoverflow.com/q/412995/101)
+- [Em um projeto MVC, onde devo deixar os enums?](https://pt.stackoverflow.com/q/132197/101)
