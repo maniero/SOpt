@@ -23,3 +23,4 @@
 - [Garbage Collector para C++](https://pt.stackoverflow.com/q/103810/101)
 - [Funções lambda em C++, quando utilizar e quais as vantagens?](https://pt.stackoverflow.com/q/270895/101)
 - [Struct ou Classes?](https://pt.stackoverflow.com/q/143545/101)
+- [Em que realmente são usados ponteiros em C++?](https://pt.stackoverflow.com/q/175967/101)
