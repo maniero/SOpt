@@ -67,6 +67,7 @@
 - [Ordenar lista encadeada com método O(n*log(n))](https://pt.stackoverflow.com/q/111198/101)
 - [Como eu crio um ArrayList de objetos com cada posição contendo um novo objeto?](https://pt.stackoverflow.com/q/387004/101)
 - [Diferença entre HashMap e TreeMap](https://pt.stackoverflow.com/q/341931/101)
+- [Por que é melhor usar char[] do que String para senhas?](https://pt.stackoverflow.com/q/234733/101)
 
 # Desktop
 
