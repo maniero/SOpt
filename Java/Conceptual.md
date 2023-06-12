@@ -34,6 +34,7 @@
 - [Por que usar Int onde cabe Byte ou Short?](https://pt.stackoverflow.com/q/106825/101)
 - [Usar um construtor com vários parâmetros, ou criar vários sets?](https://pt.stackoverflow.com/q/88771/101)
 - [Quais exceções devo capturar em um try-catch?](https://pt.stackoverflow.com/q/86405/101)
+- [O que fazer quando o argumento passado no construtor é inválido?](https://pt.stackoverflow.com/q/241249/101)
 
 # Library
 
