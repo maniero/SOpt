@@ -60,6 +60,7 @@
 - [Qual diferença entre echo, print, var_export no PHP?](https://pt.stackoverflow.com/q/245241/101)
 - [Como escrever variáveis no PHP?](https://pt.stackoverflow.com/q/98696/101)
 - [Como aumentar performance no PHP?](https://pt.stackoverflow.com/q/259411/101)
+- [Unir arquivos PHP em um só aumenta a performance?](https://pt.stackoverflow.com/q/74647/101)
 
 # Library
 
