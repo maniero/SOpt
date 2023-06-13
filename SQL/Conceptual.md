@@ -113,6 +113,7 @@
 - [Tamanho do campo ocupa valor total definido?](https://pt.stackoverflow.com/q/207849/101)
 - [Trabalhando com limite de ID em grandes volumes](https://pt.stackoverflow.com/q/78544/101)
 - [Array[] em banco de dados, como criar e manipular?](https://pt.stackoverflow.com/q/360029/101)
+- [Salvar ou não os comandos usados no MySQL](https://pt.stackoverflow.com/q/463428/101)
 
 # PostgreSQL
 
