@@ -61,6 +61,7 @@
 - [Como escrever variáveis no PHP?](https://pt.stackoverflow.com/q/98696/101)
 - [Como aumentar performance no PHP?](https://pt.stackoverflow.com/q/259411/101)
 - [Unir arquivos PHP em um só aumenta a performance?](https://pt.stackoverflow.com/q/74647/101)
+- [Qual o overhead de utilizar orientação a objetos?](https://pt.stackoverflow.com/q/50273/101)
 
 # Library
 
