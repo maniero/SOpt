@@ -230,6 +230,7 @@
 - [https://pt.stackoverflow.com/q/169929/101](https://pt.stackoverflow.com/q/217838/101)
 - [O que são esses registradores de propósito específicos?](https://pt.stackoverflow.com/q/400187/101)
 - [O que é um mainframe?](https://pt.stackoverflow.com/q/422755/101)
+- [O que são os termos RISC e CISC em relação ao desenvolvimento de software?](https://pt.stackoverflow.com/q/241304/101)
 
 # Misc
 
