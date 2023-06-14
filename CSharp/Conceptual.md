@@ -103,6 +103,7 @@
 - [O que é e qual a explicação para type-safe em C#?](https://pt.stackoverflow.com/q/327538/101)
 - [Erro ao remontar uma string. Tamanho está fora](https://pt.stackoverflow.com/q/115996/101)
 - [Enum como Object Value em DDD](https://pt.stackoverflow.com/q/265411/101)
+- [Como representar o tipo Real no C#?](https://pt.stackoverflow.com/q/230636/101)
 
 # Libraries
 
