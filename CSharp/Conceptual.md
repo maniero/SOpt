@@ -223,6 +223,7 @@
 - [Onde criar uma camada Helpers?](https://pt.stackoverflow.com/q/279420/101)
 - [Alternativas para PHP](https://pt.stackoverflow.com/q/172574/101)
 - [ASP.NET vNext no Apache](https://pt.stackoverflow.com/q/45082/101)
+- [O que é ASP.NET Core Blazor?](https://pt.stackoverflow.com/q/288706/101)
 
 # WinForms/WPF/Xamarin
 
