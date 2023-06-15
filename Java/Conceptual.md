@@ -36,6 +36,7 @@
 - [Quais exceções devo capturar em um try-catch?](https://pt.stackoverflow.com/q/86405/101)
 - [O que fazer quando o argumento passado no construtor é inválido?](https://pt.stackoverflow.com/q/241249/101)
 - [O que é o conceito de inteiros assinados em uma linguagem de programação?](https://pt.stackoverflow.com/q/211968/101)
+- [Pode ocorrer vazamento de memória em Java?](https://pt.stackoverflow.com/q/179599/101)
 
 # Library
 
