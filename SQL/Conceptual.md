@@ -115,6 +115,7 @@
 - [Array[] em banco de dados, como criar e manipular?](https://pt.stackoverflow.com/q/360029/101)
 - [Salvar ou não os comandos usados no MySQL](https://pt.stackoverflow.com/q/463428/101)
 - [Número de Colunas X desempenho em tabelas](https://pt.stackoverflow.com/q/489808/101)
+- [Colunas "inteligentes" no MySQL](https://pt.stackoverflow.com/q/65574/101)
 
 # PostgreSQL
 
