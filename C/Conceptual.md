@@ -39,6 +39,7 @@
 - [Por que não estoura a pilha?](https://pt.stackoverflow.com/q/221448/101)
 - [Diferença entre variável local VS variável global](https://pt.stackoverflow.com/q/332907/101)
 - [Ponteiro de char ou array de char?](https://pt.stackoverflow.com/q/116333/101)
+- [Como funciona o frame-pointer?](https://pt.stackoverflow.com/q/184498/101)
 
 # Algorithm
 
