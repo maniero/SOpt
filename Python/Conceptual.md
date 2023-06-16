@@ -1,3 +1,5 @@
+# Na página principal do repositório tem informações importantes para ler
+
 - [Qual é a principal diferença entre um Tuple e um List?](https://pt.stackoverflow.com/q/52799/101)
 - [Comando para finalizar o programa](https://pt.stackoverflow.com/q/257132/101)
 - [O que o "return" faz em Python?](https://pt.stackoverflow.com/q/115335/101)
@@ -24,3 +26,4 @@
 - [Conversão de tipos em Python](https://pt.stackoverflow.com/q/201714/101)
 - [Licenciamento de programas feitos em Python](https://pt.stackoverflow.com/q/76668/101)
 - [Como criar operadores em Python?](https://pt.stackoverflow.com/q/250130/101)
+- [O que é uma Linguagem de Prototipação?](https://pt.stackoverflow.com/q/97445/101)
