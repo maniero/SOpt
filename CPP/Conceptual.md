@@ -24,3 +24,4 @@
 - [Funções lambda em C++, quando utilizar e quais as vantagens?](https://pt.stackoverflow.com/q/270895/101)
 - [Struct ou Classes?](https://pt.stackoverflow.com/q/143545/101)
 - [Em que realmente são usados ponteiros em C++?](https://pt.stackoverflow.com/q/175967/101)
+- [Para aprender C++ é necessário aprender C?](https://pt.stackoverflow.com/q/349030/101)
