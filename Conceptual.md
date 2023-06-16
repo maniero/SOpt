@@ -144,6 +144,7 @@
 - [Quando e onde usar os termos: complexidade de tempo, complexidade de espaço?](https://pt.stackoverflow.com/q/329505/101)
 - [O que é um método recursivo?](https://pt.stackoverflow.com/q/323954/101)
 - [O que seria Iteração?](https://pt.stackoverflow.com/q/185497/101)
+- [O que é uma árvore B?](https://pt.stackoverflow.com/q/220409/101)
 
 # OOP & Design Patterns
 
