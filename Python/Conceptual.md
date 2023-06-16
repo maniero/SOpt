@@ -27,3 +27,4 @@
 - [Licenciamento de programas feitos em Python](https://pt.stackoverflow.com/q/76668/101)
 - [Como criar operadores em Python?](https://pt.stackoverflow.com/q/250130/101)
 - [O que é uma Linguagem de Prototipação?](https://pt.stackoverflow.com/q/97445/101)
+- [Qual o suporte nativo do Python para manipulação de banco de dados?](https://pt.stackoverflow.com/q/216146/101)
