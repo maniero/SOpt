@@ -92,6 +92,7 @@
 - [Encapsulamento em JavaScript](https://pt.stackoverflow.com/q/93681/101)
 - [Como usar JavaScript para manipular dados a partir de banco de dados?](https://pt.stackoverflow.com/q/99426/101)
 - [O que significa duas chaves no JavaScript?](https://pt.stackoverflow.com/q/96015/101)
+- ["alert()”, “confirm()” e “prompt()” são considerados más práticas?](https://pt.stackoverflow.com/q/420049/101)
   
 # High level
   
