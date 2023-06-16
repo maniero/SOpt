@@ -118,6 +118,7 @@
 - [SOLID é tudo isso que dizem?](https://pt.stackoverflow.com/q/336319/101)
 - [Qual a diferença entre client-server e three-tiers?](https://pt.stackoverflow.com/q/405299/101)
 - [Regras de negócio sempre são relacionadas à validação?](https://pt.stackoverflow.com/q/48576/101)
+- [O que é uma classe de serviço? E o que seria serviço nesse contexto?](https://pt.stackoverflow.com/q/423946/101)
 
 # Typing
 
