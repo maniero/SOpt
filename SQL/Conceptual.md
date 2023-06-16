@@ -183,6 +183,7 @@
 - [Gostaria de entender o que é OLTP](https://pt.stackoverflow.com/q/281576/101)
 - [Quais são os tipos mais comuns de bancos de dados para aplicações web?](https://pt.stackoverflow.com/q/205171/101)
 - [É correto usar JSON para armazenar dados que não precisam estar em base de dados?](https://pt.stackoverflow.com/q/88771/101)
+- [Qual a vantagem de se usar um banco de dados para leitura e outro para escrita?](https://pt.stackoverflow.com/q/251319/101)
 
 # NoSQL
 
