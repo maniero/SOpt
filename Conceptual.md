@@ -300,3 +300,4 @@
 - [Diferença entre biblioteca e helper](https://pt.stackoverflow.com/q/54884/101)
 - [O que é Feature Envy?](https://pt.stackoverflow.com/q/189455/101)
 - [O que é código dinâmico e código estático?](https://pt.stackoverflow.com/q/108860/101)
+- [O que é uma expressão regular?](https://pt.stackoverflow.com/q/185301/101)
