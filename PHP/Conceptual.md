@@ -62,6 +62,7 @@
 - [Como aumentar performance no PHP?](https://pt.stackoverflow.com/q/259411/101)
 - [Unir arquivos PHP em um só aumenta a performance?](https://pt.stackoverflow.com/q/74647/101)
 - [Qual o overhead de utilizar orientação a objetos?](https://pt.stackoverflow.com/q/50273/101)
+- [Quais as principais diferenças e vantagens entre as linguagens PHP e Hack?](https://pt.stackoverflow.com/q/143708/101)
 
 # Library
 
