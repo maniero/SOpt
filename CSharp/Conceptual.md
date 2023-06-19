@@ -160,6 +160,7 @@
 - [Instalar banco de dados junto com a aplicação C#](https://pt.stackoverflow.com/q/80849/101)
 - [Escrever uma informação no console do browser através do .NET](https://pt.stackoverflow.com/q/106841/101)
 - [É obrigatório abrir e fechar conexão ao inserir dados?](https://pt.stackoverflow.com/q/245312/101)
+- [Fazendo o insert no SQL Server em um campo float?](https://pt.stackoverflow.com/q/227362/101)
 
 # LINQ
 
