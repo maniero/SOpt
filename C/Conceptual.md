@@ -40,6 +40,7 @@
 - [Diferença entre variável local VS variável global](https://pt.stackoverflow.com/q/332907/101)
 - [Ponteiro de char ou array de char?](https://pt.stackoverflow.com/q/116333/101)
 - [Como funciona o frame-pointer?](https://pt.stackoverflow.com/q/184498/101)
+- [Por que funciona passar o endereço de uma variável inteira para scanf() ler uma string?](https://pt.stackoverflow.com/q/36690/101)
 
 # Algorithm
 
