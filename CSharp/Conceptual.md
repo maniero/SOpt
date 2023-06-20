@@ -135,6 +135,7 @@
 - [Localizar um trecho de um HTML](https://pt.stackoverflow.com/q/39902/101)
 - [Qual é a finalidade da classe Uri?](https://pt.stackoverflow.com/q/117361/101)
 - [Atalho para o comando Console.WriteLine em C#, existe?](https://pt.stackoverflow.com/q/460299/101)
+- [Quais são as vantagens do parallel.ForEach em C#?](https://pt.stackoverflow.com/q/128495/101)
 
 # IO
 
