@@ -64,6 +64,7 @@
 - [Qual o overhead de utilizar orientação a objetos?](https://pt.stackoverflow.com/q/50273/101)
 - [Quais as principais diferenças e vantagens entre as linguagens PHP e Hack?](https://pt.stackoverflow.com/q/143708/101)
 - [Diferença entre os tipos de controle de acesso ACL e RBAC?](https://pt.stackoverflow.com/q/431451/101)
+- [PHP client side é viável?](https://pt.stackoverflow.com/q/94464/101)
 
 # Library
 
