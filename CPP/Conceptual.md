@@ -25,3 +25,4 @@
 - [Struct ou Classes?](https://pt.stackoverflow.com/q/143545/101)
 - [Em que realmente são usados ponteiros em C++?](https://pt.stackoverflow.com/q/175967/101)
 - [Para aprender C++ é necessário aprender C?](https://pt.stackoverflow.com/q/349030/101)
+- [Como fazer um excelente programa C++ sem rastros de C?](https://pt.stackoverflow.com/q/392951/101)
