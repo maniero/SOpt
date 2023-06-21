@@ -57,6 +57,7 @@
 - [O que significa _ no C#?](https://pt.stackoverflow.com/q/412527/101)
 - [Devo usar um "try-catch" para identificar se uma senha está errada?](https://pt.stackoverflow.com/q/141899/101)
 - [Usar underline em C# seria uma boa prática?](https://pt.stackoverflow.com/q/445301/101)
+- [Uso de interfaces em classes do domínio?](https://pt.stackoverflow.com/q/252760/101)
 
 # Algorithms
 
