@@ -41,6 +41,7 @@
 - [Ponteiro de char ou array de char?](https://pt.stackoverflow.com/q/116333/101)
 - [Como funciona o frame-pointer?](https://pt.stackoverflow.com/q/184498/101)
 - [Por que funciona passar o endereço de uma variável inteira para scanf() ler uma string?](https://pt.stackoverflow.com/q/36690/101)
+- [Por que declarar ponteiro para array se arrays já são ponteiros?](https://pt.stackoverflow.com/q/91297/101)
 
 # Algorithm
 
