@@ -25,6 +25,7 @@
 - [Linguagem de marcação equivalente ao HTML?](https://pt.stackoverflow.com/q/227443/101)
 - [Qual a finalidade de alt em uma tag \<img />?](https://pt.stackoverflow.com/q/164876/101)
 - [É errado usar mais de um <thead>, <tbody> ou <tfoot> numa tabela?](https://pt.stackoverflow.com/q/175652/101)
+- [Quais as funções das tags de formulário no HTML5?](https://pt.stackoverflow.com/q/100373/101)
 
 # CSS
 
