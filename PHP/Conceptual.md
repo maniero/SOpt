@@ -65,6 +65,7 @@
 - [Quais as principais diferenças e vantagens entre as linguagens PHP e Hack?](https://pt.stackoverflow.com/q/143708/101)
 - [Diferença entre os tipos de controle de acesso ACL e RBAC?](https://pt.stackoverflow.com/q/431451/101)
 - [PHP client side é viável?](https://pt.stackoverflow.com/q/94464/101)
+- [Trigger no MySQL VS lógica na aplicação PHP?](https://pt.stackoverflow.com/q/151684/101)
 
 # Library
 
