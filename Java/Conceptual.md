@@ -51,6 +51,7 @@
 - [O que é o sort do Java?](https://pt.stackoverflow.com/q/336281/101)
 - [Para que serve usar Assert.assertNotNull() nos frameworks?](https://pt.stackoverflow.com/q/479908/101)
 - [Carregar imagens remotas com base64 ou URL?](https://pt.stackoverflow.com/q/45959/101)
+- [Qual diferença em executeQuery() e executeUpdate()?](https://pt.stackoverflow.com/q/313788/101)
 
 # String & Collencions
 
