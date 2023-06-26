@@ -59,6 +59,7 @@
 - [Usar underline em C# seria uma boa prática?](https://pt.stackoverflow.com/q/445301/101)
 - [Uso de interfaces em classes do domínio?](https://pt.stackoverflow.com/q/252760/101)
 - [Colisão de nomes entre classe e namespace](https://pt.stackoverflow.com/q/126045/101)
+- [O que são metadados no C#?](https://pt.stackoverflow.com/q/107111/101)
 
 # Algorithms
 
