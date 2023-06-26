@@ -38,6 +38,7 @@
 - [O que é o conceito de inteiros assinados em uma linguagem de programação?](https://pt.stackoverflow.com/q/211968/101)
 - [Pode ocorrer vazamento de memória em Java?](https://pt.stackoverflow.com/q/179599/101)
 - [Quais as diferenças entre os métodos "equals()", "compareTo()", e até mesmo "=="?](https://pt.stackoverflow.com/q/427440/101)
+- [Diferença entre casting e promotion](https://pt.stackoverflow.com/q/102345/101)
 
 # Library
 
