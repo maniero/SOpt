@@ -87,6 +87,7 @@
 - [Trabalhar com listas sem ser usando Array() em PHP](https://pt.stackoverflow.com/q/110132/101)
 - [O MySQL está embutido no EasyPHP?](https://pt.stackoverflow.com/q/102322/101)
 - [Boas práticas para MVC em PHP](https://pt.stackoverflow.com/q/124413/101)
+- [Como impedir POST de fora do servidor?](https://pt.stackoverflow.com/q/58038/101)
 
 # Algorithm
 
