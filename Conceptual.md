@@ -45,6 +45,7 @@
 - [O que é uma meta linguagem?](https://pt.stackoverflow.com/q/215963/101)
 - [Linguagem de programação que não necessitem instalação prévia](https://pt.stackoverflow.com/q/117797/101)
 - [Por que certas linguagens são mais rápidas que outras?](https://pt.stackoverflow.com/q/425125/101)
+- [Em uma linguagem de programação, o que diferencia um cidadão de primeira classe do restante?](https://pt.stackoverflow.com/q/227485/101)
 
 # Coding Style
 
