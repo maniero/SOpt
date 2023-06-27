@@ -61,6 +61,7 @@
 - [O que define um código limpo?](https://pt.stackoverflow.com/q/33702/101)
 - [O que escrever em uma classe de exceção (Exception)?](https://pt.stackoverflow.com/q/88851/101)
 - [O que é codificação elegante?](https://pt.stackoverflow.com/q/173216/101)
+- [Como escrever siglas em camelCase?](https://pt.stackoverflow.com/q/400561/101)
 
 # Paradigms
 
