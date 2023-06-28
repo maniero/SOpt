@@ -40,6 +40,7 @@
 - [Quais as diferenças entre os métodos "equals()", "compareTo()", e até mesmo "=="?](https://pt.stackoverflow.com/q/427440/101)
 - [Diferença entre casting e promotion](https://pt.stackoverflow.com/q/102345/101)
 - [Como pegar índice de um "for" avançado?](https://pt.stackoverflow.com/q/224406/101)
+- [As lambdas e streams do Java 8 trazem mais benefícios além da concisão?](https://pt.stackoverflow.com/q/223498/101)
 
 # Library
 
