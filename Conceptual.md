@@ -149,6 +149,7 @@
 - [O que é uma árvore B?](https://pt.stackoverflow.com/q/220409/101)
 - [Por que aprender algoritmos diferentes que resolvem o mesmo problema?](https://pt.stackoverflow.com/q/353853/101)
 - [Qual o motivo da aplicação do conceito LIFO (Last In, First Out)?](https://pt.stackoverflow.com/q/433645/101)
+- [Algoritmos de ordenação de memória externa e interna](https://pt.stackoverflow.com/q/166229/101)
 
 # OOP & Design Patterns
 
