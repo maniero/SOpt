@@ -106,6 +106,7 @@
 - [Interface Java 8](https://pt.stackoverflow.com/q/90168/101)
 - [Construtor vazio sem chamar super()](https://pt.stackoverflow.com/q/108453/101)
 - [Devemos criar um construtor vazio em Java?](https://pt.stackoverflow.com/q/446305/101)
+- [É correto afirmar que interface soluciona o problema de herança múltipla em Java?](https://pt.stackoverflow.com/q/89273/101)
 
 # Misc
 
