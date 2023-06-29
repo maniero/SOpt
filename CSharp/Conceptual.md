@@ -232,6 +232,7 @@
 - [Alternativas para PHP](https://pt.stackoverflow.com/q/172574/101)
 - [ASP.NET vNext no Apache](https://pt.stackoverflow.com/q/45082/101)
 - [O que é ASP.NET Core Blazor?](https://pt.stackoverflow.com/q/288706/101)
+- [ASP Clássico roda em servidor ASP.NET?](https://pt.stackoverflow.com/q/107943/101)
 
 # WinForms/WPF/Xamarin
 
