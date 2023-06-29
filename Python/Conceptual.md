@@ -30,3 +30,4 @@
 - [Qual o suporte nativo do Python para manipulação de banco de dados?](https://pt.stackoverflow.com/q/216146/101)
 - [Diferença no uso da '/' e '\' ao definir um caminho no diretório](https://pt.stackoverflow.com/q/532243/101)
 - [Como o Python trata e representa um array internamente?](https://pt.stackoverflow.com/q/364148/101)
+- [Complexidade de algoritmo em Python com dois loops](https://pt.stackoverflow.com/q/435917/101)
