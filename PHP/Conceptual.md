@@ -92,3 +92,4 @@
 # Algorithm
 
 - [Subtituição de caracteres especiais por códigos ASCII](https://pt.stackoverflow.com/q/44151/101)
+- [Centavos corretos nos boletos bancários da BoletoPHP](https://pt.stackoverflow.com/q/104193/101)
