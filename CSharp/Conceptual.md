@@ -91,6 +91,7 @@
 - [Em quais casos retornam o erro do tipo System.OutOfMemoryException?](https://pt.stackoverflow.com/q/238235/101)
 - [Como funciona o gerenciamento de métodos na memória em C#?](https://pt.stackoverflow.com/q/14334/101)
 - [Como uma classe é organizada na memória?](https://pt.stackoverflow.com/q/161846/101)
+- [Em quais momentos se faz necessário forçar a coleta de lixo em C# para um melhor desempenho da aplicação?](https://pt.stackoverflow.com/q/110854/101)
 
 # Typing
 
