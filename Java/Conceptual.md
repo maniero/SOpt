@@ -58,6 +58,7 @@
 - [Qual diferença em executeQuery() e executeUpdate()?](https://pt.stackoverflow.com/q/313788/101)
 - [Qual a vantagem de usar JUnit para testar métodos de uma classe?](https://pt.stackoverflow.com/q/121670/101)
 - [Melhor performance para poucos acessos: HashMap ou TreeMap?](https://pt.stackoverflow.com/q/179852/101)
+- [Problemas com thread](https://pt.stackoverflow.com/q/18799/101)
 
 # String & Collencions
 
