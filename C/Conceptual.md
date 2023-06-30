@@ -107,3 +107,4 @@
 - [Como traduzir um programa em C para Assembly?](https://pt.stackoverflow.com/q/110499/101)
 - [Por que a linguagem C é considerada como uma linguagem de médio nível?](https://pt.stackoverflow.com/q/479863/101)
 - [O que é código objeto?](https://pt.stackoverflow.com/q/454415/101)
+- [Quais as diferenças práticas na portabilidade de código C e C++?](https://pt.stackoverflow.com/q/35355/101)
