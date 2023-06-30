@@ -47,6 +47,7 @@
 - [Por que certas linguagens são mais rápidas que outras?](https://pt.stackoverflow.com/q/425125/101)
 - [Em uma linguagem de programação, o que diferencia um cidadão de primeira classe do restante?](https://pt.stackoverflow.com/q/227485/101)
 - [Diferença entre escopo global e local](https://pt.stackoverflow.com/q/450218/101)
+- [O que é considerado primitivo em uma linguagem de programação?](https://pt.stackoverflow.com/q/356647/101)
 
 # Coding Style
 
