@@ -66,6 +66,7 @@
 - [Diferença entre os tipos de controle de acesso ACL e RBAC?](https://pt.stackoverflow.com/q/431451/101)
 - [PHP client side é viável?](https://pt.stackoverflow.com/q/94464/101)
 - [Trigger no MySQL VS lógica na aplicação PHP?](https://pt.stackoverflow.com/q/151684/101)
+- [É realmente necessário usar métodos para mutator e acessor (setter e getter) no PHP? E o desempenho?](https://pt.stackoverflow.com/q/110785/101)
 
 # Library
 
