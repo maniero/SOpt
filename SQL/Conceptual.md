@@ -6,7 +6,7 @@
 - [O que é normalização de banco de dados?](https://pt.stackoverflow.com/q/151323/101)
 - [O que é redundância de dados em banco de dados?](https://pt.stackoverflow.com/q/289507/101)
 - [Tipo do campo CPF ou CNPJ no banco de dados VARCHAR ou INT?](https://pt.stackoverflow.com/q/47871/101)
-- [https://github.com/maniero/SOpt/blob/master/SQL/Conceptual.md](https://pt.stackoverflow.com/q/138452/101)
+- [Nomenclatura de tabela e coluna](https://pt.stackoverflow.com/q/138452/101)
 - [Quando é interessante desnormalizar o banco de dados?](https://pt.stackoverflow.com/q/22069/101)
 - [Modelagem de dados para produtos](https://pt.stackoverflow.com/q/342677/101)
 - [Quais são as vantagens de utilizar banco de dados orientado a objetos?](https://pt.stackoverflow.com/q/113899/101)
@@ -38,7 +38,7 @@
 - [Normalização de banco de dados em sistema de RH](https://pt.stackoverflow.com/q/402810/101)
 - [Uma tabela de telefone para cada cliente ou uma só para todos clientes?](https://pt.stackoverflow.com/q/366757/101)
 - [Qual a diferença entre os relacionamentos entre tabelas?](https://pt.stackoverflow.com/q/146425/101)
-- [https://github.com/maniero/SOpt/blob/master/SQL/Conceptual.md](https://pt.stackoverflow.com/q/440644/101)
+- [É uma má prática armazenar CPF e CNPJ em uma mesma coluna do banco de dados?](https://pt.stackoverflow.com/q/440644/101)
 - [Varchar ou int para campos "tipo"](https://pt.stackoverflow.com/q/159284/101)
 - [Montando banco de dados, como faço essa relação?](https://pt.stackoverflow.com/q/49462/101)
 - [Modelo relacional para login de usuário](https://pt.stackoverflow.com/q/358142/101)
@@ -124,6 +124,7 @@
 - [Como faço para adicionar uma coluna nova entre 2 colunas no PostgreSQL?](https://pt.stackoverflow.com/q/74959/101)
 - [ERROR: column reference “customer” is ambiguous](https://pt.stackoverflow.com/q/410258/101)
 - [No PostgreSQL, que campo utilizar para porcentagem?](https://pt.stackoverflow.com/q/52373/101)
+- [Como funciona a herança no PostgreSQL?](https://pt.stackoverflow.com/q/192911/101)
 
 # SQL Server
 
