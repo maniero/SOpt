@@ -262,6 +262,7 @@
 - [Permitir ou não permitir espaços das extremidades em senhas?](https://pt.stackoverflow.com/q/272380/101)
 - [Diferenças entre usar XML ou JSON](https://pt.stackoverflow.com/q/402686/101)
 - [The Joel Test como funciona?](https://pt.stackoverflow.com/q/139701/101)
+- [Como funciona a encriptação do Telegram](https://pt.stackoverflow.com/q/49918/101)
 
 # Terminology
 
