@@ -108,3 +108,4 @@
 - [Por que a linguagem C é considerada como uma linguagem de médio nível?](https://pt.stackoverflow.com/q/479863/101)
 - [O que é código objeto?](https://pt.stackoverflow.com/q/454415/101)
 - [Quais as diferenças práticas na portabilidade de código C e C++?](https://pt.stackoverflow.com/q/35355/101)
+- [Como tornar meus programas C++ multi-arquitetura (32 e 64 bits)?](https://pt.stackoverflow.com/q/142134/101)
