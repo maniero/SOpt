@@ -206,6 +206,7 @@
 - [Por que o .NET Core foi criado?](https://pt.stackoverflow.com/q/225927/101)
 - [Como funciona a execução de uma aplicação .NET?](https://pt.stackoverflow.com/q/118694/101)
 - [O que é e para que server o Target Framework?](https://pt.stackoverflow.com/q/227396/101)
+- [Quais as diferenças dos ".NET"?](https://pt.stackoverflow.com/q/275588/101)
 
 # ASP.NET
 
