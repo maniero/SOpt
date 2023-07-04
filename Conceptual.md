@@ -15,6 +15,7 @@
 - [Devo usar um gerador de parser ou devo desenvolver meu próprio código para fazer "parse" e "lex"?](https://pt.stackoverflow.com/q/2130/101)
 - [Diferença entre compilação Ahead-Of-Time e Just-in-Time](https://pt.stackoverflow.com/q/356739/101)
 - [É possível editar e re-compilar revertendo o código-fonte?](https://pt.stackoverflow.com/q/177921/101)
+- [Existe diferença entre um compilador e um interpretador?](https://pt.stackoverflow.com/q/190209/101)
 
 # Languages
 
