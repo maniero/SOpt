@@ -96,6 +96,7 @@
 - [O que significa duas chaves no JavaScript?](https://pt.stackoverflow.com/q/96015/101)
 - ["alert()”, “confirm()” e “prompt()” são considerados más práticas?](https://pt.stackoverflow.com/q/420049/101)
 - [Indicações de uso de cookies?](https://pt.stackoverflow.com/q/106906/101)
+- [É possível criar um aplicação inteiramente com JavaScript?](https://pt.stackoverflow.com/q/307734/101)
   
 # High level
   
