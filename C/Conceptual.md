@@ -43,6 +43,7 @@
 - [Por que funciona passar o endereço de uma variável inteira para scanf() ler uma string?](https://pt.stackoverflow.com/q/36690/101)
 - [Por que declarar ponteiro para array se arrays já são ponteiros?](https://pt.stackoverflow.com/q/91297/101)
 - [É possível de alguma forma fazer sobrecarga de funções em C?](https://pt.stackoverflow.com/q/295499/101)
+- [Como funciona o tempo de vida de variáveis estáticas?](https://pt.stackoverflow.com/q/233805/101)
 
 # Algorithm
 
