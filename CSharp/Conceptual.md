@@ -110,6 +110,7 @@
 - [Como representar o tipo Real no C#?](https://pt.stackoverflow.com/q/230636/101)
 - [Por que devo usar a classe StringBuilder ao invés da classe String?](https://pt.stackoverflow.com/q/90467/101)
 - [Formato de campo para guardar tempo](https://pt.stackoverflow.com/q/136630/101)
+- [Por que usar short?](https://pt.stackoverflow.com/q/13930/101)
 
 # Libraries
 
