@@ -31,3 +31,4 @@
 - [Diferença no uso da '/' e '\' ao definir um caminho no diretório](https://pt.stackoverflow.com/q/532243/101)
 - [Como o Python trata e representa um array internamente?](https://pt.stackoverflow.com/q/364148/101)
 - [Complexidade de algoritmo em Python com dois loops](https://pt.stackoverflow.com/q/435917/101)
+- [Qual a diferença entre ", " e "+" no Python?](https://pt.stackoverflow.com/q/75075/101)
