@@ -110,6 +110,7 @@
 - [Devemos criar um construtor vazio em Java?](https://pt.stackoverflow.com/q/446305/101)
 - [É correto afirmar que interface soluciona o problema de herança múltipla em Java?](https://pt.stackoverflow.com/q/89273/101)
 - [O correto seria deixar os atributos da classe abstrata como privados ou protegidos?](https://pt.stackoverflow.com/q/113065/101)
+- [Por que não devo alterar os "getter"s e "setter"s?](https://pt.stackoverflow.com/q/134750/101)
 
 # Misc
 
