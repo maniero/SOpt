@@ -177,6 +177,7 @@
 - [POO é igual em todas as linguagens?](https://pt.stackoverflow.com/q/213951/101)
 - [Devo estender de uma classe abstrata ou de uma concreta?](https://pt.stackoverflow.com/q/89236/101)
 - [Existe um padrão de projeto ou recomendação que define a quantidade ideal de parâmetros que uma função deve ter?](https://pt.stackoverflow.com/q/315355/101)
+- [Padrão de projeto builder, por que devo utilizá-lo?](https://pt.stackoverflow.com/q/360658/101)
 
 # Memory & Threading
 
