@@ -46,6 +46,7 @@
 - [Como funciona o tempo de vida de variáveis estáticas?](https://pt.stackoverflow.com/q/233805/101)
 - [Onde criar macros em C?](https://pt.stackoverflow.com/q/75075/101)
 - [Qual a diferença entre código objeto e código intermediário?](https://pt.stackoverflow.com/q/454543/101)
+- [Alocação dinâmica de memória X vetor](https://pt.stackoverflow.com/q/120103/101)
 
 # Algorithm
 
