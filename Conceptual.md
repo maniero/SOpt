@@ -227,6 +227,7 @@
 - [Quando devo manter ou deletar um branch?](https://pt.stackoverflow.com/q/93854/101)
 - [Existe uma regra específica para mensagens de commit em sistemas de versionamento como o Git?](https://pt.stackoverflow.com/q/125203/101)
 - [É possível trabalhar com repositório local "comunitário" em Git?](https://pt.stackoverflow.com/q/51917/101)
+- [Qual a diferença entre "Issues" e "Pull Requests"?](https://pt.stackoverflow.com/q/345326/101)
 
 # Architeture & Operating System
 
