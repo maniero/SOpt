@@ -47,6 +47,7 @@
 - [Onde criar macros em C?](https://pt.stackoverflow.com/q/75075/101)
 - [Qual a diferença entre código objeto e código intermediário?](https://pt.stackoverflow.com/q/454543/101)
 - [Alocação dinâmica de memória X vetor](https://pt.stackoverflow.com/q/120103/101)
+- [Como aumentar dinamicamente o tamanho struct?](https://pt.stackoverflow.com/q/163730/101)
 
 # Algorithm
 
