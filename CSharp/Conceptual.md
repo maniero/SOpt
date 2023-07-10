@@ -182,6 +182,7 @@
 - [Dúvida entre o Any() e o All() numa expressão lambda em uma lista](https://pt.stackoverflow.com/q/50453/101)
 - ["foreach" do C# vs "ForEach()" do EF6](https://pt.stackoverflow.com/q/211053/101)
 - [Como funciona a lógica do Where no Entity Framework?](https://pt.stackoverflow.com/q/125811/101)
+- [Diferença performática de Any() e Count()](https://pt.stackoverflow.com/q/80177/101)
 
 # .NET
 
