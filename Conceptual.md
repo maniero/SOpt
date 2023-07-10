@@ -246,6 +246,7 @@
 - [O que são esses registradores de propósito específicos?](https://pt.stackoverflow.com/q/400187/101)
 - [O que é um mainframe?](https://pt.stackoverflow.com/q/422755/101)
 - [O que são os termos RISC e CISC em relação ao desenvolvimento de software?](https://pt.stackoverflow.com/q/241304/101)
+- [A desfragmentação do disco rígido pode auxiliar no desempenho de uma aplicação do meu servidor?](https://pt.stackoverflow.com/q/103418/101)
 
 # Misc
 
