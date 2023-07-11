@@ -1,5 +1,27 @@
 # Dentro das pastas tem outras coisas conceituais de cada tecnologia
 
+- [Assembly](https://github.com/maniero/SOpt/blob/master/Assembly/Conceptual.md)
+- [C](https://github.com/maniero/SOpt/blob/master/C/Conceptual.md)
+- [CPP](https://github.com/maniero/SOpt/blob/master/CPP/Conceptual.md)
+- [CSharp](https://github.com/maniero/SOpt/blob/master/CSharp/Conceptual.md)
+- [Dart](https://github.com/maniero/SOpt/blob/master/Dart/Conceptual.md)
+- [Go](https://github.com/maniero/SOpt/blob/master/Go/Conceptual.md)
+- [Java](https://github.com/maniero/SOpt/blob/master/Java/Conceptual.md)
+- [JavaScript](https://github.com/maniero/SOpt/blob/master/JavaScript/Conceptual.md)
+- [Kotlin](https://github.com/maniero/SOpt/blob/master/Kotlin/Conceptual.md)
+- [Lua](https://github.com/maniero/SOpt/blob/master/Lua/Conceptual.md)
+- [Other](https://github.com/maniero/SOpt/blob/master/Other/Conceptual.md)
+- [PHP](https://github.com/maniero/SOpt/blob/master/PHP/Conceptual.md)
+- [Pascal](https://github.com/maniero/SOpt/blob/master/Pascal/Conceptual.md)
+- [Python](https://github.com/maniero/SOpt/blob/master/Python/Conceptual.md)
+- [Ruby](https://github.com/maniero/SOpt/blob/master/Ruby/Conceptual.md)
+- [Rust](https://github.com/maniero/SOpt/blob/master/Rust/Conceptual.md)
+- [SQL](https://github.com/maniero/SOpt/blob/master/SQL/Conceptual.md)
+- [Swift](https://github.com/maniero/SOpt/blob/master/Swift/Conceptual.md)
+- [TypeScript](https://github.com/maniero/SOpt/blob/master/TypeScript/Conceptual.md)
+- [VB.NET](https://github.com/maniero/SOpt/blob/master/VB.NET/Conceptual.md)
+- [xBase](https://github.com/maniero/SOpt/blob/master/xBase/Conceptual.md)
+
 # Na página principal do repositório tem informações importantes para ler
 
 # Compilers
@@ -235,18 +257,19 @@
 - [Quantidade mínima de bits necessária para representar números decimais](https://pt.stackoverflow.com/q/200308/101)
 - [O que são registradores e qual é o seu funcionamento básico?](https://pt.stackoverflow.com/q/320285/101)
 - [O que é "palavra" de uma CPU?](https://pt.stackoverflow.com/q/185523/101)
-- [https://github.com/maniero/SOpt/blob/master/Conceptual.md](https://pt.stackoverflow.com/q/189180/101)
+- [O que é a arquitetura de Von Neumann?](https://pt.stackoverflow.com/q/189180/101)
 - [Como um computador entende o código binário?](https://pt.stackoverflow.com/q/142289/101)
 - [Quais as diferenças entre Kernel e Microkernel?](https://pt.stackoverflow.com/q/114911/101)
 - [O que é "overlay" e qual a sua ligação com a memória?](https://pt.stackoverflow.com/q/203928/101)
 - [O que seria Win32?](https://pt.stackoverflow.com/q/34953/101)
 - [Por que em nomes de arquivos e pastas, alguns caracteres ainda não são aceitos?](https://pt.stackoverflow.com/q/184020/101)
 - [É possível utilizar o .htaccess com o IIS?](https://pt.stackoverflow.com/q/128266/101)
-- [https://pt.stackoverflow.com/q/169929/101](https://pt.stackoverflow.com/q/217838/101)
+- [O que é a arquitetura de Harvard?](https://pt.stackoverflow.com/q/217838/101)
 - [O que são esses registradores de propósito específicos?](https://pt.stackoverflow.com/q/400187/101)
 - [O que é um mainframe?](https://pt.stackoverflow.com/q/422755/101)
 - [O que são os termos RISC e CISC em relação ao desenvolvimento de software?](https://pt.stackoverflow.com/q/241304/101)
 - [A desfragmentação do disco rígido pode auxiliar no desempenho de uma aplicação do meu servidor?](https://pt.stackoverflow.com/q/103418/101)
+- [O que é ABI? Tem alguma relação com API?](https://pt.stackoverflow.com/q/187944/101)
 
 # Misc
 
