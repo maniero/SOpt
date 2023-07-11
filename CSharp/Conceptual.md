@@ -1,5 +1,7 @@
 # Na página principal do repositório tem informações importantes para ler
 
+- [Principal](https://github.com/maniero/SOpt/blob/master/Conceptual.md)
+
 # Language
 
 - [Quais as diferenças mais relevantes entre C# e Java?](https://pt.stackoverflow.com/q/110142/101)
@@ -211,6 +213,7 @@
 - [Quais as diferenças dos ".NET"?](https://pt.stackoverflow.com/q/275588/101)
 - [Como o C# é executado em outras plataformas?](https://pt.stackoverflow.com/q/315868/101)
 - [O que devo entender quando dizem ".NET"?](https://pt.stackoverflow.com/q/184716/101)
+- [Quais as consequências de programar em 32 bits ou 64 bits?](https://pt.stackoverflow.com/q/200711/101)
 
 # ASP.NET
 
