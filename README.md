@@ -5,6 +5,8 @@ Se você achar algum problema, comente lá na pergunta postada no site para que 
 
 Entenda que muito código aqui está dentro de um contexto. Não é intenção ser o melhor código possível, é dar a melhor resposta possível para quem perguntou, considerando o *background* do autor da pergunta e depende da disponibilidade de tempo que tive para responder. Muitos casos são ajudas para exercícios e adotar a melhor codificação pode não ser a resposta ideal, o autor da pergunta pode estar em outro nível.
 
+[Veja as perguntas mais conceituais que eu selecionei para colocar aqui](https://github.com/maniero/SOpt/blob/master/Conceptual.md).
+
 **Se pesquisar aqui e em outras plataformas**, achará bastante conteúdo interessante. Se considerar que vale a pena pode me seguir em vários locais (*links* abaixo), e não se preocupe, eu fico meses ou anos sem postar nos locais que notificam, não será chato. Estou produzindo material que considero útil em outros lugares mais adequados, inclusive farei algo que muitos pedem para **aprender programar corretamente**. Me segue para ficar sabendo quando rolar.
 
 **Gostou do que eu posto?** Quer me "pagar"? Só me ajude compartilhando para outras pessoas o que eu posto que você acha bom (eu sei que nem tudo é) e vote (likes, claps e ups) nas plataformas que permitem isso.
@@ -25,6 +27,8 @@ Em cada local eu posto coisas diferentes, então **me siga em vários deles**.
 <a href="https://stackexchange.com/users/77792">  
 <img src="https://stackexchange.com/users/flair/77792.png" width="208" height="58" alt="perfil de Maniero no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade" title="perfil de Maniero no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade"></a>  
 [Former Moderator on SoftEng.SE][1]
+
+Em breve vou criar um hub de tecnologia. Me segue nas redes acima para saber quando vou começar. O objetivo será compratilhar meu conhecimento sobre programação e tentar melhorar um pouco quem está começando ou quem pegou vícios ao longo do caminho. Seria bom ir em mais que uma, principalmente se você costuma apagar a conta em uma glum lugar. **Tudo gratuito**.
 
 **Aviso sobre minhas postagens em todas plataformas**: Sei que algumas coisas que eu posto causam polêmica e atrai a ira de alguns. Não faço para causar mas alguém precisa dizer o que não é lugar comum. Só porque você não sabia não significa que está errado. Obrigado se compreender, ainda que discorde. Se discorda só lamento, é um direito seu e respeito isso. Talvez seja questão da experiência diferente que temos. Dê sugestões e questione nos comentários, isso me ajuda, calado não. Seja respeitoso. Não ligo para a opinião de quem não age assim, mas adoro quem questiona sensatamente.
 
