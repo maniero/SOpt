@@ -1,5 +1,7 @@
 # Na página principal do repositório tem informações importantes para ler
 
+- [Principal](https://github.com/maniero/SOpt/blob/master/Conceptual.md)
+
 # Language
 
 - [Como criar um método com parâmetros opcionais em Java puro?](https://pt.stackoverflow.com/q/145625/101)
@@ -111,6 +113,7 @@
 - [É correto afirmar que interface soluciona o problema de herança múltipla em Java?](https://pt.stackoverflow.com/q/89273/101)
 - [O correto seria deixar os atributos da classe abstrata como privados ou protegidos?](https://pt.stackoverflow.com/q/113065/101)
 - [Por que não devo alterar os "getter"s e "setter"s?](https://pt.stackoverflow.com/q/134750/101)
+- [É obrigatório colocar os mesmos atributos em construtores diferentes?](https://pt.stackoverflow.com/q/348132/101)
 
 # Misc
 
