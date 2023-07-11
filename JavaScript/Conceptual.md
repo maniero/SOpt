@@ -1,5 +1,7 @@
 # Na página principal do repositório tem informações importantes para ler
 
+- [Principal](https://github.com/maniero/SOpt/blob/master/Conceptual.md)
+
 # HTML
 
 - [Para que serve o . em uma tag form action="." method="post"?](https://pt.stackoverflow.com/q/184732/101)
@@ -50,9 +52,10 @@
 - [Quais são as camadas existentes em uma requisição HTTP/HTTPS?](https://pt.stackoverflow.com/q/186437/101)
 - [Existe diferenças entre Post e Request?](https://pt.stackoverflow.com/q/154860/101)
 - [Quais são os benefícios de se usar HTTPS?](https://pt.stackoverflow.com/q/49561/101)
-  [O que é Gzip? Como ele melhora um site?](https://pt.stackoverflow.com/q/182564/101)
-  [O que é DOM Parser?](https://pt.stackoverflow.com/q/179714/101)
-  [Em que linguagem o HTTP foi escrito quando implementado na Web?](https://pt.stackoverflow.com/q/177519/101)
+- [O que é Gzip? Como ele melhora um site?](https://pt.stackoverflow.com/q/182564/101)
+- [O que é DOM Parser?](https://pt.stackoverflow.com/q/179714/101)
+- [Em que linguagem o HTTP foi escrito quando implementado na Web?](https://pt.stackoverflow.com/q/177519/101)
+- [Misturar HTTP com HTTPS é um problema?](https://pt.stackoverflow.com/q/246731/101)
 
 # JavaScript
   
