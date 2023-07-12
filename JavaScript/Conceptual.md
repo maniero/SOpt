@@ -100,6 +100,7 @@
 - ["alert()”, “confirm()” e “prompt()” são considerados más práticas?](https://pt.stackoverflow.com/q/420049/101)
 - [Indicações de uso de cookies?](https://pt.stackoverflow.com/q/106906/101)
 - [É possível criar um aplicação inteiramente com JavaScript?](https://pt.stackoverflow.com/q/307734/101)
+- [É possível criar um site sem linguagem de marcação?](https://pt.stackoverflow.com/q/238915/101)
   
 # High level
   
@@ -127,8 +128,3 @@
 - [Quais as diferenças entre as versões do jQuery normal e o slim?](https://pt.stackoverflow.com/q/171822/101)
 - [Por que usar o AngularJS?](https://pt.stackoverflow.com/q/123913/101)
 - [Filas (queues) são úteis no Node.js, que é assíncrono?](https://pt.stackoverflow.com/q/410334/101)
-
-# TypeScript
-
-- [Qual a utilidade da exclamação (non null assertion operator) em TypeScript?](https://pt.stackoverflow.com/q/364765/101)
-- [Quais as principais diferenças entre Dart e TypeScript?](https://pt.stackoverflow.com/q/49408/101)
