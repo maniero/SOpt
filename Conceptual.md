@@ -291,6 +291,7 @@
 - [Diferenças entre usar XML ou JSON](https://pt.stackoverflow.com/q/402686/101)
 - [The Joel Test como funciona?](https://pt.stackoverflow.com/q/139701/101)
 - [Como funciona a encriptação do Telegram](https://pt.stackoverflow.com/q/49918/101)
+- [Como os antivírus analisam meu programa?](https://pt.stackoverflow.com/q/247586/101)
 
 # Terminology
 
