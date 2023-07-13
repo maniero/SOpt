@@ -48,6 +48,7 @@
 - [Qual a diferença entre código objeto e código intermediário?](https://pt.stackoverflow.com/q/454543/101)
 - [Alocação dinâmica de memória X vetor](https://pt.stackoverflow.com/q/120103/101)
 - [Como aumentar dinamicamente o tamanho struct?](https://pt.stackoverflow.com/q/163730/101)
+- [É correto retornar um endereço de memória em função?](https://pt.stackoverflow.com/q/83293/101)
 
 # Algorithm
 
