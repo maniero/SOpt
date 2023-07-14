@@ -1,5 +1,7 @@
 # Na página principal do repositório tem informações importantes para ler
 
+- [Principal](https://github.com/maniero/SOpt/blob/master/Conceptual.md)
+
 # Syntax
 
 - [O que usar require/include/require_once/include_once?](http://pt.stackoverflow.com/q/15286/101)
@@ -90,6 +92,7 @@
 - [O MySQL está embutido no EasyPHP?](https://pt.stackoverflow.com/q/102322/101)
 - [Boas práticas para MVC em PHP](https://pt.stackoverflow.com/q/124413/101)
 - [Como impedir POST de fora do servidor?](https://pt.stackoverflow.com/q/58038/101)
+- [É ruim usar o mecanismo padrão de sessão do PHP?](https://pt.stackoverflow.com/q/110127/101)
 
 # Algorithm
 
