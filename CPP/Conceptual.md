@@ -1,5 +1,7 @@
 # Na página principal do repositório tem informações importantes para ler
 
+- [Principal](https://github.com/maniero/SOpt/blob/master/Conceptual.md)
+
 - [O que o C++ pode fazer que o C# não pode?](https://pt.stackoverflow.com/q/7740/101)
 - [O que são os arquivos com extensão .cpp e .h?](https://pt.stackoverflow.com/q/240579/101)
 - [É possível criar uma aplicação em C/C++ para Android?](https://pt.stackoverflow.com/q/209455/101)
@@ -26,3 +28,4 @@
 - [Em que realmente são usados ponteiros em C++?](https://pt.stackoverflow.com/q/175967/101)
 - [Para aprender C++ é necessário aprender C?](https://pt.stackoverflow.com/q/349030/101)
 - [Como fazer um excelente programa C++ sem rastros de C?](https://pt.stackoverflow.com/q/392951/101)
+- [Diferença das declarações de arrays C/C++](https://pt.stackoverflow.com/q/202826/101)
