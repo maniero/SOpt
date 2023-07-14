@@ -1,5 +1,7 @@
 # Na página principal do repositório tem informações importantes para ler
 
+- [Principal](https://github.com/maniero/SOpt/blob/master/Conceptual.md)
+
 # Modeling
 
 - [Qual a diferença entre MER (Modelo de Entidade Relacionamento) e DER (Diagrama de Entidade Relacionamento)?](https://pt.stackoverflow.com/q/328342/101)
@@ -125,6 +127,7 @@
 - [ERROR: column reference “customer” is ambiguous](https://pt.stackoverflow.com/q/410258/101)
 - [No PostgreSQL, que campo utilizar para porcentagem?](https://pt.stackoverflow.com/q/52373/101)
 - [Como funciona a herança no PostgreSQL?](https://pt.stackoverflow.com/q/192911/101)
+- [Replicação unilateral no PostgreSQL](https://pt.stackoverflow.com/q/48886/101)
 
 # SQL Server
 
