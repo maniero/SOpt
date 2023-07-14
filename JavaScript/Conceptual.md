@@ -29,6 +29,7 @@
 - [É errado usar mais de um <thead>, <tbody> ou <tfoot> numa tabela?](https://pt.stackoverflow.com/q/175652/101)
 - [Quais as funções das tags de formulário no HTML5?](https://pt.stackoverflow.com/q/100373/101)
 - [Nunca usar estilos inline é nunca mesmo?](https://pt.stackoverflow.com/q/232085/101)
+- [O que são entities HTML?](https://pt.stackoverflow.com/q/178058/101)
 
 # CSS
 
