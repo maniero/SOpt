@@ -341,3 +341,4 @@
 - [O que é código dinâmico e código estático?](https://pt.stackoverflow.com/q/108860/101)
 - [O que é uma expressão regular?](https://pt.stackoverflow.com/q/185301/101)
 - [O que seria algo "nativo"?](https://pt.stackoverflow.com/q/458760/101)
+- [O que é um sistema tolerante à falhas (fault tolerance)?](https://pt.stackoverflow.com/q/336176/101)
