@@ -63,6 +63,7 @@
 - [Colisão de nomes entre classe e namespace](https://pt.stackoverflow.com/q/126045/101)
 - [O que são metadados no C#?](https://pt.stackoverflow.com/q/107111/101)
 - [Por que o compilador obriga que variáveis locais sejam inicializadas e campos não?](https://pt.stackoverflow.com/q/217862/101)
+- [Propriedade Nullable no C#](https://pt.stackoverflow.com/q/365865/101)
 
 # Algorithms
 
