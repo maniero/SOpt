@@ -30,6 +30,7 @@
 - [Quais as funções das tags de formulário no HTML5?](https://pt.stackoverflow.com/q/100373/101)
 - [Nunca usar estilos inline é nunca mesmo?](https://pt.stackoverflow.com/q/232085/101)
 - [O que são entities HTML?](https://pt.stackoverflow.com/q/178058/101)
+- [Qual é a finalidade do input do tipo "Image"?](https://pt.stackoverflow.com/q/198094/101)
 
 # CSS
 
