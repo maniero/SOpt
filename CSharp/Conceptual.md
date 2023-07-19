@@ -149,6 +149,7 @@
 - [Quais são as vantagens do parallel.ForEach em C#?](https://pt.stackoverflow.com/q/128495/101)
 - [Horário de verão com datas antigas](https://pt.stackoverflow.com/q/237072/101)
 - [Qual a diferença entre Task e async Task?](https://pt.stackoverflow.com/q/321190/101)
+- [Usar recursos da classe Timer (System.Timers) onera um serviço do Windows?](https://pt.stackoverflow.com/q/30601/101)
 
 # IO
 
