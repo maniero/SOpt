@@ -293,6 +293,7 @@
 - [The Joel Test como funciona?](https://pt.stackoverflow.com/q/139701/101)
 - [Como funciona a encriptação do Telegram](https://pt.stackoverflow.com/q/49918/101)
 - [Como os antivírus analisam meu programa?](https://pt.stackoverflow.com/q/247586/101)
+- [Como funciona o licenciamento de software?](https://pt.stackoverflow.com/q/46063/101)
 
 # Terminology
 
