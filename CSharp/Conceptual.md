@@ -65,6 +65,7 @@
 - [Por que o compilador obriga que variáveis locais sejam inicializadas e campos não?](https://pt.stackoverflow.com/q/217862/101)
 - [Propriedade Nullable no C#](https://pt.stackoverflow.com/q/365865/101)
 - [O que significa # no nome de algumas linguagens?](https://pt.stackoverflow.com/q/106786/101)
+- [Palavra chave "new" no C#](https://pt.stackoverflow.com/q/337874/101)
 
 # Algorithms
 
