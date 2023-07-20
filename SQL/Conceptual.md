@@ -157,6 +157,7 @@
 - [Como salvar e recuperar um campo date em SQLite3?](https://pt.stackoverflow.com/q/108331/101)
 - [Impedir DROP TABLE](https://pt.stackoverflow.com/q/38786/101)
 - [Criptografar SQLite3](https://pt.stackoverflow.com/q/112858/101)
+- [Armazenar vetor no SQLite](https://pt.stackoverflow.com/q/118702/101)
 
 # Oracle
 
