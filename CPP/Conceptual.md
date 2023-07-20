@@ -30,3 +30,4 @@
 - [Como fazer um excelente programa C++ sem rastros de C?](https://pt.stackoverflow.com/q/392951/101)
 - [Diferença das declarações de arrays C/C++](https://pt.stackoverflow.com/q/202826/101)
 - [Como concatenar o nome de uma variável em C++?](https://pt.stackoverflow.com/q/388459/101)
+- [O que é uma shared_ptr?](https://pt.stackoverflow.com/q/113554/101)
