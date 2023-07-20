@@ -50,6 +50,7 @@
 - [Como aumentar dinamicamente o tamanho struct?](https://pt.stackoverflow.com/q/163730/101)
 - [É correto retornar um endereço de memória em função?](https://pt.stackoverflow.com/q/83293/101)
 - [Performance de acesso a dados na heap e stack e alocação de objetos](https://pt.stackoverflow.com/q/56580/101)
+- [Qual a diferença entre uma variável global e uma variável global static?](https://pt.stackoverflow.com/q/508048/101)
 
 # Algorithm
 
