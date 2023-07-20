@@ -266,6 +266,7 @@
 - [Qual a diferença entre as versões do Xamarin?](https://pt.stackoverflow.com/q/192117/101)
 - [Onde posso usar GUI com .NET Core?](https://pt.stackoverflow.com/q/226539/101)
 - [O que são namespaces no XML?](https://pt.stackoverflow.com/q/140264/101)
+- [Desenvolvimento C# Mobile precisa de Mac?](https://pt.stackoverflow.com/q/35337/101)
 
 # Visual Studio
 
