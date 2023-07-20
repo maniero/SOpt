@@ -72,6 +72,7 @@
 - [Diferença entre escopo global e local](https://pt.stackoverflow.com/q/450218/101)
 - [O que é considerado primitivo em uma linguagem de programação?](https://pt.stackoverflow.com/q/356647/101)
 - [O que é uma linguagem extensível?](https://pt.stackoverflow.com/q/194808/101)
+- [O que seria padronização e especificação de uma linguagem de programação?](https://pt.stackoverflow.com/q/428704/101)
 
 # Coding Style
 
