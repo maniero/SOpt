@@ -221,6 +221,7 @@
 - [O que devo entender quando dizem ".NET"?](https://pt.stackoverflow.com/q/184716/101)
 - [Quais as consequências de programar em 32 bits ou 64 bits?](https://pt.stackoverflow.com/q/200711/101)
 - [O .NET Core já está estável o suficiente para produção?](https://pt.stackoverflow.com/q/185815/101)
+- [C++ com C#, é possível?](https://pt.stackoverflow.com/q/69742/101)
 
 # ASP.NET
 
