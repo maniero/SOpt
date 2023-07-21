@@ -118,6 +118,7 @@
 - [Impressora Fiscal](https://pt.stackoverflow.com/q/53722/101)
 - [Regra de campo obrigatório deve estar no backend ou frontend?](https://pt.stackoverflow.com/q/170899/101)
 - [Criar layout para aplicações PHP e .NET](https://pt.stackoverflow.com/q/110691/101)
+- [Como não permitir indexação por máquinas de busca?](https://pt.stackoverflow.com/q/51399/101)
   
 # Frameworks
   
