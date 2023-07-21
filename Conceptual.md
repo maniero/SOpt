@@ -295,6 +295,7 @@
 - [Como funciona a encriptação do Telegram](https://pt.stackoverflow.com/q/49918/101)
 - [Como os antivírus analisam meu programa?](https://pt.stackoverflow.com/q/247586/101)
 - [Como funciona o licenciamento de software?](https://pt.stackoverflow.com/q/46063/101)
+- [Como se chama a técnica de esconder componentes para assegurar informações?](https://pt.stackoverflow.com/q/46057/101)
 
 # Terminology
 
