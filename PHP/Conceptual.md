@@ -71,6 +71,7 @@
 - [É realmente necessário usar métodos para mutator e acessor (setter e getter) no PHP? E o desempenho?](https://pt.stackoverflow.com/q/110785/101)
 - [Desempenho no PHP: considerar ou não?](https://pt.stackoverflow.com/q/297781/101)
 - [Construtores no PHP 7](https://pt.stackoverflow.com/q/287802/101)
+- [O tamanho de uma função afeta a performance e consumo de memória?](https://pt.stackoverflow.com/q/31485/101)
 
 # Library
 
