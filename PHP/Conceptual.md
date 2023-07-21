@@ -70,6 +70,7 @@
 - [Trigger no MySQL VS lógica na aplicação PHP?](https://pt.stackoverflow.com/q/151684/101)
 - [É realmente necessário usar métodos para mutator e acessor (setter e getter) no PHP? E o desempenho?](https://pt.stackoverflow.com/q/110785/101)
 - [Desempenho no PHP: considerar ou não?](https://pt.stackoverflow.com/q/297781/101)
+- [Construtores no PHP 7](https://pt.stackoverflow.com/q/287802/101)
 
 # Library
 
