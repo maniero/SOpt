@@ -66,6 +66,7 @@
 - [Propriedade Nullable no C#](https://pt.stackoverflow.com/q/365865/101)
 - [O que significa # no nome de algumas linguagens?](https://pt.stackoverflow.com/q/106786/101)
 - [Palavra chave "new" no C#](https://pt.stackoverflow.com/q/337874/101)
+- [Qual é a finalidade do comando unsafe?](https://pt.stackoverflow.com/q/142030/101)
 
 # Algorithms
 
