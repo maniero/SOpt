@@ -195,6 +195,7 @@
 - [Proteção de dados sensíveis em seu banco de dados](https://pt.stackoverflow.com/q/414776/101)
 - [Quais as vantagens de se utilizar um banco de dados ao invés de um arquivo JSON para gravar dados?](https://pt.stackoverflow.com/q/524913/101)
 - [Como um índice melhora a performance de uma consulta?](https://pt.stackoverflow.com/q/183305/101)
+- [O que caracteriza um banco de dados?](https://pt.stackoverflow.com/q/191199/101)
 
 # NoSQL
 
