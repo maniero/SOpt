@@ -52,6 +52,7 @@
 - [Performance de acesso a dados na heap e stack e alocação de objetos](https://pt.stackoverflow.com/q/56580/101)
 - [Qual a diferença entre uma variável global e uma variável global static?](https://pt.stackoverflow.com/q/508048/101)
 - [Em C, declarar variáveis no meio de um bloco de código podem levar o programa à um comportamento indefinido?](https://pt.stackoverflow.com/q/304190/101)
+- [https://github.com/maniero/SOpt/blob/master/C/Conceptual.md](https://pt.stackoverflow.com/q/205587/101)
 
 # Algorithm
 
