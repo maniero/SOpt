@@ -31,3 +31,4 @@
 - [Diferença das declarações de arrays C/C++](https://pt.stackoverflow.com/q/202826/101)
 - [Como concatenar o nome de uma variável em C++?](https://pt.stackoverflow.com/q/388459/101)
 - [O que é uma shared_ptr?](https://pt.stackoverflow.com/q/113554/101)
+- [É possível desenvolver uma aplicação em C++ no Visual Studio para rodar em Linux?](https://pt.stackoverflow.com/q/237662/101)
