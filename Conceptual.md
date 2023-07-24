@@ -272,6 +272,7 @@
 - [O que são os termos RISC e CISC em relação ao desenvolvimento de software?](https://pt.stackoverflow.com/q/241304/101)
 - [A desfragmentação do disco rígido pode auxiliar no desempenho de uma aplicação do meu servidor?](https://pt.stackoverflow.com/q/103418/101)
 - [O que é ABI? Tem alguma relação com API?](https://pt.stackoverflow.com/q/187944/101)
+- [O que é COM (Component Object Model)?](https://pt.stackoverflow.com/q/198929/101)
 
 # Misc
 
