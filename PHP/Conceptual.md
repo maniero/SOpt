@@ -95,6 +95,7 @@
 - [Boas práticas para MVC em PHP](https://pt.stackoverflow.com/q/124413/101)
 - [Como impedir POST de fora do servidor?](https://pt.stackoverflow.com/q/58038/101)
 - [É ruim usar o mecanismo padrão de sessão do PHP?](https://pt.stackoverflow.com/q/110127/101)
+- [É indiferente usar SQL Server ou MySQL com PHP?](https://pt.stackoverflow.com/q/142157/101)
 
 # Algorithm
 
