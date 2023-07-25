@@ -45,6 +45,7 @@
 - [As lambdas e streams do Java 8 trazem mais benefícios além da concisão?](https://pt.stackoverflow.com/q/223498/101)
 - [Quais as aplicações de arrays no dia a dia? (exemplos da sua usabilidade)](https://pt.stackoverflow.com/q/250505/101)
 - [Importando o pacote java.lang.*](https://pt.stackoverflow.com/q/352947/101)
+- [Diferença de desempenho entre várias condições em um IF ou vários IF's separadamente?](https://pt.stackoverflow.com/q/101712/101)
 
 # Library
 
