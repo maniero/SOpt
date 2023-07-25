@@ -153,6 +153,7 @@
 - [Horário de verão com datas antigas](https://pt.stackoverflow.com/q/237072/101)
 - [Qual a diferença entre Task e async Task?](https://pt.stackoverflow.com/q/321190/101)
 - [Usar recursos da classe Timer (System.Timers) onera um serviço do Windows?](https://pt.stackoverflow.com/q/30601/101)
+- [Qual a diferença entre Count() e Length?](https://pt.stackoverflow.com/q/214598/101)
 
 # IO
 
