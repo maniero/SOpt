@@ -150,6 +150,7 @@
 - [Regras de negócio sempre são relacionadas à validação?](https://pt.stackoverflow.com/q/48576/101)
 - [O que é uma classe de serviço? E o que seria serviço nesse contexto?](https://pt.stackoverflow.com/q/423946/101)
 - [Qual a diferença entre ActiveRecord e Repository?](https://pt.stackoverflow.com/q/189082/101)
+- [Como funciona um teste de caixa preta?](https://pt.stackoverflow.com/q/404542/101)
 
 # Typing
 
