@@ -140,3 +140,4 @@
 - [Em um projeto MVC, onde devo deixar os enums?](https://pt.stackoverflow.com/q/132197/101)
 - [Quais tags posso usar para documentar o meu código?](https://pt.stackoverflow.com/q/43297/101)
 - [O que são as JEPs no Java?](https://pt.stackoverflow.com/q/346444/101)
+- [O que é a GraalVM?](https://pt.stackoverflow.com/q/325531/101)
