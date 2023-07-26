@@ -158,6 +158,7 @@
 - [O que é booleano?](https://pt.stackoverflow.com/q/214972/101)
 - [Qual o significado de "string"?](https://pt.stackoverflow.com/q/427535/101)
 - [O que é estilo de tipagem?](https://pt.stackoverflow.com/q/190463/101)
+- ["null" é um valor ou um estado em que a propriedade se encontra?](https://pt.stackoverflow.com/q/428363/101)
 
 # Algorithms & Data Structure
 
