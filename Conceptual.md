@@ -207,6 +207,7 @@
 - [Existe um padrão de projeto ou recomendação que define a quantidade ideal de parâmetros que uma função deve ter?](https://pt.stackoverflow.com/q/315355/101)
 - [Padrão de projeto builder, por que devo utilizá-lo?](https://pt.stackoverflow.com/q/360658/101)
 - [Programar para a interface significa programar para um super-tipo, por que?](https://pt.stackoverflow.com/q/87488/101)
+- [Herança é uma má prática para todas a linguagens?](https://pt.stackoverflow.com/q/173198/101)
 
 # Memory & Threading
 
