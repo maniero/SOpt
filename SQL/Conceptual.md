@@ -49,6 +49,7 @@
 - [Melhor forma de estruturar tabela de histórico com grande quantidade de dados](https://pt.stackoverflow.com/q/130284/101)
 - [Que tipo de dados usar para armazenar URIs no banco?](https://pt.stackoverflow.com/q/241249/101)
 - [É melhor fazer uma requisição grande ao banco de dados ou várias pequenas?](https://pt.stackoverflow.com/q/395152/101)
+- [Qual é o nome dado para a quantidade de colunas em uma tabela?](https://pt.stackoverflow.com/q/211004/101)
 
 # SQL
 
