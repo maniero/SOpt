@@ -101,6 +101,7 @@
 - [O que é programação procedural e não procedural?](https://pt.stackoverflow.com/q/195069/101)
 - [O que é uma linguagem de multi-paradigmas?](https://pt.stackoverflow.com/q/129597/101)
 - [O que é paradigma?](https://pt.stackoverflow.com/q/141624/101)
+- [O que são e quais são as principais diferenças entre Programação Funcional e Programação Reativa?](https://pt.stackoverflow.com/q/319368/101)
 
 # Engineering
 
@@ -208,6 +209,7 @@
 - [Padrão de projeto builder, por que devo utilizá-lo?](https://pt.stackoverflow.com/q/360658/101)
 - [Programar para a interface significa programar para um super-tipo, por que?](https://pt.stackoverflow.com/q/87488/101)
 - [Herança é uma má prática para todas a linguagens?](https://pt.stackoverflow.com/q/173198/101)
+- [O que são antipadrões de projeto de software?](https://pt.stackoverflow.com/q/189442/101)
 
 # Memory & Threading
 
@@ -352,3 +354,5 @@
 - [O que é uma expressão regular?](https://pt.stackoverflow.com/q/185301/101)
 - [O que seria algo "nativo"?](https://pt.stackoverflow.com/q/458760/101)
 - [O que é um sistema tolerante à falhas (fault tolerance)?](https://pt.stackoverflow.com/q/336176/101)
+- [Qual o termo correto, palavra chave ou palavra reservada?](https://pt.stackoverflow.com/q/425122/101)
+- [O que são falsos-positivos em programação?](https://pt.stackoverflow.com/q/351665/101)
