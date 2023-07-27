@@ -225,6 +225,7 @@
 - [O .NET Core já está estável o suficiente para produção?](https://pt.stackoverflow.com/q/185815/101)
 - [C++ com C#, é possível?](https://pt.stackoverflow.com/q/69742/101)
 - [Como criar um executável monolítico da aplicação .NET?](https://pt.stackoverflow.com/q/192912/101)
+- [Entendendo estruturas no arquivo AssemblyInfo.cs](https://pt.stackoverflow.com/q/156167/101)
 
 # ASP.NET
 
@@ -254,6 +255,7 @@
 - [ASP.NET vNext no Apache](https://pt.stackoverflow.com/q/45082/101)
 - [O que é ASP.NET Core Blazor?](https://pt.stackoverflow.com/q/288706/101)
 - [ASP Clássico roda em servidor ASP.NET?](https://pt.stackoverflow.com/q/107943/101)
+- [Context Dispose deve ser usado no ASP.NET MVC?](https://pt.stackoverflow.com/q/119933/101)
 
 # WinForms/WPF/Xamarin
 
