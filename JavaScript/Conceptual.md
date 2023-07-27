@@ -31,6 +31,7 @@
 - [Nunca usar estilos inline é nunca mesmo?](https://pt.stackoverflow.com/q/232085/101)
 - [O que são entities HTML?](https://pt.stackoverflow.com/q/178058/101)
 - [Qual é a finalidade do input do tipo "Image"?](https://pt.stackoverflow.com/q/198094/101)
+- [Qual a segurança em usar input "password" ou "text"?](https://pt.stackoverflow.com/q/151902/101)
 
 # CSS
 
@@ -58,6 +59,7 @@
 - [O que é DOM Parser?](https://pt.stackoverflow.com/q/179714/101)
 - [Em que linguagem o HTTP foi escrito quando implementado na Web?](https://pt.stackoverflow.com/q/177519/101)
 - [Misturar HTTP com HTTPS é um problema?](https://pt.stackoverflow.com/q/246731/101)
+- [Dados recebidos de HTTPS vem encriptado?](https://pt.stackoverflow.com/q/49842/101)
 
 # JavaScript
   
