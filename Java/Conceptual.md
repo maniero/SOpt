@@ -46,6 +46,7 @@
 - [Quais as aplicações de arrays no dia a dia? (exemplos da sua usabilidade)](https://pt.stackoverflow.com/q/250505/101)
 - [Importando o pacote java.lang.*](https://pt.stackoverflow.com/q/352947/101)
 - [Diferença de desempenho entre várias condições em um IF ou vários IF's separadamente?](https://pt.stackoverflow.com/q/101712/101)
+- [Método close() nos blocos try e catch é necessário?](https://pt.stackoverflow.com/q/317600/101)
 
 # Library
 
@@ -117,6 +118,8 @@
 - [O correto seria deixar os atributos da classe abstrata como privados ou protegidos?](https://pt.stackoverflow.com/q/113065/101)
 - [Por que não devo alterar os "getter"s e "setter"s?](https://pt.stackoverflow.com/q/134750/101)
 - [É obrigatório colocar os mesmos atributos em construtores diferentes?](https://pt.stackoverflow.com/q/348132/101)
+- [É correto afirmar que o encapsulamento visa a coesão? Por que?](https://pt.stackoverflow.com/q/96656/101)
+- [Como funciona na teoria o padrão de projeto Composite?](https://pt.stackoverflow.com/q/377303/101)
 
 # Misc
 
