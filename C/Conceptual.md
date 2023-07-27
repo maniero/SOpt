@@ -53,6 +53,7 @@
 - [Qual a diferença entre uma variável global e uma variável global static?](https://pt.stackoverflow.com/q/508048/101)
 - [Em C, declarar variáveis no meio de um bloco de código podem levar o programa à um comportamento indefinido?](https://pt.stackoverflow.com/q/304190/101)
 - [https://github.com/maniero/SOpt/blob/master/C/Conceptual.md](https://pt.stackoverflow.com/q/205587/101)
+- [sizeof não funciona para determinar o tamanho do malloc()](https://pt.stackoverflow.com/q/466295/101)
 
 # Algorithm
 
