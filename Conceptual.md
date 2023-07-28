@@ -75,6 +75,9 @@
 - [O que seria padronização e especificação de uma linguagem de programação?](https://pt.stackoverflow.com/q/428704/101)
 - [Linguagem de script sempre é construída sobre outra linguagem?](https://pt.stackoverflow.com/q/216217/101)
 - [Podemos criar Inteligência Artificial em qualquer linguagem?](https://pt.stackoverflow.com/q/324360/101)
+- [Linguagem com Garbage Collector pode ser usada para jogos?](https://pt.stackoverflow.com/q/205049/101)
+- [Para que serve a linguagem Fortran?](https://pt.stackoverflow.com/q/335564/101)
+- [Qual o padrão mundialmente aceito nas linguagens de programação?](https://pt.stackoverflow.com/q/273518/101)
 
 # Coding Style
 
@@ -210,6 +213,7 @@
 - [Programar para a interface significa programar para um super-tipo, por que?](https://pt.stackoverflow.com/q/87488/101)
 - [Herança é uma má prática para todas a linguagens?](https://pt.stackoverflow.com/q/173198/101)
 - [O que são antipadrões de projeto de software?](https://pt.stackoverflow.com/q/189442/101)
+- [Qual a relação de arquitetura de software e design patterns?](https://pt.stackoverflow.com/q/406232/101)
 
 # Memory & Threading
 
@@ -356,3 +360,5 @@
 - [O que é um sistema tolerante à falhas (fault tolerance)?](https://pt.stackoverflow.com/q/336176/101)
 - [Qual o termo correto, palavra chave ou palavra reservada?](https://pt.stackoverflow.com/q/425122/101)
 - [O que são falsos-positivos em programação?](https://pt.stackoverflow.com/q/351665/101)
+- [O que são as RFCs?](https://pt.stackoverflow.com/q/364753/101)
+- [Tecnologia, Plataforma e Linguagem, o que são e como se relacionam?](https://pt.stackoverflow.com/q/266499/101)
