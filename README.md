@@ -22,7 +22,7 @@ Entenda que muito código aqui está dentro de um contexto. Não é intenção s
 <a href="https://medium.com/@devraiz"><img src="https://i.stack.imgur.com/XEJUq.png" alt="Medium"></a>
 <a href="https://pt.stackoverflow.com/users/101/maniero?tab=profile"><img src="https://i.stack.imgur.com/26l2Y.png" alt="Stack Overflow"></a>
 <a href="https://www.reddit.com/user/bigown_/"><img src="https://i.stack.imgur.com/OJNTc.png" alt="Reddit"></a>
-<a href="https://pt.quora.com/profile/Antonio-Maniero"><img src="https://i.stack.imgur.com/yTbv3.png" alt="Quora"></a>
+<a href="https://pt.quora.com/profile/Antonio-Maniero"><img src="https://i.stack.imgur.com/yTbv3.png" alt="Quora"></a>  
 Em cada local eu posto coisas diferentes, então **me siga em vários deles**.
 <a href="https://stackexchange.com/users/77792">  
 <img src="https://stackexchange.com/users/flair/77792.png" width="208" height="58" alt="perfil de Maniero no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade" title="perfil de Maniero no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade"></a>  
