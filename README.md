@@ -18,7 +18,7 @@ Entenda que muito código aqui está dentro de um contexto. Não é intenção s
 <a href="https://github.com/maniero"><img src="https://i.stack.imgur.com/a2v1f.png" alt="GitHub"></a>
 <a href="https://twitter.com/manieromvp"><img src="https://i.stack.imgur.com/eAnZ3.png" alt="Twitter"></a>
 <a href="https://www.instagram.com/antoniomaniero/"><img src="https://i.stack.imgur.com/eVVU9.png" alt="YouTube"></a>
-<a href="https://www.facebook.com/antonio.maniero.junior"><img src="https://i.stack.imgur.com/IUTRa.png" alt="Facebook"></a>  
+<a href="https://www.facebook.com/antonio.maniero.junior"><img src="https://i.stack.imgur.com/IUTRa.png" alt="Facebook"></a>
 <a href="https://medium.com/@devraiz"><img src="https://i.stack.imgur.com/XEJUq.png" alt="Medium"></a>
 <a href="https://pt.stackoverflow.com/users/101/maniero?tab=profile"><img src="https://i.stack.imgur.com/26l2Y.png" alt="Stack Overflow"></a>
 <a href="https://www.reddit.com/user/bigown_/"><img src="https://i.stack.imgur.com/OJNTc.png" alt="Reddit"></a>
