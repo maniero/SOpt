@@ -121,6 +121,7 @@
 - [Salvar ou não os comandos usados no MySQL](https://pt.stackoverflow.com/q/463428/101)
 - [Número de Colunas X desempenho em tabelas](https://pt.stackoverflow.com/q/489808/101)
 - [Colunas "inteligentes" no MySQL](https://pt.stackoverflow.com/q/65574/101)
+- [Qual a diferença entre a exceção MySQL Trigger e MySQL Event?](https://pt.stackoverflow.com/q/103700/101)
 
 # PostgreSQL
 
