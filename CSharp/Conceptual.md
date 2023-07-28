@@ -159,7 +159,7 @@
 - [Qual a diferença entre Task e async Task?](https://pt.stackoverflow.com/q/321190/101)
 - [Usar recursos da classe Timer (System.Timers) onera um serviço do Windows?](https://pt.stackoverflow.com/q/30601/101)
 - [Qual a diferença entre Count() e Length?](https://pt.stackoverflow.com/q/214598/101)
-- [Quais os prós e contras da implementação Task<List<Object>> sobre List<Object>](https://pt.stackoverflow.com/q/77759/101)
+- [Quais os prós e contras da implementação Task&lt;List&lt;Object&gt;&gt; sobre List<Object>](https://pt.stackoverflow.com/q/77759/101)
 
 # IO
 
