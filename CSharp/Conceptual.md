@@ -13,53 +13,34 @@
 - [Quais as principais diferenças entre VB.NET e C#?](https://pt.stackoverflow.com/q/51599/101)
 - [C# é uma linguagem compilada ou interpretada?](https://pt.stackoverflow.com/q/125588/101)
 - [Existe uma forma correta de comentar um trecho de código?](https://pt.stackoverflow.com/q/153813/101)
-- [O que são métodos Async?](https://pt.stackoverflow.com/q/175304/101)
 - [Qual é a diferença entre o uso de aspas simples e aspas duplas no C#?](https://pt.stackoverflow.com/q/131054/101)
-- [Conceito de classe, entidade e objetos](https://pt.stackoverflow.com/q/203166/101)
-- [Erro: Referência de objeto não definida para uma instância de um objeto, como resolver?](https://pt.stackoverflow.com/q/99116/101)
 - [O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção](https://pt.stackoverflow.com/q/392225/101)
-- [Quando usar método assíncronos ou síncronos?](https://pt.stackoverflow.com/q/201998/101)
-- [Converter string para float no C#](https://pt.stackoverflow.com/q/395289/101)
 - [Como realmente entender Streams?](https://pt.stackoverflow.com/q/49831/101)
 - [Compilador Roslyn - O que é, e porque foi criado?](https://pt.stackoverflow.com/q/82756/101)
-- [Quando não retornar Task em métodos async?](https://pt.stackoverflow.com/q/219433/101)
-- [Pra que serve o sealed em C#?](https://pt.stackoverflow.com/q/307106/101)
 - [Qual é a diferença, na prática, entre "" e String.Empty?](https://pt.stackoverflow.com/q/151120/101)
 - [O que é um literal?](https://pt.stackoverflow.com/q/114473/101)
-- [Qual é o sentido de um atributo ser private e static ao mesmo tempo em uma classe?](https://pt.stackoverflow.com/q/99603/101)
 - [O que preciso para programar em C#?](https://pt.stackoverflow.com/q/52291/101)
-- [Exceções consomem muito processamento. Verdade ou lenda?](https://pt.stackoverflow.com/q/5888/101)
 - [list.foreach vs foreach](https://pt.stackoverflow.com/q/78470/101)
+- [Qual a diferença entre os async, multithreading, paralelismo e concorrência?](https://pt.stackoverflow.com/q/157435/101)
 - [Criar objetos sem referência C#](https://pt.stackoverflow.com/q/212675/101)
 - [Performance: string "concatenado" ou todo na mesma linha?](https://pt.stackoverflow.com/q/7734/101)
 - [Quais os cenários em que o C# tem vantagem em relação a outras linguagens?](https://pt.stackoverflow.com/q/309322/101)
-- [Qual diferença entre async Task e void?](https://pt.stackoverflow.com/q/224568/101)
 - [Como saber a medida certa de comentários?](https://pt.stackoverflow.com/q/15488/101)
 - [Delegate vazio ( delegate { } )](https://pt.stackoverflow.com/q/171157/101)
-- [É possível descobrir com código o tamanho que o objeto ocupa na memória?](https://pt.stackoverflow.com/q/199618/101)
 - [Forma mais rápida de acessar propriedades em uma lista C#](https://pt.stackoverflow.com/q/120711/101)
 - [O que são ponteiros?](https://pt.stackoverflow.com/q/266756/101)
 - [Qual é o jeito correto de chamar as versões do C#?](https://pt.stackoverflow.com/q/21672/101)
 - [O que é um POC em C#?](https://pt.stackoverflow.com/q/58203/101)
 - [Como acessar objeto criado por outra thread?](https://pt.stackoverflow.com/q/198599/101)
 - [Qual é a vantagem do ponto e vírgula em linguagens de programação?](https://pt.stackoverflow.com/q/186838/101)
-- [Método para executar ao destruir instância de uma classe](https://pt.stackoverflow.com/q/41175/101)
 - [Qual a diferença entre Data Annotations e Fluent API?](https://pt.stackoverflow.com/q/168377/101)
 - [O que uma classe "Thread Safety" significa?](https://pt.stackoverflow.com/q/76758/101)
 - [O que significa (Char)0 / (Char)8 / (Char)13?](https://pt.stackoverflow.com/q/345718/101)
 - [Qual o comportamento de variáveis estáticas no .NET?](https://pt.stackoverflow.com/q/27776/101)
-- [Por que os métodos implementados de uma interface não podem ser privados?](https://pt.stackoverflow.com/q/58891/101)
-- [Destruição de uma instância](https://pt.stackoverflow.com/q/94763/101)
-- [Qual a diferença entre usar (int)variavel ou Convert.ToInt32(variavel)?](https://pt.stackoverflow.com/q/90928/101)
 - [Posso remover todos os using que não estou usando?](https://pt.stackoverflow.com/q/176974/101)
 - [Por que não posso declarar um atributo usando a palavra-chave var?](https://pt.stackoverflow.com/q/112564/101)
-- [A que o erro "Não é possível converter implicitamente tipo "void" em "int" " se refere?](https://pt.stackoverflow.com/q/413737/101)
-- [Instanciar classe com método static](https://pt.stackoverflow.com/q/282138/101)
-- [Sobrescrever métodos com base apenas no nome](https://pt.stackoverflow.com/q/139880/101)
 - [O que significa _ no C#?](https://pt.stackoverflow.com/q/412527/101)
-- [Devo usar um "try-catch" para identificar se uma senha está errada?](https://pt.stackoverflow.com/q/141899/101)
 - [Usar underline em C# seria uma boa prática?](https://pt.stackoverflow.com/q/445301/101)
-- [Uso de interfaces em classes do domínio?](https://pt.stackoverflow.com/q/252760/101)
 - [Colisão de nomes entre classe e namespace](https://pt.stackoverflow.com/q/126045/101)
 - [O que são metadados no C#?](https://pt.stackoverflow.com/q/107111/101)
 - [Por que o compilador obriga que variáveis locais sejam inicializadas e campos não?](https://pt.stackoverflow.com/q/217862/101)
@@ -67,12 +48,25 @@
 - [O que significa # no nome de algumas linguagens?](https://pt.stackoverflow.com/q/106786/101)
 - [Palavra chave "new" no C#](https://pt.stackoverflow.com/q/337874/101)
 - [Qual é a finalidade do comando unsafe?](https://pt.stackoverflow.com/q/142030/101)
+- [Em um programa de console em C#, onde é definido a classe principal?](https://pt.stackoverflow.com/q/134954/101)
+
+# OOP
+
+- [Conceito de classe, entidade e objetos](https://pt.stackoverflow.com/q/203166/101)
+- [Erro: Referência de objeto não definida para uma instância de um objeto, como resolver?](https://pt.stackoverflow.com/q/99116/101)
+- [Pra que serve o sealed em C#?](https://pt.stackoverflow.com/q/307106/101)
+- [Qual é o sentido de um atributo ser private e static ao mesmo tempo em uma classe?](https://pt.stackoverflow.com/q/99603/101)
+- [Destruição de uma instância](https://pt.stackoverflow.com/q/94763/101)
+- [Instanciar classe com método static](https://pt.stackoverflow.com/q/282138/101)
+- [Sobrescrever métodos com base apenas no nome](https://pt.stackoverflow.com/q/139880/101)
+- [Uso de interfaces em classes do domínio?](https://pt.stackoverflow.com/q/252760/101)
+- [Instanciar classe ou usar métodos públicos?](https://pt.stackoverflow.com/q/177216/101)
 
 # Algorithms
 
 - [Criar lista sem valores duplicados](https://pt.stackoverflow.com/q/29226/101)
 - [Testar se há preenchimento de string](https://pt.stackoverflow.com/q/325742/101)
-- [Qual a diferença entre os async, multithreading, paralelismo e concorrência?](https://pt.stackoverflow.com/q/157435/101)
+- [Problema em quebrar uma String](https://pt.stackoverflow.com/q/78268/101)
 - [Como fazer pesquisa binária em um arquivo txt?](https://pt.stackoverflow.com/q/37390/101)
 - [Que tipo de dados usar para ID da venda?](https://pt.stackoverflow.com/q/159503/101)
 - [Inicializar campos privados na declaração ou no construtor?](https://pt.stackoverflow.com/q/198190/101)
@@ -83,12 +77,19 @@
 - [Melhor maneira de lidar com Exceptions](http://pt.stackoverflow.com/a/13611/101)
 - [É uma boa prática lançar exceção nesses casos?](http://pt.stackoverflow.com/q/15261/101)
 - [O que causa o 'System.NullReferenceException'?](https://pt.stackoverflow.com/q/106133/101)
+- [Exceções consomem muito processamento. Verdade ou lenda?](https://pt.stackoverflow.com/q/5888/101)
 - [Preciso usar o try/catch em toda a cadeia de um processo?](https://pt.stackoverflow.com/q/128763/101)
+- [Devo usar um "try-catch" para identificar se uma senha está errada?](https://pt.stackoverflow.com/q/141899/101)
 
 # Methods
 
 - [Receber quantidade indefinida de parâmetros em C#](http://pt.stackoverflow.com/q/14532/101)
+- [Quando usar método assíncronos ou síncronos?](https://pt.stackoverflow.com/q/201998/101)
+- [O que são métodos Async?](https://pt.stackoverflow.com/q/175304/101)
 - [Qual a função de um método estático?](https://pt.stackoverflow.com/q/54012/101)
+- [Método para executar ao destruir instância de uma classe](https://pt.stackoverflow.com/q/41175/101)
+- [Quando não retornar Task em métodos async?](https://pt.stackoverflow.com/q/219433/101)
+- [Por que os métodos implementados de uma interface não podem ser privados?](https://pt.stackoverflow.com/q/58891/101)
 
 # Memory Managemnent
 
@@ -98,6 +99,7 @@
 - [Em quais casos retornam o erro do tipo System.OutOfMemoryException?](https://pt.stackoverflow.com/q/238235/101)
 - [Como funciona o gerenciamento de métodos na memória em C#?](https://pt.stackoverflow.com/q/14334/101)
 - [Como uma classe é organizada na memória?](https://pt.stackoverflow.com/q/161846/101)
+- [É possível descobrir com código o tamanho que o objeto ocupa na memória?](https://pt.stackoverflow.com/q/199618/101)
 - [Em quais momentos se faz necessário forçar a coleta de lixo em C# para um melhor desempenho da aplicação?](https://pt.stackoverflow.com/q/110854/101)
 - [Método Dispose()](https://pt.stackoverflow.com/q/173210/101)
 
@@ -109,9 +111,10 @@
 - [Qual é a diferença de string vs String?](http://pt.stackoverflow.com/a/3787/101)
 - [Verificar se int é "null" em C#](https://pt.stackoverflow.com/q/229191/101)
 - [Qual é a diferença de string vs String?](https://pt.stackoverflow.com/q/3711/101)
-- [https://pt.stackoverflow.com/q/78268/101](https://pt.stackoverflow.com/q/78268/101)
+- [Converter string para float no C#](https://pt.stackoverflow.com/q/395289/101)
 - [Por que o uso de dynamic é algo a ser evitado?](https://pt.stackoverflow.com/q/203656/101)
 - [Utilizar IEnumerable ou ICollection?](https://pt.stackoverflow.com/q/189888/101)
+- [Qual diferença entre async Task e void?](https://pt.stackoverflow.com/q/224568/101)
 - [O que é e qual a explicação para type-safe em C#?](https://pt.stackoverflow.com/q/327538/101)
 - [Erro ao remontar uma string. Tamanho está fora](https://pt.stackoverflow.com/q/115996/101)
 - [Enum como Object Value em DDD](https://pt.stackoverflow.com/q/265411/101)
@@ -119,6 +122,8 @@
 - [Por que devo usar a classe StringBuilder ao invés da classe String?](https://pt.stackoverflow.com/q/90467/101)
 - [Formato de campo para guardar tempo](https://pt.stackoverflow.com/q/136630/101)
 - [Por que usar short?](https://pt.stackoverflow.com/q/13930/101)
+- [Qual a diferença entre usar (int)variavel ou Convert.ToInt32(variavel)?](https://pt.stackoverflow.com/q/90928/101)
+- [A que o erro "Não é possível converter implicitamente tipo "void" em "int" " se refere?](https://pt.stackoverflow.com/q/413737/101)
 
 # Libraries
 
@@ -154,6 +159,7 @@
 - [Qual a diferença entre Task e async Task?](https://pt.stackoverflow.com/q/321190/101)
 - [Usar recursos da classe Timer (System.Timers) onera um serviço do Windows?](https://pt.stackoverflow.com/q/30601/101)
 - [Qual a diferença entre Count() e Length?](https://pt.stackoverflow.com/q/214598/101)
+- [Quais os prós e contras da implementação Task<List<Object>> sobre List<Object>](https://pt.stackoverflow.com/q/77759/101)
 
 # IO
 
@@ -256,6 +262,7 @@
 - [O que é ASP.NET Core Blazor?](https://pt.stackoverflow.com/q/288706/101)
 - [ASP Clássico roda em servidor ASP.NET?](https://pt.stackoverflow.com/q/107943/101)
 - [Context Dispose deve ser usado no ASP.NET MVC?](https://pt.stackoverflow.com/q/119933/101)
+- [Porque usar o bloco using no ASP.NET MVC?](https://pt.stackoverflow.com/q/93717/101)
 
 # WinForms/WPF/Xamarin
 
