@@ -161,8 +161,8 @@
 - [Qual a diferença entre Count() e Length?](https://pt.stackoverflow.com/q/214598/101)
 - [Quais os prós e contras da implementação Task<List<Object>> sobre List<Object>](https://pt.stackoverflow.com/q/77759/101)
 
-
 # IO
+
 
 - [O que é um DataSet e qual sua função?](https://pt.stackoverflow.com/q/283532/101)
 - [Como obter o tipo de codificação de um arquivo?](https://pt.stackoverflow.com/q/252001/101)
