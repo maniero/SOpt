@@ -76,6 +76,7 @@
 - [Construtores no PHP 7](https://pt.stackoverflow.com/q/287802/101)
 - [O tamanho de uma função afeta a performance e consumo de memória?](https://pt.stackoverflow.com/q/31485/101)
 - [Deveríamos utilizar todas variáveis como privadas?](https://pt.stackoverflow.com/q/202227/101)
+- [Usar uma classe PHP sem instanciá-la numa variável é a mesma coisa que chamar uma função?](https://pt.stackoverflow.com/q/315511/101)
 
 # Library
 
