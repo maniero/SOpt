@@ -120,6 +120,7 @@
 - [É obrigatório colocar os mesmos atributos em construtores diferentes?](https://pt.stackoverflow.com/q/348132/101)
 - [É correto afirmar que o encapsulamento visa a coesão? Por que?](https://pt.stackoverflow.com/q/96656/101)
 - [Como funciona na teoria o padrão de projeto Composite?](https://pt.stackoverflow.com/q/377303/101)
+- [Em qual ordem dispor os métodos de uma classe Java?](https://pt.stackoverflow.com/q/444407/101)
 
 # Misc
 
