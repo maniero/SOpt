@@ -2,6 +2,8 @@
 
 - [Principal](https://github.com/maniero/SOpt/blob/master/Conceptual.md)
 
+- # General
+
 - [O que o C++ pode fazer que o C# não pode?](https://pt.stackoverflow.com/q/7740/101)
 - [O que são os arquivos com extensão .cpp e .h?](https://pt.stackoverflow.com/q/240579/101)
 - [É possível criar uma aplicação em C/C++ para Android?](https://pt.stackoverflow.com/q/209455/101)
@@ -33,3 +35,5 @@
 - [O que é uma shared_ptr?](https://pt.stackoverflow.com/q/113554/101)
 - [É possível desenvolver uma aplicação em C++ no Visual Studio para rodar em Linux?](https://pt.stackoverflow.com/q/237662/101)
 - [Existe alguma padrão de organização de projeto para C++?](https://pt.stackoverflow.com/q/166592/101)
+- [Há maneira de criar programas cross platform em C++?](https://pt.stackoverflow.com/q/134027/101)
+- [Quais as diferenças e vantagens entre "typedef struct" e "struct"?](https://pt.stackoverflow.com/q/397436/101)
