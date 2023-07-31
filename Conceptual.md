@@ -214,6 +214,8 @@
 - [Herança é uma má prática para todas a linguagens?](https://pt.stackoverflow.com/q/173198/101)
 - [O que são antipadrões de projeto de software?](https://pt.stackoverflow.com/q/189442/101)
 - [Qual a relação de arquitetura de software e design patterns?](https://pt.stackoverflow.com/q/406232/101)
+- [MVC e DAO - Regras de Dados](https://pt.stackoverflow.com/q/155538/101)
+- [CRUD é um padrão de arquitetura?](https://pt.stackoverflow.com/q/469157/101)
 
 # Memory & Threading
 
@@ -284,6 +286,7 @@
 - [A desfragmentação do disco rígido pode auxiliar no desempenho de uma aplicação do meu servidor?](https://pt.stackoverflow.com/q/103418/101)
 - [O que é ABI? Tem alguma relação com API?](https://pt.stackoverflow.com/q/187944/101)
 - [O que é COM (Component Object Model)?](https://pt.stackoverflow.com/q/198929/101)
+- [Como funcionam as pastas temporárias?](https://pt.stackoverflow.com/q/221543/101)
 
 # Misc
 
