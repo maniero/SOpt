@@ -122,6 +122,7 @@
 - [Número de Colunas X desempenho em tabelas](https://pt.stackoverflow.com/q/489808/101)
 - [Colunas "inteligentes" no MySQL](https://pt.stackoverflow.com/q/65574/101)
 - [Qual a diferença entre a exceção MySQL Trigger e MySQL Event?](https://pt.stackoverflow.com/q/103700/101)
+- [Selecionar linhas randomicamente](https://pt.stackoverflow.com/q/261121/101)
 
 # PostgreSQL
 
@@ -148,6 +149,7 @@
 - [Como trabalhar com lock em registros SQL?](https://pt.stackoverflow.com/q/155038/101)
 - [Tamanho máximo, limite de conexões e qual versão do SQL Server devo usar em minha aplicação desktop](https://pt.stackoverflow.com/q/311001/101)
 - [Número de colunas influencia em performance?](https://pt.stackoverflow.com/q/94825/101)
+- [https://pt.stackoverflow.com/q/261121/101](https://pt.stackoverflow.com/q/296747/101)
 
 # SQLite
 
