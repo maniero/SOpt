@@ -61,6 +61,7 @@
 - [Sobrescrever métodos com base apenas no nome](https://pt.stackoverflow.com/q/139880/101)
 - [Uso de interfaces em classes do domínio?](https://pt.stackoverflow.com/q/252760/101)
 - [Instanciar classe ou usar métodos públicos?](https://pt.stackoverflow.com/q/177216/101)
+- [Como alterar nível de acesso de propriedade em uma herança?](https://pt.stackoverflow.com/q/421706/101)
 
 # Algorithms
 
@@ -200,6 +201,7 @@
 - ["foreach" do C# vs "ForEach()" do EF6](https://pt.stackoverflow.com/q/211053/101)
 - [Como funciona a lógica do Where no Entity Framework?](https://pt.stackoverflow.com/q/125811/101)
 - [Diferença performática de Any() e Count()](https://pt.stackoverflow.com/q/80177/101)
+- [Uma consulta LINQ retorna qual tipo de dado?](https://pt.stackoverflow.com/q/129810/101)
 
 # .NET
 
@@ -264,6 +266,7 @@
 - [ASP Clássico roda em servidor ASP.NET?](https://pt.stackoverflow.com/q/107943/101)
 - [Context Dispose deve ser usado no ASP.NET MVC?](https://pt.stackoverflow.com/q/119933/101)
 - [Porque usar o bloco using no ASP.NET MVC?](https://pt.stackoverflow.com/q/93717/101)
+- [O que é um ataque Over-posting?](https://pt.stackoverflow.com/q/255695/101)
 
 # WinForms/WPF/Xamarin
 
