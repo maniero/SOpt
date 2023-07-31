@@ -32,6 +32,7 @@
 - [O que são entities HTML?](https://pt.stackoverflow.com/q/178058/101)
 - [Qual é a finalidade do input do tipo "Image"?](https://pt.stackoverflow.com/q/198094/101)
 - [Qual a segurança em usar input "password" ou "text"?](https://pt.stackoverflow.com/q/151902/101)
+- [Como alterar um documento HTML 4 para HTML 5?](https://pt.stackoverflow.com/q/58613/101)
 
 # CSS
 
