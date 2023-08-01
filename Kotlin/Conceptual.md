@@ -13,3 +13,4 @@
 - [O que torna Kotlin uma linguagem mais rápida que o Java?](https://pt.stackoverflow.com/q/235643/101)
 - [Qual é o objetivo do internal lateinit?](https://pt.stackoverflow.com/q/227752/101)
 - [Quais as principais diferenças entre Kotlin e Scala?](https://pt.stackoverflow.com/q/319381/101)
+- [Qual e a diferenca entre Kotlin data class e Scala case class?](https://pt.stackoverflow.com/q/139839/101)
