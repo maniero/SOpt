@@ -1,5 +1,9 @@
 # Na página principal do repositório tem informações importantes para ler
 
+- [Principal](https://github.com/maniero/SOpt/blob/master/Conceptual.md)
+
+# General
+
 - [Qual é a principal diferença entre um Tuple e um List?](https://pt.stackoverflow.com/q/52799/101)
 - [Comando para finalizar o programa](https://pt.stackoverflow.com/q/257132/101)
 - [O que o "return" faz em Python?](https://pt.stackoverflow.com/q/115335/101)
@@ -33,3 +37,4 @@
 - [Complexidade de algoritmo em Python com dois loops](https://pt.stackoverflow.com/q/435917/101)
 - [Qual a diferença entre ", " e "+" no Python?](https://pt.stackoverflow.com/q/75075/101)
 - [Como o Python trata as variáveis estáticas e dinâmicas?](https://pt.stackoverflow.com/q/134750/101)
+- [Por que a classe aceita parâmetro e o método não?](https://pt.stackoverflow.com/q/474961/101)
