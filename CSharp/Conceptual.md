@@ -161,6 +161,7 @@
 - [Usar recursos da classe Timer (System.Timers) onera um serviço do Windows?](https://pt.stackoverflow.com/q/30601/101)
 - [Qual a diferença entre Count() e Length?](https://pt.stackoverflow.com/q/214598/101)
 - [Quais os prós e contras da implementação Task&lt;List&lt;Object&gt;&gt; sobre List&lt;Object&gt;](https://pt.stackoverflow.com/q/77759/101)
+- [Fazer substituição de strings com Regex é mais lento do que Replace()?](https://pt.stackoverflow.com/q/138705/101)
 
 # IO
 
