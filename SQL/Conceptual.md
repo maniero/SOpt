@@ -132,6 +132,7 @@
 - [No PostgreSQL, que campo utilizar para porcentagem?](https://pt.stackoverflow.com/q/52373/101)
 - [Como funciona a herança no PostgreSQL?](https://pt.stackoverflow.com/q/192911/101)
 - [Replicação unilateral no PostgreSQL](https://pt.stackoverflow.com/q/48886/101)
+- [O que é a técnica Multi-Version Concurrency Control no PostgreSQL?](https://pt.stackoverflow.com/q/192938/101)
 
 # SQL Server
 
