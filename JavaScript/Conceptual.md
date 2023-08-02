@@ -124,6 +124,7 @@
 - [Regra de campo obrigatório deve estar no backend ou frontend?](https://pt.stackoverflow.com/q/170899/101)
 - [Criar layout para aplicações PHP e .NET](https://pt.stackoverflow.com/q/110691/101)
 - [Como não permitir indexação por máquinas de busca?](https://pt.stackoverflow.com/q/51399/101)
+- [Carregamento de "páginas" externas via AJAX. O Google vai indexar?](https://pt.stackoverflow.com/q/77808/101)
   
 # Frameworks
   
