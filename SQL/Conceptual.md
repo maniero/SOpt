@@ -75,6 +75,7 @@
 - [Uma chave primária pode ser usada em uma chave estrangeira?](https://pt.stackoverflow.com/q/37080/101)
 - [Estou sofrendo ataques do tipo SQL Injection](https://pt.stackoverflow.com/q/103512/101)
 - [Valores que podem ser inseridos como chave primária](https://pt.stackoverflow.com/q/136398/101)
+- [Por que a linguagem SQL varia de SGBD para SGBD?](https://pt.stackoverflow.com/q/325933/101)
 
 # MySQL
 
@@ -202,6 +203,7 @@
 - [Quais as vantagens de se utilizar um banco de dados ao invés de um arquivo JSON para gravar dados?](https://pt.stackoverflow.com/q/524913/101)
 - [Como um índice melhora a performance de uma consulta?](https://pt.stackoverflow.com/q/183305/101)
 - [O que caracteriza um banco de dados?](https://pt.stackoverflow.com/q/191199/101)
+- [Aplicação web para várias pessoas](https://pt.stackoverflow.com/q/85591/101)
 
 # NoSQL
 
