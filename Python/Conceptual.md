@@ -38,3 +38,4 @@
 - [Qual a diferença entre ", " e "+" no Python?](https://pt.stackoverflow.com/q/75075/101)
 - [Como o Python trata as variáveis estáticas e dinâmicas?](https://pt.stackoverflow.com/q/134750/101)
 - [Por que a classe aceita parâmetro e o método não?](https://pt.stackoverflow.com/q/474961/101)
+- [Como optimizar meu acesso ao dicionário do Python?](https://pt.stackoverflow.com/q/271607/101)
