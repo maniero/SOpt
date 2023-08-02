@@ -121,6 +121,8 @@
 - [É correto afirmar que o encapsulamento visa a coesão? Por que?](https://pt.stackoverflow.com/q/96656/101)
 - [Como funciona na teoria o padrão de projeto Composite?](https://pt.stackoverflow.com/q/377303/101)
 - [Em qual ordem dispor os métodos de uma classe Java?](https://pt.stackoverflow.com/q/444407/101)
+- [Por que dar new no atributo da classe?](https://pt.stackoverflow.com/q/218403/101)
+- [Blocos estáticos, herança e construtores em Java](https://pt.stackoverflow.com/q/104512/101)
 
 # Misc
 
