@@ -77,6 +77,7 @@
 - [O tamanho de uma função afeta a performance e consumo de memória?](https://pt.stackoverflow.com/q/31485/101)
 - [Deveríamos utilizar todas variáveis como privadas?](https://pt.stackoverflow.com/q/202227/101)
 - [Usar uma classe PHP sem instanciá-la numa variável é a mesma coisa que chamar uma função?](https://pt.stackoverflow.com/q/315511/101)
+- [Aplicação do padrão Singleton para projeto de pequeno/grande porte](https://pt.stackoverflow.com/q/97547/101)
 
 # Library
 
@@ -103,6 +104,7 @@
 - [É indiferente usar SQL Server ou MySQL com PHP?](https://pt.stackoverflow.com/q/142157/101)
 - [A função para pegar o dia da semana do PHP tem limite?](https://pt.stackoverflow.com/q/312924/101)
 - [Números diferentes se tornam iguais após conversão com doubleval](https://pt.stackoverflow.com/q/78735/101)
+- [Lista de erros exception do PHP](https://pt.stackoverflow.com/q/39455/101)
 
 # Algorithm
 
