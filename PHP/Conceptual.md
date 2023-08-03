@@ -32,6 +32,7 @@
 - [Qual diferença entre echo, print, var_export no PHP?](https://pt.stackoverflow.com/q/245241/101)
 - [Como escrever variáveis no PHP?](https://pt.stackoverflow.com/q/98696/101)
 - [Comentários pesam?](https://pt.stackoverflow.com/q/199201/101)
+- [O que é um módulo no PHP?](https://pt.stackoverflow.com/q/187039/101)
 
 
 # General/OOP
