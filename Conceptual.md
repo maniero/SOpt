@@ -137,6 +137,7 @@
 - [O que é uma classe de serviço? E o que seria serviço nesse contexto?](https://pt.stackoverflow.com/q/423946/101)
 - [Qual a diferença entre ActiveRecord e Repository?](https://pt.stackoverflow.com/q/189082/101)
 - [Como funciona um teste de caixa preta?](https://pt.stackoverflow.com/q/404542/101)
+- [Diferença entre localização e internacionalização](https://pt.stackoverflow.com/q/98788/101)
 
 # Typing
 
@@ -214,6 +215,8 @@
 - [O que são Mutexes e quando é aconselhável usar este recurso?](https://pt.stackoverflow.com/q/336456/101)
 - [Paralelismo e Simultaneidade](https://pt.stackoverflow.com/q/166032/101)
 - [O que é segmentação de memória?](https://pt.stackoverflow.com/q/214744/101)
+- [Existe alguma relação de thread, pipeline e núcleos?](https://pt.stackoverflow.com/q/402750/101)
+- [Relação de threads com a quantidade de processadores](https://pt.stackoverflow.com/q/445500/101)
 
 # IDE
 
@@ -270,6 +273,7 @@
 - [O que é ABI? Tem alguma relação com API?](https://pt.stackoverflow.com/q/187944/101)
 - [O que é COM (Component Object Model)?](https://pt.stackoverflow.com/q/198929/101)
 - [Como funcionam as pastas temporárias?](https://pt.stackoverflow.com/q/221543/101)
+- [O tipo de um sistema operacional pode ser microkernel + monolítico?](https://pt.stackoverflow.com/q/38922/101)
 
 # Misc
 
