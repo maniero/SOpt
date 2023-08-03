@@ -49,6 +49,7 @@
 - [Palavra chave "new" no C#](https://pt.stackoverflow.com/q/337874/101)
 - [Qual é a finalidade do comando unsafe?](https://pt.stackoverflow.com/q/142030/101)
 - [Em um programa de console em C#, onde é definido a classe principal?](https://pt.stackoverflow.com/q/134954/101)
+- [Para que serve esse 'in' em C#?](https://pt.stackoverflow.com/q/309784/101)
 
 # OOP
 
@@ -162,6 +163,7 @@
 - [Qual a diferença entre Count() e Length?](https://pt.stackoverflow.com/q/214598/101)
 - [Quais os prós e contras da implementação Task&lt;List&lt;Object&gt;&gt; sobre List&lt;Object&gt;](https://pt.stackoverflow.com/q/77759/101)
 - [Fazer substituição de strings com Regex é mais lento do que Replace()?](https://pt.stackoverflow.com/q/138705/101)
+- [Como funciona o arredondamento do string format?](https://pt.stackoverflow.com/q/393127/101)
 
 # IO
 
@@ -189,6 +191,7 @@
 - [Escrever uma informação no console do browser através do .NET](https://pt.stackoverflow.com/q/106841/101)
 - [É obrigatório abrir e fechar conexão ao inserir dados?](https://pt.stackoverflow.com/q/245312/101)
 - [Fazendo o insert no SQL Server em um campo float?](https://pt.stackoverflow.com/q/227362/101)
+- [Qual a melhor maneira de se fazer autenticação no banco de dados?](https://pt.stackoverflow.com/q/251978/101)
 
 # LINQ
 
