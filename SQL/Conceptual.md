@@ -134,6 +134,7 @@
 - [Como funciona a herança no PostgreSQL?](https://pt.stackoverflow.com/q/192911/101)
 - [Replicação unilateral no PostgreSQL](https://pt.stackoverflow.com/q/48886/101)
 - [O que é a técnica Multi-Version Concurrency Control no PostgreSQL?](https://pt.stackoverflow.com/q/192938/101)
+- [É possível fazer a query "INSERT INTO tabela SET campo = 'valor' " no PostgreSQL?](https://pt.stackoverflow.com/q/265844/101)
 
 # SQL Server
 
