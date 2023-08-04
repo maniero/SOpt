@@ -164,6 +164,7 @@
 - [Quais os prós e contras da implementação Task&lt;List&lt;Object&gt;&gt; sobre List&lt;Object&gt;](https://pt.stackoverflow.com/q/77759/101)
 - [Fazer substituição de strings com Regex é mais lento do que Replace()?](https://pt.stackoverflow.com/q/138705/101)
 - [Como funciona o arredondamento do string format?](https://pt.stackoverflow.com/q/393127/101)
+- [Como determinar se um System.Collections.IEnumerable está vazio?](https://pt.stackoverflow.com/q/541983/101)
 
 # IO
 
@@ -206,6 +207,7 @@
 - [Como funciona a lógica do Where no Entity Framework?](https://pt.stackoverflow.com/q/125811/101)
 - [Diferença performática de Any() e Count()](https://pt.stackoverflow.com/q/80177/101)
 - [Uma consulta LINQ retorna qual tipo de dado?](https://pt.stackoverflow.com/q/129810/101)
+- [OrderBy em listas<T>](https://pt.stackoverflow.com/q/56499/101)
 
 # .NET
 
