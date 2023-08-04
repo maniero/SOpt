@@ -123,6 +123,7 @@
 - [Em qual ordem dispor os métodos de uma classe Java?](https://pt.stackoverflow.com/q/444407/101)
 - [Por que dar new no atributo da classe?](https://pt.stackoverflow.com/q/218403/101)
 - [Blocos estáticos, herança e construtores em Java](https://pt.stackoverflow.com/q/104512/101)
+- [Classe que implementa duas interfaces que possuem métodos de assinaturas idênticas](https://pt.stackoverflow.com/q/390094/101)
 
 # Misc
 
