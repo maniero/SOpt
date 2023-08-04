@@ -1,5 +1,7 @@
 # Na página principal do repositório tem informações importantes para ler
 
+- [Principal](https://github.com/maniero/SOpt/blob/master/Conceptual.md)
+
 # Syntax
 
 - [Qual finalidade do unsigned no C++](https://pt.stackoverflow.com/q/77418/101)
@@ -93,6 +95,7 @@
 - [Existe IDE para desenvolver interface gráfica GTK?](https://pt.stackoverflow.com/q/199949/101)
 - [Como o "printf()" funciona?](https://pt.stackoverflow.com/q/78189/101)
 - [Função gets() para valor float](https://pt.stackoverflow.com/q/128605/101)
+- [Qual a diferença entre %p e %d em linguagem C?](https://pt.stackoverflow.com/q/445047/101)
 
 # Misc
 
