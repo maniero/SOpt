@@ -74,6 +74,7 @@
 - [O que escrever em uma classe de exceção (Exception)?](https://pt.stackoverflow.com/q/88851/101)
 - [O que é codificação elegante?](https://pt.stackoverflow.com/q/173216/101)
 - [Como escrever siglas em camelCase?](https://pt.stackoverflow.com/q/400561/101)
+- [Comentários em expressões regulares?](https://pt.stackoverflow.com/q/73579/101)
 
 # Paradigms
 
