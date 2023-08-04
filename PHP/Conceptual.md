@@ -79,6 +79,8 @@
 - [Deveríamos utilizar todas variáveis como privadas?](https://pt.stackoverflow.com/q/202227/101)
 - [Usar uma classe PHP sem instanciá-la numa variável é a mesma coisa que chamar uma função?](https://pt.stackoverflow.com/q/315511/101)
 - [Aplicação do padrão Singleton para projeto de pequeno/grande porte](https://pt.stackoverflow.com/q/97547/101)
+- [É uma prática ruim usar interfaces vazias?](https://pt.stackoverflow.com/q/76511/101)
+- [Devo utilizar classe abstrata ou interface?](https://pt.stackoverflow.com/q/166530/101)
 
 # Library
 
