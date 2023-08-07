@@ -33,6 +33,9 @@
 - [Como escrever variáveis no PHP?](https://pt.stackoverflow.com/q/98696/101)
 - [Comentários pesam?](https://pt.stackoverflow.com/q/199201/101)
 - [O que é um módulo no PHP?](https://pt.stackoverflow.com/q/187039/101)
+- [É uma má prática sobrescrever variáveis declaradas como parâmetro de uma função?](https://pt.stackoverflow.com/q/80161/101)
+- [Atribuir tipo para parâmetros](https://pt.stackoverflow.com/q/53475/101)
+- [Para que serve o operador ~ (til) no PHP?](https://pt.stackoverflow.com/q/77924/101)
 
 
 # General/OOP
@@ -81,6 +84,8 @@
 - [Aplicação do padrão Singleton para projeto de pequeno/grande porte](https://pt.stackoverflow.com/q/97547/101)
 - [É uma prática ruim usar interfaces vazias?](https://pt.stackoverflow.com/q/76511/101)
 - [Devo utilizar classe abstrata ou interface?](https://pt.stackoverflow.com/q/166530/101)
+- [Extensão .Class no arquivos de PHP](https://pt.stackoverflow.com/q/266120/101)
+- [Quando uso o método __construct não preciso usar o get; set?](https://pt.stackoverflow.com/q/276273/101)
 
 # Library
 
