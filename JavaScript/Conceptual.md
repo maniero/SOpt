@@ -125,6 +125,8 @@
 - [Criar layout para aplicações PHP e .NET](https://pt.stackoverflow.com/q/110691/101)
 - [Como não permitir indexação por máquinas de busca?](https://pt.stackoverflow.com/q/51399/101)
 - [Carregamento de "páginas" externas via AJAX. O Google vai indexar?](https://pt.stackoverflow.com/q/77808/101)
+- [Como fazer o Google entender meus Links?](https://pt.stackoverflow.com/q/93419/101)
+- [Como evitar que um site seja listado no Google?](https://pt.stackoverflow.com/q/78790/101)
   
 # Frameworks
   
