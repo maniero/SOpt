@@ -241,6 +241,7 @@
 - [C++ com C#, é possível?](https://pt.stackoverflow.com/q/69742/101)
 - [Como criar um executável monolítico da aplicação .NET?](https://pt.stackoverflow.com/q/192912/101)
 - [Entendendo estruturas no arquivo AssemblyInfo.cs](https://pt.stackoverflow.com/q/156167/101)
+- [.NET Core auto executável](https://pt.stackoverflow.com/q/230534/101)
 
 # ASP.NET
 
