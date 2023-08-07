@@ -87,6 +87,7 @@
 - [O que é paradigma?](https://pt.stackoverflow.com/q/141624/101)
 - [O que são e quais são as principais diferenças entre Programação Funcional e Programação Reativa?](https://pt.stackoverflow.com/q/319368/101)
 - [Qual é a diferença entre metaprogramação e reflexão?](https://pt.stackoverflow.com/q/276112/101)
+- [O que é programação orientada a protocolo?](https://pt.stackoverflow.com/q/241691/101)
 
 # Engineering
 
@@ -299,6 +300,8 @@
 - [Como os antivírus analisam meu programa?](https://pt.stackoverflow.com/q/247586/101)
 - [Como funciona o licenciamento de software?](https://pt.stackoverflow.com/q/46063/101)
 - [Como se chama a técnica de esconder componentes para assegurar informações?](https://pt.stackoverflow.com/q/46057/101)
+- [Planejamento de interface de usuário](https://pt.stackoverflow.com/q/45794/101)
+- [Ainda faz sentido usar a Metáfora do Desktop?](https://pt.stackoverflow.com/q/359297/101)
 
 # Terminology
 
@@ -353,3 +356,4 @@
 - [O que são falsos-positivos em programação?](https://pt.stackoverflow.com/q/351665/101)
 - [O que são as RFCs?](https://pt.stackoverflow.com/q/364753/101)
 - [Tecnologia, Plataforma e Linguagem, o que são e como se relacionam?](https://pt.stackoverflow.com/q/266499/101)
+- [O que é Leaky abstraction (Vazamento de abstração)?](https://pt.stackoverflow.com/q/354926/101)
