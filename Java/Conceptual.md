@@ -47,6 +47,8 @@
 - [Importando o pacote java.lang.*](https://pt.stackoverflow.com/q/352947/101)
 - [Diferença de desempenho entre várias condições em um IF ou vários IF's separadamente?](https://pt.stackoverflow.com/q/101712/101)
 - [Método close() nos blocos try e catch é necessário?](https://pt.stackoverflow.com/q/317600/101)
+- [Vantagem em dar null em uma variável no Android](https://pt.stackoverflow.com/q/224474/101)
+- [Criar exceções personalizadas mais específicas ou mais genéricas?](https://pt.stackoverflow.com/q/435767/101)
 
 # Library
 
