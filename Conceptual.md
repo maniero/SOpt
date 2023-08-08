@@ -140,6 +140,7 @@
 - [Qual a diferença entre ActiveRecord e Repository?](https://pt.stackoverflow.com/q/189082/101)
 - [Como funciona um teste de caixa preta?](https://pt.stackoverflow.com/q/404542/101)
 - [Diferença entre localização e internacionalização](https://pt.stackoverflow.com/q/98788/101)
+- [Qual o profissional e a área específica que definem o layout dos dados em arquivos em um projeto de software?](https://pt.stackoverflow.com/q/210111/101)
 
 # Typing
 
