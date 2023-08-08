@@ -82,6 +82,7 @@
 - [Exceções consomem muito processamento. Verdade ou lenda?](https://pt.stackoverflow.com/q/5888/101)
 - [Preciso usar o try/catch em toda a cadeia de um processo?](https://pt.stackoverflow.com/q/128763/101)
 - [Devo usar um "try-catch" para identificar se uma senha está errada?](https://pt.stackoverflow.com/q/141899/101)
+- [Quando usar o "try catch" em aplicação com camadas?](https://pt.stackoverflow.com/q/345199/101)
 
 # Methods
 
@@ -242,6 +243,7 @@
 - [Como criar um executável monolítico da aplicação .NET?](https://pt.stackoverflow.com/q/192912/101)
 - [Entendendo estruturas no arquivo AssemblyInfo.cs](https://pt.stackoverflow.com/q/156167/101)
 - [.NET Core auto executável](https://pt.stackoverflow.com/q/230534/101)
+- [Qual tipo de biblioteca do .NET devo escolher em projeto C#?](https://pt.stackoverflow.com/q/417864/101)
 
 # ASP.NET
 
@@ -294,6 +296,7 @@
 - [O que são namespaces no XML?](https://pt.stackoverflow.com/q/140264/101)
 - [Desenvolvimento C# Mobile precisa de Mac?](https://pt.stackoverflow.com/q/35337/101)
 - [Como a Unity utiliza C# no Android?](https://pt.stackoverflow.com/q/257044/101)
+- [Qual a diferença entre Table e Matrix e List no Report View?](https://pt.stackoverflow.com/q/276677/101)
 
 # Visual Studio
 
@@ -315,3 +318,4 @@
 - [Preciso usar Visual Studio para programar em C#?](https://pt.stackoverflow.com/q/336241/101)
 - [https://pt.stackoverflow.com/q/458760/101](https://pt.stackoverflow.com/q/137185/101)
 - [Como ver os valores das variáveis em tempo de execução?](https://pt.stackoverflow.com/q/180742/101)
+- [Como remover uma extensão do Visual Studio 2010?](https://pt.stackoverflow.com/q/52448/101)
