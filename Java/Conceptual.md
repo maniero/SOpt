@@ -151,3 +151,4 @@
 - [O que são as JEPs no Java?](https://pt.stackoverflow.com/q/346444/101)
 - [O que é a GraalVM?](https://pt.stackoverflow.com/q/325531/101)
 - [Como modelar Produto/Estoque?](https://pt.stackoverflow.com/q/124301/101)
+- [Diferenças entre Java e Scala](https://pt.stackoverflow.com/q/349273/101)
