@@ -38,3 +38,4 @@
 - [Há maneira de criar programas cross platform em C++?](https://pt.stackoverflow.com/q/134027/101)
 - [Quais as diferenças e vantagens entre "typedef struct" e "struct"?](https://pt.stackoverflow.com/q/397436/101)
 - [A estrutura std::map em C++ é uma árvore?](https://pt.stackoverflow.com/q/153101/101)
+- [Alocação de objetos e ponteiros](https://pt.stackoverflow.com/q/57006/101)
