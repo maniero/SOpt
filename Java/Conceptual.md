@@ -68,6 +68,7 @@
 - [Melhor performance para poucos acessos: HashMap ou TreeMap?](https://pt.stackoverflow.com/q/179852/101)
 - [Problemas com thread](https://pt.stackoverflow.com/q/18799/101)
 - [Pra que serve Runnable?](https://pt.stackoverflow.com/q/124638/101)
+- [Por que é necessário fechar arquivo?](https://pt.stackoverflow.com/q/259469/101)
 
 # String & Collencions
 
