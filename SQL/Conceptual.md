@@ -207,6 +207,7 @@
 - [Como um índice melhora a performance de uma consulta?](https://pt.stackoverflow.com/q/183305/101)
 - [O que caracteriza um banco de dados?](https://pt.stackoverflow.com/q/191199/101)
 - [Aplicação web para várias pessoas](https://pt.stackoverflow.com/q/85591/101)
+- [Como implementar o padrão Observer na prática, com banco de dados?](https://pt.stackoverflow.com/q/89083/101)
 
 # NoSQL
 
