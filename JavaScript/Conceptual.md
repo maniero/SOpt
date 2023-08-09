@@ -127,6 +127,7 @@
 - [Carregamento de "páginas" externas via AJAX. O Google vai indexar?](https://pt.stackoverflow.com/q/77808/101)
 - [Como fazer o Google entender meus Links?](https://pt.stackoverflow.com/q/93419/101)
 - [Como evitar que um site seja listado no Google?](https://pt.stackoverflow.com/q/78790/101)
+- [Criar site de notícias dinâmico otimizado para o Google](https://pt.stackoverflow.com/q/89083/101)
   
 # Frameworks
   
