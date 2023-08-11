@@ -94,6 +94,7 @@
 - [Método para executar ao destruir instância de uma classe](https://pt.stackoverflow.com/q/41175/101)
 - [Quando não retornar Task em métodos async?](https://pt.stackoverflow.com/q/219433/101)
 - [Por que os métodos implementados de uma interface não podem ser privados?](https://pt.stackoverflow.com/q/58891/101)
+- [É correto chamar um método, e passar seus parametros null?](https://pt.stackoverflow.com/q/215845/101)
 
 # Memory Managemnent
 
@@ -278,6 +279,7 @@
 - [Context Dispose deve ser usado no ASP.NET MVC?](https://pt.stackoverflow.com/q/119933/101)
 - [Porque usar o bloco using no ASP.NET MVC?](https://pt.stackoverflow.com/q/93717/101)
 - [O que é um ataque Over-posting?](https://pt.stackoverflow.com/q/255695/101)
+- [Servidor de aplicação](https://pt.stackoverflow.com/q/155655/101)
 
 # WinForms/WPF/Xamarin/Unity
 
