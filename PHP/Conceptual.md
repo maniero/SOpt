@@ -90,6 +90,7 @@
 - [Devo utilizar classe abstrata ou interface?](https://pt.stackoverflow.com/q/166530/101)
 - [Extensão .Class no arquivos de PHP](https://pt.stackoverflow.com/q/266120/101)
 - [Quando uso o método __construct não preciso usar o get; set?](https://pt.stackoverflow.com/q/276273/101)
+- [Como funciona o destrutor (método "__destruct") no PHP?](https://pt.stackoverflow.com/q/256549/101)
 
 # Library
 
