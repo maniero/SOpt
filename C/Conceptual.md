@@ -39,6 +39,7 @@
 - [Em C, declarar variáveis no meio de um bloco de código podem levar o programa à um comportamento indefinido?](https://pt.stackoverflow.com/q/304190/101)
 - [Intervalo das variáveis em C](https://pt.stackoverflow.com/q/435074/101)
 - ["unsigned int" e "int", qual o mais rápido?](https://pt.stackoverflow.com/q/360780/101)
+- ["#define" define uma variável global?](https://pt.stackoverflow.com/q/347134/101)
 
 # Pointer & Memory
 
@@ -128,3 +129,4 @@
 - [O que é código objeto?](https://pt.stackoverflow.com/q/454415/101)
 - [Quais as diferenças práticas na portabilidade de código C e C++?](https://pt.stackoverflow.com/q/35355/101)
 - [Como tornar meus programas C++ multi-arquitetura (32 e 64 bits)?](https://pt.stackoverflow.com/q/142134/101)
+- [Utilização "bytes" e "bits"](https://pt.stackoverflow.com/q/359637/101)
