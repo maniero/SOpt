@@ -142,6 +142,7 @@
 - [Diferença entre localização e internacionalização](https://pt.stackoverflow.com/q/98788/101)
 - [Qual o profissional e a área específica que definem o layout dos dados em arquivos em um projeto de software?](https://pt.stackoverflow.com/q/210111/101)
 - [Por que são boas práticas a geração de código exclusivo de usuário?](https://pt.stackoverflow.com/q/432710/101)
+- [O que é UML? Para que serve?](https://pt.stackoverflow.com/q/507604/101)
 
 # Typing
 
@@ -205,6 +206,7 @@
 - [Qual a relação de arquitetura de software e design patterns?](https://pt.stackoverflow.com/q/406232/101)
 - [MVC e DAO - Regras de Dados](https://pt.stackoverflow.com/q/155538/101)
 - [CRUD é um padrão de arquitetura?](https://pt.stackoverflow.com/q/469157/101)
+- [Traits e mixins, o que são? Quando devo usá-los? Existem mecanismos semelhantes em outras linguagens?](https://pt.stackoverflow.com/q/279252/101)
 
 # Memory & Threading
 
@@ -280,6 +282,7 @@
 - [Como funcionam as pastas temporárias?](https://pt.stackoverflow.com/q/221543/101)
 - [O tipo de um sistema operacional pode ser microkernel + monolítico?](https://pt.stackoverflow.com/q/38922/101)
 - [or que não foi inventada uma linguagem de programação para substituir o C e o C++ para facilitar o desenvolvimento de sistemas operacionais?](https://pt.stackoverflow.com/q/335139/101)
+- [O que significa o "MZ" listado no início de código executável?](https://pt.stackoverflow.com/q/403699/101)
 
 # Misc
 
