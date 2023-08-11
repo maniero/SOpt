@@ -153,3 +153,4 @@
 - [O que é a GraalVM?](https://pt.stackoverflow.com/q/325531/101)
 - [Como modelar Produto/Estoque?](https://pt.stackoverflow.com/q/124301/101)
 - [Diferenças entre Java e Scala](https://pt.stackoverflow.com/q/349273/101)
+- [Como uma Java Virtual Machine escrita em Java funciona?](https://pt.stackoverflow.com/q/178563/101)
