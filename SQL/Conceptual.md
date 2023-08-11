@@ -51,6 +51,7 @@
 - [É melhor fazer uma requisição grande ao banco de dados ou várias pequenas?](https://pt.stackoverflow.com/q/395152/101)
 - [Qual é o nome dado para a quantidade de colunas em uma tabela?](https://pt.stackoverflow.com/q/211004/101)
 - [MER - Confusão temporal de cardinalidade](https://pt.stackoverflow.com/q/83048/101)
+- [Qual a diferença entre parâmetros e atributos na criação de tabelas em um sistema?](https://pt.stackoverflow.com/q/402547/101)
 
 # SQL
 
@@ -168,6 +169,8 @@
 - [Impedir DROP TABLE](https://pt.stackoverflow.com/q/38786/101)
 - [Criptografar SQLite3](https://pt.stackoverflow.com/q/112858/101)
 - [Armazenar vetor no SQLite](https://pt.stackoverflow.com/q/118702/101)
+- [SQLite sendo acessado remotamente](https://pt.stackoverflow.com/q/150975/101)
+- [Tamanho ocupado em disco por uma tabela no SQLite](https://pt.stackoverflow.com/q/134414/101)
 
 # Oracle
 
