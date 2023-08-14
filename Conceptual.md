@@ -18,6 +18,8 @@
 - [Diferença entre compilação Ahead-Of-Time e Just-in-Time](https://pt.stackoverflow.com/q/356739/101)
 - [É possível editar e re-compilar revertendo o código-fonte?](https://pt.stackoverflow.com/q/177921/101)
 - [Existe diferença entre um compilador e um interpretador?](https://pt.stackoverflow.com/q/190209/101)
+- [Qual o conceito de máquina virtual? Quais são os pontos positivos e negativos?](https://pt.stackoverflow.com/q/332789/101)
+- [Como surgiu a CLI (command-line interface) e qual foi essa necessidade?](https://pt.stackoverflow.com/q/311957/101)
 
 # Languages
 
@@ -207,6 +209,7 @@
 - [MVC e DAO - Regras de Dados](https://pt.stackoverflow.com/q/155538/101)
 - [CRUD é um padrão de arquitetura?](https://pt.stackoverflow.com/q/469157/101)
 - [Traits e mixins, o que são? Quando devo usá-los? Existem mecanismos semelhantes em outras linguagens?](https://pt.stackoverflow.com/q/279252/101)
+- [Design pattern Observer aplicado em eventos](https://pt.stackoverflow.com/q/45020/101)
 
 # Memory & Threading
 
