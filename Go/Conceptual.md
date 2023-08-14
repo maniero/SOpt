@@ -6,3 +6,4 @@
 
 - [Quais são as principais características da linguagem Go?](https://pt.stackoverflow.com/q/227429/101)
 - [Precisão de float64](https://pt.stackoverflow.com/q/333897/101)
+- [Função de Go com parâmetros](https://pt.stackoverflow.com/q/343364/101)
