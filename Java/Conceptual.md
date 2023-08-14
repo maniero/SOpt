@@ -89,6 +89,8 @@
 - [Como eu crio um ArrayList de objetos com cada posição contendo um novo objeto?](https://pt.stackoverflow.com/q/387004/101)
 - [Diferença entre HashMap e TreeMap](https://pt.stackoverflow.com/q/341931/101)
 - [Por que é melhor usar char[] do que String para senhas?](https://pt.stackoverflow.com/q/234733/101)
+- [Usar ArrayList ou LinkedList](https://pt.stackoverflow.com/q/341178/101)
+- [Por que o hashCode() de String em Java usa 31 como multiplicador?](https://pt.stackoverflow.com/q/353963/101)
 
 # Desktop
 
@@ -154,3 +156,4 @@
 - [Como modelar Produto/Estoque?](https://pt.stackoverflow.com/q/124301/101)
 - [Diferenças entre Java e Scala](https://pt.stackoverflow.com/q/349273/101)
 - [Como uma Java Virtual Machine escrita em Java funciona?](https://pt.stackoverflow.com/q/178563/101)
+- [O Garbage Collector remove todos objetos ou somente os que não tem referência?](https://pt.stackoverflow.com/q/344564/101)
