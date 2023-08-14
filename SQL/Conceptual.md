@@ -52,6 +52,8 @@
 - [Qual é o nome dado para a quantidade de colunas em uma tabela?](https://pt.stackoverflow.com/q/211004/101)
 - [MER - Confusão temporal de cardinalidade](https://pt.stackoverflow.com/q/83048/101)
 - [Qual a diferença entre parâmetros e atributos na criação de tabelas em um sistema?](https://pt.stackoverflow.com/q/402547/101)
+- [Qual é a relação entre DER e banco de dados relacionais?](https://pt.stackoverflow.com/q/159718/101)
+- [Uso da Generalização/Especialização na modelagem de dados](https://pt.stackoverflow.com/q/339418/101)
 
 # SQL
 
@@ -211,6 +213,7 @@
 - [O que caracteriza um banco de dados?](https://pt.stackoverflow.com/q/191199/101)
 - [Aplicação web para várias pessoas](https://pt.stackoverflow.com/q/85591/101)
 - [Como implementar o padrão Observer na prática, com banco de dados?](https://pt.stackoverflow.com/q/89083/101)
+- [Banco de dados deve seguir o padrão OO?](https://pt.stackoverflow.com/q/83702/101)
 
 # NoSQL
 
