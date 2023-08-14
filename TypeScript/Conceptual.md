@@ -11,3 +11,4 @@
 - [Por que usamos o tipo "static" em uma função no TypeScript?](https://pt.stackoverflow.com/q/419692/101)
 - [Omitir passagem de parâmetro](https://pt.stackoverflow.com/q/365879/101)
 - [Modificador de acesso "private" em TypeScript](https://pt.stackoverflow.com/q/345372/101)
+- [Por que no Angular usamos a tipagem ": void"?](https://pt.stackoverflow.com/q/255805/101)
