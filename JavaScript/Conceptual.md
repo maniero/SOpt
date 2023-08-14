@@ -62,6 +62,7 @@
 - [Em que linguagem o HTTP foi escrito quando implementado na Web?](https://pt.stackoverflow.com/q/177519/101)
 - [Misturar HTTP com HTTPS é um problema?](https://pt.stackoverflow.com/q/246731/101)
 - [Dados recebidos de HTTPS vem encriptado?](https://pt.stackoverflow.com/q/49842/101)
+- [Qual o melhor tipo de compactação de arquivos para otimizar resposta de servidores?](https://pt.stackoverflow.com/q/255805/101)
 
 # JavaScript
   
