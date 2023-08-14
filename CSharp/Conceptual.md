@@ -51,6 +51,7 @@
 - [Em um programa de console em C#, onde é definido a classe principal?](https://pt.stackoverflow.com/q/134954/101)
 - [Para que serve esse 'in' em C#?](https://pt.stackoverflow.com/q/309784/101)
 - [É possível um programa modificar o seu próprio código?](https://pt.stackoverflow.com/q/219017/101)
+- [Classes estáticas são compartilhadas por threads?](https://pt.stackoverflow.com/q/135357/101)
 
 # OOP
 
@@ -301,6 +302,8 @@
 - [Desenvolvimento C# Mobile precisa de Mac?](https://pt.stackoverflow.com/q/35337/101)
 - [Como a Unity utiliza C# no Android?](https://pt.stackoverflow.com/q/257044/101)
 - [Qual a diferença entre Table e Matrix e List no Report View?](https://pt.stackoverflow.com/q/276677/101)
+- [Usar resolução de tela diferente de acordo com o monitor](https://pt.stackoverflow.com/q/399119/101)
+- [O que significa dizer que, um app é WebView? Qual a relação com Xamarin?](https://pt.stackoverflow.com/q/366772/101)
 
 # Visual Studio
 
