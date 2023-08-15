@@ -130,6 +130,7 @@
 - [Como evitar que um site seja listado no Google?](https://pt.stackoverflow.com/q/78790/101)
 - [Criar site de notícias dinâmico otimizado para o Google](https://pt.stackoverflow.com/q/89083/101)
 - [WebSQL será mesmo descontinuado?](https://pt.stackoverflow.com/q/109030/101)
+- [O que são URLs amigáveis?](https://pt.stackoverflow.com/q/128341/101)
   
 # Frameworks
   
