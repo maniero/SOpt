@@ -52,6 +52,7 @@
 - [Para que serve esse 'in' em C#?](https://pt.stackoverflow.com/q/309784/101)
 - [É possível um programa modificar o seu próprio código?](https://pt.stackoverflow.com/q/219017/101)
 - [Classes estáticas são compartilhadas por threads?](https://pt.stackoverflow.com/q/135357/101)
+- [Como fazer um switch em C#?](https://pt.stackoverflow.com/q/346695/101)
 
 # OOP
 
@@ -65,6 +66,7 @@
 - [Uso de interfaces em classes do domínio?](https://pt.stackoverflow.com/q/252760/101)
 - [Instanciar classe ou usar métodos públicos?](https://pt.stackoverflow.com/q/177216/101)
 - [Como alterar nível de acesso de propriedade em uma herança?](https://pt.stackoverflow.com/q/421706/101)
+- [O que é uma classe de tipo "class MinhaClasseExemplo<T> where T: new(){}"?](https://pt.stackoverflow.com/q/106556/101)
 
 # Algorithms
 
@@ -248,6 +250,7 @@
 - [Entendendo estruturas no arquivo AssemblyInfo.cs](https://pt.stackoverflow.com/q/156167/101)
 - [.NET Core auto executável](https://pt.stackoverflow.com/q/230534/101)
 - [Qual tipo de biblioteca do .NET devo escolher em projeto C#?](https://pt.stackoverflow.com/q/417864/101)
+- [Como proteger uma Assembly de descompilação?](https://pt.stackoverflow.com/q/117519/101)
 
 # ASP.NET
 
