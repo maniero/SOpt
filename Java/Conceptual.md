@@ -129,6 +129,7 @@
 - [Por que dar new no atributo da classe?](https://pt.stackoverflow.com/q/218403/101)
 - [Blocos estáticos, herança e construtores em Java](https://pt.stackoverflow.com/q/104512/101)
 - [Classe que implementa duas interfaces que possuem métodos de assinaturas idênticas](https://pt.stackoverflow.com/q/390094/101)
+- [Por que estou 'chamando' o método da subclasse?](https://pt.stackoverflow.com/q/327661/101)
 
 # Misc
 
