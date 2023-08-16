@@ -210,6 +210,7 @@
 - [CRUD é um padrão de arquitetura?](https://pt.stackoverflow.com/q/469157/101)
 - [Traits e mixins, o que são? Quando devo usá-los? Existem mecanismos semelhantes em outras linguagens?](https://pt.stackoverflow.com/q/279252/101)
 - [Design pattern Observer aplicado em eventos](https://pt.stackoverflow.com/q/45020/101)
+- [Em relação à orientação a objetos, queries devem ter uma classe própria ou podem ficar em uma classe específica?](https://pt.stackoverflow.com/q/103382/101)
 
 # Memory & Threading
 
@@ -367,3 +368,4 @@
 - [O que são as RFCs?](https://pt.stackoverflow.com/q/364753/101)
 - [Tecnologia, Plataforma e Linguagem, o que são e como se relacionam?](https://pt.stackoverflow.com/q/266499/101)
 - [O que é Leaky abstraction (Vazamento de abstração)?](https://pt.stackoverflow.com/q/354926/101)
+- [O que significam os termos CPU-time e Wall-clock-time?](https://pt.stackoverflow.com/q/188002/101)
