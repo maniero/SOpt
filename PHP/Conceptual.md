@@ -36,6 +36,7 @@
 - [É uma má prática sobrescrever variáveis declaradas como parâmetro de uma função?](https://pt.stackoverflow.com/q/80161/101)
 - [Atribuir tipo para parâmetros](https://pt.stackoverflow.com/q/53475/101)
 - [Para que serve o operador ~ (til) no PHP?](https://pt.stackoverflow.com/q/77924/101)
+- [Como funcionará o operador de atribuição de coalescência nula no PHP 7.4?](https://pt.stackoverflow.com/q/399929/101)
 
 
 # General
