@@ -211,6 +211,7 @@
 - [Traits e mixins, o que são? Quando devo usá-los? Existem mecanismos semelhantes em outras linguagens?](https://pt.stackoverflow.com/q/279252/101)
 - [Design pattern Observer aplicado em eventos](https://pt.stackoverflow.com/q/45020/101)
 - [Em relação à orientação a objetos, queries devem ter uma classe própria ou podem ficar em uma classe específica?](https://pt.stackoverflow.com/q/103382/101)
+- [Exemplo real do uso de encapsulamento](https://pt.stackoverflow.com/q/293801/101)
 
 # Memory & Threading
 
@@ -287,6 +288,7 @@
 - [O tipo de um sistema operacional pode ser microkernel + monolítico?](https://pt.stackoverflow.com/q/38922/101)
 - [or que não foi inventada uma linguagem de programação para substituir o C e o C++ para facilitar o desenvolvimento de sistemas operacionais?](https://pt.stackoverflow.com/q/335139/101)
 - [O que significa o "MZ" listado no início de código executável?](https://pt.stackoverflow.com/q/403699/101)
+- [Por que um programa compilado para Linux não roda no Windows?](https://pt.stackoverflow.com/q/467538/101)
 
 # Misc
 
