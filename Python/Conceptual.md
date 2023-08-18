@@ -40,3 +40,4 @@
 - [Por que a classe aceita parâmetro e o método não?](https://pt.stackoverflow.com/q/474961/101)
 - [Como optimizar meu acesso ao dicionário do Python?](https://pt.stackoverflow.com/q/271607/101)
 - [Atribuição e OO em Python](https://pt.stackoverflow.com/q/223398/101)
+- [Por que em Python existem funções onde o parâmetro deve ser posto entre parênteses e outras devem ser postas com um ponto e o nome da função?](https://pt.stackoverflow.com/q/467333/101)
