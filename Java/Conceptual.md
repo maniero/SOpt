@@ -91,6 +91,8 @@
 - [Por que é melhor usar char[] do que String para senhas?](https://pt.stackoverflow.com/q/234733/101)
 - [Usar ArrayList ou LinkedList](https://pt.stackoverflow.com/q/341178/101)
 - [Por que o hashCode() de String em Java usa 31 como multiplicador?](https://pt.stackoverflow.com/q/353963/101)
+- [Parâmetros com vetores em Java são sempre por referência?](https://pt.stackoverflow.com/q/396843/101)
+- [Por que não se deve iterar um hashmap?](https://pt.stackoverflow.com/q/268305/101)
 
 # Desktop
 
