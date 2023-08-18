@@ -40,6 +40,7 @@
 - [Intervalo das variáveis em C](https://pt.stackoverflow.com/q/435074/101)
 - ["unsigned int" e "int", qual o mais rápido?](https://pt.stackoverflow.com/q/360780/101)
 - ["#define" define uma variável global?](https://pt.stackoverflow.com/q/347134/101)
+- [Variável na main() é global?](https://pt.stackoverflow.com/q/83036/101)
 
 # Pointer & Memory
 
