@@ -109,6 +109,8 @@
 - [É possível criar um aplicação inteiramente com JavaScript?](https://pt.stackoverflow.com/q/307734/101)
 - [É possível criar um site sem linguagem de marcação?](https://pt.stackoverflow.com/q/238915/101)
 - [Qual a diferença entre parseInt() e operador + antes de uma string?](https://pt.stackoverflow.com/q/333392/101)
+- [Como implementar um destrutor em JavaScript?](https://pt.stackoverflow.com/q/139120/101)
+- [Diferença entre validação e máscara](https://pt.stackoverflow.com/q/172358/101)
   
 # High level
   
