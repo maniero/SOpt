@@ -46,7 +46,7 @@ Minhas opiniões não refletem ninguém ligado a mim e é o que eu pensava naque
 
 Ah, sei que não sou comediante, mas eu sou bem humorado, também lamento se não faço perceber isso :D Minhas *trollagens* são para fazer graça, nunca para causar confusão.
 
-Por fim deixo uma fábula para entender porque não vou te responder sem demostrar que merece:
+Por fim deixo uma fábula para entender porque não vou te responder sem demostrar que merece, é tudo uma questão prática:
 
 ![Tigre e um burro sobre a grama](https://i.stack.imgur.com/nA4ZW.png)
 
@@ -76,7 +76,7 @@ Por fim deixo uma fábula para entender porque não vou te responder sem demostr
 
 [Brasil é o país com a 2a. pior percepção da realidade][2]. Quase todo mundo concorda com isso e que os outros realmente tem a percepção afetada. A conta não fecha. As pessoas precisam se ater mais aos fatos. Isto afeta a vida de todos mais do que imaginam, mais um fator de fuga da realidade. Há uma tendência de quanto mais confiante mais erra.
 
-Eu me desculpo por ter dificuldades de lidar com analfabetos funcionais. Um dia eu explico porque isso acontece, enquanto isso (provavelmente) deixo você achando coisas horríveis sobre mim.
+Eu me desculpo por ter dificuldades de lidar com certos tipos de pessoas. Um dia eu explico porque isso acontece, enquanto isso (provavelmente) deixo você achando o que quiser sobre mim.
 
 Obrigado por ler, ainda mais se compreender.
 
