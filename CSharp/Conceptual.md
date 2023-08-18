@@ -251,6 +251,7 @@
 - [.NET Core auto executável](https://pt.stackoverflow.com/q/230534/101)
 - [Qual tipo de biblioteca do .NET devo escolher em projeto C#?](https://pt.stackoverflow.com/q/417864/101)
 - [Como proteger uma Assembly de descompilação?](https://pt.stackoverflow.com/q/117519/101)
+- [Como mexer em código em uma DLL?](https://pt.stackoverflow.com/q/78425/101)
 
 # ASP.NET
 
@@ -284,6 +285,7 @@
 - [Porque usar o bloco using no ASP.NET MVC?](https://pt.stackoverflow.com/q/93717/101)
 - [O que é um ataque Over-posting?](https://pt.stackoverflow.com/q/255695/101)
 - [Servidor de aplicação](https://pt.stackoverflow.com/q/155655/101)
+- [Qual a vantagem de se utilzar Tag Helpers no ASP.NET Core?](https://pt.stackoverflow.com/q/106124/101)
 
 # WinForms/WPF/Xamarin/Unity
 
