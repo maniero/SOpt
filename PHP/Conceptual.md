@@ -37,6 +37,8 @@
 - [Atribuir tipo para parâmetros](https://pt.stackoverflow.com/q/53475/101)
 - [Para que serve o operador ~ (til) no PHP?](https://pt.stackoverflow.com/q/77924/101)
 - [Como funcionará o operador de atribuição de coalescência nula no PHP 7.4?](https://pt.stackoverflow.com/q/399929/101)
+- [Por que "echo" aceita parênteses no PHP?](https://pt.stackoverflow.com/q/344902/101)
+- [Variável global personalizada](https://pt.stackoverflow.com/q/102652/101)
 
 
 # General
