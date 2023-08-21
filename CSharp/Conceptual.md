@@ -200,6 +200,7 @@
 - [Fazendo o insert no SQL Server em um campo float?](https://pt.stackoverflow.com/q/227362/101)
 - [Qual a melhor maneira de se fazer autenticação no banco de dados?](https://pt.stackoverflow.com/q/251978/101)
 - [Quais os possíveis casos de uso de uma conexão persistente?](https://pt.stackoverflow.com/q/23615/101)
+- [Implementando o conceito de herança em banco de dados](https://pt.stackoverflow.com/q/225622/101)
 
 # LINQ
 
