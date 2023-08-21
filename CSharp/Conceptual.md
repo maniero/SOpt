@@ -171,6 +171,7 @@
 - [Fazer substituição de strings com Regex é mais lento do que Replace()?](https://pt.stackoverflow.com/q/138705/101)
 - [Como funciona o arredondamento do string format?](https://pt.stackoverflow.com/q/393127/101)
 - [Como determinar se um System.Collections.IEnumerable está vazio?](https://pt.stackoverflow.com/q/541983/101)
+- [Em qual cenário é recomendado utilizar KeyedCollection no lugar de um Dictionary?](https://pt.stackoverflow.com/q/56001/101)
 
 # IO
 
