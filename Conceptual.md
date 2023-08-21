@@ -289,6 +289,7 @@
 - [or que não foi inventada uma linguagem de programação para substituir o C e o C++ para facilitar o desenvolvimento de sistemas operacionais?](https://pt.stackoverflow.com/q/335139/101)
 - [O que significa o "MZ" listado no início de código executável?](https://pt.stackoverflow.com/q/403699/101)
 - [Por que um programa compilado para Linux não roda no Windows?](https://pt.stackoverflow.com/q/467538/101)
+- [Até que ponto o hardware afeta a programação?](https://pt.stackoverflow.com/q/416213/101)
 
 # Misc
 
