@@ -54,6 +54,7 @@
 - [Qual a diferença entre parâmetros e atributos na criação de tabelas em um sistema?](https://pt.stackoverflow.com/q/402547/101)
 - [Qual é a relação entre DER e banco de dados relacionais?](https://pt.stackoverflow.com/q/159718/101)
 - [Uso da Generalização/Especialização na modelagem de dados](https://pt.stackoverflow.com/q/339418/101)
+- ["Herança" de tabela é uma prática ruim nesse caso?](https://pt.stackoverflow.com/q/247875/101)
 
 # SQL
 
