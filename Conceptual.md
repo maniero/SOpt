@@ -316,6 +316,7 @@
 - [Como se chama a técnica de esconder componentes para assegurar informações?](https://pt.stackoverflow.com/q/46057/101)
 - [Planejamento de interface de usuário](https://pt.stackoverflow.com/q/45794/101)
 - [Ainda faz sentido usar a Metáfora do Desktop?](https://pt.stackoverflow.com/q/359297/101)
+- [Como escolher um certificado digital? O que levar em conta?](https://pt.stackoverflow.com/q/76900/101)
 
 # Terminology
 
