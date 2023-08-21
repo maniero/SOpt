@@ -41,3 +41,4 @@
 - [Como optimizar meu acesso ao dicionário do Python?](https://pt.stackoverflow.com/q/271607/101)
 - [Atribuição e OO em Python](https://pt.stackoverflow.com/q/223398/101)
 - [Por que em Python existem funções onde o parâmetro deve ser posto entre parênteses e outras devem ser postas com um ponto e o nome da função?](https://pt.stackoverflow.com/q/467333/101)
+- [Diferencas entre Python e JavaScript em relação a arrays?](https://pt.stackoverflow.com/q/244255/101)
