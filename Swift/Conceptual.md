@@ -9,3 +9,4 @@
 - [Switch/case muito interessante em Swift - Quais outras linguagem suportam isso?](https://pt.stackoverflow.com/q/137912/101)
 - [É preciso de um computador MacOS para programar Swift 4 e ObjC?](https://pt.stackoverflow.com/q/319381/101)
 - [Declaração de variável com ! no final Swift 3](https://pt.stackoverflow.com/q/184944/101)
+- [O que são delegates?](https://pt.stackoverflow.com/q/278767/101)
