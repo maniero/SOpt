@@ -39,6 +39,7 @@
 - [Como funcionará o operador de atribuição de coalescência nula no PHP 7.4?](https://pt.stackoverflow.com/q/399929/101)
 - [Por que "echo" aceita parênteses no PHP?](https://pt.stackoverflow.com/q/344902/101)
 - [Variável global personalizada](https://pt.stackoverflow.com/q/102652/101)
+- [Sinal idêntico "===" é usado apenas em PHP? Por que?](https://pt.stackoverflow.com/q/186885/101)
 
 
 # General
