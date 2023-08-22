@@ -215,6 +215,7 @@
 - [Aplicação web para várias pessoas](https://pt.stackoverflow.com/q/85591/101)
 - [Como implementar o padrão Observer na prática, com banco de dados?](https://pt.stackoverflow.com/q/89083/101)
 - [Banco de dados deve seguir o padrão OO?](https://pt.stackoverflow.com/q/83702/101)
+- [Faz sentido armazenar o salt de uma senha com o próprio hash?](https://pt.stackoverflow.com/q/226726/101)
 
 # NoSQL
 
