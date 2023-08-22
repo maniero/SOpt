@@ -202,6 +202,7 @@
 - [Qual a melhor maneira de se fazer autenticação no banco de dados?](https://pt.stackoverflow.com/q/251978/101)
 - [Quais os possíveis casos de uso de uma conexão persistente?](https://pt.stackoverflow.com/q/23615/101)
 - [Implementando o conceito de herança em banco de dados](https://pt.stackoverflow.com/q/225622/101)
+- [O que é ADO.NET para C#?](https://pt.stackoverflow.com/q/90614/101)
 
 # LINQ
 
