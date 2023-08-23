@@ -375,3 +375,4 @@
 - [Tecnologia, Plataforma e Linguagem, o que são e como se relacionam?](https://pt.stackoverflow.com/q/266499/101)
 - [O que é Leaky abstraction (Vazamento de abstração)?](https://pt.stackoverflow.com/q/354926/101)
 - [O que significam os termos CPU-time e Wall-clock-time?](https://pt.stackoverflow.com/q/188002/101)
+- [O que são e como funcionam sinais?](https://pt.stackoverflow.com/q/352539/101)
