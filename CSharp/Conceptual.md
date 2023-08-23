@@ -54,6 +54,7 @@
 - [Classes estáticas são compartilhadas por threads?](https://pt.stackoverflow.com/q/135357/101)
 - [Como fazer um switch em C#?](https://pt.stackoverflow.com/q/346695/101)
 - [Linguagem imperativa incorporando elementos funcionais](https://pt.stackoverflow.com/q/344162/101)
+- [#region é um antipattern ou um code smell?](https://pt.stackoverflow.com/q/82413/101)
 
 # OOP
 
