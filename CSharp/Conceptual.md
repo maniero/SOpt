@@ -69,6 +69,7 @@
 - [Instanciar classe ou usar métodos públicos?](https://pt.stackoverflow.com/q/177216/101)
 - [Como alterar nível de acesso de propriedade em uma herança?](https://pt.stackoverflow.com/q/421706/101)
 - [O que é uma classe de tipo "class MinhaClasseExemplo<T> where T: new(){}"?](https://pt.stackoverflow.com/q/106556/101)
+- [Criar muitas classes estáticas impacta na performance do sistema?](https://pt.stackoverflow.com/q/291910/101)
 
 # Algorithms
 
