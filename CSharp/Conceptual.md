@@ -53,6 +53,7 @@
 - [É possível um programa modificar o seu próprio código?](https://pt.stackoverflow.com/q/219017/101)
 - [Classes estáticas são compartilhadas por threads?](https://pt.stackoverflow.com/q/135357/101)
 - [Como fazer um switch em C#?](https://pt.stackoverflow.com/q/346695/101)
+- [Linguagem imperativa incorporando elementos funcionais](https://pt.stackoverflow.com/q/344162/101)
 
 # OOP
 
