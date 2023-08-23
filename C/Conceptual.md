@@ -42,6 +42,7 @@
 - ["#define" define uma variável global?](https://pt.stackoverflow.com/q/347134/101)
 - [Variável na main() é global?](https://pt.stackoverflow.com/q/83036/101)
 - [Como é um array na memória?](https://pt.stackoverflow.com/q/527512/101)
+- [Qual é o tamanho de um "enum" em C?](https://pt.stackoverflow.com/q/180014/101)
 
 # Pointer & Memory
 
