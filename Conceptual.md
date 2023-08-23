@@ -213,6 +213,7 @@
 - [Em relação à orientação a objetos, queries devem ter uma classe própria ou podem ficar em uma classe específica?](https://pt.stackoverflow.com/q/103382/101)
 - [Exemplo real do uso de encapsulamento](https://pt.stackoverflow.com/q/293801/101)
 - [O que são Objetos Deus?](https://pt.stackoverflow.com/q/415961/101)
+- [Qual é a diferença entre mixins e herança?](https://pt.stackoverflow.com/q/275897/101)
 
 # Memory & Threading
 
