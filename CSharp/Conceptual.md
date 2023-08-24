@@ -55,6 +55,7 @@
 - [Como fazer um switch em C#?](https://pt.stackoverflow.com/q/346695/101)
 - [Linguagem imperativa incorporando elementos funcionais](https://pt.stackoverflow.com/q/344162/101)
 - [#region é um antipattern ou um code smell?](https://pt.stackoverflow.com/q/82413/101)
+- [A linguagem C# é recomendada para ser distribuída online com banco de dados?](https://pt.stackoverflow.com/q/111070/101)
 
 # OOP
 
@@ -90,6 +91,7 @@
 - [Preciso usar o try/catch em toda a cadeia de um processo?](https://pt.stackoverflow.com/q/128763/101)
 - [Devo usar um "try-catch" para identificar se uma senha está errada?](https://pt.stackoverflow.com/q/141899/101)
 - [Quando usar o "try catch" em aplicação com camadas?](https://pt.stackoverflow.com/q/345199/101)
+- [Como lançar exceção em SQL e tratar em C#](https://pt.stackoverflow.com/q/115761/101)
 
 # Methods
 
