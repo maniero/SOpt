@@ -63,6 +63,7 @@
 - [Misturar HTTP com HTTPS é um problema?](https://pt.stackoverflow.com/q/246731/101)
 - [Dados recebidos de HTTPS vem encriptado?](https://pt.stackoverflow.com/q/49842/101)
 - [Qual o melhor tipo de compactação de arquivos para otimizar resposta de servidores?](https://pt.stackoverflow.com/q/255805/101)
+- [O servidor Apache é necessário em serviços de hospedagem?](https://pt.stackoverflow.com/q/87263/101)
 
 # JavaScript
   
