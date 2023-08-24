@@ -56,6 +56,7 @@
 - [Uso da Generalização/Especialização na modelagem de dados](https://pt.stackoverflow.com/q/339418/101)
 - ["Herança" de tabela é uma prática ruim nesse caso?](https://pt.stackoverflow.com/q/247875/101)
 - [Como modelar parcelas quando não se sabe quantas são?](https://pt.stackoverflow.com/q/87723/101)
+- [Modelagem de dados: Integridade x Performance](https://pt.stackoverflow.com/q/295902/101)
 
 # SQL
 
