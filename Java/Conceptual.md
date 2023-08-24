@@ -49,6 +49,7 @@
 - [Método close() nos blocos try e catch é necessário?](https://pt.stackoverflow.com/q/317600/101)
 - [Vantagem em dar null em uma variável no Android](https://pt.stackoverflow.com/q/224474/101)
 - [Criar exceções personalizadas mais específicas ou mais genéricas?](https://pt.stackoverflow.com/q/435767/101)
+- [Qual o comportamento da variável referência e da variável primitiva?](https://pt.stackoverflow.com/q/83481/101)
 
 # Library
 
@@ -161,3 +162,4 @@
 - [Como uma Java Virtual Machine escrita em Java funciona?](https://pt.stackoverflow.com/q/178563/101)
 - [O Garbage Collector remove todos objetos ou somente os que não tem referência?](https://pt.stackoverflow.com/q/344564/101)
 - [Afinal, Java é uma plataforma ou uma linguagem de programação?](https://pt.stackoverflow.com/q/266489/101)
+- [Qual o atalho no NetBeans para fechar todas os "+" das funções?](https://pt.stackoverflow.com/q/208024/101)
