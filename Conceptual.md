@@ -145,6 +145,9 @@
 - [Qual o profissional e a área específica que definem o layout dos dados em arquivos em um projeto de software?](https://pt.stackoverflow.com/q/210111/101)
 - [Por que são boas práticas a geração de código exclusivo de usuário?](https://pt.stackoverflow.com/q/432710/101)
 - [O que é UML? Para que serve?](https://pt.stackoverflow.com/q/507604/101)
+- [O que é modelagem de dados (data modeling)?](https://pt.stackoverflow.com/q/472025/101)
+- [Teste unitário é um termo genérico? Quais tipos existem? E quais formas de aplicar?](https://pt.stackoverflow.com/q/233197/101)
+- [Qual a diferença entre pull-based and push-based development?](https://pt.stackoverflow.com/q/230213/101)
 
 # Typing
 
@@ -178,6 +181,7 @@
 - [Algoritmos de ordenação de memória externa e interna](https://pt.stackoverflow.com/q/166229/101)
 - [MD5 é bom o suficiente?](https://pt.stackoverflow.com/q/137086/101)
 - [Qual a diferença entre estruturas de dados e tipos abstratos de dados?](https://pt.stackoverflow.com/q/455423/101)
+- [Existe uma diferença entre uma árvore binária perfeita e uma árvore binária balanceada?](https://pt.stackoverflow.com/q/424269/101)
 
 # OOP & Design Patterns
 
@@ -214,6 +218,7 @@
 - [Exemplo real do uso de encapsulamento](https://pt.stackoverflow.com/q/293801/101)
 - [O que são Objetos Deus?](https://pt.stackoverflow.com/q/415961/101)
 - [Qual é a diferença entre mixins e herança?](https://pt.stackoverflow.com/q/275897/101)
+- [Quais são as principais diferenças entre programação orientada a protótipos e programação orientada a classes?](https://pt.stackoverflow.com/q/480981/101)
 
 # Memory & Threading
 
@@ -266,6 +271,7 @@
 - [Existe uma regra específica para mensagens de commit em sistemas de versionamento como o Git?](https://pt.stackoverflow.com/q/125203/101)
 - [É possível trabalhar com repositório local "comunitário" em Git?](https://pt.stackoverflow.com/q/51917/101)
 - [Qual a diferença entre "Issues" e "Pull Requests"?](https://pt.stackoverflow.com/q/345326/101)
+- [O que são realmente os conjuntos de modificações do Git?](https://pt.stackoverflow.com/q/48602/101)
 
 # Architeture & Operating System
 
