@@ -74,6 +74,7 @@
 - [Ordenação estável vs instável](https://pt.stackoverflow.com/q/325088/101)
 - [Conversão de fluxograma para código](https://pt.stackoverflow.com/q/135776/101)
 - [Troca de conteúdo da variável char](https://pt.stackoverflow.com/q/40876/101)
+- [Qual o custo de chamar muitas funções?](https://pt.stackoverflow.com/q/184411/101)
 
 # Library
 
@@ -100,6 +101,7 @@
 - [Como o "printf()" funciona?](https://pt.stackoverflow.com/q/78189/101)
 - [Função gets() para valor float](https://pt.stackoverflow.com/q/128605/101)
 - [Qual a diferença entre %p e %d em linguagem C?](https://pt.stackoverflow.com/q/445047/101)
+- [Bibliotecas C fora do padrão ANSI](https://pt.stackoverflow.com/q/80322/101)
 
 # Misc
 
