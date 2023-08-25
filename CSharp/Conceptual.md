@@ -56,6 +56,7 @@
 - [Linguagem imperativa incorporando elementos funcionais](https://pt.stackoverflow.com/q/344162/101)
 - [#region é um antipattern ou um code smell?](https://pt.stackoverflow.com/q/82413/101)
 - [A linguagem C# é recomendada para ser distribuída online com banco de dados?](https://pt.stackoverflow.com/q/111070/101)
+- [Impacto do Garbage Collector](https://pt.stackoverflow.com/q/153878/101)
 
 # OOP
 
@@ -178,6 +179,7 @@
 - [Como determinar se um System.Collections.IEnumerable está vazio?](https://pt.stackoverflow.com/q/541983/101)
 - [Em qual cenário é recomendado utilizar KeyedCollection no lugar de um Dictionary?](https://pt.stackoverflow.com/q/56001/101)
 - [Qual a diferença de performance entre tipos diferentes de concatenação de string?](https://pt.stackoverflow.com/q/346613/101)
+- [Uso Text User Interfaces no C#?](https://pt.stackoverflow.com/q/258879/101)
 
 # IO
 
