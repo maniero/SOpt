@@ -43,3 +43,5 @@
 - [Por que em Python existem funções onde o parâmetro deve ser posto entre parênteses e outras devem ser postas com um ponto e o nome da função?](https://pt.stackoverflow.com/q/467333/101)
 - [Diferencas entre Python e JavaScript em relação a arrays?](https://pt.stackoverflow.com/q/244255/101)
 - [Por que utilizar duas linguagens server-side no mesmo sistema?](https://pt.stackoverflow.com/q/175893/101)
+- [Um dicionário Python é tão eficiente quanto uma árvore ou um hash?](https://pt.stackoverflow.com/q/387699/101)
+- [Python palavra reservada yield](https://pt.stackoverflow.com/q/309366/101)
