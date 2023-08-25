@@ -41,3 +41,4 @@
 - [Alocação de objetos e ponteiros](https://pt.stackoverflow.com/q/57006/101)
 - [Pra que serve o * na expressão "Foo* foo = new Foo" em C++?](https://pt.stackoverflow.com/q/106808/101)
 - [Em C++ onde as funções dos objetos estão na memória?](https://pt.stackoverflow.com/q/126865/101)
+- [Como evitar estouro de array em C++?](https://pt.stackoverflow.com/q/298320/101)
