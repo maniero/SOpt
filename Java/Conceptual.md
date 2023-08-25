@@ -50,6 +50,7 @@
 - [Vantagem em dar null em uma variável no Android](https://pt.stackoverflow.com/q/224474/101)
 - [Criar exceções personalizadas mais específicas ou mais genéricas?](https://pt.stackoverflow.com/q/435767/101)
 - [Qual o comportamento da variável referência e da variável primitiva?](https://pt.stackoverflow.com/q/83481/101)
+- [Quantas vezes a variável x será criada ao final do loop? Por que?](https://pt.stackoverflow.com/q/364635/101)
 
 # Library
 
