@@ -66,6 +66,7 @@
 - [Desempenho no PHP: considerar ou não?](https://pt.stackoverflow.com/q/297781/101)
 - [O tamanho de uma função afeta a performance e consumo de memória?](https://pt.stackoverflow.com/q/31485/101)
 - [Como funciona o tempo de execução do PHP?](https://pt.stackoverflow.com/q/277349/101)
+- [Abrir e fechar o código ou usar variável?](https://pt.stackoverflow.com/q/317671/101)
 
 # OOP
 
