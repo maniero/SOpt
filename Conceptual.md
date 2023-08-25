@@ -219,6 +219,8 @@
 - [O que são Objetos Deus?](https://pt.stackoverflow.com/q/415961/101)
 - [Qual é a diferença entre mixins e herança?](https://pt.stackoverflow.com/q/275897/101)
 - [Quais são as principais diferenças entre programação orientada a protótipos e programação orientada a classes?](https://pt.stackoverflow.com/q/480981/101)
+- [Por que orientação a objetos não serve para a maioria dos cenários?](https://pt.stackoverflow.com/q/344486/101)
+- [Herança em programação orientada a objetos](https://pt.stackoverflow.com/q/263289/101)
 
 # Memory & Threading
 
@@ -382,3 +384,4 @@
 - [O que é Leaky abstraction (Vazamento de abstração)?](https://pt.stackoverflow.com/q/354926/101)
 - [O que significam os termos CPU-time e Wall-clock-time?](https://pt.stackoverflow.com/q/188002/101)
 - [O que são e como funcionam sinais?](https://pt.stackoverflow.com/q/352539/101)
+- [O que é Bootstrapping?](https://pt.stackoverflow.com/q/328007/101)
