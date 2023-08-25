@@ -161,6 +161,7 @@
 - [Tamanho máximo, limite de conexões e qual versão do SQL Server devo usar em minha aplicação desktop](https://pt.stackoverflow.com/q/311001/101)
 - [Número de colunas influencia em performance?](https://pt.stackoverflow.com/q/94825/101)
 - [https://pt.stackoverflow.com/q/261121/101](https://pt.stackoverflow.com/q/296747/101)
+- [Como converter 39 horas para o tipo 'TIME'](https://pt.stackoverflow.com/q/352046/101)
 
 # SQLite
 
