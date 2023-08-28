@@ -178,6 +178,7 @@
 - [Armazenar vetor no SQLite](https://pt.stackoverflow.com/q/118702/101)
 - [SQLite sendo acessado remotamente](https://pt.stackoverflow.com/q/150975/101)
 - [Tamanho ocupado em disco por uma tabela no SQLite](https://pt.stackoverflow.com/q/134414/101)
+- [Como resolver gap do auto increment SQLite?](https://pt.stackoverflow.com/q/221466/101)
 
 # Oracle
 
