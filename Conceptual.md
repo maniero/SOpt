@@ -327,6 +327,7 @@
 - [Planejamento de interface de usuário](https://pt.stackoverflow.com/q/45794/101)
 - [Ainda faz sentido usar a Metáfora do Desktop?](https://pt.stackoverflow.com/q/359297/101)
 - [Como escolher um certificado digital? O que levar em conta?](https://pt.stackoverflow.com/q/76900/101)
+- [Posso usar MIT junto com GPL?](https://pt.stackoverflow.com/q/44862/101)
 
 # Terminology
 
