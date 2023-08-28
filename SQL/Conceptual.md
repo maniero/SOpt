@@ -57,6 +57,7 @@
 - ["Herança" de tabela é uma prática ruim nesse caso?](https://pt.stackoverflow.com/q/247875/101)
 - [Como modelar parcelas quando não se sabe quantas são?](https://pt.stackoverflow.com/q/87723/101)
 - [Modelagem de dados: Integridade x Performance](https://pt.stackoverflow.com/q/295902/101)
+- [Dividir coluna em múltiplas tabelas](https://pt.stackoverflow.com/q/56630/101)
 
 # SQL
 
