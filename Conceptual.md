@@ -60,6 +60,7 @@
 - [Linguagem com Garbage Collector pode ser usada para jogos?](https://pt.stackoverflow.com/q/205049/101)
 - [Para que serve a linguagem Fortran?](https://pt.stackoverflow.com/q/335564/101)
 - [Qual o padrão mundialmente aceito nas linguagens de programação?](https://pt.stackoverflow.com/q/273518/101)
+- [O que é uma linguagem de programação hipotética?](https://pt.stackoverflow.com/q/188125/101)
 
 # Coding Style
 
