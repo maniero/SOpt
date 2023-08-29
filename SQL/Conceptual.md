@@ -85,6 +85,7 @@
 - [Valores que podem ser inseridos como chave primária](https://pt.stackoverflow.com/q/136398/101)
 - [Por que a linguagem SQL varia de SGBD para SGBD?](https://pt.stackoverflow.com/q/325933/101)
 - [Qual a diferença entre lista inversa (inverted index) e lista reversa (reverse index)?](https://pt.stackoverflow.com/q/169055/101)
+- [Comparação: CTE vs CURSOR](https://pt.stackoverflow.com/q/352851/101)
 
 # MySQL
 
