@@ -162,5 +162,6 @@
 - [Diferenças entre Java e Scala](https://pt.stackoverflow.com/q/349273/101)
 - [Como uma Java Virtual Machine escrita em Java funciona?](https://pt.stackoverflow.com/q/178563/101)
 - [O Garbage Collector remove todos objetos ou somente os que não tem referência?](https://pt.stackoverflow.com/q/344564/101)
+- [Interceptar métodos](https://pt.stackoverflow.com/q/47408/101)
 - [Afinal, Java é uma plataforma ou uma linguagem de programação?](https://pt.stackoverflow.com/q/266489/101)
 - [Qual o atalho no NetBeans para fechar todas os "+" das funções?](https://pt.stackoverflow.com/q/208024/101)
