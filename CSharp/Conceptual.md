@@ -299,6 +299,7 @@
 - [O que é um ataque Over-posting?](https://pt.stackoverflow.com/q/255695/101)
 - [Servidor de aplicação](https://pt.stackoverflow.com/q/155655/101)
 - [Qual a vantagem de se utilzar Tag Helpers no ASP.NET Core?](https://pt.stackoverflow.com/q/106124/101)
+- [Como implementar um controller "magro"](https://pt.stackoverflow.com/q/100182/101)
 
 # WinForms/WPF/Xamarin/Unity
 
