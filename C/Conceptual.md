@@ -102,6 +102,7 @@
 - [Função gets() para valor float](https://pt.stackoverflow.com/q/128605/101)
 - [Qual a diferença entre %p e %d em linguagem C?](https://pt.stackoverflow.com/q/445047/101)
 - [Bibliotecas C fora do padrão ANSI](https://pt.stackoverflow.com/q/80322/101)
+- [Uso de assert ao invés de if](https://pt.stackoverflow.com/q/184957/101)
 
 # Misc
 
