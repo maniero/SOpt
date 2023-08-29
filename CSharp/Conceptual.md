@@ -265,6 +265,7 @@
 - [Como proteger uma Assembly de descompilação?](https://pt.stackoverflow.com/q/117519/101)
 - [Como mexer em código em uma DLL?](https://pt.stackoverflow.com/q/78425/101)
 - [O que devo observar quando for criar um hash code?](https://pt.stackoverflow.com/q/191766/101)
+- [Por que o garbage collector do .NET possui várias gerações?](https://pt.stackoverflow.com/q/200713/101)
 
 # ASP.NET
 
