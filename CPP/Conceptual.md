@@ -42,3 +42,4 @@
 - [Pra que serve o * na expressão "Foo* foo = new Foo" em C++?](https://pt.stackoverflow.com/q/106808/101)
 - [Em C++ onde as funções dos objetos estão na memória?](https://pt.stackoverflow.com/q/126865/101)
 - [Como evitar estouro de array em C++?](https://pt.stackoverflow.com/q/298320/101)
+- [Diferenças de desempenho entre structs e classes](https://pt.stackoverflow.com/q/264235/101)
