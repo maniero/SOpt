@@ -6,3 +6,4 @@
 - [Quais são os limites de tamanho das variáveis em Ruby?](https://pt.stackoverflow.com/q/17179/101)
 - [No Ruby on Rails a regra de negócio fica no model?](https://pt.stackoverflow.com/q/165925/101)
 - [O que significa << em Ruby?](https://pt.stackoverflow.com/q/430874/101)
+- [Quais as principais diferenças entre as linguagens Ruby e Crystal?](https://pt.stackoverflow.com/q/231772/101)
