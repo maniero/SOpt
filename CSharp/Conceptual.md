@@ -182,6 +182,7 @@
 - [Em qual cenário é recomendado utilizar KeyedCollection no lugar de um Dictionary?](https://pt.stackoverflow.com/q/56001/101)
 - [Qual a diferença de performance entre tipos diferentes de concatenação de string?](https://pt.stackoverflow.com/q/346613/101)
 - [Uso Text User Interfaces no C#?](https://pt.stackoverflow.com/q/258879/101)
+- [Qual algoritmo de ordenação o .NET utiliza por padrão em uma lista?](https://pt.stackoverflow.com/q/245366/101)
 
 # IO
 
@@ -213,6 +214,7 @@
 - [Quais os possíveis casos de uso de uma conexão persistente?](https://pt.stackoverflow.com/q/23615/101)
 - [Implementando o conceito de herança em banco de dados](https://pt.stackoverflow.com/q/225622/101)
 - [O que é ADO.NET para C#?](https://pt.stackoverflow.com/q/90614/101)
+- [Qual a diferença entre SaveChanges e SubmitChanges?](https://pt.stackoverflow.com/q/157366/101)
 
 # LINQ
 
