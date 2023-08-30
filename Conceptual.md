@@ -20,6 +20,7 @@
 - [Existe diferença entre um compilador e um interpretador?](https://pt.stackoverflow.com/q/190209/101)
 - [Qual o conceito de máquina virtual? Quais são os pontos positivos e negativos?](https://pt.stackoverflow.com/q/332789/101)
 - [Como surgiu a CLI (command-line interface) e qual foi essa necessidade?](https://pt.stackoverflow.com/q/311957/101)
+- [Quem faz os cálculos aritméticos é o compilador, algum outro componente, ou varia conforme a linguagem?](https://pt.stackoverflow.com/q/538154/101)
 
 # Languages
 
@@ -222,6 +223,7 @@
 - [Quais são as principais diferenças entre programação orientada a protótipos e programação orientada a classes?](https://pt.stackoverflow.com/q/480981/101)
 - [Por que orientação a objetos não serve para a maioria dos cenários?](https://pt.stackoverflow.com/q/344486/101)
 - [Herança em programação orientada a objetos](https://pt.stackoverflow.com/q/263289/101)
+- [Não consegui entender muito bem o encapsulamento na POO](https://pt.stackoverflow.com/q/240186/101)
 
 # Memory & Threading
 
