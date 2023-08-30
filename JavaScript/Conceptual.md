@@ -135,6 +135,7 @@
 - [WebSQL será mesmo descontinuado?](https://pt.stackoverflow.com/q/109030/101)
 - [O que são URLs amigáveis?](https://pt.stackoverflow.com/q/128341/101)
 - [Diferenças entre utilização de Cache e CDN](https://pt.stackoverflow.com/q/189323/101)
+- [Qual é o limite de tamanho da tecnologia IndexedDB?](https://pt.stackoverflow.com/q/323877/101)
   
 # Frameworks
   
