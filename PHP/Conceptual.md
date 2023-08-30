@@ -40,6 +40,8 @@
 - [Por que "echo" aceita parênteses no PHP?](https://pt.stackoverflow.com/q/344902/101)
 - [Variável global personalizada](https://pt.stackoverflow.com/q/102652/101)
 - [Sinal idêntico "===" é usado apenas em PHP? Por que?](https://pt.stackoverflow.com/q/186885/101)
+- [O que é um construtor da linguagem?](https://pt.stackoverflow.com/q/326105/101)
+- [Palavra reservada include ou "use" no PHP?](https://pt.stackoverflow.com/q/239960/101)
 
 
 # General
@@ -67,6 +69,8 @@
 - [O tamanho de uma função afeta a performance e consumo de memória?](https://pt.stackoverflow.com/q/31485/101)
 - [Como funciona o tempo de execução do PHP?](https://pt.stackoverflow.com/q/277349/101)
 - [Abrir e fechar o código ou usar variável?](https://pt.stackoverflow.com/q/317671/101)
+- [Entendimento sobre MVC](https://pt.stackoverflow.com/q/306056/101)
+- [O que é mais rápido para ser lido e editado, um banco de dados ou um .txt?](https://pt.stackoverflow.com/q/168211/101)
 
 # OOP
 
