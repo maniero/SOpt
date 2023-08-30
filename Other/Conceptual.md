@@ -12,3 +12,4 @@
 - [Qual a diferença entre SET e SETX?](https://pt.stackoverflow.com/q/185486/101)
 - [Perl hoje em dia é utilizado?](https://pt.stackoverflow.com/q/225745/101)
 - [Proposta do Clojure?](https://pt.stackoverflow.com/q/146462/101)
+- [Qual é a finalidade do ? (ponto de interrogação) ao chamar uma função em Elixir?](https://pt.stackoverflow.com/q/470244/101)
