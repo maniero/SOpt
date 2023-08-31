@@ -96,6 +96,7 @@
 - [Devo usar um "try-catch" para identificar se uma senha está errada?](https://pt.stackoverflow.com/q/141899/101)
 - [Quando usar o "try catch" em aplicação com camadas?](https://pt.stackoverflow.com/q/345199/101)
 - [Como lançar exceção em SQL e tratar em C#](https://pt.stackoverflow.com/q/115761/101)
+- [Qual a diferença entre "Exception.Message" e "Exception.ToString()"?](https://pt.stackoverflow.com/q/146017/101)
 
 # Methods
 
