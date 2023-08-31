@@ -71,6 +71,7 @@
 - [Abrir e fechar o código ou usar variável?](https://pt.stackoverflow.com/q/317671/101)
 - [Entendimento sobre MVC](https://pt.stackoverflow.com/q/306056/101)
 - [O que é mais rápido para ser lido e editado, um banco de dados ou um .txt?](https://pt.stackoverflow.com/q/168211/101)
+- [Existe diferença de performance entre "echo" de um conteúdo e o conteúdo no HTML?](https://pt.stackoverflow.com/q/110765/101)
 
 # OOP
 
