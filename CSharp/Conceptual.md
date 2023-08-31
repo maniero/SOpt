@@ -58,6 +58,7 @@
 - [A linguagem C# é recomendada para ser distribuída online com banco de dados?](https://pt.stackoverflow.com/q/111070/101)
 - [Impacto do Garbage Collector](https://pt.stackoverflow.com/q/153878/101)
 - [Diferença entre instanciar classe e using](https://pt.stackoverflow.com/q/422273/101)
+- [Campo público X propriedade](https://pt.stackoverflow.com/q/324099/101)
 
 # OOP
 
