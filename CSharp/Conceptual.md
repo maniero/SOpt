@@ -271,6 +271,7 @@
 - [O que devo observar quando for criar um hash code?](https://pt.stackoverflow.com/q/191766/101)
 - [Por que o garbage collector do .NET possui várias gerações?](https://pt.stackoverflow.com/q/200713/101)
 - [O que é o Native AOT?](https://pt.stackoverflow.com/q/568799/101)
+- [Encontrar ponto de lentidão no código .NET](https://pt.stackoverflow.com/q/108239/101)
 
 # ASP.NET
 
