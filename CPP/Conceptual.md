@@ -44,3 +44,4 @@
 - [Como evitar estouro de array em C++?](https://pt.stackoverflow.com/q/298320/101)
 - [Diferenças de desempenho entre structs e classes](https://pt.stackoverflow.com/q/264235/101)
 - [Por que std::cout utiliza o <<?](https://pt.stackoverflow.com/q/479980/101)
+- [Quais as diferenças entre classes/membros Friend e Static?](https://pt.stackoverflow.com/q/115606/101)
