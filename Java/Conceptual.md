@@ -51,6 +51,7 @@
 - [Criar exceções personalizadas mais específicas ou mais genéricas?](https://pt.stackoverflow.com/q/435767/101)
 - [Qual o comportamento da variável referência e da variável primitiva?](https://pt.stackoverflow.com/q/83481/101)
 - [Quantas vezes a variável x será criada ao final do loop? Por que?](https://pt.stackoverflow.com/q/364635/101)
+- [Por que variáveis locais não recebem valores default pelo compilador Java ou pela JVM?](https://pt.stackoverflow.com/q/366401/101)
 
 # Library
 
