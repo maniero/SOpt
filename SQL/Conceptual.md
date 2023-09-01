@@ -58,6 +58,7 @@
 - [Como modelar parcelas quando não se sabe quantas são?](https://pt.stackoverflow.com/q/87723/101)
 - [Modelagem de dados: Integridade x Performance](https://pt.stackoverflow.com/q/295902/101)
 - [Dividir coluna em múltiplas tabelas](https://pt.stackoverflow.com/q/56630/101)
+- [Database com extra headers](https://pt.stackoverflow.com/q/53518/101)
 
 # SQL
 
@@ -86,6 +87,7 @@
 - [Por que a linguagem SQL varia de SGBD para SGBD?](https://pt.stackoverflow.com/q/325933/101)
 - [Qual a diferença entre lista inversa (inverted index) e lista reversa (reverse index)?](https://pt.stackoverflow.com/q/169055/101)
 - [Comparação: CTE vs CURSOR](https://pt.stackoverflow.com/q/352851/101)
+- [UPDATE é um DELETE seguido de um INSERT?](https://pt.stackoverflow.com/q/325513/101)
 
 # MySQL
 
