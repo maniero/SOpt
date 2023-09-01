@@ -59,6 +59,8 @@
 - [Impacto do Garbage Collector](https://pt.stackoverflow.com/q/153878/101)
 - [Diferença entre instanciar classe e using](https://pt.stackoverflow.com/q/422273/101)
 - [Campo público X propriedade](https://pt.stackoverflow.com/q/324099/101)
+- [Diferença em cast usando "as" e "type cast"](https://pt.stackoverflow.com/q/286192/101)
+- [Significado dos parênteses na instanciação em C#](https://pt.stackoverflow.com/q/447234/101)
 
 # OOP
 
