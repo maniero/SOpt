@@ -103,6 +103,7 @@
 - [Quando uso o método __construct não preciso usar o get; set?](https://pt.stackoverflow.com/q/276273/101)
 - [Como funciona o destrutor (método "__destruct") no PHP?](https://pt.stackoverflow.com/q/256549/101)
 - [Encapsulamento em PHP orientado a objetos](https://pt.stackoverflow.com/q/325844/101)
+- [Tudo que consigo fazer em POO eu consigo fazer em PE?](https://pt.stackoverflow.com/q/211768/101)
 
 # Library
 
@@ -130,6 +131,7 @@
 - [A função para pegar o dia da semana do PHP tem limite?](https://pt.stackoverflow.com/q/312924/101)
 - [Números diferentes se tornam iguais após conversão com doubleval](https://pt.stackoverflow.com/q/78735/101)
 - [Lista de erros exception do PHP](https://pt.stackoverflow.com/q/39455/101)
+- [Prepared statements com MySQLi dispensa validação da entrada de dados?](https://pt.stackoverflow.com/q/88683/101)
 
 # Algorithm
 
