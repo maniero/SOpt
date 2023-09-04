@@ -113,6 +113,7 @@
 - [Como implementar um destrutor em JavaScript?](https://pt.stackoverflow.com/q/139120/101)
 - [Diferença entre validação e máscara](https://pt.stackoverflow.com/q/172358/101)
 - [Pra que serve o objeto Map em JavaScript?](https://pt.stackoverflow.com/q/313916/101)
+- [Enviado parâmetros para outra função utilizando objeto ou hash é uma boa prática?](https://pt.stackoverflow.com/q/48704/101)
   
 # High level
   
