@@ -63,6 +63,8 @@
 - [Qual o padrão mundialmente aceito nas linguagens de programação?](https://pt.stackoverflow.com/q/273518/101)
 - [O que é uma linguagem de programação hipotética?](https://pt.stackoverflow.com/q/188125/101)
 - [O que ocorre com o espaço na memória após o uso de variável local?](https://pt.stackoverflow.com/q/400997/101)
+- [Além de estruturas como "for", "while", "goto" ou recursão, há alguma outra forma de repetir algo na programação?](https://pt.stackoverflow.com/q/444793/101)
+- [O que é a expressividade de uma linguagem de programação?](https://pt.stackoverflow.com/q/563253/101)
 
 # Coding Style
 
@@ -151,6 +153,8 @@
 - [O que é modelagem de dados (data modeling)?](https://pt.stackoverflow.com/q/472025/101)
 - [Teste unitário é um termo genérico? Quais tipos existem? E quais formas de aplicar?](https://pt.stackoverflow.com/q/233197/101)
 - [Qual a diferença entre pull-based and push-based development?](https://pt.stackoverflow.com/q/230213/101)
+- [Constante é realmente útil?](https://pt.stackoverflow.com/q/203151/101)
+- [O TDD (Test-Driven Development) melhora o design?](https://pt.stackoverflow.com/q/199885/101)
 
 # Typing
 
@@ -390,5 +394,6 @@
 - [O que é Leaky abstraction (Vazamento de abstração)?](https://pt.stackoverflow.com/q/354926/101)
 - [O que significam os termos CPU-time e Wall-clock-time?](https://pt.stackoverflow.com/q/188002/101)
 - [O que significa os termos "forward compatibility" e "backward compatibility"?](https://pt.stackoverflow.com/q/195539/101)
+- [O que é convenção sobre configuração?](https://pt.stackoverflow.com/q/420122/101)
 - [O que são e como funcionam sinais?](https://pt.stackoverflow.com/q/352539/101)
 - [O que é Bootstrapping?](https://pt.stackoverflow.com/q/328007/101)
