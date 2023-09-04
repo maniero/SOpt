@@ -9,3 +9,4 @@
 - [Função de Go com parâmetros](https://pt.stackoverflow.com/q/343364/101)
 - [Capacidade de slices em Golang](https://pt.stackoverflow.com/q/262440/101)
 - [Como inicializar uma constante com o valor de time.Now() em Golang?](https://pt.stackoverflow.com/q/437922/101)
+- [Funções com retorno diferente em Go](https://pt.stackoverflow.com/q/441769/101)
