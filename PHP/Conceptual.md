@@ -73,6 +73,7 @@
 - [Entendimento sobre MVC](https://pt.stackoverflow.com/q/306056/101)
 - [O que é mais rápido para ser lido e editado, um banco de dados ou um .txt?](https://pt.stackoverflow.com/q/168211/101)
 - [Existe diferença de performance entre "echo" de um conteúdo e o conteúdo no HTML?](https://pt.stackoverflow.com/q/110765/101)
+- [Leaking de memória em PHP](https://pt.stackoverflow.com/q/229442/101)
 
 # OOP
 
@@ -132,6 +133,7 @@
 - [Números diferentes se tornam iguais após conversão com doubleval](https://pt.stackoverflow.com/q/78735/101)
 - [Lista de erros exception do PHP](https://pt.stackoverflow.com/q/39455/101)
 - [Prepared statements com MySQLi dispensa validação da entrada de dados?](https://pt.stackoverflow.com/q/88683/101)
+- [Fazer conta com PHP na ordem que está na string](https://pt.stackoverflow.com/q/151636/101)
 
 # Algorithm
 
