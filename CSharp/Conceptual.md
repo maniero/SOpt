@@ -61,6 +61,9 @@
 - [Campo público X propriedade](https://pt.stackoverflow.com/q/324099/101)
 - [Diferença em cast usando "as" e "type cast"](https://pt.stackoverflow.com/q/286192/101)
 - [Significado dos parênteses na instanciação em C#](https://pt.stackoverflow.com/q/447234/101)
+- [Sobrecarga de operadores em C#](https://pt.stackoverflow.com/q/341812/101)
+- [Tuple é a mesma coisa que criar um objeto?](https://pt.stackoverflow.com/q/321968/101)
+- [Para que servem e quando usar as diretivas do preprocessador?](https://pt.stackoverflow.com/q/224888/101)
 
 # OOP
 
@@ -187,6 +190,7 @@
 - [Qual a diferença de performance entre tipos diferentes de concatenação de string?](https://pt.stackoverflow.com/q/346613/101)
 - [Uso Text User Interfaces no C#?](https://pt.stackoverflow.com/q/258879/101)
 - [Qual algoritmo de ordenação o .NET utiliza por padrão em uma lista?](https://pt.stackoverflow.com/q/245366/101)
+- [Quais as diferenças entre a BCL e a FCL?](https://pt.stackoverflow.com/q/194677/101)
 
 # IO
 
