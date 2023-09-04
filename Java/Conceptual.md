@@ -52,6 +52,7 @@
 - [Qual o comportamento da variável referência e da variável primitiva?](https://pt.stackoverflow.com/q/83481/101)
 - [Quantas vezes a variável x será criada ao final do loop? Por que?](https://pt.stackoverflow.com/q/364635/101)
 - [Por que variáveis locais não recebem valores default pelo compilador Java ou pela JVM?](https://pt.stackoverflow.com/q/366401/101)
+- [Por que usar String em um bloco switch é mais eficiente do que em um bloco if-else?](https://pt.stackoverflow.com/q/82667/101)
 
 # Library
 
@@ -96,6 +97,7 @@
 - [Por que o hashCode() de String em Java usa 31 como multiplicador?](https://pt.stackoverflow.com/q/353963/101)
 - [Parâmetros com vetores em Java são sempre por referência?](https://pt.stackoverflow.com/q/396843/101)
 - [Por que não se deve iterar um hashmap?](https://pt.stackoverflow.com/q/268305/101)
+- [Qual a diferenca entre String nome = "teste" e String s4 = new String("Pedro");](https://pt.stackoverflow.com/q/234867/101)
 
 # Desktop
 
@@ -135,6 +137,7 @@
 - [Blocos estáticos, herança e construtores em Java](https://pt.stackoverflow.com/q/104512/101)
 - [Classe que implementa duas interfaces que possuem métodos de assinaturas idênticas](https://pt.stackoverflow.com/q/390094/101)
 - [Por que estou 'chamando' o método da subclasse?](https://pt.stackoverflow.com/q/327661/101)
+- [Por que esconder a implementação de uma classe?](https://pt.stackoverflow.com/q/236069/101)
 
 # Misc
 
@@ -164,5 +167,6 @@
 - [Como uma Java Virtual Machine escrita em Java funciona?](https://pt.stackoverflow.com/q/178563/101)
 - [O Garbage Collector remove todos objetos ou somente os que não tem referência?](https://pt.stackoverflow.com/q/344564/101)
 - [Interceptar métodos](https://pt.stackoverflow.com/q/47408/101)
+- [O que significa "Rodar na JVM"?](https://pt.stackoverflow.com/q/227279/101)
 - [Afinal, Java é uma plataforma ou uma linguagem de programação?](https://pt.stackoverflow.com/q/266489/101)
 - [Qual o atalho no NetBeans para fechar todas os "+" das funções?](https://pt.stackoverflow.com/q/208024/101)
