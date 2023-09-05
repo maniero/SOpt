@@ -62,6 +62,7 @@
 - [Performance de acesso a dados na heap e stack e alocação de objetos](https://pt.stackoverflow.com/q/56580/101)
 - [Por que usar ponteiros como parâmetros de funções?](https://pt.stackoverflow.com/q/205587/101)
 - [sizeof não funciona para determinar o tamanho do malloc()](https://pt.stackoverflow.com/q/466295/101)
+- [Como o "free()" sabe quanto de memória tem que liberar?](https://pt.stackoverflow.com/q/178174/101)
 
 # Algorithm
 
