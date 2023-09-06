@@ -398,3 +398,4 @@
 - [O que são e como funcionam sinais?](https://pt.stackoverflow.com/q/352539/101)
 - [O que é Bootstrapping?](https://pt.stackoverflow.com/q/328007/101)
 - [Mas afinal o que é um SaaS?](https://pt.stackoverflow.com/q/171204/101)
+- [Existe diferença entre “exatidão” e “precisão” em contextos de computação?](https://pt.stackoverflow.com/q/516306/101)
