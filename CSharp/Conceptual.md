@@ -80,6 +80,7 @@
 - [O que é uma classe de tipo "class MinhaClasseExemplo<T> where T: new(){}"?](https://pt.stackoverflow.com/q/106556/101)
 - [Criar muitas classes estáticas impacta na performance do sistema?](https://pt.stackoverflow.com/q/291910/101)
 - [Pra que usar de private?](https://pt.stackoverflow.com/q/165476/101)
+- [Qual é a diferença entre Strategy Pattern e Specification Pattern](https://pt.stackoverflow.com/q/380604/101)
 
 # Algorithms
 
