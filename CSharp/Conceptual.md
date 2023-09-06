@@ -64,6 +64,7 @@
 - [Sobrecarga de operadores em C#](https://pt.stackoverflow.com/q/341812/101)
 - [Tuple é a mesma coisa que criar um objeto?](https://pt.stackoverflow.com/q/321968/101)
 - [Para que servem e quando usar as diretivas do preprocessador?](https://pt.stackoverflow.com/q/224888/101)
+- [Por que métodos que operem ponteiros são inseguros no .NET?](https://pt.stackoverflow.com/q/244754/101)
 
 # OOP
 
