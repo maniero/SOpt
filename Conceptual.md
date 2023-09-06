@@ -397,3 +397,4 @@
 - [O que é convenção sobre configuração?](https://pt.stackoverflow.com/q/420122/101)
 - [O que são e como funcionam sinais?](https://pt.stackoverflow.com/q/352539/101)
 - [O que é Bootstrapping?](https://pt.stackoverflow.com/q/328007/101)
+- [Mas afinal o que é um SaaS?](https://pt.stackoverflow.com/q/171204/101)
