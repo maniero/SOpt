@@ -65,6 +65,7 @@
 - [Tuple é a mesma coisa que criar um objeto?](https://pt.stackoverflow.com/q/321968/101)
 - [Para que servem e quando usar as diretivas do preprocessador?](https://pt.stackoverflow.com/q/224888/101)
 - [Por que métodos que operem ponteiros são inseguros no .NET?](https://pt.stackoverflow.com/q/244754/101)
+- [O tamanho do nome de uma variável afeta seu peso?](https://pt.stackoverflow.com/q/50937/101)
 
 # OOP
 
