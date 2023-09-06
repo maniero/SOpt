@@ -63,6 +63,7 @@
 - [Por que usar ponteiros como parâmetros de funções?](https://pt.stackoverflow.com/q/205587/101)
 - [sizeof não funciona para determinar o tamanho do malloc()](https://pt.stackoverflow.com/q/466295/101)
 - [Como o "free()" sabe quanto de memória tem que liberar?](https://pt.stackoverflow.com/q/178174/101)
+- [O que acontece com a memória quando "realloc()" realoca um bloco de memória para um valor menor que o original?](https://pt.stackoverflow.com/q/432581/101)
 
 # Algorithm
 
