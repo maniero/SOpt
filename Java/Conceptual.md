@@ -53,6 +53,7 @@
 - [Quantas vezes a variável x será criada ao final do loop? Por que?](https://pt.stackoverflow.com/q/364635/101)
 - [Por que variáveis locais não recebem valores default pelo compilador Java ou pela JVM?](https://pt.stackoverflow.com/q/366401/101)
 - [Por que usar String em um bloco switch é mais eficiente do que em um bloco if-else?](https://pt.stackoverflow.com/q/82667/101)
+- [O que o gerenciamento de memória do Java realiza em uma atribuição de uma variável já alocada na memória anteriormente?](https://pt.stackoverflow.com/q/271837/101)
 
 # Library
 
