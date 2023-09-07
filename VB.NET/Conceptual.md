@@ -11,3 +11,4 @@
 - [Como funciona o "namespace" no ASP.NET?](https://pt.stackoverflow.com/q/15666/101)
 - [O que é, pra que serve e quando usar Friend?](https://pt.stackoverflow.com/q/44415/101)
 - [Quantos "case" são possíveis em um "switch"?](https://pt.stackoverflow.com/q/225180/101)
+- [Quais são as diferenças entre os seguintes casts e quando usar cada um?](https://pt.stackoverflow.com/q/151835/101)
