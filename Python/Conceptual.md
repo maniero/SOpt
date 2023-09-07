@@ -46,3 +46,4 @@
 - [Um dicionário Python é tão eficiente quanto uma árvore ou um hash?](https://pt.stackoverflow.com/q/387699/101)
 - [Python palavra reservada yield](https://pt.stackoverflow.com/q/309366/101)
 - [Python 64 bits tem vantagem?](https://pt.stackoverflow.com/q/454822/101)
+- [Por que Python tem números tão grandes?](https://pt.stackoverflow.com/q/479987/101)
