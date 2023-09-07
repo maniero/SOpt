@@ -136,6 +136,8 @@
 - [Colunas "inteligentes" no MySQL](https://pt.stackoverflow.com/q/65574/101)
 - [Qual a diferença entre a exceção MySQL Trigger e MySQL Event?](https://pt.stackoverflow.com/q/103700/101)
 - [Selecionar linhas randomicamente](https://pt.stackoverflow.com/q/261121/101)
+- [Unsigned na chave primária aumenta minhas possibilidades?](https://pt.stackoverflow.com/q/185685/101)
+- [Função contrária ao TRIM](https://pt.stackoverflow.com/q/112831/101)
 
 # PostgreSQL
 
