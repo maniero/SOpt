@@ -74,6 +74,8 @@
 - [O que é mais rápido para ser lido e editado, um banco de dados ou um .txt?](https://pt.stackoverflow.com/q/168211/101)
 - [Existe diferença de performance entre "echo" de um conteúdo e o conteúdo no HTML?](https://pt.stackoverflow.com/q/110765/101)
 - [Leaking de memória em PHP](https://pt.stackoverflow.com/q/229442/101)
+- [Por que validar mesmo com um valor por defeito?](https://pt.stackoverflow.com/q/43650/101)
+- [Existe diferença em encontrar o valor máximo direto no SQL ou verificá-lo com PHP?](https://pt.stackoverflow.com/q/346459/101)
 
 # OOP
 
