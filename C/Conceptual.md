@@ -44,6 +44,7 @@
 - [Como é um array na memória?](https://pt.stackoverflow.com/q/527512/101)
 - [Qual é o tamanho de um "enum" em C?](https://pt.stackoverflow.com/q/180014/101)
 - [O que significa o sufixo _t e quando utilizá-lo?](https://pt.stackoverflow.com/q/155692/101)
+- [O que esse trecho de código com cast faz?](https://pt.stackoverflow.com/q/136361/101)
 
 # Pointer & Memory
 
