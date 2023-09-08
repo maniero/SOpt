@@ -195,6 +195,7 @@
 - [Qual algoritmo de ordenação o .NET utiliza por padrão em uma lista?](https://pt.stackoverflow.com/q/245366/101)
 - [Quais as diferenças entre a BCL e a FCL?](https://pt.stackoverflow.com/q/194677/101)
 - [Existe alguma funcionalidade similar ao Assert (afirmações) em C#?](https://pt.stackoverflow.com/q/128991/101)
+- [C# tem serialização nativa?](https://pt.stackoverflow.com/q/174637/101)
 
 # IO
 
