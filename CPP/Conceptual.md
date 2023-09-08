@@ -45,3 +45,4 @@
 - [Diferenças de desempenho entre structs e classes](https://pt.stackoverflow.com/q/264235/101)
 - [Por que std::cout utiliza o <<?](https://pt.stackoverflow.com/q/479980/101)
 - [Quais as diferenças entre classes/membros Friend e Static?](https://pt.stackoverflow.com/q/115606/101)
+- [Variável com ponteiro é declarada nula, porém função membro executa normalmente](https://pt.stackoverflow.com/q/34165/101)
