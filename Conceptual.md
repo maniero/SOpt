@@ -229,6 +229,7 @@
 - [Por que orientação a objetos não serve para a maioria dos cenários?](https://pt.stackoverflow.com/q/344486/101)
 - [Herança em programação orientada a objetos](https://pt.stackoverflow.com/q/263289/101)
 - [Não consegui entender muito bem o encapsulamento na POO](https://pt.stackoverflow.com/q/240186/101)
+- [Como evitar o uso de setters em casos desse tipo?](https://pt.stackoverflow.com/q/143099/101)
 
 # Memory & Threading
 
