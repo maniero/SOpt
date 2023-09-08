@@ -107,6 +107,7 @@
 - [Qual a diferença entre %p e %d em linguagem C?](https://pt.stackoverflow.com/q/445047/101)
 - [Bibliotecas C fora do padrão ANSI](https://pt.stackoverflow.com/q/80322/101)
 - [Uso de assert ao invés de if](https://pt.stackoverflow.com/q/184957/101)
+- [É sempre bom desalocar a memória antes de uma saída "brusca" do programa com a chamada da função exit()?](https://pt.stackoverflow.com/q/333241/101)
 
 # Misc
 
