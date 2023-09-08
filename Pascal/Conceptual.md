@@ -11,3 +11,4 @@
 - [O uso do Try no Delphi quando mal usado pode ser uma armadilha?](https://pt.stackoverflow.com/q/292615/101)
 - [Comparação de variáveis de tipo diferente com conversão retorna resultado incorreto](https://pt.stackoverflow.com/q/307068/101)
 - [Quais as vantagens e desvantagens de criar um serviço do Windows?](https://pt.stackoverflow.com/q/256739/101)
+- [Por que usar GOTO em Delphi?](https://pt.stackoverflow.com/q/551665/101)
