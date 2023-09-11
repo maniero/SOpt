@@ -59,6 +59,7 @@
 - [Modelagem de dados: Integridade x Performance](https://pt.stackoverflow.com/q/295902/101)
 - [Dividir coluna em múltiplas tabelas](https://pt.stackoverflow.com/q/56630/101)
 - [Database com extra headers](https://pt.stackoverflow.com/q/53518/101)
+- [Ter imagens nas tabelas onde serão usadas ou tabela com repositório de imagens?](https://pt.stackoverflow.com/q/94472/101)
 
 # SQL
 
@@ -88,6 +89,7 @@
 - [Qual a diferença entre lista inversa (inverted index) e lista reversa (reverse index)?](https://pt.stackoverflow.com/q/169055/101)
 - [Comparação: CTE vs CURSOR](https://pt.stackoverflow.com/q/352851/101)
 - [UPDATE é um DELETE seguido de um INSERT?](https://pt.stackoverflow.com/q/325513/101)
+- [O que são hints de índice?](https://pt.stackoverflow.com/q/301123/101)
 
 # MySQL
 
@@ -139,6 +141,7 @@
 - [Unsigned na chave primária aumenta minhas possibilidades?](https://pt.stackoverflow.com/q/185685/101)
 - [Função contrária ao TRIM](https://pt.stackoverflow.com/q/112831/101)
 - [Ter imagens nas tabelas onde serão usadas ou tabela com repositório de imagens?](https://pt.stackoverflow.com/q/94472/101)
+- [Checar elemento UNIQUE antes de inserí-lo]()
 
 # PostgreSQL
 
