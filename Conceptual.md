@@ -230,6 +230,7 @@
 - [Herança em programação orientada a objetos](https://pt.stackoverflow.com/q/263289/101)
 - [Não consegui entender muito bem o encapsulamento na POO](https://pt.stackoverflow.com/q/240186/101)
 - [Como evitar o uso de setters em casos desse tipo?](https://pt.stackoverflow.com/q/143099/101)
+- [Se eu posso fazer tudo com programação estrutural, por que criaram a orientada a objetos?](https://pt.stackoverflow.com/q/215015/101)
 
 # Memory & Threading
 
@@ -283,6 +284,7 @@
 - [É possível trabalhar com repositório local "comunitário" em Git?](https://pt.stackoverflow.com/q/51917/101)
 - [Qual a diferença entre "Issues" e "Pull Requests"?](https://pt.stackoverflow.com/q/345326/101)
 - [O que são realmente os conjuntos de modificações do Git?](https://pt.stackoverflow.com/q/48602/101)
+- [O que poderia justificar o pulo de um número em um sistema de versionamento?](https://pt.stackoverflow.com/q/178464/101)
 
 # Architeture & Operating System
 
@@ -309,6 +311,7 @@
 - [O que significa o "MZ" listado no início de código executável?](https://pt.stackoverflow.com/q/403699/101)
 - [Por que um programa compilado para Linux não roda no Windows?](https://pt.stackoverflow.com/q/467538/101)
 - [Até que ponto o hardware afeta a programação?](https://pt.stackoverflow.com/q/416213/101)
+- [Como os computadores armazenam e interpretam números de ponto flutuante em binário?](https://pt.stackoverflow.com/q/416108/101)
 
 # Misc
 
