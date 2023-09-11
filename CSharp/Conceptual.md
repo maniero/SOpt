@@ -66,6 +66,7 @@
 - [Para que servem e quando usar as diretivas do preprocessador?](https://pt.stackoverflow.com/q/224888/101)
 - [Por que métodos que operem ponteiros são inseguros no .NET?](https://pt.stackoverflow.com/q/244754/101)
 - [O tamanho do nome de uma variável afeta seu peso?](https://pt.stackoverflow.com/q/50937/101)
+- [Como organizar namespaces?](https://pt.stackoverflow.com/q/229692/101)
 
 # OOP
 
@@ -196,6 +197,7 @@
 - [Quais as diferenças entre a BCL e a FCL?](https://pt.stackoverflow.com/q/194677/101)
 - [Existe alguma funcionalidade similar ao Assert (afirmações) em C#?](https://pt.stackoverflow.com/q/128991/101)
 - [C# tem serialização nativa?](https://pt.stackoverflow.com/q/174637/101)
+- [Para que serve e por que usar o GuidAttribute?](https://pt.stackoverflow.com/q/185195/101)
 
 # IO
 
@@ -365,3 +367,4 @@
 - [https://pt.stackoverflow.com/q/458760/101](https://pt.stackoverflow.com/q/137185/101)
 - [Como ver os valores das variáveis em tempo de execução?](https://pt.stackoverflow.com/q/180742/101)
 - [Como remover uma extensão do Visual Studio 2010?](https://pt.stackoverflow.com/q/52448/101)
+- [Como pular todos breakpoints sem removê-los?](https://pt.stackoverflow.com/q/219230/101)
