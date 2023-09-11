@@ -54,6 +54,7 @@
 - [Por que variáveis locais não recebem valores default pelo compilador Java ou pela JVM?](https://pt.stackoverflow.com/q/366401/101)
 - [Por que usar String em um bloco switch é mais eficiente do que em um bloco if-else?](https://pt.stackoverflow.com/q/82667/101)
 - [O que o gerenciamento de memória do Java realiza em uma atribuição de uma variável já alocada na memória anteriormente?](https://pt.stackoverflow.com/q/271837/101)
+- [Por que um FOR dá loop mais rápido do que 10 FORs em conjunto?](https://pt.stackoverflow.com/q/73162/101)
 
 # Library
 
@@ -139,6 +140,7 @@
 - [Classe que implementa duas interfaces que possuem métodos de assinaturas idênticas](https://pt.stackoverflow.com/q/390094/101)
 - [Por que estou 'chamando' o método da subclasse?](https://pt.stackoverflow.com/q/327661/101)
 - [Por que esconder a implementação de uma classe?](https://pt.stackoverflow.com/q/236069/101)
+- [Tem algum uso real ao implementar métodos não abstratos em uma classe abstrata?](https://pt.stackoverflow.com/q/366241/101)
 
 # Misc
 
@@ -171,5 +173,6 @@
 - [O que significa "Rodar na JVM"?](https://pt.stackoverflow.com/q/227279/101)
 - [Afinal, Java é uma plataforma ou uma linguagem de programação?](https://pt.stackoverflow.com/q/266489/101)
 - [Qual o atalho no NetBeans para fechar todas os "+" das funções?](https://pt.stackoverflow.com/q/208024/101)
+- [Como funciona o JVM, Java, JDK e JRE?](https://pt.stackoverflow.com/q/447583/101)
 - [Qual é a diferença do var entre Kotlin e Java?](https://pt.stackoverflow.com/q/301993/101)
 - ["enum" deve ser usado para indicar opções de regras de negócio?](https://pt.stackoverflow.com/q/426639/101)
