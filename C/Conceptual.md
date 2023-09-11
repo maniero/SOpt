@@ -45,6 +45,7 @@
 - [Qual é o tamanho de um "enum" em C?](https://pt.stackoverflow.com/q/180014/101)
 - [O que significa o sufixo _t e quando utilizá-lo?](https://pt.stackoverflow.com/q/155692/101)
 - [O que esse trecho de código com cast faz?](https://pt.stackoverflow.com/q/136361/101)
+- [Operações bit a bit (XOR)](https://pt.stackoverflow.com/q/437351/101)
 
 # Pointer & Memory
 
@@ -65,6 +66,8 @@
 - [sizeof não funciona para determinar o tamanho do malloc()](https://pt.stackoverflow.com/q/466295/101)
 - [Como o "free()" sabe quanto de memória tem que liberar?](https://pt.stackoverflow.com/q/178174/101)
 - [O que acontece com a memória quando "realloc()" realoca um bloco de memória para um valor menor que o original?](https://pt.stackoverflow.com/q/432581/101)
+- [Fazer casting do retorno de malloc(), calloc() e realloc() ou não?](https://pt.stackoverflow.com/q/353757/101)
+- [Qual a diferença entre memmove() e memcpy()?](https://pt.stackoverflow.com/q/387414/101)
 
 # Algorithm
 
