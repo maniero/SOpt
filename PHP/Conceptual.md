@@ -108,6 +108,8 @@
 - [Como funciona o destrutor (método "__destruct") no PHP?](https://pt.stackoverflow.com/q/256549/101)
 - [Encapsulamento em PHP orientado a objetos](https://pt.stackoverflow.com/q/325844/101)
 - [Tudo que consigo fazer em POO eu consigo fazer em PE?](https://pt.stackoverflow.com/q/211768/101)
+- [Existe alguma regra para "declarações de tipo em propriedades de classe"?](https://pt.stackoverflow.com/q/438511/101)
+- [Existe diferença de performance entre o "new" e o "clone" no PHP?](https://pt.stackoverflow.com/q/329909/101)
 
 # Library
 
