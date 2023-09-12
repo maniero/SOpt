@@ -199,6 +199,7 @@
 - [C# tem serialização nativa?](https://pt.stackoverflow.com/q/174637/101)
 - [Para que serve e por que usar o GuidAttribute?](https://pt.stackoverflow.com/q/185195/101)
 - [Reflection Emit, para que serve?](https://pt.stackoverflow.com/q/23708/101)
+- [Qual a diferença ente arrays vs. collections em C#?](https://pt.stackoverflow.com/q/364556/101)
 
 # IO
 
