@@ -77,6 +77,8 @@
 - [Por que validar mesmo com um valor por defeito?](https://pt.stackoverflow.com/q/43650/101)
 - [Existe diferença em encontrar o valor máximo direto no SQL ou verificá-lo com PHP?](https://pt.stackoverflow.com/q/346459/101)
 - [Concatenação ou sequenciação de dados: qual tem melhor desempenho?](https://pt.stackoverflow.com/q/215051/101)
+- [Como usar a 9º regra de Object Calisthenics no PHP?](https://pt.stackoverflow.com/q/220497/101)
+
 
 # OOP
 
