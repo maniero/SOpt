@@ -155,6 +155,7 @@
 - [Qual a diferença entre pull-based and push-based development?](https://pt.stackoverflow.com/q/230213/101)
 - [Constante é realmente útil?](https://pt.stackoverflow.com/q/203151/101)
 - [O TDD (Test-Driven Development) melhora o design?](https://pt.stackoverflow.com/q/199885/101)
+- [Relacionamento entre microsserviços](https://pt.stackoverflow.com/q/517843/101)
 
 # Typing
 
