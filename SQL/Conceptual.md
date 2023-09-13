@@ -231,6 +231,7 @@
 - [Banco de dados deve seguir o padrão OO?](https://pt.stackoverflow.com/q/83702/101)
 - [Faz sentido armazenar o salt de uma senha com o próprio hash?](https://pt.stackoverflow.com/q/226726/101)
 - [O que é consistência eventual?](https://pt.stackoverflow.com/q/579435/101)
+- [Por que que os SGBDs utilizam a sua própria paginação se o sistema operacional já possui uma?](https://pt.stackoverflow.com/q/98315/101)
 
 # NoSQL
 
