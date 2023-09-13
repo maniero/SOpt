@@ -288,6 +288,7 @@
 - [Por que o garbage collector do .NET possui várias gerações?](https://pt.stackoverflow.com/q/200713/101)
 - [O que é o Native AOT?](https://pt.stackoverflow.com/q/568799/101)
 - [Encontrar ponto de lentidão no código .NET](https://pt.stackoverflow.com/q/108239/101)
+- [O que é código gerenciado?](https://pt.stackoverflow.com/q/192026/101)
 
 # ASP.NET
 
