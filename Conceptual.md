@@ -313,6 +313,7 @@
 - [Por que um programa compilado para Linux não roda no Windows?](https://pt.stackoverflow.com/q/467538/101)
 - [Até que ponto o hardware afeta a programação?](https://pt.stackoverflow.com/q/416213/101)
 - [Como os computadores armazenam e interpretam números de ponto flutuante em binário?](https://pt.stackoverflow.com/q/416108/101)
+- [Na equação de tempo de CPU (Tcpu) o que são o número de instruções (IC) e ciclos por instrução (CPI)?](https://pt.stackoverflow.com/q/453646/101)
 
 # Misc
 
