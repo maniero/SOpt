@@ -232,6 +232,7 @@
 - [Não consegui entender muito bem o encapsulamento na POO](https://pt.stackoverflow.com/q/240186/101)
 - [Como evitar o uso de setters em casos desse tipo?](https://pt.stackoverflow.com/q/143099/101)
 - [Se eu posso fazer tudo com programação estrutural, por que criaram a orientada a objetos?](https://pt.stackoverflow.com/q/215015/101)
+- [Quando é útil separar estado de comportamento?](https://pt.stackoverflow.com/q/311349/101)
 
 # Memory & Threading
 
