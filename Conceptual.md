@@ -233,6 +233,7 @@
 - [Como evitar o uso de setters em casos desse tipo?](https://pt.stackoverflow.com/q/143099/101)
 - [Se eu posso fazer tudo com programação estrutural, por que criaram a orientada a objetos?](https://pt.stackoverflow.com/q/215015/101)
 - [Quando é útil separar estado de comportamento?](https://pt.stackoverflow.com/q/311349/101)
+- [Aplicação de mais de um design pattern](https://pt.stackoverflow.com/q/99436/101)
 
 # Memory & Threading
 
