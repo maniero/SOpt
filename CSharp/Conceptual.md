@@ -201,6 +201,7 @@
 - [Para que serve e por que usar o GuidAttribute?](https://pt.stackoverflow.com/q/185195/101)
 - [Reflection Emit, para que serve?](https://pt.stackoverflow.com/q/23708/101)
 - [Qual a diferença ente arrays vs. collections em C#?](https://pt.stackoverflow.com/q/364556/101)
+- [Guid.Parse() ou new Guid()?](https://pt.stackoverflow.com/q/290758/101)
 
 # IO
 
