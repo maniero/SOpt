@@ -67,6 +67,7 @@
 - [Por que métodos que operem ponteiros são inseguros no .NET?](https://pt.stackoverflow.com/q/244754/101)
 - [O tamanho do nome de uma variável afeta seu peso?](https://pt.stackoverflow.com/q/50937/101)
 - [Como organizar namespaces?](https://pt.stackoverflow.com/q/229692/101)
+- [Qual é a melhor forma de sair de uma aplicação em C#?](https://pt.stackoverflow.com/q/198911/101)
 
 # OOP
 
