@@ -345,6 +345,7 @@
 - [Como escolher um certificado digital? O que levar em conta?](https://pt.stackoverflow.com/q/76900/101)
 - [Posso usar MIT junto com GPL?](https://pt.stackoverflow.com/q/44862/101)
 - [Devo pedir a senha do usuário duas vezes no momento do cadastro?](https://pt.stackoverflow.com/q/452802/101)
+- [Escrever software em 1ª ou 3ª pessoa?](https://pt.stackoverflow.com/q/284749/101)
 
 # Terminology
 
