@@ -68,6 +68,7 @@
 - [O tamanho do nome de uma variável afeta seu peso?](https://pt.stackoverflow.com/q/50937/101)
 - [Como organizar namespaces?](https://pt.stackoverflow.com/q/229692/101)
 - [Qual é a melhor forma de sair de uma aplicação em C#?](https://pt.stackoverflow.com/q/198911/101)
+- [O que o @ faz no nome das variáveis?](https://pt.stackoverflow.com/q/320830/101)
 
 # OOP
 
@@ -86,6 +87,7 @@
 - [Pra que usar de private?](https://pt.stackoverflow.com/q/165476/101)
 - [Qual é a diferença entre Strategy Pattern e Specification Pattern](https://pt.stackoverflow.com/q/380604/101)
 - [Por que declarar static para todos os métodos de uma classe static?](https://pt.stackoverflow.com/q/457377/101)
+- [Como funciona a herança entre classes no C#?](https://pt.stackoverflow.com/q/220001/101)
 
 # Algorithms
 
