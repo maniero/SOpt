@@ -64,6 +64,7 @@
 - [Dados recebidos de HTTPS vem encriptado?](https://pt.stackoverflow.com/q/49842/101)
 - [Qual o melhor tipo de compactação de arquivos para otimizar resposta de servidores?](https://pt.stackoverflow.com/q/255805/101)
 - [O servidor Apache é necessário em serviços de hospedagem?](https://pt.stackoverflow.com/q/87263/101)
+- [Qual a versão mais recente e estável do HTTP?](https://pt.stackoverflow.com/q/407931/101)
 
 # JavaScript
   
@@ -139,6 +140,7 @@
 - [Diferenças entre utilização de Cache e CDN](https://pt.stackoverflow.com/q/189323/101)
 - [Qual é o limite de tamanho da tecnologia IndexedDB?](https://pt.stackoverflow.com/q/323877/101)
 - [O que é cache no contexto da Web?](https://pt.stackoverflow.com/q/187403/101)
+- [O que é um gerador de site estático?](https://pt.stackoverflow.com/q/239672/101)
   
 # Frameworks
   
