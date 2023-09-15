@@ -55,6 +55,8 @@
 - [Por que usar String em um bloco switch é mais eficiente do que em um bloco if-else?](https://pt.stackoverflow.com/q/82667/101)
 - [O que o gerenciamento de memória do Java realiza em uma atribuição de uma variável já alocada na memória anteriormente?](https://pt.stackoverflow.com/q/271837/101)
 - [Por que um FOR dá loop mais rápido do que 10 FORs em conjunto?](https://pt.stackoverflow.com/q/73162/101)
+- [Em Java por que (250 >> 4) é mais otimizado que (250 / 16)?](https://pt.stackoverflow.com/q/471623/101)
+- [Declaração de variáveis Java](https://pt.stackoverflow.com/q/334497/101)
 
 # Library
 
