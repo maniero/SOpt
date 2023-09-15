@@ -141,7 +141,8 @@
 - [Unsigned na chave primária aumenta minhas possibilidades?](https://pt.stackoverflow.com/q/185685/101)
 - [Função contrária ao TRIM](https://pt.stackoverflow.com/q/112831/101)
 - [Ter imagens nas tabelas onde serão usadas ou tabela com repositório de imagens?](https://pt.stackoverflow.com/q/94472/101)
-- [Checar elemento UNIQUE antes de inserí-lo]()
+- [Checar elemento UNIQUE antes de inserí-lo](https://pt.stackoverflow.com/q/58164/101)
+- [Para quê servem os números quando criamos colunas em bancos de dados?](https://pt.stackoverflow.com/q/96436/101)
 
 # PostgreSQL
 
