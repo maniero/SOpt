@@ -65,6 +65,7 @@
 - [O que ocorre com o espaço na memória após o uso de variável local?](https://pt.stackoverflow.com/q/400997/101)
 - [Além de estruturas como "for", "while", "goto" ou recursão, há alguma outra forma de repetir algo na programação?](https://pt.stackoverflow.com/q/444793/101)
 - [O que é a expressividade de uma linguagem de programação?](https://pt.stackoverflow.com/q/563253/101)
+- [Checagem de valor nulo automática versus tipos como "Option<T>"?](https://pt.stackoverflow.com/q/507936/101)
 
 # Coding Style
 
@@ -316,6 +317,7 @@
 - [Até que ponto o hardware afeta a programação?](https://pt.stackoverflow.com/q/416213/101)
 - [Como os computadores armazenam e interpretam números de ponto flutuante em binário?](https://pt.stackoverflow.com/q/416108/101)
 - [Na equação de tempo de CPU (Tcpu) o que são o número de instruções (IC) e ciclos por instrução (CPI)?](https://pt.stackoverflow.com/q/453646/101)
+- [Qual é a diferença entre ponto fixo e ponto flutuante?](https://pt.stackoverflow.com/q/579543/101)
 
 # Misc
 
