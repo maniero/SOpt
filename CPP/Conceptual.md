@@ -47,3 +47,4 @@
 - [Quais as diferenças entre classes/membros Friend e Static?](https://pt.stackoverflow.com/q/115606/101)
 - [Variável com ponteiro é declarada nula, porém função membro executa normalmente](https://pt.stackoverflow.com/q/34165/101)
 - [Diferença entre std::map, std::unordered_map, std::flat_map, e qual delas escolher?](https://pt.stackoverflow.com/q/264887/101)
+- [Sobre __forceinline e __inline](https://pt.stackoverflow.com/q/241534/101)
