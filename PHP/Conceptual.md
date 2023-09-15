@@ -43,6 +43,7 @@
 - [O que é um construtor da linguagem?](https://pt.stackoverflow.com/q/326105/101)
 - [Palavra reservada include ou "use" no PHP?](https://pt.stackoverflow.com/q/239960/101)
 - [O que são atributos no PHP? (Annotations/Attributes/Decorators)](https://pt.stackoverflow.com/q/484081/101)
+- [Qual é a diferença entre usar variável e passar parâmetro direto?](https://pt.stackoverflow.com/q/297272/101)
 
 
 # General
