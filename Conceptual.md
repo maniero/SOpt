@@ -66,6 +66,7 @@
 - [Além de estruturas como "for", "while", "goto" ou recursão, há alguma outra forma de repetir algo na programação?](https://pt.stackoverflow.com/q/444793/101)
 - [O que é a expressividade de uma linguagem de programação?](https://pt.stackoverflow.com/q/563253/101)
 - [Checagem de valor nulo automática versus tipos como "Option<T>"?](https://pt.stackoverflow.com/q/507936/101)
+- [O que significa uma variável conter um valor?](https://pt.stackoverflow.com/q/527528/101)
 
 # Coding Style
 
@@ -96,6 +97,7 @@
 - [O que são e quais são as principais diferenças entre Programação Funcional e Programação Reativa?](https://pt.stackoverflow.com/q/319368/101)
 - [Qual é a diferença entre metaprogramação e reflexão?](https://pt.stackoverflow.com/q/276112/101)
 - [O que é programação orientada a protocolo?](https://pt.stackoverflow.com/q/241691/101)
+- [Há como construir uma aplicação útil baseada totalmente no paradigma funcional?](https://pt.stackoverflow.com/q/257582/101)
 
 # Engineering
 
@@ -157,6 +159,7 @@
 - [Constante é realmente útil?](https://pt.stackoverflow.com/q/203151/101)
 - [O TDD (Test-Driven Development) melhora o design?](https://pt.stackoverflow.com/q/199885/101)
 - [Relacionamento entre microsserviços](https://pt.stackoverflow.com/q/517843/101)
+- [DDD restringe escrita de código baseado no idioma do cliente?](https://pt.stackoverflow.com/q/366511/101)
 
 # Typing
 
@@ -167,6 +170,7 @@
 - [O que é estilo de tipagem?](https://pt.stackoverflow.com/q/190463/101)
 - ["null" é um valor ou um estado em que a propriedade se encontra?](https://pt.stackoverflow.com/q/428363/101)
 - [Por que não temos um Inteiro de 128 bits?](https://pt.stackoverflow.com/q/411176/101)
+- [O que é um tipo?](https://pt.stackoverflow.com/q/532890/101)
 
 # Algorithms & Data Structure
 
@@ -235,6 +239,7 @@
 - [Se eu posso fazer tudo com programação estrutural, por que criaram a orientada a objetos?](https://pt.stackoverflow.com/q/215015/101)
 - [Quando é útil separar estado de comportamento?](https://pt.stackoverflow.com/q/311349/101)
 - [Aplicação de mais de um design pattern](https://pt.stackoverflow.com/q/99436/101)
+- [Dúvida de concurso sobre herança e polimorfismo em orientação a objetos](https://pt.stackoverflow.com/q/351999/101)
 
 # Memory & Threading
 
