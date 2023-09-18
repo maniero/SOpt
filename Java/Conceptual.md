@@ -102,6 +102,7 @@
 - [Parâmetros com vetores em Java são sempre por referência?](https://pt.stackoverflow.com/q/396843/101)
 - [Por que não se deve iterar um hashmap?](https://pt.stackoverflow.com/q/268305/101)
 - [Qual a diferenca entre String nome = "teste" e String s4 = new String("Pedro");](https://pt.stackoverflow.com/q/234867/101)
+- [Lista de objetos em Java](https://pt.stackoverflow.com/q/565025/101)
 
 # Desktop
 
@@ -143,6 +144,7 @@
 - [Por que estou 'chamando' o método da subclasse?](https://pt.stackoverflow.com/q/327661/101)
 - [Por que esconder a implementação de uma classe?](https://pt.stackoverflow.com/q/236069/101)
 - [Tem algum uso real ao implementar métodos não abstratos em uma classe abstrata?](https://pt.stackoverflow.com/q/366241/101)
+- [Porque o comando this(6) dentro de um construtor inicializa o array da classe?](https://pt.stackoverflow.com/q/410144/101)
 
 # Misc
 
