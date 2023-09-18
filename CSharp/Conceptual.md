@@ -69,6 +69,7 @@
 - [Como organizar namespaces?](https://pt.stackoverflow.com/q/229692/101)
 - [Qual é a melhor forma de sair de uma aplicação em C#?](https://pt.stackoverflow.com/q/198911/101)
 - [O que o @ faz no nome das variáveis?](https://pt.stackoverflow.com/q/320830/101)
+- [Nomenclatura ou linguajar no lambda](https://pt.stackoverflow.com/q/22265/101)
 
 # OOP
 
@@ -121,6 +122,7 @@
 - [Quando não retornar Task em métodos async?](https://pt.stackoverflow.com/q/219433/101)
 - [Por que os métodos implementados de uma interface não podem ser privados?](https://pt.stackoverflow.com/q/58891/101)
 - [É correto chamar um método, e passar seus parametros null?](https://pt.stackoverflow.com/q/215845/101)
+- [A palavra-chave "async" realmente faz o método assíncrono?](https://pt.stackoverflow.com/q/168186/101)
 
 # Memory Managemnent
 
@@ -155,6 +157,7 @@
 - [Por que usar short?](https://pt.stackoverflow.com/q/13930/101)
 - [Qual a diferença entre usar (int)variavel ou Convert.ToInt32(variavel)?](https://pt.stackoverflow.com/q/90928/101)
 - [A que o erro "Não é possível converter implicitamente tipo "void" em "int" " se refere?](https://pt.stackoverflow.com/q/413737/101)
+- [Que tipo de dado usar para armazenar data de falecimento num cadastro (DateTime ou string)?](https://pt.stackoverflow.com/q/493902/101)
 
 # Libraries
 
@@ -205,6 +208,7 @@
 - [Reflection Emit, para que serve?](https://pt.stackoverflow.com/q/23708/101)
 - [Qual a diferença ente arrays vs. collections em C#?](https://pt.stackoverflow.com/q/364556/101)
 - [Guid.Parse() ou new Guid()?](https://pt.stackoverflow.com/q/290758/101)
+- [Quando usar o MemoryCache?](https://pt.stackoverflow.com/q/364193/101)
 
 # IO
 
