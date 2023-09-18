@@ -68,6 +68,7 @@
 - [O que acontece com a memória quando "realloc()" realoca um bloco de memória para um valor menor que o original?](https://pt.stackoverflow.com/q/432581/101)
 - [Fazer casting do retorno de malloc(), calloc() e realloc() ou não?](https://pt.stackoverflow.com/q/353757/101)
 - [Qual a diferença entre memmove() e memcpy()?](https://pt.stackoverflow.com/q/387414/101)
+- [Qual a diferença entre a função "malloc()" e uma variável criada?](https://pt.stackoverflow.com/q/498527/101)
 
 # Algorithm
 
@@ -111,6 +112,7 @@
 - [Bibliotecas C fora do padrão ANSI](https://pt.stackoverflow.com/q/80322/101)
 - [Uso de assert ao invés de if](https://pt.stackoverflow.com/q/184957/101)
 - [É sempre bom desalocar a memória antes de uma saída "brusca" do programa com a chamada da função exit()?](https://pt.stackoverflow.com/q/333241/101)
+- [O que faz o %u?](https://pt.stackoverflow.com/q/483077/101)
 
 # Misc
 
