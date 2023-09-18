@@ -44,6 +44,7 @@
 - [Palavra reservada include ou "use" no PHP?](https://pt.stackoverflow.com/q/239960/101)
 - [O que são atributos no PHP? (Annotations/Attributes/Decorators)](https://pt.stackoverflow.com/q/484081/101)
 - [Qual é a diferença entre usar variável e passar parâmetro direto?](https://pt.stackoverflow.com/q/297272/101)
+- [É necessário utilizar ponto-e-vírgula no final de uma "expressão única" no PHP?](https://pt.stackoverflow.com/q/325466/101)
 
 
 # General
@@ -79,6 +80,7 @@
 - [Existe diferença em encontrar o valor máximo direto no SQL ou verificá-lo com PHP?](https://pt.stackoverflow.com/q/346459/101)
 - [Concatenação ou sequenciação de dados: qual tem melhor desempenho?](https://pt.stackoverflow.com/q/215051/101)
 - [Como usar a 9º regra de Object Calisthenics no PHP?](https://pt.stackoverflow.com/q/220497/101)
+- [Devo alimentar meu site pela API ou não?](https://pt.stackoverflow.com/q/306429/101)
 
 
 # OOP
