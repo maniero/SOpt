@@ -60,6 +60,8 @@
 - [Dividir coluna em múltiplas tabelas](https://pt.stackoverflow.com/q/56630/101)
 - [Database com extra headers](https://pt.stackoverflow.com/q/53518/101)
 - [Ter imagens nas tabelas onde serão usadas ou tabela com repositório de imagens?](https://pt.stackoverflow.com/q/94472/101)
+- [Nomenclatura de tabelas com nome da empresa e sigla de sistema](https://pt.stackoverflow.com/q/402158/101)
+- [Usar modelo multi-tenancy ou outros tipos?](https://pt.stackoverflow.com/q/339235/101)
 
 # SQL
 
@@ -154,6 +156,7 @@
 - [Replicação unilateral no PostgreSQL](https://pt.stackoverflow.com/q/48886/101)
 - [O que é a técnica Multi-Version Concurrency Control no PostgreSQL?](https://pt.stackoverflow.com/q/192938/101)
 - [É possível fazer a query "INSERT INTO tabela SET campo = 'valor' " no PostgreSQL?](https://pt.stackoverflow.com/q/265844/101)
+- [Faz diferença deletar e criar novas linhas ou fazer update nas antigas?](https://pt.stackoverflow.com/q/361089/101)
 
 # SQL Server
 
