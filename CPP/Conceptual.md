@@ -48,3 +48,4 @@
 - [Variável com ponteiro é declarada nula, porém função membro executa normalmente](https://pt.stackoverflow.com/q/34165/101)
 - [Diferença entre std::map, std::unordered_map, std::flat_map, e qual delas escolher?](https://pt.stackoverflow.com/q/264887/101)
 - [Sobre __forceinline e __inline](https://pt.stackoverflow.com/q/241534/101)
+- [Existe alguma diferença entre as maneiras de declarar classes em C++?](https://pt.stackoverflow.com/q/156907/101)
