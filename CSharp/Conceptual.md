@@ -210,6 +210,7 @@
 - [Qual a diferença ente arrays vs. collections em C#?](https://pt.stackoverflow.com/q/364556/101)
 - [Guid.Parse() ou new Guid()?](https://pt.stackoverflow.com/q/290758/101)
 - [Quando usar o MemoryCache?](https://pt.stackoverflow.com/q/364193/101)
+- [Por que não há método String.ToInt()?](https://pt.stackoverflow.com/q/284845/101)
 
 # IO
 
