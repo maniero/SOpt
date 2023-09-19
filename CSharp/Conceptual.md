@@ -382,3 +382,4 @@
 - [Como ver os valores das variáveis em tempo de execução?](https://pt.stackoverflow.com/q/180742/101)
 - [Como remover uma extensão do Visual Studio 2010?](https://pt.stackoverflow.com/q/52448/101)
 - [Como pular todos breakpoints sem removê-los?](https://pt.stackoverflow.com/q/219230/101)
+- [Como editar uma Partial Class?](https://pt.stackoverflow.com/q/77528/101)
