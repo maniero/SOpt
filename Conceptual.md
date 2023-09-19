@@ -160,6 +160,7 @@
 - [O TDD (Test-Driven Development) melhora o design?](https://pt.stackoverflow.com/q/199885/101)
 - [Relacionamento entre microsserviços](https://pt.stackoverflow.com/q/517843/101)
 - [DDD restringe escrita de código baseado no idioma do cliente?](https://pt.stackoverflow.com/q/366511/101)
+- [É adequado usar camadas em uma aplicação usando microsserviços?](https://pt.stackoverflow.com/q/352370/101)
 
 # Typing
 
