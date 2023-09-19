@@ -240,6 +240,7 @@
 - [Quando é útil separar estado de comportamento?](https://pt.stackoverflow.com/q/311349/101)
 - [Aplicação de mais de um design pattern](https://pt.stackoverflow.com/q/99436/101)
 - [Dúvida de concurso sobre herança e polimorfismo em orientação a objetos](https://pt.stackoverflow.com/q/351999/101)
+- [Como implementar de forma correta o polimorfismo?](https://pt.stackoverflow.com/q/303542/101)
 
 # Memory & Threading
 
