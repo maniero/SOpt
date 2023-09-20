@@ -57,6 +57,7 @@
 - [Por que um FOR dá loop mais rápido do que 10 FORs em conjunto?](https://pt.stackoverflow.com/q/73162/101)
 - [Em Java por que (250 >> 4) é mais otimizado que (250 / 16)?](https://pt.stackoverflow.com/q/471623/101)
 - [Declaração de variáveis Java](https://pt.stackoverflow.com/q/334497/101)
+- [O que torna um objeto elegível para ser alocado no stack?](https://pt.stackoverflow.com/q/121595/101)
 
 # Library
 
