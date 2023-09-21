@@ -104,6 +104,7 @@
 - [Por que não se deve iterar um hashmap?](https://pt.stackoverflow.com/q/268305/101)
 - [Qual a diferenca entre String nome = "teste" e String s4 = new String("Pedro");](https://pt.stackoverflow.com/q/234867/101)
 - [Lista de objetos em Java](https://pt.stackoverflow.com/q/565025/101)
+- [Por que ainda usar a String em vez de StringBuilder no Java?](https://pt.stackoverflow.com/q/448326/101)
 
 # Desktop
 
