@@ -242,6 +242,7 @@
 - [Aplicação de mais de um design pattern](https://pt.stackoverflow.com/q/99436/101)
 - [Dúvida de concurso sobre herança e polimorfismo em orientação a objetos](https://pt.stackoverflow.com/q/351999/101)
 - [Como implementar de forma correta o polimorfismo?](https://pt.stackoverflow.com/q/303542/101)
+- [APOO tem utilidade hoje?](https://pt.stackoverflow.com/q/321826/101)
 
 # Memory & Threading
 
