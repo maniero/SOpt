@@ -136,6 +136,7 @@
 - [É possível descobrir com código o tamanho que o objeto ocupa na memória?](https://pt.stackoverflow.com/q/199618/101)
 - [Em quais momentos se faz necessário forçar a coleta de lixo em C# para um melhor desempenho da aplicação?](https://pt.stackoverflow.com/q/110854/101)
 - [Método Dispose()](https://pt.stackoverflow.com/q/173210/101)
+- [Como consumir menos memória em runtime C#?](https://pt.stackoverflow.com/q/308710/101)
 
 # Typing
 
