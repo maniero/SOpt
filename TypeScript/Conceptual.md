@@ -13,3 +13,4 @@
 - [Modificador de acesso "private" em TypeScript](https://pt.stackoverflow.com/q/345372/101)
 - [Por que no Angular usamos a tipagem ": void"?](https://pt.stackoverflow.com/q/255805/101)
 - [Qual é a finalidade da palavra-chave "export"?](https://pt.stackoverflow.com/q/360161/101)
+- [Como ver a implementação do código TypeScript?](https://pt.stackoverflow.com/q/430482/101)
