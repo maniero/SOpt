@@ -46,6 +46,7 @@
 - [O que significa o sufixo _t e quando utilizá-lo?](https://pt.stackoverflow.com/q/155692/101)
 - [O que esse trecho de código com cast faz?](https://pt.stackoverflow.com/q/136361/101)
 - [Operações bit a bit (XOR)](https://pt.stackoverflow.com/q/437351/101)
+- [Qual a necessidade de se utilizar o sufixo "f" em uma constante numérica em C?](https://pt.stackoverflow.com/q/325551/101)
 
 # Pointer & Memory
 
