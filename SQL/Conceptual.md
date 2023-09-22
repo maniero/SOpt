@@ -62,6 +62,7 @@
 - [Ter imagens nas tabelas onde serão usadas ou tabela com repositório de imagens?](https://pt.stackoverflow.com/q/94472/101)
 - [Nomenclatura de tabelas com nome da empresa e sigla de sistema](https://pt.stackoverflow.com/q/402158/101)
 - [Usar modelo multi-tenancy ou outros tipos?](https://pt.stackoverflow.com/q/339235/101)
+- [Seria má pratica inserir símbolos monetários direto no banco?](https://pt.stackoverflow.com/q/396780/101)
 
 # SQL
 
