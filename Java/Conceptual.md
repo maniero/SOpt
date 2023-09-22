@@ -147,6 +147,7 @@
 - [Por que esconder a implementação de uma classe?](https://pt.stackoverflow.com/q/236069/101)
 - [Tem algum uso real ao implementar métodos não abstratos em uma classe abstrata?](https://pt.stackoverflow.com/q/366241/101)
 - [Porque o comando this(6) dentro de um construtor inicializa o array da classe?](https://pt.stackoverflow.com/q/410144/101)
+- [Um método setter pode receber como parâmetro um getter + valor?](https://pt.stackoverflow.com/q/498974/101)
 
 # Misc
 
