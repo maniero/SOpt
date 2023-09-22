@@ -298,6 +298,7 @@
 - [Qual a diferença entre "Issues" e "Pull Requests"?](https://pt.stackoverflow.com/q/345326/101)
 - [O que são realmente os conjuntos de modificações do Git?](https://pt.stackoverflow.com/q/48602/101)
 - [O que poderia justificar o pulo de um número em um sistema de versionamento?](https://pt.stackoverflow.com/q/178464/101)
+- [Por que alguns comandos "git" são precedidos por um traço e outros por dois traços?](https://pt.stackoverflow.com/q/45763/101)
 
 # Architeture & Operating System
 
