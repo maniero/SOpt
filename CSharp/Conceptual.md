@@ -91,6 +91,7 @@
 - [Qual é a diferença entre Strategy Pattern e Specification Pattern](https://pt.stackoverflow.com/q/380604/101)
 - [Por que declarar static para todos os métodos de uma classe static?](https://pt.stackoverflow.com/q/457377/101)
 - [Como funciona a herança entre classes no C#?](https://pt.stackoverflow.com/q/220001/101)
+- [Se tudo em C# herda de Object, por que todos os tipos não são por referência?](https://pt.stackoverflow.com/q/459479/101)
 
 # Algorithms
 
