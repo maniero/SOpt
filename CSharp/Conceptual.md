@@ -303,6 +303,7 @@
 - [O que é o Native AOT?](https://pt.stackoverflow.com/q/568799/101)
 - [Encontrar ponto de lentidão no código .NET](https://pt.stackoverflow.com/q/108239/101)
 - [O que é código gerenciado?](https://pt.stackoverflow.com/q/192026/101)
+- [O que seria um NuGet?](https://pt.stackoverflow.com/q/285740/101)
 
 # ASP.NET
 
