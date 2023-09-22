@@ -71,6 +71,7 @@
 - [O que o @ faz no nome das variáveis?](https://pt.stackoverflow.com/q/320830/101)
 - [Nomenclatura ou linguajar no lambda](https://pt.stackoverflow.com/q/22265/101)
 - [Existe desvantagem ou é prejudicial utilizar tipos nulos?](https://pt.stackoverflow.com/q/397664/101)
+- [Comentários pesam o código em C#?](https://pt.stackoverflow.com/q/296223/101)
 
 # OOP
 
