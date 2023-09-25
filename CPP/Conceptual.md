@@ -50,3 +50,4 @@
 - [Sobre __forceinline e __inline](https://pt.stackoverflow.com/q/241534/101)
 - [Existe alguma diferença entre as maneiras de declarar classes em C++?](https://pt.stackoverflow.com/q/156907/101)
 - [Pra que serve o "= delete" na declaração de um construtor em C++?](https://pt.stackoverflow.com/q/285897/101)
+- [Em estruturas (struct) é necessário o uso de getters e setters ou apenas em classes (class)?](https://pt.stackoverflow.com/q/262764/101)
