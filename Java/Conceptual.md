@@ -78,6 +78,7 @@
 - [Problemas com thread](https://pt.stackoverflow.com/q/18799/101)
 - [Pra que serve Runnable?](https://pt.stackoverflow.com/q/124638/101)
 - [Por que é necessário fechar arquivo?](https://pt.stackoverflow.com/q/259469/101)
+- [Onde a função está pegando o horário atual?](https://pt.stackoverflow.com/q/405852/101)
 
 # String & Collencions
 
