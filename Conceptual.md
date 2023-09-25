@@ -161,6 +161,7 @@
 - [Relacionamento entre microsserviços](https://pt.stackoverflow.com/q/517843/101)
 - [DDD restringe escrita de código baseado no idioma do cliente?](https://pt.stackoverflow.com/q/366511/101)
 - [É adequado usar camadas em uma aplicação usando microsserviços?](https://pt.stackoverflow.com/q/352370/101)
+- [Reescrita vs Melhoria Incremental?](https://pt.stackoverflow.com/q/50590/101)
 
 # Typing
 
@@ -172,6 +173,7 @@
 - ["null" é um valor ou um estado em que a propriedade se encontra?](https://pt.stackoverflow.com/q/428363/101)
 - [Por que não temos um Inteiro de 128 bits?](https://pt.stackoverflow.com/q/411176/101)
 - [O que é um tipo?](https://pt.stackoverflow.com/q/532890/101)
+- [Forma mais rápida de calcular a/b+c/d com float](https://pt.stackoverflow.com/q/419236/101)
 
 # Algorithms & Data Structure
 
@@ -196,6 +198,7 @@
 - [MD5 é bom o suficiente?](https://pt.stackoverflow.com/q/137086/101)
 - [Qual a diferença entre estruturas de dados e tipos abstratos de dados?](https://pt.stackoverflow.com/q/455423/101)
 - [Existe uma diferença entre uma árvore binária perfeita e uma árvore binária balanceada?](https://pt.stackoverflow.com/q/424269/101)
+- [O que acontece se uma busca binária não acha o elemento?](https://pt.stackoverflow.com/q/257583/101)
 
 # OOP & Design Patterns
 
@@ -244,6 +247,7 @@
 - [Como implementar de forma correta o polimorfismo?](https://pt.stackoverflow.com/q/303542/101)
 - [APOO tem utilidade hoje?](https://pt.stackoverflow.com/q/321826/101)
 - [Funcionário pode ser papel de Pessoa Física?](https://pt.stackoverflow.com/q/313990/101)
+- [Quando é que eu preciso utilizar uma classe que herda de um ArrayList de um tipo? Não entendo para que serve isso](https://pt.stackoverflow.com/q/167288/101)
 
 # Memory & Threading
 
@@ -328,6 +332,7 @@
 - [Como os computadores armazenam e interpretam números de ponto flutuante em binário?](https://pt.stackoverflow.com/q/416108/101)
 - [Na equação de tempo de CPU (Tcpu) o que são o número de instruções (IC) e ciclos por instrução (CPI)?](https://pt.stackoverflow.com/q/453646/101)
 - [Qual é a diferença entre ponto fixo e ponto flutuante?](https://pt.stackoverflow.com/q/579543/101)
+- [O que acontece com a memória RAM se uma tecla for pressionada no computador por muito tempo?](https://pt.stackoverflow.com/q/346673/101)
 
 # Misc
 
@@ -358,6 +363,7 @@
 - [Posso usar MIT junto com GPL?](https://pt.stackoverflow.com/q/44862/101)
 - [Devo pedir a senha do usuário duas vezes no momento do cadastro?](https://pt.stackoverflow.com/q/452802/101)
 - [Escrever software em 1ª ou 3ª pessoa?](https://pt.stackoverflow.com/q/284749/101)
+- [Quando devo me preocupar com UX?](https://pt.stackoverflow.com/q/324497/101)
 
 # Terminology
 
@@ -421,3 +427,6 @@
 - [O que é Resource acquisition is initialization (RAII)?](https://pt.stackoverflow.com/q/528771/101)
 - [Mas afinal o que é um SaaS?](https://pt.stackoverflow.com/q/171204/101)
 - [Existe diferença entre “exatidão” e “precisão” em contextos de computação?](https://pt.stackoverflow.com/q/516306/101)
+- [Qual é a diferença entre binário e executável?](https://pt.stackoverflow.com/q/575777/101)
+- [Quais as diferenças entre o Decoradores e Atributos?](https://pt.stackoverflow.com/q/487648/101)
+- [Qual o nome da convenção de código pra variáveis que usam _?](https://pt.stackoverflow.com/q/450233/101)
