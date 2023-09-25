@@ -117,6 +117,7 @@
 - [Existe alguma regra para "declarações de tipo em propriedades de classe"?](https://pt.stackoverflow.com/q/438511/101)
 - [Existe diferença de performance entre o "new" e o "clone" no PHP?](https://pt.stackoverflow.com/q/329909/101)
 - [Por que ao acessar a propriedade de uma classe só preciso usar um cifrão ("$this->propriedade" em vez de "$this->$propriedade")?](https://pt.stackoverflow.com/q/532590/101)
+- [Qual a importância da interface nesse determinado código?](https://pt.stackoverflow.com/q/219288/101)
 
 # Library
 
