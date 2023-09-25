@@ -70,6 +70,7 @@
 - [Fazer casting do retorno de malloc(), calloc() e realloc() ou não?](https://pt.stackoverflow.com/q/353757/101)
 - [Qual a diferença entre memmove() e memcpy()?](https://pt.stackoverflow.com/q/387414/101)
 - [Qual a diferença entre a função "malloc()" e uma variável criada?](https://pt.stackoverflow.com/q/498527/101)
+- [Quão abstratos são ponteiros em C?](https://pt.stackoverflow.com/q/507427/101)
 
 # Algorithm
 
