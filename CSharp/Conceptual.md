@@ -215,6 +215,7 @@
 - [Guid.Parse() ou new Guid()?](https://pt.stackoverflow.com/q/290758/101)
 - [Quando usar o MemoryCache?](https://pt.stackoverflow.com/q/364193/101)
 - [Por que não há método String.ToInt()?](https://pt.stackoverflow.com/q/284845/101)
+- [Como, quando e por que usar "SecureString" no C#?](https://pt.stackoverflow.com/q/164465/101)
 
 # IO
 
