@@ -67,6 +67,7 @@
 - [O que é a expressividade de uma linguagem de programação?](https://pt.stackoverflow.com/q/563253/101)
 - [Checagem de valor nulo automática versus tipos como "Option<T>"?](https://pt.stackoverflow.com/q/507936/101)
 - [O que significa uma variável conter um valor?](https://pt.stackoverflow.com/q/527528/101)
+- [Toda função anônima é uma closure?](https://pt.stackoverflow.com/q/453782/101)
 
 # Coding Style
 
