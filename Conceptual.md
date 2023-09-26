@@ -364,6 +364,7 @@
 - [Devo pedir a senha do usuário duas vezes no momento do cadastro?](https://pt.stackoverflow.com/q/452802/101)
 - [Escrever software em 1ª ou 3ª pessoa?](https://pt.stackoverflow.com/q/284749/101)
 - [Quando devo me preocupar com UX?](https://pt.stackoverflow.com/q/324497/101)
+- [Como funciona a lógica para se descobrir o tamanho da imagem?](https://pt.stackoverflow.com/q/136496/101)
 
 # Terminology
 
