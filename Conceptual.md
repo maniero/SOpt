@@ -249,6 +249,7 @@
 - [APOO tem utilidade hoje?](https://pt.stackoverflow.com/q/321826/101)
 - [Funcionário pode ser papel de Pessoa Física?](https://pt.stackoverflow.com/q/313990/101)
 - [Quando é que eu preciso utilizar uma classe que herda de um ArrayList de um tipo? Não entendo para que serve isso](https://pt.stackoverflow.com/q/167288/101)
+- [O objetivo da herança é o reúso?](https://pt.stackoverflow.com/q/434920/101)
 
 # Memory & Threading
 
