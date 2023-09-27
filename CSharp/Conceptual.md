@@ -312,6 +312,7 @@
 - [O que seria um NuGet?](https://pt.stackoverflow.com/q/285740/101)
 - [Posso criar um aplicativo Win32 em C#?](https://pt.stackoverflow.com/q/227301/101)
 - [Existe alguma maneira de rodar o C# pela linha de comando em modo interativo?](https://pt.stackoverflow.com/q/129049/101)
+- [O que são símbolos no .NET Framework?](https://pt.stackoverflow.com/q/204719/101)
 
 # ASP.NET
 
