@@ -220,6 +220,7 @@
 - [Por que não há método String.ToInt()?](https://pt.stackoverflow.com/q/284845/101)
 - [Como, quando e por que usar "SecureString" no C#?](https://pt.stackoverflow.com/q/164465/101)
 - [O que é um Span<T>?](https://pt.stackoverflow.com/q/567279/101)
+- [Por que char.Parse(string) retorna um número?](https://pt.stackoverflow.com/q/456397/101)
 
 # IO
 
