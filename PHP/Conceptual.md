@@ -46,6 +46,7 @@
 - [Qual é a diferença entre usar variável e passar parâmetro direto?](https://pt.stackoverflow.com/q/297272/101)
 - [É necessário utilizar ponto-e-vírgula no final de uma "expressão única" no PHP?](https://pt.stackoverflow.com/q/325466/101)
 - [Diferença entre global, const e define()](https://pt.stackoverflow.com/q/407282/101)
+- [Qual a vantagem dos objetos em PHP serem passados por referências por padrão?](https://pt.stackoverflow.com/q/405919/101)
 
 
 # General
