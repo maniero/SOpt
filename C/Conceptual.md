@@ -148,5 +148,6 @@
 - [Quais as diferenças práticas na portabilidade de código C e C++?](https://pt.stackoverflow.com/q/35355/101)
 - [Se C/C++ são linguagens nativas então por que precisam de runtimes?](https://pt.stackoverflow.com/q/303325/101)
 - [Qual é a maneira mais eficiente de fazer com que literais de string não apareçam no código compilado?](https://pt.stackoverflow.com/q/435147/101)
+- [Como garantir escrever arquivo em um único bloco do disco?](https://pt.stackoverflow.com/q/173832/101)
 - [Como tornar meus programas C++ multi-arquitetura (32 e 64 bits)?](https://pt.stackoverflow.com/q/142134/101)
 - [Utilização "bytes" e "bits"](https://pt.stackoverflow.com/q/359637/101)
