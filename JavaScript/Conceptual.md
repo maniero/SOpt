@@ -41,6 +41,7 @@
 - [O que é User Agent StyleSheets?](https://pt.stackoverflow.com/q/165937/101)
 - [Devemos usar ícones em SVG ou PNG para websites?](https://pt.stackoverflow.com/q/185931/101)
 - [Esconder descrição com ''Display: none " é ruim pro SEO?](https://pt.stackoverflow.com/q/149743/101)
+- [Comentários com a licença em arquivos CSS ou JavaScript devem ou não ser mantidos?](https://pt.stackoverflow.com/q/80373/101)
   
 # HTTP
   
