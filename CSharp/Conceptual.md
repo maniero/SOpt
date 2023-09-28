@@ -74,6 +74,7 @@
 - [Comentários pesam o código em C#?](https://pt.stackoverflow.com/q/296223/101)
 - [Qual nome é dado em C# quando usamos a expressão "new {}"?](https://pt.stackoverflow.com/q/267624/101)
 - [Finalidade da sintaxe de lambda em função/método](https://pt.stackoverflow.com/q/142150/101)
+- [Quando e por que usar o atributo Obsolete?](https://pt.stackoverflow.com/q/183539/101)
 
 # OOP
 
