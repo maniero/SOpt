@@ -433,3 +433,4 @@
 - [Qual é a diferença entre binário e executável?](https://pt.stackoverflow.com/q/575777/101)
 - [Quais as diferenças entre o Decoradores e Atributos?](https://pt.stackoverflow.com/q/487648/101)
 - [Qual o nome da convenção de código pra variáveis que usam _?](https://pt.stackoverflow.com/q/450233/101)
+- [Tempo de processamento e tempo de relógio](https://pt.stackoverflow.com/q/459280/101)
