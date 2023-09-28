@@ -49,3 +49,4 @@
 - [Por que Python tem números tão grandes?](https://pt.stackoverflow.com/q/479987/101)
 - [Existe algum ganho real em usar list comprehension em vez de um loop for tradicional no Python?](https://pt.stackoverflow.com/q/554628/101)
 - [Por que listas (arrays) tem um comportamento diferentes das variáveis comuns em Python?](https://pt.stackoverflow.com/q/408221/101)
+- [Desempenho de funções com e sem criação de variáveis locais](https://pt.stackoverflow.com/q/351748/101)
