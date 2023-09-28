@@ -73,6 +73,7 @@
 - [Existe desvantagem ou é prejudicial utilizar tipos nulos?](https://pt.stackoverflow.com/q/397664/101)
 - [Comentários pesam o código em C#?](https://pt.stackoverflow.com/q/296223/101)
 - [Qual nome é dado em C# quando usamos a expressão "new {}"?](https://pt.stackoverflow.com/q/267624/101)
+- [Finalidade da sintaxe de lambda em função/método](https://pt.stackoverflow.com/q/142150/101)
 
 # OOP
 
