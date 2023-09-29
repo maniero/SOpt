@@ -68,6 +68,7 @@
 - [Checagem de valor nulo automática versus tipos como "Option<T>"?](https://pt.stackoverflow.com/q/507936/101)
 - [O que significa uma variável conter um valor?](https://pt.stackoverflow.com/q/527528/101)
 - [Toda função anônima é uma closure?](https://pt.stackoverflow.com/q/453782/101)
+- [Um executável em linguagem de programação imperativa é menor do que um executável em linguagem orientada a objetos?](https://pt.stackoverflow.com/q/408308/101)
 
 # Coding Style
 
@@ -250,6 +251,7 @@
 - [Funcionário pode ser papel de Pessoa Física?](https://pt.stackoverflow.com/q/313990/101)
 - [Quando é que eu preciso utilizar uma classe que herda de um ArrayList de um tipo? Não entendo para que serve isso](https://pt.stackoverflow.com/q/167288/101)
 - [O objetivo da herança é o reúso?](https://pt.stackoverflow.com/q/434920/101)
+- [Observer pode ser considerado quebra de encapsulamento?](https://pt.stackoverflow.com/q/153015/101)
 
 # Memory & Threading
 
@@ -432,5 +434,6 @@
 - [Existe diferença entre “exatidão” e “precisão” em contextos de computação?](https://pt.stackoverflow.com/q/516306/101)
 - [Qual é a diferença entre binário e executável?](https://pt.stackoverflow.com/q/575777/101)
 - [Quais as diferenças entre o Decoradores e Atributos?](https://pt.stackoverflow.com/q/487648/101)
+- [Taxonomicamente falando, quais as diferenças entre tipo, classe e categoria?](https://pt.stackoverflow.com/q/576068/101)
 - [Qual o nome da convenção de código pra variáveis que usam _?](https://pt.stackoverflow.com/q/450233/101)
 - [Tempo de processamento e tempo de relógio](https://pt.stackoverflow.com/q/459280/101)
