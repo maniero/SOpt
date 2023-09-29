@@ -47,6 +47,7 @@
 - [O que esse trecho de código com cast faz?](https://pt.stackoverflow.com/q/136361/101)
 - [Operações bit a bit (XOR)](https://pt.stackoverflow.com/q/437351/101)
 - [Qual a necessidade de se utilizar o sufixo "f" em uma constante numérica em C?](https://pt.stackoverflow.com/q/325551/101)
+- [O que "\" quer dizer no cabeçalho de C++?](https://pt.stackoverflow.com/q/89514/101)
 
 # Pointer & Memory
 
@@ -71,6 +72,9 @@
 - [Qual a diferença entre memmove() e memcpy()?](https://pt.stackoverflow.com/q/387414/101)
 - [Qual a diferença entre a função "malloc()" e uma variável criada?](https://pt.stackoverflow.com/q/498527/101)
 - [Quão abstratos são ponteiros em C?](https://pt.stackoverflow.com/q/507427/101)
+- [Por que estou tendo acesso a esse ponteiro mesmo depois de dar free()?](https://pt.stackoverflow.com/q/287686/101)
+- [Qual é o comportamento esperado de realloc()?](https://pt.stackoverflow.com/q/528366/101)
+- [Alocação dinâmica de memória, sem uso, não consome memória?](https://pt.stackoverflow.com/q/550804/101)
 
 # Algorithm
 
@@ -149,5 +153,6 @@
 - [Se C/C++ são linguagens nativas então por que precisam de runtimes?](https://pt.stackoverflow.com/q/303325/101)
 - [Qual é a maneira mais eficiente de fazer com que literais de string não apareçam no código compilado?](https://pt.stackoverflow.com/q/435147/101)
 - [Como garantir escrever arquivo em um único bloco do disco?](https://pt.stackoverflow.com/q/173832/101)
+- [Qual a maneira mais comum de armazenar tamanho e capacidade de um "array dinamico" no C?](https://pt.stackoverflow.com/q/553792/101)
 - [Como tornar meus programas C++ multi-arquitetura (32 e 64 bits)?](https://pt.stackoverflow.com/q/142134/101)
 - [Utilização "bytes" e "bits"](https://pt.stackoverflow.com/q/359637/101)
