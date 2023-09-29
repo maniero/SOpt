@@ -95,6 +95,7 @@
 - [Comparação: CTE vs CURSOR](https://pt.stackoverflow.com/q/352851/101)
 - [UPDATE é um DELETE seguido de um INSERT?](https://pt.stackoverflow.com/q/325513/101)
 - [O que são hints de índice?](https://pt.stackoverflow.com/q/301123/101)
+- [Qual é a melhor maneira de se monitorar um valor em um banco de dados?](https://pt.stackoverflow.com/q/219736/101)
 
 # MySQL
 
@@ -195,6 +196,7 @@
 - [SQLite sendo acessado remotamente](https://pt.stackoverflow.com/q/150975/101)
 - [Tamanho ocupado em disco por uma tabela no SQLite](https://pt.stackoverflow.com/q/134414/101)
 - [Como resolver gap do auto increment SQLite?](https://pt.stackoverflow.com/q/221466/101)
+- [Como guardar dados apenas para leitura? Devo utilizar o SQLite nesse caso?]()
 
 # Oracle
 
@@ -239,6 +241,7 @@
 - [Faz sentido armazenar o salt de uma senha com o próprio hash?](https://pt.stackoverflow.com/q/226726/101)
 - [O que é consistência eventual?](https://pt.stackoverflow.com/q/579435/101)
 - [Por que que os SGBDs utilizam a sua própria paginação se o sistema operacional já possui uma?](https://pt.stackoverflow.com/q/98315/101)
+- [Por que indexação de bitmap funciona bem para domínios de baixa cardinalidade?](https://pt.stackoverflow.com/q/253927/101)
 
 # NoSQL
 
