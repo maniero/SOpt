@@ -53,3 +53,4 @@
 - [Em estruturas (struct) é necessário o uso de getters e setters ou apenas em classes (class)?](https://pt.stackoverflow.com/q/262764/101)
 - [Vale a pena utilizar os operadores binários para ganhar performance?](https://pt.stackoverflow.com/q/266762/101)
 - [Quando o destruidor de um objeto é chamado no C++?](https://pt.stackoverflow.com/q/321651/101)
+- [Como inserir dinamicamente em um std::array?](https://pt.stackoverflow.com/q/164156/101)
