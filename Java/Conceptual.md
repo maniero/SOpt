@@ -150,6 +150,8 @@
 - [Tem algum uso real ao implementar métodos não abstratos em uma classe abstrata?](https://pt.stackoverflow.com/q/366241/101)
 - [Porque o comando this(6) dentro de um construtor inicializa o array da classe?](https://pt.stackoverflow.com/q/410144/101)
 - [Um método setter pode receber como parâmetro um getter + valor?](https://pt.stackoverflow.com/q/498974/101)
+- [Herança em tempo de compilação?](https://pt.stackoverflow.com/q/344973/101)
+- [Usando métodos estáticos de fábrica ao invés de construtores](https://pt.stackoverflow.com/q/417918/101)
 
 # Misc
 
