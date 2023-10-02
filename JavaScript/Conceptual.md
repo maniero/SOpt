@@ -119,6 +119,7 @@
 - [Pra que serve o objeto Map em JavaScript?](https://pt.stackoverflow.com/q/313916/101)
 - [Enviado parâmetros para outra função utilizando objeto ou hash é uma boa prática?](https://pt.stackoverflow.com/q/48704/101)
 - [Bibliotecas são baixadas múltiplas vezes?](https://pt.stackoverflow.com/q/46014/101)
+- [Qual a diferença entre executar códigos dentro das chaves do "for" ou fora delas?](https://pt.stackoverflow.com/q/422328/101)
   
 # High level
   
