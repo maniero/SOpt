@@ -48,6 +48,7 @@
 - [Diferença entre global, const e define()](https://pt.stackoverflow.com/q/407282/101)
 - [Qual a vantagem dos objetos em PHP serem passados por referências por padrão?](https://pt.stackoverflow.com/q/405919/101)
 - [$_ possui algum significado em questão?](https://pt.stackoverflow.com/q/312896/101)
+- [Pode-se armazenar um throw em uma variável?]()
 
 
 # General
@@ -120,6 +121,7 @@
 - [Existe diferença de performance entre o "new" e o "clone" no PHP?](https://pt.stackoverflow.com/q/329909/101)
 - [Por que ao acessar a propriedade de uma classe só preciso usar um cifrão ("$this->propriedade" em vez de "$this->$propriedade")?](https://pt.stackoverflow.com/q/532590/101)
 - [Qual a importância da interface nesse determinado código?](https://pt.stackoverflow.com/q/219288/101)
+- [O método construtor pode ter validação?](https://pt.stackoverflow.com/q/561181/101)
 
 # Library
 
