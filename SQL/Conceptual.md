@@ -149,6 +149,7 @@
 - [Ter imagens nas tabelas onde serão usadas ou tabela com repositório de imagens?](https://pt.stackoverflow.com/q/94472/101)
 - [Checar elemento UNIQUE antes de inserí-lo](https://pt.stackoverflow.com/q/58164/101)
 - [Para quê servem os números quando criamos colunas em bancos de dados?](https://pt.stackoverflow.com/q/96436/101)
+- [É possível utilizar o tipo de dados DOUBLE em sistemas de 32-bit?](https://pt.stackoverflow.com/q/231205/101)
 
 # PostgreSQL
 
