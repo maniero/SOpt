@@ -58,6 +58,7 @@
 - [Em Java por que (250 >> 4) é mais otimizado que (250 / 16)?](https://pt.stackoverflow.com/q/471623/101)
 - [Declaração de variáveis Java](https://pt.stackoverflow.com/q/334497/101)
 - [O que torna um objeto elegível para ser alocado no stack?](https://pt.stackoverflow.com/q/121595/101)
+- [Quanto tempo leva um incremento do tipo x++?](https://pt.stackoverflow.com/q/97884/101)
 
 # Library
 
@@ -107,6 +108,7 @@
 - [Lista de objetos em Java](https://pt.stackoverflow.com/q/565025/101)
 - [Por que ainda usar a String em vez de StringBuilder no Java?](https://pt.stackoverflow.com/q/448326/101)
 - [Por que ArrayList não pode ser iniciada com int?](https://pt.stackoverflow.com/q/527070/101)
+- [Forma mais adequada de nomear uma lista](https://pt.stackoverflow.com/q/405277/101)
 
 # Desktop
 
