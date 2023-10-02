@@ -69,6 +69,8 @@
 - [O que significa uma variável conter um valor?](https://pt.stackoverflow.com/q/527528/101)
 - [Toda função anônima é uma closure?](https://pt.stackoverflow.com/q/453782/101)
 - [Um executável em linguagem de programação imperativa é menor do que um executável em linguagem orientada a objetos?](https://pt.stackoverflow.com/q/408308/101)
+- [Declarar as variáveis no topo ou perto de onde são usadas?](https://pt.stackoverflow.com/q/59154/101)
+- [Como funciona o uso de outras bases numéricas no C#?](https://pt.stackoverflow.com/q/224879/101)
 
 # Coding Style
 
@@ -164,6 +166,7 @@
 - [DDD restringe escrita de código baseado no idioma do cliente?](https://pt.stackoverflow.com/q/366511/101)
 - [É adequado usar camadas em uma aplicação usando microsserviços?](https://pt.stackoverflow.com/q/352370/101)
 - [Reescrita vs Melhoria Incremental?](https://pt.stackoverflow.com/q/50590/101)
+- [Até que ponto utilizar frameworks?](https://pt.stackoverflow.com/q/362071/101)
 
 # Typing
 
@@ -176,6 +179,7 @@
 - [Por que não temos um Inteiro de 128 bits?](https://pt.stackoverflow.com/q/411176/101)
 - [O que é um tipo?](https://pt.stackoverflow.com/q/532890/101)
 - [Forma mais rápida de calcular a/b+c/d com float](https://pt.stackoverflow.com/q/419236/101)
+- [O que é duck typing?](https://pt.stackoverflow.com/q/574146/101)
 
 # Algorithms & Data Structure
 
@@ -252,6 +256,7 @@
 - [Quando é que eu preciso utilizar uma classe que herda de um ArrayList de um tipo? Não entendo para que serve isso](https://pt.stackoverflow.com/q/167288/101)
 - [O objetivo da herança é o reúso?](https://pt.stackoverflow.com/q/434920/101)
 - [Observer pode ser considerado quebra de encapsulamento?](https://pt.stackoverflow.com/q/153015/101)
+- [Até que ponto devemos seguir o OCP?](https://pt.stackoverflow.com/q/423889/101)
 
 # Memory & Threading
 
