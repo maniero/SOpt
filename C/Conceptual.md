@@ -48,6 +48,7 @@
 - [Operações bit a bit (XOR)](https://pt.stackoverflow.com/q/437351/101)
 - [Qual a necessidade de se utilizar o sufixo "f" em uma constante numérica em C?](https://pt.stackoverflow.com/q/325551/101)
 - [O que "\" quer dizer no cabeçalho de C++?](https://pt.stackoverflow.com/q/89514/101)
+- [Devo usar int_least8_t ou int_fast8_t?](https://pt.stackoverflow.com/q/187031/101)
 
 # Pointer & Memory
 
@@ -119,6 +120,7 @@
 - [Uso de assert ao invés de if](https://pt.stackoverflow.com/q/184957/101)
 - [É sempre bom desalocar a memória antes de uma saída "brusca" do programa com a chamada da função exit()?](https://pt.stackoverflow.com/q/333241/101)
 - [O que faz o %u?](https://pt.stackoverflow.com/q/483077/101)
+- [Hora fica adiantada em programa C](https://pt.stackoverflow.com/q/36730/101)
 
 # Misc
 
@@ -156,3 +158,4 @@
 - [Qual a maneira mais comum de armazenar tamanho e capacidade de um "array dinamico" no C?](https://pt.stackoverflow.com/q/553792/101)
 - [Como tornar meus programas C++ multi-arquitetura (32 e 64 bits)?](https://pt.stackoverflow.com/q/142134/101)
 - [Utilização "bytes" e "bits"](https://pt.stackoverflow.com/q/359637/101)
+- [LLVM pode ser usada com a linguagem C?](https://pt.stackoverflow.com/q/514520/101)
