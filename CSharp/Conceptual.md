@@ -76,6 +76,7 @@
 - [Finalidade da sintaxe de lambda em função/método](https://pt.stackoverflow.com/q/142150/101)
 - [Quando e por que usar o atributo Obsolete?](https://pt.stackoverflow.com/q/183539/101)
 - [Por que uma struct deve ter no máximo 16 bytes?](https://pt.stackoverflow.com/q/203047/101)
+- [Quando usar #if DEBUG e quando usar Conditional("DEBUG ") ou if (Debugger.IsAttached)?](https://pt.stackoverflow.com/q/579737/101)
 
 # OOP
 
@@ -121,6 +122,7 @@
 - [Como lançar exceção em SQL e tratar em C#](https://pt.stackoverflow.com/q/115761/101)
 - [Qual a diferença entre "Exception.Message" e "Exception.ToString()"?](https://pt.stackoverflow.com/q/146017/101)
 - [Tratamento de exceções de tipos diferentes](https://pt.stackoverflow.com/q/239606/101)
+- [Como criar exceções obrigatórias em C#?](https://pt.stackoverflow.com/q/78449/101)
 
 # Methods
 
