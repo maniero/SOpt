@@ -48,7 +48,8 @@
 - [Diferença entre global, const e define()](https://pt.stackoverflow.com/q/407282/101)
 - [Qual a vantagem dos objetos em PHP serem passados por referências por padrão?](https://pt.stackoverflow.com/q/405919/101)
 - [$_ possui algum significado em questão?](https://pt.stackoverflow.com/q/312896/101)
-- [Pode-se armazenar um throw em uma variável?]()
+- [Pode-se armazenar um throw em uma variável?](https://pt.stackoverflow.com/q/397434/101)
+- [O que é a sintaxe que vem antes do nome da variável em parâmetros de funções?](https://pt.stackoverflow.com/q/516531/101)
 
 
 # General
@@ -85,6 +86,7 @@
 - [Concatenação ou sequenciação de dados: qual tem melhor desempenho?](https://pt.stackoverflow.com/q/215051/101)
 - [Como usar a 9º regra de Object Calisthenics no PHP?](https://pt.stackoverflow.com/q/220497/101)
 - [Devo alimentar meu site pela API ou não?](https://pt.stackoverflow.com/q/306429/101)
+- [Qual destes três códigos é o mais recomendado em memória e velocidade?](https://pt.stackoverflow.com/q/49150/101)
 
 
 # OOP
