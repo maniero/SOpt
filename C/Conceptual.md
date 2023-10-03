@@ -49,6 +49,8 @@
 - [Qual a necessidade de se utilizar o sufixo "f" em uma constante numérica em C?](https://pt.stackoverflow.com/q/325551/101)
 - [O que "\" quer dizer no cabeçalho de C++?](https://pt.stackoverflow.com/q/89514/101)
 - [Devo usar int_least8_t ou int_fast8_t?](https://pt.stackoverflow.com/q/187031/101)
+- [Faz diferença ordenar os ifs/else ifs pelo mais provável de acontecer?](https://pt.stackoverflow.com/q/576860/101)
+- [Para que serve { } dentro da main()?](https://pt.stackoverflow.com/q/323998/101)
 
 # Pointer & Memory
 
@@ -76,6 +78,7 @@
 - [Por que estou tendo acesso a esse ponteiro mesmo depois de dar free()?](https://pt.stackoverflow.com/q/287686/101)
 - [Qual é o comportamento esperado de realloc()?](https://pt.stackoverflow.com/q/528366/101)
 - [Alocação dinâmica de memória, sem uso, não consome memória?](https://pt.stackoverflow.com/q/550804/101)
+- [Por que é possível armazenar uma cadeia de caracteres em um ponteiro de char?]()
 
 # Algorithm
 
