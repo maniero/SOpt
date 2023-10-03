@@ -54,3 +54,4 @@
 - [Vale a pena utilizar os operadores binários para ganhar performance?](https://pt.stackoverflow.com/q/266762/101)
 - [Quando o destruidor de um objeto é chamado no C++?](https://pt.stackoverflow.com/q/321651/101)
 - [Como inserir dinamicamente em um std::array?](https://pt.stackoverflow.com/q/164156/101)
+- [Por que o C++ demora muito mais para compilar que outras linguagens?](https://pt.stackoverflow.com/q/576452/101)
