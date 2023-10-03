@@ -149,6 +149,7 @@
 - [Em quais momentos se faz necessário forçar a coleta de lixo em C# para um melhor desempenho da aplicação?](https://pt.stackoverflow.com/q/110854/101)
 - [Método Dispose()](https://pt.stackoverflow.com/q/173210/101)
 - [Como consumir menos memória em runtime C#?](https://pt.stackoverflow.com/q/308710/101)
+- [Boxing está copiando os dados](https://pt.stackoverflow.com/q/55147/101)
 
 # Typing
 
@@ -260,6 +261,7 @@
 - [Implementando o conceito de herança em banco de dados](https://pt.stackoverflow.com/q/225622/101)
 - [O que é ADO.NET para C#?](https://pt.stackoverflow.com/q/90614/101)
 - [Qual a diferença entre SaveChanges e SubmitChanges?](https://pt.stackoverflow.com/q/157366/101)
+- [Pode armazenar hash code em um banco de dados?](https://pt.stackoverflow.com/q/227349/101)
 
 # LINQ
 
