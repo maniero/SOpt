@@ -312,6 +312,7 @@
 - [O que são realmente os conjuntos de modificações do Git?](https://pt.stackoverflow.com/q/48602/101)
 - [O que poderia justificar o pulo de um número em um sistema de versionamento?](https://pt.stackoverflow.com/q/178464/101)
 - [Por que alguns comandos "git" são precedidos por um traço e outros por dois traços?](https://pt.stackoverflow.com/q/45763/101)
+- [O que significam esses argumentos no comando de "git-checkout"?](https://pt.stackoverflow.com/q/293371/101)
 
 # Architeture & Operating System
 
@@ -342,6 +343,7 @@
 - [Na equação de tempo de CPU (Tcpu) o que são o número de instruções (IC) e ciclos por instrução (CPI)?](https://pt.stackoverflow.com/q/453646/101)
 - [Qual é a diferença entre ponto fixo e ponto flutuante?](https://pt.stackoverflow.com/q/579543/101)
 - [O que acontece com a memória RAM se uma tecla for pressionada no computador por muito tempo?](https://pt.stackoverflow.com/q/346673/101)
+- [Como uma máquina identifica o tipo de dado?](https://pt.stackoverflow.com/q/281234/101)
 
 # Misc
 
@@ -374,6 +376,7 @@
 - [Escrever software em 1ª ou 3ª pessoa?](https://pt.stackoverflow.com/q/284749/101)
 - [Quando devo me preocupar com UX?](https://pt.stackoverflow.com/q/324497/101)
 - [Como funciona a lógica para se descobrir o tamanho da imagem?](https://pt.stackoverflow.com/q/136496/101)
+- [Qual a forma mais segura de mostrar ID (chave primaria do BD) nas páginas web?](https://pt.stackoverflow.com/q/281234/101)
 
 # Terminology
 
