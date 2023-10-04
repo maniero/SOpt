@@ -174,6 +174,7 @@
 - [A que o erro "Não é possível converter implicitamente tipo "void" em "int" " se refere?](https://pt.stackoverflow.com/q/413737/101)
 - [Que tipo de dado usar para armazenar data de falecimento num cadastro (DateTime ou string)?](https://pt.stackoverflow.com/q/493902/101)
 - [Por que uma var do tipo double consegue armazenar uma do tipo int?](https://pt.stackoverflow.com/q/482238/101)
+- [Por que a expressão (double.MinValue == double.MinValue + 1) é verdadeira?](https://pt.stackoverflow.com/q/239180/101)
 
 # Libraries
 
