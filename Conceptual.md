@@ -167,6 +167,7 @@
 - [É adequado usar camadas em uma aplicação usando microsserviços?](https://pt.stackoverflow.com/q/352370/101)
 - [Reescrita vs Melhoria Incremental?](https://pt.stackoverflow.com/q/50590/101)
 - [Até que ponto utilizar frameworks?](https://pt.stackoverflow.com/q/362071/101)
+- [Quais são os benefícios da programação em pares?](https://pt.stackoverflow.com/q/414473/101)
 
 # Typing
 
