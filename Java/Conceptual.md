@@ -61,6 +61,7 @@
 - [Quanto tempo leva um incremento do tipo x++?](https://pt.stackoverflow.com/q/97884/101)
 - [Por que posso atribuir uma instância de uma classe a uma variável cujo tipo é a interface?](https://pt.stackoverflow.com/q/399262/101)
 - [Por que a comparação de objetos diferentes retorna true?](https://pt.stackoverflow.com/q/185812/101)
+- [Quais os principais defeitos do sistema de tipos do Java?](https://pt.stackoverflow.com/q/559214/101)
 
 # Library
 
