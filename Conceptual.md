@@ -347,6 +347,7 @@
 - [Qual é a diferença entre ponto fixo e ponto flutuante?](https://pt.stackoverflow.com/q/579543/101)
 - [O que acontece com a memória RAM se uma tecla for pressionada no computador por muito tempo?](https://pt.stackoverflow.com/q/346673/101)
 - [Como uma máquina identifica o tipo de dado?](https://pt.stackoverflow.com/q/281234/101)
+- [Como é que o sistema operativo distribui o processador pelos vários programas?](https://pt.stackoverflow.com/q/169241/101)
 
 # Misc
 
