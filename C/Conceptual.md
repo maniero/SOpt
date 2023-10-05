@@ -124,6 +124,7 @@
 - [É sempre bom desalocar a memória antes de uma saída "brusca" do programa com a chamada da função exit()?](https://pt.stackoverflow.com/q/333241/101)
 - [O que faz o %u?](https://pt.stackoverflow.com/q/483077/101)
 - [Hora fica adiantada em programa C](https://pt.stackoverflow.com/q/36730/101)
+- [Quando se inclui um arquivo de cabeçalho, o compilador inclui todas as funções no programa final ou só as funções usadas?](https://pt.stackoverflow.com/q/57701/101)
 
 # Misc
 
