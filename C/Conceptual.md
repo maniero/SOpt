@@ -51,6 +51,7 @@
 - [Devo usar int_least8_t ou int_fast8_t?](https://pt.stackoverflow.com/q/187031/101)
 - [Faz diferença ordenar os ifs/else ifs pelo mais provável de acontecer?](https://pt.stackoverflow.com/q/576860/101)
 - [Para que serve { } dentro da main()?](https://pt.stackoverflow.com/q/323998/101)
+- [Union e struct podem ser consideradas operadores?](https://pt.stackoverflow.com/q/358087/101)
 
 # Pointer & Memory
 
