@@ -51,6 +51,7 @@
 - [Pode-se armazenar um throw em uma variável?](https://pt.stackoverflow.com/q/397434/101)
 - [O que é a sintaxe que vem antes do nome da variável em parâmetros de funções?](https://pt.stackoverflow.com/q/516531/101)
 - [Por que em PHP é possível acessar as funções antes da linha que elas foram declaradas?](https://pt.stackoverflow.com/q/169749/101)
+- [Existe try-with-resource no PHP?](https://pt.stackoverflow.com/q/333647/101)
 
 
 # General
