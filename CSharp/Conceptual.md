@@ -77,6 +77,7 @@
 - [Quando e por que usar o atributo Obsolete?](https://pt.stackoverflow.com/q/183539/101)
 - [Por que uma struct deve ter no máximo 16 bytes?](https://pt.stackoverflow.com/q/203047/101)
 - [Quando usar #if DEBUG e quando usar Conditional("DEBUG ") ou if (Debugger.IsAttached)?](https://pt.stackoverflow.com/q/579737/101)
+- [Ficar criando variáveis locais o tempo todo gera custo a mais para o software?](https://pt.stackoverflow.com/q/225192/101)
 
 # OOP
 
