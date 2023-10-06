@@ -55,3 +55,4 @@
 - [Quando o destruidor de um objeto é chamado no C++?](https://pt.stackoverflow.com/q/321651/101)
 - [Como inserir dinamicamente em um std::array?](https://pt.stackoverflow.com/q/164156/101)
 - [Por que o C++ demora muito mais para compilar que outras linguagens?](https://pt.stackoverflow.com/q/576452/101)
+- [É possível usar funções em uma ordem arbitrária em C++?](https://pt.stackoverflow.com/q/507699/101)
