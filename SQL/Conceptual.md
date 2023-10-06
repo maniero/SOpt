@@ -98,6 +98,7 @@
 - [O que são hints de índice?](https://pt.stackoverflow.com/q/301123/101)
 - [Qual é a melhor maneira de se monitorar um valor em um banco de dados?](https://pt.stackoverflow.com/q/219736/101)
 - [O que é o travamento otimista e pessimista?](https://pt.stackoverflow.com/q/576147/101)
+- [É possível colocar um arquivo HMTL dentro do banco de dados?](https://pt.stackoverflow.com/q/339307/101)
 
 # MySQL
 
