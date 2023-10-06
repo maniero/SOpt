@@ -71,6 +71,7 @@
 - [Um executável em linguagem de programação imperativa é menor do que um executável em linguagem orientada a objetos?](https://pt.stackoverflow.com/q/408308/101)
 - [Declarar as variáveis no topo ou perto de onde são usadas?](https://pt.stackoverflow.com/q/59154/101)
 - [Como funciona o uso de outras bases numéricas no C#?](https://pt.stackoverflow.com/q/224879/101)
+- [Possui alguma vantagem a linguagem de programação que segue apenas um paradigma?](https://pt.stackoverflow.com/q/413957/101)
 
 # Coding Style
 
