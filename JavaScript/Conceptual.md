@@ -68,6 +68,7 @@
 - [Qual o melhor tipo de compactação de arquivos para otimizar resposta de servidores?](https://pt.stackoverflow.com/q/255805/101)
 - [O servidor Apache é necessário em serviços de hospedagem?](https://pt.stackoverflow.com/q/87263/101)
 - [Qual a versão mais recente e estável do HTTP?](https://pt.stackoverflow.com/q/407931/101)
+- [Diferença entre :80 e as demais portas](https://pt.stackoverflow.com/q/267829/101)
 
 # JavaScript
   
