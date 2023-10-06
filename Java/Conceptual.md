@@ -113,6 +113,7 @@
 - [Por que ainda usar a String em vez de StringBuilder no Java?](https://pt.stackoverflow.com/q/448326/101)
 - [Por que ArrayList não pode ser iniciada com int?](https://pt.stackoverflow.com/q/527070/101)
 - [Forma mais adequada de nomear uma lista](https://pt.stackoverflow.com/q/405277/101)
+- [SparseArray vs HashMap qual a diferença?](https://pt.stackoverflow.com/q/387826/101)
 
 # Desktop
 
