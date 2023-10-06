@@ -316,6 +316,7 @@
 - [O que poderia justificar o pulo de um número em um sistema de versionamento?](https://pt.stackoverflow.com/q/178464/101)
 - [Por que alguns comandos "git" são precedidos por um traço e outros por dois traços?](https://pt.stackoverflow.com/q/45763/101)
 - [O que significam esses argumentos no comando de "git-checkout"?](https://pt.stackoverflow.com/q/293371/101)
+- [Como ler o manual de ajuda do Git?](https://pt.stackoverflow.com/q/360194/101)
 
 # Architeture & Operating System
 
