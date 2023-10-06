@@ -51,3 +51,4 @@
 - [Por que listas (arrays) tem um comportamento diferentes das variáveis comuns em Python?](https://pt.stackoverflow.com/q/408221/101)
 - [Desempenho de funções com e sem criação de variáveis locais](https://pt.stackoverflow.com/q/351748/101)
 - [É recomendável explicitar todas as variáveis?](https://pt.stackoverflow.com/q/417866/101)
+- [Qual o nome desta estrutura em Python?](https://pt.stackoverflow.com/q/332601/101)
