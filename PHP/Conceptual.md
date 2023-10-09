@@ -126,6 +126,7 @@
 - [Por que ao acessar a propriedade de uma classe só preciso usar um cifrão ("$this->propriedade" em vez de "$this->$propriedade")?](https://pt.stackoverflow.com/q/532590/101)
 - [Qual a importância da interface nesse determinado código?](https://pt.stackoverflow.com/q/219288/101)
 - [O método construtor pode ter validação?](https://pt.stackoverflow.com/q/561181/101)
+- [Em programação orientada a objetos, uma classe abstrata, os seus métodos são estáticos?](https://pt.stackoverflow.com/q/556188/101)
 
 # Library
 
