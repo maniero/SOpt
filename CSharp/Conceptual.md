@@ -178,6 +178,7 @@
 - [Que tipo de dado usar para armazenar data de falecimento num cadastro (DateTime ou string)?](https://pt.stackoverflow.com/q/493902/101)
 - [Por que uma var do tipo double consegue armazenar uma do tipo int?](https://pt.stackoverflow.com/q/482238/101)
 - [Por que a expressão (double.MinValue == double.MinValue + 1) é verdadeira?](https://pt.stackoverflow.com/q/239180/101)
+- [Por que o unboxing só pode ser feito para o tipo que foi realizado o boxing anteriormente?](https://pt.stackoverflow.com/q/220870/101)
 
 # Libraries
 
