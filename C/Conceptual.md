@@ -80,6 +80,7 @@
 - [Qual é o comportamento esperado de realloc()?](https://pt.stackoverflow.com/q/528366/101)
 - [Alocação dinâmica de memória, sem uso, não consome memória?](https://pt.stackoverflow.com/q/550804/101)
 - [Por que é possível armazenar uma cadeia de caracteres em um ponteiro de char?]()
+- [Por que o endereçamento do malloc() é diferente da stack?](https://pt.stackoverflow.com/q/581658/101)
 
 # Algorithm
 
