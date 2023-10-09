@@ -411,3 +411,4 @@
 - [Como remover uma extensão do Visual Studio 2010?](https://pt.stackoverflow.com/q/52448/101)
 - [Como pular todos breakpoints sem removê-los?](https://pt.stackoverflow.com/q/219230/101)
 - [Como editar uma Partial Class?](https://pt.stackoverflow.com/q/77528/101)
+- [Como funciona o Edit and Continue do Visual Studio?](https://pt.stackoverflow.com/q/249463/101)
