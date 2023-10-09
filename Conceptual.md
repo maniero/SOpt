@@ -72,6 +72,7 @@
 - [Declarar as variáveis no topo ou perto de onde são usadas?](https://pt.stackoverflow.com/q/59154/101)
 - [Como funciona o uso de outras bases numéricas no C#?](https://pt.stackoverflow.com/q/224879/101)
 - [Possui alguma vantagem a linguagem de programação que segue apenas um paradigma?](https://pt.stackoverflow.com/q/413957/101)
+- [Por que uma variável de referência guarda o endereço e não o objeto em si?](https://pt.stackoverflow.com/q/541629/101)
 
 # Coding Style
 
