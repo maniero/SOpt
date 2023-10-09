@@ -156,6 +156,7 @@
 - [Lista de erros exception do PHP](https://pt.stackoverflow.com/q/39455/101)
 - [Prepared statements com MySQLi dispensa validação da entrada de dados?](https://pt.stackoverflow.com/q/88683/101)
 - [Fazer conta com PHP na ordem que está na string](https://pt.stackoverflow.com/q/151636/101)
+- [PDO usa sintaxe de algum SGBD ou funcionam todas?](https://pt.stackoverflow.com/q/333949/101)
 
 # Algorithm
 
