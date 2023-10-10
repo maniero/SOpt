@@ -171,6 +171,7 @@
 - [Reescrita vs Melhoria Incremental?](https://pt.stackoverflow.com/q/50590/101)
 - [Até que ponto utilizar frameworks?](https://pt.stackoverflow.com/q/362071/101)
 - [Quais são os benefícios da programação em pares?](https://pt.stackoverflow.com/q/414473/101)
+- [Na prática microserviços são executáveis separados?](https://pt.stackoverflow.com/q/580237/101)
 
 # Typing
 
