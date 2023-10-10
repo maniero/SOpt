@@ -456,3 +456,4 @@
 - [Tempo de processamento e tempo de relógio](https://pt.stackoverflow.com/q/459280/101)
 - [Um programa desktop pode ser considerado client-side?](https://pt.stackoverflow.com/q/255637/101)
 - [O que é POD, POJO, POCO?](https://pt.stackoverflow.com/q/581988/101)
+- [O que é homoicônico?](https://pt.stackoverflow.com/q/575855/101)
