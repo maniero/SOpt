@@ -192,5 +192,6 @@
 - [Afinal, Java é uma plataforma ou uma linguagem de programação?](https://pt.stackoverflow.com/q/266489/101)
 - [Qual o atalho no NetBeans para fechar todas os "+" das funções?](https://pt.stackoverflow.com/q/208024/101)
 - [Como funciona o JVM, Java, JDK e JRE?](https://pt.stackoverflow.com/q/447583/101)
+- [Por que a IDE transformou meu for-loop em um for-each?](https://pt.stackoverflow.com/q/530860/101)
 - [Qual é a diferença do var entre Kotlin e Java?](https://pt.stackoverflow.com/q/301993/101)
 - ["enum" deve ser usado para indicar opções de regras de negócio?](https://pt.stackoverflow.com/q/426639/101)
