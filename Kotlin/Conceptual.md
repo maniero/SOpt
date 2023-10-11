@@ -18,3 +18,4 @@
 - [Qual e a diferenca entre Kotlin data class e Scala case class?](https://pt.stackoverflow.com/q/139839/101)
 - [O que significa o operador === em Kotlin?](https://pt.stackoverflow.com/q/347743/101)
 - [Pra que serve uma Label em Kotlin?](https://pt.stackoverflow.com/q/227419/101)
+- [Por que usar o "is" no início variável em Kotlin?](https://pt.stackoverflow.com/q/258339/101)
