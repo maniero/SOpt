@@ -74,6 +74,7 @@
 - [Possui alguma vantagem a linguagem de programação que segue apenas um paradigma?](https://pt.stackoverflow.com/q/413957/101)
 - [Por que uma variável de referência guarda o endereço e não o objeto em si?](https://pt.stackoverflow.com/q/541629/101)
 - [O que são considerados operadores nas linguagem de programação?](https://pt.stackoverflow.com/q/412967/101)
+- [A que ponto sintaxes em linguagens de programação tornam-se importantes?](https://pt.stackoverflow.com/q/399181/101)
 
 # Coding Style
 
