@@ -126,6 +126,7 @@
 - [Qual a diferença entre "Exception.Message" e "Exception.ToString()"?](https://pt.stackoverflow.com/q/146017/101)
 - [Tratamento de exceções de tipos diferentes](https://pt.stackoverflow.com/q/239606/101)
 - [Como criar exceções obrigatórias em C#?](https://pt.stackoverflow.com/q/78449/101)
+- [Como saber qual exceção pode ser lançada em C#?](https://pt.stackoverflow.com/q/216453/101)
 
 # Methods
 
