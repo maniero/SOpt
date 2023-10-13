@@ -52,3 +52,4 @@
 - [Desempenho de funções com e sem criação de variáveis locais](https://pt.stackoverflow.com/q/351748/101)
 - [É recomendável explicitar todas as variáveis?](https://pt.stackoverflow.com/q/417866/101)
 - [Qual o nome desta estrutura em Python?](https://pt.stackoverflow.com/q/332601/101)
+- [Por que "int('1111', 2)" retorna "15" em Python?](https://pt.stackoverflow.com/q/257025/101)
