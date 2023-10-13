@@ -234,6 +234,7 @@
 - [Como, quando e por que usar "SecureString" no C#?](https://pt.stackoverflow.com/q/164465/101)
 - [O que é um Span<T>?](https://pt.stackoverflow.com/q/567279/101)
 - [Por que char.Parse(string) retorna um número?](https://pt.stackoverflow.com/q/456397/101)
+- [Como escolher o tipo de data mais adequado no código?](https://pt.stackoverflow.com/q/580095/101)
 
 # IO
 
