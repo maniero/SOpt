@@ -462,3 +462,4 @@
 - [Um programa desktop pode ser considerado client-side?](https://pt.stackoverflow.com/q/255637/101)
 - [O que é POD, POJO, POCO?](https://pt.stackoverflow.com/q/581988/101)
 - [O que é homoicônico?](https://pt.stackoverflow.com/q/575855/101)
+- [O que é opinionated software?](https://pt.stackoverflow.com/q/575126/101)
