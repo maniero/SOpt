@@ -267,6 +267,7 @@
 - [O objetivo da herança é o reúso?](https://pt.stackoverflow.com/q/434920/101)
 - [Observer pode ser considerado quebra de encapsulamento?](https://pt.stackoverflow.com/q/153015/101)
 - [Até que ponto devemos seguir o OCP?](https://pt.stackoverflow.com/q/423889/101)
+- [Usando o padrão Strategy quando afeta outras partes do sistema](https://pt.stackoverflow.com/q/457380/101)
 
 # Memory & Threading
 
