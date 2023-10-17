@@ -190,6 +190,7 @@
 - [Forma mais rápida de calcular a/b+c/d com float](https://pt.stackoverflow.com/q/419236/101)
 - [O que é duck typing?](https://pt.stackoverflow.com/q/574146/101)
 - [Quais as consequências de não trabalhar na tipagem de dados?](https://pt.stackoverflow.com/q/326847/101)
+- [O que são conversões Widening e Narrowing?](https://pt.stackoverflow.com/q/401500/101)
 
 # Algorithms & Data Structure
 
