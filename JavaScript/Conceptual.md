@@ -149,6 +149,7 @@
 - [O que é cache no contexto da Web?](https://pt.stackoverflow.com/q/187403/101)
 - [O que é um gerador de site estático?](https://pt.stackoverflow.com/q/239672/101)
 - [Como exatamente um programa é executado pelo navegador?](https://pt.stackoverflow.com/q/536507/101)
+- [Utilizar boas práticas ou a forma correta de se armazenar um ID](https://pt.stackoverflow.com/q/318486/101)
   
 # Frameworks
   
