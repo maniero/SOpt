@@ -102,6 +102,7 @@
 - [Se tudo em C# herda de Object, por que todos os tipos não são por referência?](https://pt.stackoverflow.com/q/459479/101)
 - [Como funciona a inicialização de campos em construtores?](https://pt.stackoverflow.com/q/111152/101)
 - [O que é a restrição "class" em um tipo genérico?](https://pt.stackoverflow.com/q/87023/101)
+- [Como o compilador sabe que a classe x é uma extensão?](https://pt.stackoverflow.com/q/362978/101)
 
 # Algorithms
 
