@@ -466,3 +466,4 @@
 - [O que é homoicônico?](https://pt.stackoverflow.com/q/575855/101)
 - [O que é opinionated software?](https://pt.stackoverflow.com/q/575126/101)
 - [Escalar, primitivo, nativo ou atômico ou por valor, é tudo a mesma coisa entre tipos de dados?](https://pt.stackoverflow.com/q/575246/101)
+- [O que é um anti-pattern?](https://pt.stackoverflow.com/q/575315/101)
