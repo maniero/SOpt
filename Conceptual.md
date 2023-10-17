@@ -346,7 +346,7 @@
 - [O que é COM (Component Object Model)?](https://pt.stackoverflow.com/q/198929/101)
 - [Como funcionam as pastas temporárias?](https://pt.stackoverflow.com/q/221543/101)
 - [O tipo de um sistema operacional pode ser microkernel + monolítico?](https://pt.stackoverflow.com/q/38922/101)
-- [or que não foi inventada uma linguagem de programação para substituir o C e o C++ para facilitar o desenvolvimento de sistemas operacionais?](https://pt.stackoverflow.com/q/335139/101)
+- [Por que não foi inventada uma linguagem de programação para substituir o C e o C++ para facilitar o desenvolvimento de sistemas operacionais?](https://pt.stackoverflow.com/q/335139/101)
 - [O que significa o "MZ" listado no início de código executável?](https://pt.stackoverflow.com/q/403699/101)
 - [Por que um programa compilado para Linux não roda no Windows?](https://pt.stackoverflow.com/q/467538/101)
 - [Até que ponto o hardware afeta a programação?](https://pt.stackoverflow.com/q/416213/101)
@@ -357,6 +357,7 @@
 - [Como uma máquina identifica o tipo de dado?](https://pt.stackoverflow.com/q/281234/101)
 - [Como é que o sistema operativo distribui o processador pelos vários programas?](https://pt.stackoverflow.com/q/169241/101)
 - [Por que é possível pra abrir portas seriais (COM) no Windows usando funções de arquivo?](https://pt.stackoverflow.com/q/93177/101)
+- [Como é decidido os padrões de escrita no computador?](https://pt.stackoverflow.com/q/451664/101)
 
 # Misc
 
