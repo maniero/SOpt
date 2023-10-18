@@ -57,3 +57,4 @@
 - [Por que o C++ demora muito mais para compilar que outras linguagens?](https://pt.stackoverflow.com/q/576452/101)
 - [É possível usar funções em uma ordem arbitrária em C++?](https://pt.stackoverflow.com/q/507699/101)
 - [Qual a diferença da "string_view" para a "string" e qual se deve preferir?](https://pt.stackoverflow.com/q/324205/101)
+- [Exceptions causam problema para a performance?](https://pt.stackoverflow.com/q/333961/101)
