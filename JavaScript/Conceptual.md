@@ -122,6 +122,7 @@
 - [Bibliotecas são baixadas múltiplas vezes?](https://pt.stackoverflow.com/q/46014/101)
 - [Qual a diferença entre executar códigos dentro das chaves do "for" ou fora delas?](https://pt.stackoverflow.com/q/422328/101)
 - [Qual a utilidade / razão da existência de new Object();?](https://pt.stackoverflow.com/q/329401/101)
+- [Qual é a duração dos dados alocados em funções?](https://pt.stackoverflow.com/q/121875/101)
   
 # High level
   
