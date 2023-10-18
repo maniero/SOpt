@@ -103,6 +103,7 @@
 - [Como funciona a inicialização de campos em construtores?](https://pt.stackoverflow.com/q/111152/101)
 - [O que é a restrição "class" em um tipo genérico?](https://pt.stackoverflow.com/q/87023/101)
 - [Como o compilador sabe que a classe x é uma extensão?](https://pt.stackoverflow.com/q/362978/101)
+- [Existe aplicação prática em propriedades write-only?](https://pt.stackoverflow.com/q/514477/101)
 
 # Algorithms
 
