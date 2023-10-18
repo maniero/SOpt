@@ -176,6 +176,7 @@
 - [Quais são os benefícios da programação em pares?](https://pt.stackoverflow.com/q/414473/101)
 - [Na prática microserviços são executáveis separados?](https://pt.stackoverflow.com/q/580237/101)
 - [Por que certos domínios são mais fáceis de modelar que outros?](https://pt.stackoverflow.com/q/435459/101)
+- [Código limpo: funções e métodos devem fazer uma coisa só? Isto torna o código mais manutenível?](https://pt.stackoverflow.com/q/577968/101)
 
 # Typing
 
