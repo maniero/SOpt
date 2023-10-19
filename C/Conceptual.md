@@ -53,6 +53,7 @@
 - [Para que serve { } dentro da main()?](https://pt.stackoverflow.com/q/323998/101)
 - [Union e struct podem ser consideradas operadores?](https://pt.stackoverflow.com/q/358087/101)
 - [O que são esses membros complexos dentro de uma struct?](https://pt.stackoverflow.com/q/366867/101)
+- [Por que isto funciona? ponteiroa = (struct a *)&b;](https://pt.stackoverflow.com/q/330867/101)
 
 # Pointer & Memory
 
