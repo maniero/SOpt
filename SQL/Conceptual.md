@@ -248,6 +248,7 @@
 - [O que é consistência eventual?](https://pt.stackoverflow.com/q/579435/101)
 - [Por que que os SGBDs utilizam a sua própria paginação se o sistema operacional já possui uma?](https://pt.stackoverflow.com/q/98315/101)
 - [Por que indexação de bitmap funciona bem para domínios de baixa cardinalidade?](https://pt.stackoverflow.com/q/253927/101)
+- [O que é sharding?](https://pt.stackoverflow.com/q/575403/101)
 
 # NoSQL
 
