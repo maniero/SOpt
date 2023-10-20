@@ -392,6 +392,7 @@
 - [Usar resolução de tela diferente de acordo com o monitor](https://pt.stackoverflow.com/q/399119/101)
 - [O que significa dizer que, um app é WebView? Qual a relação com Xamarin?](https://pt.stackoverflow.com/q/366772/101)
 - [Quais são as diferenças entre Visibility.Hidden e Visibility.Collapsed?](https://pt.stackoverflow.com/q/152074/101)
+- [O que significam as seguintes medidas das colunas/linhas?](https://pt.stackoverflow.com/q/152079/101)
 
 # Visual Studio
 
