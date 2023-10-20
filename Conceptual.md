@@ -362,6 +362,7 @@
 - [Como é que o sistema operativo distribui o processador pelos vários programas?](https://pt.stackoverflow.com/q/169241/101)
 - [Por que é possível pra abrir portas seriais (COM) no Windows usando funções de arquivo?](https://pt.stackoverflow.com/q/93177/101)
 - [Como é decidido os padrões de escrita no computador?](https://pt.stackoverflow.com/q/451664/101)
+- [Como um executável é apagado da memória?](https://pt.stackoverflow.com/q/450743/101)
 
 # Misc
 
