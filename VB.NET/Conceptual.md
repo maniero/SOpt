@@ -13,3 +13,4 @@
 - [Quantos "case" são possíveis em um "switch"?](https://pt.stackoverflow.com/q/225180/101)
 - [Quais são as diferenças entre os seguintes casts e quando usar cada um?](https://pt.stackoverflow.com/q/151835/101)
 - [Como e quando usar "Shadows" e "Overrides"?](https://pt.stackoverflow.com/q/152061/101)
+- [Qual a diferença de Static e Shared?](https://pt.stackoverflow.com/q/567873/101)
