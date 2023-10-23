@@ -155,6 +155,7 @@
 - [Checar elemento UNIQUE antes de inserí-lo](https://pt.stackoverflow.com/q/58164/101)
 - [Para quê servem os números quando criamos colunas em bancos de dados?](https://pt.stackoverflow.com/q/96436/101)
 - [É possível utilizar o tipo de dados DOUBLE em sistemas de 32-bit?](https://pt.stackoverflow.com/q/231205/101)
+- [Qual utilidade de declarar uma coluna como Char(0)?](https://pt.stackoverflow.com/q/463822/101)
 
 # PostgreSQL
 
