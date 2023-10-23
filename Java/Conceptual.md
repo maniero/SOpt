@@ -64,6 +64,7 @@
 - [Quais os principais defeitos do sistema de tipos do Java?](https://pt.stackoverflow.com/q/559214/101)
 - [Como o compilador sabe a diferença do tipo que estou usando no downcasting?](https://pt.stackoverflow.com/q/429577/101)
 - [Enumerações do Java são anti performáticas?](https://pt.stackoverflow.com/q/511706/101)
+- [Enum é expandido pelo compilador em uma declaração de classe?](https://pt.stackoverflow.com/q/170426/101)
 
 # Library
 
