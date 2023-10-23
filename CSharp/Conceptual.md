@@ -80,6 +80,7 @@
 - [Ficar criando variáveis locais o tempo todo gera custo a mais para o software?](https://pt.stackoverflow.com/q/225192/101)
 - [Por que acessores tipados executam o processo com maior velocidade?](https://pt.stackoverflow.com/q/389556/101)
 - [Qual o uso de default interface methods?](https://pt.stackoverflow.com/q/235460/101)
+- [Expression-bodied é recomendado? Tem diferença de performance?](https://pt.stackoverflow.com/q/323662/101)
 
 # OOP
 
