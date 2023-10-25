@@ -472,3 +472,4 @@
 - [Escalar, primitivo, nativo ou atômico ou por valor, é tudo a mesma coisa entre tipos de dados?](https://pt.stackoverflow.com/q/575246/101)
 - [O que é um anti-pattern?](https://pt.stackoverflow.com/q/575315/101)
 - [O que significa um código ser cache friendly?](https://pt.stackoverflow.com/q/576379/101)
+- [Qual é o significado de "predicado" no contexto da computação?](https://pt.stackoverflow.com/q/579915/101)
