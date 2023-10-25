@@ -183,6 +183,7 @@
 - [Por que uma var do tipo double consegue armazenar uma do tipo int?](https://pt.stackoverflow.com/q/482238/101)
 - [Por que a expressão (double.MinValue == double.MinValue + 1) é verdadeira?](https://pt.stackoverflow.com/q/239180/101)
 - [Por que o unboxing só pode ser feito para o tipo que foi realizado o boxing anteriormente?](https://pt.stackoverflow.com/q/220870/101)
+- [Diferença de tipo primitivo e tipo simples em C#](https://pt.stackoverflow.com/q/583462/101)
 
 # Libraries
 
