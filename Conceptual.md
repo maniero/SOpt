@@ -193,6 +193,7 @@
 - [O que é duck typing?](https://pt.stackoverflow.com/q/574146/101)
 - [Quais as consequências de não trabalhar na tipagem de dados?](https://pt.stackoverflow.com/q/326847/101)
 - [O que são conversões Widening e Narrowing?](https://pt.stackoverflow.com/q/401500/101)
+- [O que é early binding e late binding?](https://pt.stackoverflow.com/q/577332/101)
 
 # Algorithms & Data Structure
 
