@@ -65,6 +65,7 @@
 - [Como o compilador sabe a diferença do tipo que estou usando no downcasting?](https://pt.stackoverflow.com/q/429577/101)
 - [Enumerações do Java são anti performáticas?](https://pt.stackoverflow.com/q/511706/101)
 - [Enum é expandido pelo compilador em uma declaração de classe?](https://pt.stackoverflow.com/q/170426/101)
+- [Por que precisa usar nomes como br.com.empresa.produto.etc como identificador?](https://pt.stackoverflow.com/q/577240/101)
 
 # Library
 
@@ -87,7 +88,7 @@
 - [Por que é necessário fechar arquivo?](https://pt.stackoverflow.com/q/259469/101)
 - [Onde a função está pegando o horário atual?](https://pt.stackoverflow.com/q/405852/101)
 
-# String & Collencions
+# String & Collections
 
 - [String e sua eficiência](http://pt.stackoverflow.com/q/16050/101)
 - [ArrayList x List](https://pt.stackoverflow.com/q/73633/101)
