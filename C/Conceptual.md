@@ -85,6 +85,7 @@
 - [Por que o endereçamento do malloc() é diferente da stack?](https://pt.stackoverflow.com/q/581658/101)
 - [Por que não dá segmentation fault quando escrevo num "char *" sem alocar memória?](https://pt.stackoverflow.com/q/125387/101)
 - [Onde os dados são colocados na memória em C?](https://pt.stackoverflow.com/q/575039/101)
+- [Vetores e estruturas tem sempre endereços contínuos?](https://pt.stackoverflow.com/q/394482/101)
 
 # Algorithm
 
