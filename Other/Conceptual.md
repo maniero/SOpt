@@ -14,3 +14,4 @@
 - [Proposta do Clojure?](https://pt.stackoverflow.com/q/146462/101)
 - [Qual é a finalidade do ? (ponto de interrogação) ao chamar uma função em Elixir?](https://pt.stackoverflow.com/q/470244/101)
 - [O que é a linguagem de programação Nim?](https://pt.stackoverflow.com/q/556753/101)
+- [O que é a linguagem V (Vlang)?](https://pt.stackoverflow.com/q/587592/101)
