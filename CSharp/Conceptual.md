@@ -143,6 +143,7 @@
 - [É correto chamar um método, e passar seus parametros null?](https://pt.stackoverflow.com/q/215845/101)
 - [A palavra-chave "async" realmente faz o método assíncrono?](https://pt.stackoverflow.com/q/168186/101)
 - [Por que usar modificadores de parâmetros?](https://pt.stackoverflow.com/q/395571/101)
+- [Como garantir que um método seja inline em C#?](https://pt.stackoverflow.com/q/579480/101)
 
 # Memory Managemnent
 
