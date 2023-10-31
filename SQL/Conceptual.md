@@ -67,6 +67,7 @@
 - [Persistir todos os dados como string é um problema?](https://pt.stackoverflow.com/q/45213/101)
 - [Como armazenar endereço em um banco de dados ou objetos em aplicações?](https://pt.stackoverflow.com/q/581021/101)
 - [Qual o melhor tipo para armazenar área, volume e perímetro?](https://pt.stackoverflow.com/q/257150/101)
+- [Existe algum problema em usar arrays em um banco de dados?](https://pt.stackoverflow.com/q/582602/101)
 
 # SQL
 
