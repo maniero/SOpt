@@ -475,3 +475,4 @@
 - [O que significa um código ser cache friendly?](https://pt.stackoverflow.com/q/576379/101)
 - [Qual é o significado de "predicado" no contexto da computação?](https://pt.stackoverflow.com/q/579915/101)
 - [O que é um chrome?](https://pt.stackoverflow.com/q/582473/101)
+- [Tem diferença entre checksum e hashcode?](https://pt.stackoverflow.com/q/580167/101)
