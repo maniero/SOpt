@@ -476,3 +476,4 @@
 - [Qual é o significado de "predicado" no contexto da computação?](https://pt.stackoverflow.com/q/579915/101)
 - [O que é um chrome?](https://pt.stackoverflow.com/q/582473/101)
 - [Tem diferença entre checksum e hashcode?](https://pt.stackoverflow.com/q/580167/101)
+- [O que é zero copy?](https://pt.stackoverflow.com/q/582709/101)
