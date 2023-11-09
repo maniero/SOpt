@@ -102,6 +102,7 @@
 - [O que é o travamento otimista e pessimista?](https://pt.stackoverflow.com/q/576147/101)
 - [É possível colocar um arquivo HMTL dentro do banco de dados?](https://pt.stackoverflow.com/q/339307/101)
 - [Quais as vantagens e desvantagens de usar uma coluna VARCHAR como chave de índice?](https://pt.stackoverflow.com/q/582221/101)
+- [O que é um covered index?](https://pt.stackoverflow.com/q/581856/101)
 
 # MySQL
 
