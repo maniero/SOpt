@@ -54,6 +54,7 @@
 - [Union e struct podem ser consideradas operadores?](https://pt.stackoverflow.com/q/358087/101)
 - [O que são esses membros complexos dentro de uma struct?](https://pt.stackoverflow.com/q/366867/101)
 - [Por que isto funciona? ponteiroa = (struct a *)&b;](https://pt.stackoverflow.com/q/330867/101)
+- [Qual a diferença da diretiva do pré-processador e a declaração if?](https://pt.stackoverflow.com/q/488604/101)
 
 # Pointer & Memory
 
