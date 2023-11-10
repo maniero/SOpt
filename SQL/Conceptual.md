@@ -254,6 +254,7 @@
 - [O que é sharding?](https://pt.stackoverflow.com/q/575403/101)
 - [O que é uma página em um banco de dados?](https://pt.stackoverflow.com/q/582172/101)
 - [O que é o vacuum?](https://pt.stackoverflow.com/q/582416/101)
+- [Qual a diferença entre papéis (roles) e grupos (groups)?](https://pt.stackoverflow.com/q/582538/101)
 
 # NoSQL
 
