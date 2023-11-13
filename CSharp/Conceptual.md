@@ -244,6 +244,7 @@
 - [Por que char.Parse(string) retorna um número?](https://pt.stackoverflow.com/q/456397/101)
 - [Como escolher o tipo de data mais adequado no código?](https://pt.stackoverflow.com/q/580095/101)
 - [Tem como ser notificado que haverá um coleta de lixo?](https://pt.stackoverflow.com/q/203095/101)
+- [Quais as diferenças entres as formas de comparação de strings do C#?](https://pt.stackoverflow.com/q/581272/101)
 
 # IO
 
