@@ -76,7 +76,8 @@
 - [O que são considerados operadores nas linguagem de programação?](https://pt.stackoverflow.com/q/412967/101)
 - [A que ponto sintaxes em linguagens de programação tornam-se importantes?](https://pt.stackoverflow.com/q/399181/101)
 - [Um método estático é realmente um método?](https://pt.stackoverflow.com/q/581938/101)
-- - [Para fazer uma otimização extrema, x < 11 é mais eficiente que x <= 10?](https://pt.stackoverflow.com/q/576224/101)
+- [Para fazer uma otimização extrema, x < 11 é mais eficiente que x <= 10?](https://pt.stackoverflow.com/q/576224/101)
+- [Como diferentes linguagens de programação se comunicam?](https://pt.stackoverflow.com/q/587805/101)
 
 # Coding Style
 
