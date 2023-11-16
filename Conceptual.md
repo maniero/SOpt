@@ -21,6 +21,7 @@
 - [Qual o conceito de máquina virtual? Quais são os pontos positivos e negativos?](https://pt.stackoverflow.com/q/332789/101)
 - [Como surgiu a CLI (command-line interface) e qual foi essa necessidade?](https://pt.stackoverflow.com/q/311957/101)
 - [Quem faz os cálculos aritméticos é o compilador, algum outro componente, ou varia conforme a linguagem?](https://pt.stackoverflow.com/q/538154/101)
+- [O que é lowering e desugar?](https://pt.stackoverflow.com/q/575689/101)
 
 # Languages
 
