@@ -83,6 +83,7 @@
 - [Expression-bodied é recomendado? Tem diferença de performance?](https://pt.stackoverflow.com/q/323662/101)
 - [Quando devo usar ref ou tuplas no C#?](https://pt.stackoverflow.com/q/584710/101)
 - [Como funciona o modificador "file"?](https://pt.stackoverflow.com/q/574694/101)
+- [Lock trava a referência ou o objeto?](https://pt.stackoverflow.com/q/583145/101)
 
 # OOP
 
