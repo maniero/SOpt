@@ -79,6 +79,7 @@
 - [Um método estático é realmente um método?](https://pt.stackoverflow.com/q/581938/101)
 - [Para fazer uma otimização extrema, x < 11 é mais eficiente que x <= 10?](https://pt.stackoverflow.com/q/576224/101)
 - [Como diferentes linguagens de programação se comunicam?](https://pt.stackoverflow.com/q/587805/101)
+- [Qual é a diferença entre um decorator, atributo, aspecto e trait?](https://pt.stackoverflow.com/q/580315/101)
 
 # Coding Style
 
