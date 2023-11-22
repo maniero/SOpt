@@ -68,6 +68,7 @@
 - [Como armazenar endereço em um banco de dados ou objetos em aplicações?](https://pt.stackoverflow.com/q/581021/101)
 - [Qual o melhor tipo para armazenar área, volume e perímetro?](https://pt.stackoverflow.com/q/257150/101)
 - [Existe algum problema em usar arrays em um banco de dados?](https://pt.stackoverflow.com/q/582602/101)
+- [Qual a maneira correta de ter campos definidos por usuários em um banco de dados?](https://pt.stackoverflow.com/q/580597/101)
 
 # SQL
 
