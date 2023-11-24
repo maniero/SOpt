@@ -84,6 +84,7 @@
 - [Quando devo usar ref ou tuplas no C#?](https://pt.stackoverflow.com/q/584710/101)
 - [Como funciona o modificador "file"?](https://pt.stackoverflow.com/q/574694/101)
 - [Lock trava a referência ou o objeto?](https://pt.stackoverflow.com/q/583145/101)
+- [O que significam os nomes gerados internamente pelo compilador?](https://pt.stackoverflow.com/q/580531/101)
 
 # OOP
 
